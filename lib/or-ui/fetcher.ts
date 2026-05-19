@@ -1,10 +1,31 @@
 import type {
   ApiError,
   HealthResponse,
+  HospitalCapacity,
   HospitalsResponse,
+  MissingActiveCapacity,
   OrParameters,
   RecommendationResponse,
 } from "./types";
+
+export type CapacityRefreshResponse = {
+  generated_at: string;
+  counts: {
+    districts_requested: number;
+    live_rows: number;
+    active_joined_rows: number;
+    active_without_live_capacity: number;
+  };
+  rows: HospitalCapacity[];
+  missingActiveCapacity: MissingActiveCapacity[];
+  fetchLog: Array<{
+    requested_district: string;
+    result_code: string;
+    result_msg: string;
+    total_count: number;
+    returned_items: number;
+  }>;
+};
 
 async function jsonFetch<T>(input: RequestInfo, init?: RequestInit): Promise<T> {
   const res = await fetch(input, {
@@ -54,5 +75,12 @@ export function runRecommendation(
   return jsonFetch<RecommendationResponse>("/api/or/recommendations", {
     method: "POST",
     body: JSON.stringify(payload),
+  });
+}
+
+export function refreshCapacity(district?: string): Promise<CapacityRefreshResponse> {
+  return jsonFetch<CapacityRefreshResponse>("/api/or/capacity/refresh", {
+    method: "POST",
+    body: JSON.stringify(district ? { district } : {}),
   });
 }

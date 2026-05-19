@@ -1,7 +1,11 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
-import { fetchHospitals } from "@/lib/or-ui/fetcher";
+import { useCallback, useEffect, useMemo, useState } from "react";
+import {
+  fetchHospitals,
+  refreshCapacity,
+  type CapacityRefreshResponse,
+} from "@/lib/or-ui/fetcher";
 import type {
   BedBufferTier,
   HospitalCandidate,
@@ -13,6 +17,11 @@ import { bedBufferLabel, hospitalLevelLabel } from "@/lib/or-ui/labels";
 import { bedBufferTierStyle, tierOrder } from "@/lib/or-ui/tiers";
 import { fmtRelative, nullableBoolLabel } from "@/lib/or-ui/format";
 import { Pill } from "./atoms";
+
+type RefreshState =
+  | { kind: "idle" }
+  | { kind: "refreshing"; scope: "all" | string; startedAt: number }
+  | { kind: "error"; message: string };
 
 type LoadState =
   | { kind: "idle" }
@@ -36,6 +45,31 @@ export function HospitalDrawer({
   const [filterCt, setFilterCt] = useState<boolean>(false);
   const [filterFeasible, setFilterFeasible] = useState<boolean>(false);
   const [query, setQuery] = useState<string>("");
+  const [refreshState, setRefreshState] = useState<RefreshState>({ kind: "idle" });
+  const [lastRefreshedAt, setLastRefreshedAt] = useState<string | null>(null);
+
+  const refreshScope: "all" | string =
+    filterDistrict !== "all" ? filterDistrict : "all";
+
+  const handleRefresh = useCallback(async () => {
+    if (state.kind !== "ok") return;
+    const scope = refreshScope;
+    setRefreshState({ kind: "refreshing", scope, startedAt: Date.now() });
+    try {
+      const response = await refreshCapacity(scope === "all" ? undefined : scope);
+      const refreshedDistricts =
+        scope === "all"
+          ? new Set(state.data.candidates.map((c) => c.hospital.district))
+          : new Set([scope]);
+      const next = mergeRefreshIntoState(state.data, response, refreshedDistricts);
+      setState({ kind: "ok", data: next });
+      setLastRefreshedAt(response.generated_at);
+      setRefreshState({ kind: "idle" });
+    } catch (err) {
+      const message = err instanceof Error ? err.message : "unknown error";
+      setRefreshState({ kind: "error", message });
+    }
+  }, [refreshScope, state]);
 
   useEffect(() => {
     if (!open) return;
@@ -100,6 +134,13 @@ export function HospitalDrawer({
             ) : null}
           </div>
           <div className="flex items-center gap-2">
+            <RefreshControl
+              scope={refreshScope}
+              state={refreshState}
+              lastRefreshedAt={lastRefreshedAt}
+              disabled={state.kind !== "ok"}
+              onRefresh={handleRefresh}
+            />
             <ModeSwitch value={mode} onChange={setMode} />
             <button
               type="button"
@@ -436,4 +477,126 @@ function Centered({ children, danger = false }: { children: React.ReactNode; dan
       {children}
     </div>
   );
+}
+
+function RefreshControl({
+  scope,
+  state,
+  lastRefreshedAt,
+  disabled,
+  onRefresh,
+}: {
+  scope: "all" | string;
+  state: RefreshState;
+  lastRefreshedAt: string | null;
+  disabled: boolean;
+  onRefresh: () => void;
+}) {
+  const refreshing = state.kind === "refreshing";
+  const scopeLabel = scope === "all" ? "전체 25개 자치구" : scope;
+  return (
+    <div className="flex items-center gap-2">
+      <div className="hidden flex-col items-end text-[10px] leading-tight md:flex">
+        {state.kind === "error" ? (
+          <span
+            className="max-w-[180px] truncate text-tier-infeasible"
+            title={state.message}
+          >
+            새로고침 실패
+          </span>
+        ) : refreshing ? (
+          <span className="mono text-ink-muted">
+            {scopeLabel} · NEMC 호출 중…
+          </span>
+        ) : (
+          <>
+            <span className="text-ink-muted">scope · {scopeLabel}</span>
+            <span className="mono text-ink-faint">
+              {lastRefreshedAt ? `갱신 ${fmtRelative(lastRefreshedAt)}` : "스냅샷 (수동 갱신 전)"}
+            </span>
+          </>
+        )}
+      </div>
+      <button
+        type="button"
+        onClick={onRefresh}
+        disabled={refreshing || disabled}
+        className="inline-flex items-center gap-1.5 rounded-md border border-line bg-surface px-2.5 py-1 text-[11px] font-semibold text-ink hover:bg-surface-muted disabled:cursor-progress disabled:opacity-60"
+        title={
+          scope === "all"
+            ? "서울 25개 자치구를 NEMC API로 재호출 (느림 · 10-30초)"
+            : `${scope}만 NEMC API로 재호출`
+        }
+      >
+        {refreshing ? <Spinner /> : <RefreshIcon />}
+        <span>Refresh live</span>
+      </button>
+    </div>
+  );
+}
+
+function RefreshIcon() {
+  return (
+    <svg viewBox="0 0 16 16" className="h-3 w-3" fill="none" stroke="currentColor" strokeWidth="1.8" aria-hidden>
+      <path d="M13.5 3v3.5H10" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M2.5 13V9.5H6" strokeLinecap="round" strokeLinejoin="round" />
+      <path
+        d="M12.5 6.5A5 5 0 0 0 4 5M3.5 9.5A5 5 0 0 0 12 11"
+        strokeLinecap="round"
+      />
+    </svg>
+  );
+}
+
+function Spinner() {
+  return (
+    <span
+      className="inline-block h-3 w-3 animate-spin rounded-full border-2 border-accent/30 border-t-accent"
+      aria-hidden
+    />
+  );
+}
+
+// Merge NEMC refresh response into the current drawer state. Only candidates
+// whose district was actually refreshed have their capacity overwritten;
+// candidates outside the scope keep their previous capacity to avoid wiping
+// data we didn't re-query.
+function mergeRefreshIntoState(
+  current: HospitalsResponse,
+  response: CapacityRefreshResponse,
+  refreshedDistricts: Set<string>,
+): HospitalsResponse {
+  const freshById = new Map(response.rows.map((row) => [row.hospital_id, row]));
+
+  const nextCandidates: HospitalCandidate[] = current.candidates.map((cand) => {
+    if (!refreshedDistricts.has(cand.hospital.district)) return cand;
+    const fresh = freshById.get(cand.hospital.hospital_id);
+    if (fresh) {
+      return { ...cand, capacity: fresh };
+    }
+    // Hospital was in scope but missing from the refresh — it lost live status.
+    if (current.mode === "live") {
+      // In live mode, candidates without capacity shouldn't appear.
+      return { ...cand, capacity: undefined as never };
+    }
+    return { ...cand, capacity: undefined };
+  });
+
+  const filteredCandidates =
+    current.mode === "live"
+      ? nextCandidates.filter((c) => c.capacity)
+      : nextCandidates;
+
+  const preservedMissing = current.missingActiveCapacity.filter(
+    (m) => !refreshedDistricts.has(m.district),
+  );
+  const freshMissing = response.missingActiveCapacity.filter((m) =>
+    refreshedDistricts.has(m.district),
+  );
+
+  return {
+    ...current,
+    candidates: filteredCandidates,
+    missingActiveCapacity: [...preservedMissing, ...freshMissing],
+  };
 }
