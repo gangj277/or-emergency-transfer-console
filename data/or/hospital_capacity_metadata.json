@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-05-18T14:53:42.486Z",
+  "source": {
+    "name": "국립중앙의료원_전국 응급의료기관 정보 조회 서비스",
+    "endpoint": "https://apis.data.go.kr/B552657/ErmctInfoInqireService/getEmrrmRltmUsefulSckbdInfoInqire",
+    "stage1": "서울특별시",
+    "districts_requested": [
+      "강남구",
+      "강동구",
+      "강북구",
+      "강서구",
+      "관악구",
+      "광진구",
+      "구로구",
+      "금천구",
+      "노원구",
+      "도봉구",
+      "동대문구",
+      "동작구",
+      "마포구",
+      "서대문구",
+      "서초구",
+      "성동구",
+      "성북구",
+      "송파구",
+      "양천구",
+      "영등포구",
+      "용산구",
+      "은평구",
+      "종로구",
+      "중구",
+      "중랑구"
+    ],
+    "data_format": "XML",
+    "update_cycle": "real-time",
+    "source_key_env": "NEMC_SERVICE_KEY"
+  },
+  "counts": {
+    "districts_requested": 25,
+    "live_rows": 51,
+    "joined_active_hospital_rows": 51,
+    "unmatched_live_rows": 0,
+    "active_hospitals_without_live_capacity": 23
+  },
+  "caveats": [
+    "This is a point-in-time live snapshot. Re-run npm run capacity to refresh.",
+    "Duty doctor names and direct duty-contact fields are intentionally not persisted because the OR model only needs capacity/resource status.",
+    "Rows are joined to the static active hospital master by HPID/hospital_id."
+  ]
+}

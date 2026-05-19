@@ -1,26 +1,139 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --canvas: #f4f4f1;
+  --surface: #ffffff;
+  --surface-muted: #f9f9f6;
+  --surface-sunken: #efeeea;
+  --ink: #131418;
+  --ink-soft: #3d4148;
+  --ink-muted: #6a6f78;
+  --ink-faint: #9ea3ad;
+  --line: #e3e2dc;
+  --line-strong: #cfcec7;
+
+  --accent: #1f4ed8;
+  --accent-soft: #e0e7ff;
+  --accent-ink: #122a8f;
+
+  --tier-stable: #15803d;
+  --tier-stable-soft: #dcfce7;
+  --tier-low: #047857;
+  --tier-low-soft: #d1fae5;
+  --tier-medium: #b45309;
+  --tier-medium-soft: #fef3c7;
+  --tier-high: #c2410c;
+  --tier-high-soft: #ffedd5;
+  --tier-infeasible: #b91c1c;
+  --tier-infeasible-soft: #fee2e2;
+  --tier-unknown: #57534e;
+  --tier-unknown-soft: #e7e5e4;
+
+  --danger: #b91c1c;
+  --warn: #b45309;
+  --ok: #15803d;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-canvas: var(--canvas);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-surface-sunken: var(--surface-sunken);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-muted: var(--ink-muted);
+  --color-ink-faint: var(--ink-faint);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-accent-ink: var(--accent-ink);
+  --color-tier-stable: var(--tier-stable);
+  --color-tier-stable-soft: var(--tier-stable-soft);
+  --color-tier-low: var(--tier-low);
+  --color-tier-low-soft: var(--tier-low-soft);
+  --color-tier-medium: var(--tier-medium);
+  --color-tier-medium-soft: var(--tier-medium-soft);
+  --color-tier-high: var(--tier-high);
+  --color-tier-high-soft: var(--tier-high-soft);
+  --color-tier-infeasible: var(--tier-infeasible);
+  --color-tier-infeasible-soft: var(--tier-infeasible-soft);
+  --color-tier-unknown: var(--tier-unknown);
+  --color-tier-unknown-soft: var(--tier-unknown-soft);
+  --color-danger: var(--danger);
+  --color-warn: var(--warn);
+  --color-ok: var(--ok);
+  --font-sans: "Geist", "Geist Fallback", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+html,
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--canvas);
+  color: var(--ink);
+  font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  font-feature-settings: "ss01", "cv11";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Operational console keeps a single light theme even when the OS is dark — the
+   spec prescribes a Seoul EMS off-white surface, and dark-mode flip would
+   destroy the tier color semantics that downstream components rely on. */
+
+.mono {
+  font-family: var(--font-geist-mono), ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.005em;
+}
+
+.num {
+  font-family: var(--font-geist-mono), ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(to right, color-mix(in oklab, var(--line) 55%, transparent) 1px, transparent 1px),
+    linear-gradient(to bottom, color-mix(in oklab, var(--line) 55%, transparent) 1px, transparent 1px);
+  background-size: 28px 28px;
+  background-position: -1px -1px;
+}
+
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: var(--line-strong) transparent;
+}
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: var(--line-strong);
+  border-radius: 999px;
+}
+
+@keyframes or-pulse {
+  0%, 100% { opacity: 0.45; }
+  50% { opacity: 1; }
+}
+.or-pulse {
+  animation: or-pulse 1.4s ease-in-out infinite;
+}
+
+@keyframes or-stage-bar {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+.or-stage-bar::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    color-mix(in oklab, var(--accent) 35%, transparent),
+    transparent
+  );
+  animation: or-stage-bar 1.6s ease-in-out infinite;
 }

@@ -1,0 +1,77 @@
+hospital_id,hospital_name,seoul_emergency_level_raw,egen_present,egen_emergency_level_raw,active_for_or,note
+A1100011,가톨릭대학교여의도성모병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1121013,가톨릭대학교은평성모병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100047,강남고려병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100141,강남베드로병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100076,강남힐병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100043,강동경희대학교병원,권역응급의료센터,true,권역응급의료센터,true,matched
+A1100006,강북삼성병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1121842,강북으뜸병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1117285,강서케이병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1125429,강철병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100002,건국대학교병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100039,경찰병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100001,경희대학교병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100014,고려대학교의과대학부속구로병원,권역응급의료센터,true,권역응급의료센터,true,matched
+A1100026,구로성심병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100052,국립중앙의료원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1122033,기쁨병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1126226,낭만병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100048,노원을지대학교병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100044,녹색병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100037,대림성모병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1123234,더드림병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100024,명지성모병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100046,미즈메디병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100036,부민병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100148,사랑의병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100010,삼성서울병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100021,삼육서울병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100017,서울대학교병원,권역응급의료센터,true,권역응급의료센터,true,matched
+A1107402,서울대학교치과병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100050,서울성심병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100029,서울적십자병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100022,서울특별시동부병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100040,서울특별시보라매병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100223,서울특별시서남병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100035,서울특별시서울의료원,권역응급의료센터,true,권역응급의료센터,true,matched
+A1100172,서울현대병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100028,성심의료재단강동성심병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100054,성애의료재단성애병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100032,세란병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100004,순천향대학교부속서울병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100063,신촌연세병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100045,씨엠병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100015,연세대학교의과대학강남세브란스병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100007,연세대학교의과대학세브란스병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1120432,올바로병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100042,우리들병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100152,은평연세병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100025,의료법인동신의료재단동신병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100041,의료법인서울효천의료재단에이치플러스양지병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100030,의료법인성화의료재단대한병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100255,의료법인인봉의료재단영등포병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100023,의료법인청구성심병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100075,의료법인풍산의료재단동부제일병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100020,의료법인한전의료재단한일병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100005,이화여자대학교의과대학부속목동병원,권역응급의료센터,true,권역응급의료센터,true,matched
+A1120796,이화여자대학교의과대학부속서울병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100016,인제대학교상계백병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100033,인제대학교서울백병원,지역응급의료기관,false,,false,present_in_seoul_open_data_but_absent_from_current_egen_search
+A1100018,재단법인베스티안재단베스티안서울병원,응급실운영신고기관,false,,false,present_in_seoul_open_data_but_absent_from_current_egen_search
+A1122381,재단법인베스티안재단베스티안서울병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100009,재단법인아산사회복지재단서울아산병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100003,중앙대학교병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100057,차의과학대학교강남차병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1117070,최원호병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100012,학교법인가톨릭학원가톨릭대학교서울성모병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100008,학교법인고려중앙학원고려대학교의과대학부속병원(안암병원),권역응급의료센터,true,권역응급의료센터,true,matched
+A1100163,한강수병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100053,한국보훈복지의료공단중앙보훈병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100027,한국원자력의학원원자력병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100055,한림대학교강남성심병원,지역응급의료센터,true,지역응급의료센터,true,matched
+A1100038,한림대학교한강성심병원,응급실운영신고기관,true,응급의료기관 외의 의료기관(응급의료시설),true,level_label_diff
+A1100013,한양대학교병원,권역응급의료센터,true,권역응급의료센터,true,matched
+A1100051,혜민병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100019,홍익병원,지역응급의료기관,true,지역응급의료기관,true,matched
+A1100049,희명병원,지역응급의료기관,true,지역응급의료기관,true,matched

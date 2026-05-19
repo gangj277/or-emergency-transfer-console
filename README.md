@@ -1,36 +1,126 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# OR Emergency Transfer Demo App
 
-## Getting Started
+Next.js backend for the OR emergency-transfer team project.
 
-First, run the development server:
+It exposes:
+
+- two-stage LLM extraction: emergency transcript -> medical observations -> OR parameters
+- Seoul emergency hospital data: active candidates, live NEMC capacity candidates, missing-live candidates
+- NEMC live capacity refresh
+- capacity-buffer-aware hospital recommendation ranking from incident location and OR parameters
+
+## Setup
+
+```bash
+npm install
+cp .env.example .env.local
+```
+
+Set:
+
+```bash
+OPENROUTER_API_KEY=...
+OPENROUTER_MODEL=openai/gpt-5.4-mini
+NEMC_SERVICE_KEY=...
+```
+
+The local `.env.local` in this workspace is already configured and ignored by git.
+
+## Handoff
+
+- [Frontend designer handoff](docs/frontend-designer-handoff.md)
+
+## Run
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open `http://localhost:3000`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## API
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Health
 
-## Learn More
+```bash
+curl http://localhost:3000/api/or/health
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Hospitals
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+curl http://localhost:3000/api/or/hospitals?mode=live
+curl http://localhost:3000/api/or/hospitals?mode=active
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+`mode=live` returns the 51 primary candidates with NEMC live capacity.
+`mode=active` returns all 74 active candidates and flags the 23 candidates without live capacity.
 
-## Deploy on Vercel
+### Refresh NEMC Capacity
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```bash
+curl -X POST http://localhost:3000/api/or/capacity/refresh \
+  -H 'Content-Type: application/json' \
+  -d '{"district":"강남구"}'
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Omit `district` to refresh all Seoul districts.
+
+### LLM Extraction
+
+```bash
+curl -X POST http://localhost:3000/api/or/pipeline/extract \
+  -H 'Content-Type: application/json' \
+  -d '{"case_id":"DEMO-1","title":"demo","transcript":"119상황실: ..."}'
+```
+
+### Recommendation
+
+With precomputed OR parameters:
+
+```bash
+curl -X POST http://localhost:3000/api/or/recommendations \
+  -H 'Content-Type: application/json' \
+  -d '{
+    "incident_location": {"lat": 37.5665, "lon": 126.9780},
+    "or_parameters": {
+      "incident_type": "fall_head_injury",
+      "severity_level": 4,
+      "deterioration_risk": 4,
+      "vulnerability_level": 4,
+      "required_departments": ["emergency_medicine", "neurosurgery"],
+      "required_resources": ["ct", "trauma_resuscitation"],
+      "max_transport_time_min": 30,
+      "minimum_hospital_level": "local_center_or_above",
+      "or_notes": "demo"
+    },
+    "limit": 5
+  }'
+```
+
+With transcript input, omit `or_parameters` and include `case_id`, `title`, and `transcript`. The route will run the two-stage LLM pipeline first, then rank hospitals.
+
+The recommendation engine uses `capacity_buffer_v2`: `available_er_beds > 0` is a hard constraint, but positive beds are still risk-weighted. One or two available ER beds receive a large buffer-risk penalty, three to five receive a medium penalty, six to ten receive a low penalty, and more than ten is treated as a stable reserve. The penalty is amplified when estimated travel time leaves little slack against `max_transport_time_min`.
+
+## Data
+
+The migrated data lives in `data/or`:
+
+- `hospital_dim_active.{json,csv}`
+- `hospital_capability_active.{json,csv}`
+- `hospital_capacity_snapshot_active.{json,csv}`
+- `hospital_capacity_missing_active.{json,csv}`
+- `hospital_static_profile.{json,csv}`
+- `source_crosscheck.{json,csv}`
+- `test_transcripts.jsonl`
+- `expected_review.json`
+
+`hospital_static_profile` is currently a neutral HIRA-ready table because the current NEMC key is not authorized for HIRA hospital profile endpoints. Static doctor and bed counts are therefore not allowed to override live NEMC capacity until a matched HIRA profile is loaded.
+
+## Verification
+
+```bash
+npm test
+npm run lint
+npm run build
+```

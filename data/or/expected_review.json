@@ -1,0 +1,59 @@
+{
+  "cases": [
+    {
+      "case_id": "C001",
+      "must_observe": ["head impact", "temporary consciousness issue", "dizziness", "older adult", "mobility limitation"],
+      "expected_resources_any": ["ct"],
+      "expected_departments_any": ["emergency_medicine", "neurosurgery"],
+      "severity_min": 4,
+      "deterioration_min": 4,
+      "vulnerability_min": 4,
+      "max_transport_time_max": 20,
+      "minimum_hospital_levels_any": ["regional_center", "local_center_or_above"]
+    },
+    {
+      "case_id": "C002",
+      "must_observe": ["motorcycle crash", "leg deformity", "bleeding", "unable to move", "severe pain"],
+      "expected_resources_any": ["orthopedic_trauma", "surgery_capability", "xray"],
+      "expected_departments_any": ["emergency_medicine", "orthopedics"],
+      "severity_min": 3,
+      "deterioration_min": 3,
+      "vulnerability_min": 2,
+      "max_transport_time_max": 30,
+      "minimum_hospital_levels_any": ["regional_center", "local_center_or_above"]
+    },
+    {
+      "case_id": "C003",
+      "must_observe": ["stair fall", "pelvic pain", "back pain", "unable to stand", "no consciousness issue"],
+      "expected_resources_any": ["xray", "orthopedic_trauma"],
+      "expected_departments_any": ["emergency_medicine", "orthopedics"],
+      "severity_min": 3,
+      "deterioration_min": 2,
+      "vulnerability_min": 2,
+      "max_transport_time_max": 45,
+      "minimum_hospital_levels_any": ["local_center_or_above", "emergency_institution_ok"]
+    },
+    {
+      "case_id": "C004",
+      "must_observe": ["abdominal blunt trauma", "abdominal pain", "dizziness", "pale", "possible internal injury"],
+      "expected_resources_any": ["ct", "surgery_capability"],
+      "expected_departments_any": ["emergency_medicine", "general_surgery"],
+      "severity_min": 4,
+      "deterioration_min": 4,
+      "vulnerability_min": 2,
+      "max_transport_time_max": 20,
+      "minimum_hospital_levels_any": ["regional_center", "local_center_or_above"]
+    },
+    {
+      "case_id": "C005",
+      "must_observe": ["head impact", "anticoagulant", "older adult", "dizziness", "minor bleeding"],
+      "expected_resources_any": ["ct"],
+      "expected_departments_any": ["emergency_medicine", "neurosurgery"],
+      "severity_min": 3,
+      "deterioration_min": 3,
+      "vulnerability_min": 4,
+      "max_transport_time_max": 30,
+      "minimum_hospital_levels_any": ["local_center_or_above", "regional_center"]
+    }
+  ]
+}

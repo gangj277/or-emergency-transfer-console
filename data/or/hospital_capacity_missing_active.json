@@ -1,0 +1,232 @@
+[
+  {
+    "hospital_id": "A1100047",
+    "hpid": "A1100047",
+    "hospital_name": "강남고려병원",
+    "district": "관악구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100141",
+    "hpid": "A1100141",
+    "hospital_name": "강남베드로병원",
+    "district": "강남구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100076",
+    "hpid": "A1100076",
+    "hospital_name": "강남힐병원",
+    "district": "관악구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1121842",
+    "hpid": "A1121842",
+    "hospital_name": "강북으뜸병원",
+    "district": "강북구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1117285",
+    "hpid": "A1117285",
+    "hospital_name": "강서케이병원",
+    "district": "강서구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1125429",
+    "hpid": "A1125429",
+    "hospital_name": "강철병원",
+    "district": "송파구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1126226",
+    "hpid": "A1126226",
+    "hospital_name": "낭만병원",
+    "district": "동작구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1123234",
+    "hpid": "A1123234",
+    "hospital_name": "더드림병원",
+    "district": "강남구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100046",
+    "hpid": "A1100046",
+    "hospital_name": "미즈메디병원",
+    "district": "강서구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100148",
+    "hpid": "A1100148",
+    "hospital_name": "사랑의병원",
+    "district": "관악구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1107402",
+    "hpid": "A1107402",
+    "hospital_name": "서울대학교치과병원",
+    "district": "종로구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100172",
+    "hpid": "A1100172",
+    "hospital_name": "서울현대병원",
+    "district": "강북구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100063",
+    "hpid": "A1100063",
+    "hospital_name": "신촌연세병원",
+    "district": "마포구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1120432",
+    "hpid": "A1120432",
+    "hospital_name": "올바로병원",
+    "district": "서초구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100042",
+    "hpid": "A1100042",
+    "hospital_name": "우리들병원",
+    "district": "강서구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100152",
+    "hpid": "A1100152",
+    "hospital_name": "은평연세병원",
+    "district": "은평구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100030",
+    "hpid": "A1100030",
+    "hospital_name": "의료법인성화의료재단대한병원",
+    "district": "강북구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100255",
+    "hpid": "A1100255",
+    "hospital_name": "의료법인인봉의료재단영등포병원",
+    "district": "영등포구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1122381",
+    "hpid": "A1122381",
+    "hospital_name": "재단법인베스티안재단베스티안서울병원",
+    "district": "성동구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100057",
+    "hpid": "A1100057",
+    "hospital_name": "차의과학대학교강남차병원",
+    "district": "강남구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1117070",
+    "hpid": "A1117070",
+    "hospital_name": "최원호병원",
+    "district": "은평구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100163",
+    "hpid": "A1100163",
+    "hospital_name": "한강수병원",
+    "district": "영등포구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  },
+  {
+    "hospital_id": "A1100038",
+    "hpid": "A1100038",
+    "hospital_name": "한림대학교한강성심병원",
+    "district": "영등포구",
+    "emergency_level_raw": "응급실운영신고기관",
+    "current_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "emergency_level_model": "emergency_institution_ok",
+    "capacity_missing_reason": "absent_from_nemc_live_capacity_response"
+  }
+]

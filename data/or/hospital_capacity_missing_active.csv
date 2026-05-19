@@ -1,0 +1,24 @@
+hospital_id,hpid,hospital_name,district,emergency_level_raw,current_emergency_level_raw,emergency_level_model,capacity_missing_reason
+A1100047,A1100047,강남고려병원,관악구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100141,A1100141,강남베드로병원,강남구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100076,A1100076,강남힐병원,관악구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1121842,A1121842,강북으뜸병원,강북구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1117285,A1117285,강서케이병원,강서구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1125429,A1125429,강철병원,송파구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1126226,A1126226,낭만병원,동작구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1123234,A1123234,더드림병원,강남구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100046,A1100046,미즈메디병원,강서구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100148,A1100148,사랑의병원,관악구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1107402,A1107402,서울대학교치과병원,종로구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100172,A1100172,서울현대병원,강북구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100063,A1100063,신촌연세병원,마포구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1120432,A1120432,올바로병원,서초구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100042,A1100042,우리들병원,강서구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100152,A1100152,은평연세병원,은평구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100030,A1100030,의료법인성화의료재단대한병원,강북구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100255,A1100255,의료법인인봉의료재단영등포병원,영등포구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1122381,A1122381,재단법인베스티안재단베스티안서울병원,성동구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100057,A1100057,차의과학대학교강남차병원,강남구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1117070,A1117070,최원호병원,은평구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100163,A1100163,한강수병원,영등포구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response
+A1100038,A1100038,한림대학교한강성심병원,영등포구,응급실운영신고기관,응급의료기관 외의 의료기관(응급의료시설),emergency_institution_ok,absent_from_nemc_live_capacity_response

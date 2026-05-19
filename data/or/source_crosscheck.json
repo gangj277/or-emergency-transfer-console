@@ -1,0 +1,686 @@
+[
+  {
+    "hospital_id": "A1100011",
+    "hospital_name": "가톨릭대학교여의도성모병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1121013",
+    "hospital_name": "가톨릭대학교은평성모병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100047",
+    "hospital_name": "강남고려병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100141",
+    "hospital_name": "강남베드로병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100076",
+    "hospital_name": "강남힐병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100043",
+    "hospital_name": "강동경희대학교병원",
+    "seoul_emergency_level_raw": "권역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "권역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100006",
+    "hospital_name": "강북삼성병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1121842",
+    "hospital_name": "강북으뜸병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1117285",
+    "hospital_name": "강서케이병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1125429",
+    "hospital_name": "강철병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100002",
+    "hospital_name": "건국대학교병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100039",
+    "hospital_name": "경찰병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100001",
+    "hospital_name": "경희대학교병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100014",
+    "hospital_name": "고려대학교의과대학부속구로병원",
+    "seoul_emergency_level_raw": "권역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "권역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100026",
+    "hospital_name": "구로성심병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100052",
+    "hospital_name": "국립중앙의료원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1122033",
+    "hospital_name": "기쁨병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1126226",
+    "hospital_name": "낭만병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100048",
+    "hospital_name": "노원을지대학교병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100044",
+    "hospital_name": "녹색병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100037",
+    "hospital_name": "대림성모병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1123234",
+    "hospital_name": "더드림병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100024",
+    "hospital_name": "명지성모병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100046",
+    "hospital_name": "미즈메디병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100036",
+    "hospital_name": "부민병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100148",
+    "hospital_name": "사랑의병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100010",
+    "hospital_name": "삼성서울병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100021",
+    "hospital_name": "삼육서울병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100017",
+    "hospital_name": "서울대학교병원",
+    "seoul_emergency_level_raw": "권역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "권역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1107402",
+    "hospital_name": "서울대학교치과병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100050",
+    "hospital_name": "서울성심병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100029",
+    "hospital_name": "서울적십자병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100022",
+    "hospital_name": "서울특별시동부병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100040",
+    "hospital_name": "서울특별시보라매병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100223",
+    "hospital_name": "서울특별시서남병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100035",
+    "hospital_name": "서울특별시서울의료원",
+    "seoul_emergency_level_raw": "권역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "권역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100172",
+    "hospital_name": "서울현대병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100028",
+    "hospital_name": "성심의료재단강동성심병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100054",
+    "hospital_name": "성애의료재단성애병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100032",
+    "hospital_name": "세란병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100004",
+    "hospital_name": "순천향대학교부속서울병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100063",
+    "hospital_name": "신촌연세병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100045",
+    "hospital_name": "씨엠병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100015",
+    "hospital_name": "연세대학교의과대학강남세브란스병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100007",
+    "hospital_name": "연세대학교의과대학세브란스병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1120432",
+    "hospital_name": "올바로병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100042",
+    "hospital_name": "우리들병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100152",
+    "hospital_name": "은평연세병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100025",
+    "hospital_name": "의료법인동신의료재단동신병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100041",
+    "hospital_name": "의료법인서울효천의료재단에이치플러스양지병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100030",
+    "hospital_name": "의료법인성화의료재단대한병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100255",
+    "hospital_name": "의료법인인봉의료재단영등포병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100023",
+    "hospital_name": "의료법인청구성심병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100075",
+    "hospital_name": "의료법인풍산의료재단동부제일병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100020",
+    "hospital_name": "의료법인한전의료재단한일병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100005",
+    "hospital_name": "이화여자대학교의과대학부속목동병원",
+    "seoul_emergency_level_raw": "권역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "권역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1120796",
+    "hospital_name": "이화여자대학교의과대학부속서울병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100016",
+    "hospital_name": "인제대학교상계백병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100033",
+    "hospital_name": "인제대학교서울백병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": false,
+    "egen_emergency_level_raw": "",
+    "active_for_or": false,
+    "note": "present_in_seoul_open_data_but_absent_from_current_egen_search"
+  },
+  {
+    "hospital_id": "A1100018",
+    "hospital_name": "재단법인베스티안재단베스티안서울병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": false,
+    "egen_emergency_level_raw": "",
+    "active_for_or": false,
+    "note": "present_in_seoul_open_data_but_absent_from_current_egen_search"
+  },
+  {
+    "hospital_id": "A1122381",
+    "hospital_name": "재단법인베스티안재단베스티안서울병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100009",
+    "hospital_name": "재단법인아산사회복지재단서울아산병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100003",
+    "hospital_name": "중앙대학교병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100057",
+    "hospital_name": "차의과학대학교강남차병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1117070",
+    "hospital_name": "최원호병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100012",
+    "hospital_name": "학교법인가톨릭학원가톨릭대학교서울성모병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100008",
+    "hospital_name": "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)",
+    "seoul_emergency_level_raw": "권역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "권역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100163",
+    "hospital_name": "한강수병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100053",
+    "hospital_name": "한국보훈복지의료공단중앙보훈병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100027",
+    "hospital_name": "한국원자력의학원원자력병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100055",
+    "hospital_name": "한림대학교강남성심병원",
+    "seoul_emergency_level_raw": "지역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100038",
+    "hospital_name": "한림대학교한강성심병원",
+    "seoul_emergency_level_raw": "응급실운영신고기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "응급의료기관 외의 의료기관(응급의료시설)",
+    "active_for_or": true,
+    "note": "level_label_diff"
+  },
+  {
+    "hospital_id": "A1100013",
+    "hospital_name": "한양대학교병원",
+    "seoul_emergency_level_raw": "권역응급의료센터",
+    "egen_present": true,
+    "egen_emergency_level_raw": "권역응급의료센터",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100051",
+    "hospital_name": "혜민병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100019",
+    "hospital_name": "홍익병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  },
+  {
+    "hospital_id": "A1100049",
+    "hospital_name": "희명병원",
+    "seoul_emergency_level_raw": "지역응급의료기관",
+    "egen_present": true,
+    "egen_emergency_level_raw": "지역응급의료기관",
+    "active_for_or": true,
+    "note": "matched"
+  }
+]
