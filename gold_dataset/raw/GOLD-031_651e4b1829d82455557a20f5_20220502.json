@@ -1,0 +1,365 @@
+{
+    "_id": "651e4b1829d82455557a20f5",
+    "audioPath": "20230925/Seoul/2022/20220502/converted_[20220502]-[WS1139956711].wav",
+    "recordId": "f1a84a02dcdc412938e2",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 84000,
+    "utterances": [
+        {
+            "id": "4c0e7c41",
+            "startAt": 269,
+            "endAt": 669,
+            "text": "탄소",
+            "speaker": 1
+        },
+        {
+            "id": "bbb19b86",
+            "startAt": 1789,
+            "endAt": 2759,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "f01af93f",
+            "startAt": 3063,
+            "endAt": 7495,
+            "text": "네, 안녕하세요, 노블레스 타워입니다. 여기 종합로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p4ukh3j3mpo",
+            "startAt": 7487,
+            "endAt": 8260,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e563833a",
+            "startAt": 8943,
+            "endAt": 9449,
+            "text": "종합로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_53t3gamch5",
+            "startAt": 9423,
+            "endAt": 10160,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ovag3210suo",
+            "startAt": 10369,
+            "endAt": 11005,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "f40fc9c6",
+            "startAt": 11012,
+            "endAt": 12150,
+            "text": "노블레스타워.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5cvkn5fgiuo",
+            "startAt": 12150,
+            "endAt": 13514,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "13860554",
+            "startAt": 14149,
+            "endAt": 15118,
+            "text": "노블레스타워.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vh9r48bj3jo",
+            "startAt": 15123,
+            "endAt": 16222,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nkko01vand8",
+            "startAt": 16550,
+            "endAt": 17277,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tmg7ebpbd3g",
+            "startAt": 17268,
+            "endAt": 18649,
+            "text": "예 어떤걸로 신고하셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ose7ssblcbo",
+            "startAt": 18640,
+            "endAt": 23540,
+            "text": "아, 어머니가 와상 환자신데 아버님이 어머니가 이상하다고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kv55i6nch9",
+            "startAt": 23716,
+            "endAt": 24043,
+            "text": "음.",
+            "speaker": 0
+        },
+        {
+            "id": "aa78fe15",
+            "startAt": 24039,
+            "endAt": 28149,
+            "text": "내려오셔서 말씀하시래. 금방 올라와 봤는데요, 어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o3hvm58js1o",
+            "startAt": 27070,
+            "endAt": 27479,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "6b001fce",
+            "startAt": 28783,
+            "endAt": 29953,
+            "text": "어때요? 숨을 안 쉬어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tjmf25sao5o",
+            "startAt": 30294,
+            "endAt": 31003,
+            "text": "글면은.",
+            "speaker": 0
+        },
+        {
+            "id": "d857b467",
+            "startAt": 30457,
+            "endAt": 32998,
+            "text": "숨은 급하게 쉬시는데.",
+            "speaker": 1
+        },
+        {
+            "id": "9a08382a",
+            "startAt": 33213,
+            "endAt": 33623,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hkkj0lniov",
+            "startAt": 33633,
+            "endAt": 35742,
+            "text": "119 빨리 오셔야 할 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ui6pnpbh6cg",
+            "startAt": 35060,
+            "endAt": 39223,
+            "text": "아니. 아니, 그니까 상황을 좀 알려주세요. 호흡곤란이 있는 거 뭐예요?",
+            "speaker": 0
+        },
+        {
+            "id": "1086d612",
+            "startAt": 36871,
+            "endAt": 41923,
+            "text": "아 아 아. 지금 호 예 호흡 곤란. 산소 포화도가 81.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mic5n6jpj6o",
+            "startAt": 40311,
+            "endAt": 41111,
+            "text": "호흡 곤란?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kup9q5rr098",
+            "startAt": 42732,
+            "endAt": 43486,
+            "text": "저기.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_abepmgofpeg",
+            "startAt": 44129,
+            "endAt": 44810,
+            "text": "하트레이트.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ajk9kfrdkto",
+            "startAt": 44750,
+            "endAt": 46350,
+            "text": "하트레이트가 165.",
+            "speaker": 1
+        },
+        {
+            "id": "a3971dab",
+            "startAt": 47466,
+            "endAt": 49126,
+            "text": "80 이고 뭐지?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k3spqckhqg8",
+            "startAt": 49295,
+            "endAt": 51631,
+            "text": "맥박 165 나온 상태고요.",
+            "speaker": 0
+        },
+        {
+            "id": "533fb0be",
+            "startAt": 50957,
+            "endAt": 53115,
+            "text": "예. 165, 168.",
+            "speaker": 1
+        },
+        {
+            "id": "68b86e40",
+            "startAt": 52345,
+            "endAt": 55669,
+            "text": "일단 기침 가래 기침 가래 코로나 관련 뭐 없죠?",
+            "speaker": 0
+        },
+        {
+            "id": "379ac80b",
+            "startAt": 54871,
+            "endAt": 56789,
+            "text": "아 그런 거 없었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "7112f6a7",
+            "startAt": 57026,
+            "endAt": 59516,
+            "text": "알겠어요, 그 뭐 지금 의식은 좀 어때요, 어머니?",
+            "speaker": 0
+        },
+        {
+            "id": "b54bf1a0",
+            "startAt": 60300,
+            "endAt": 63040,
+            "text": "의식이 없는 거 같애요. 불러도 대답이 없으셔.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u3gfbi82ebo",
+            "startAt": 61902,
+            "endAt": 62730,
+            "text": "의식이 없죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m4kvvgj1fo8",
+            "startAt": 63157,
+            "endAt": 63448,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "ad1f482c",
+            "startAt": 63444,
+            "endAt": 65790,
+            "text": "예, 숨 숨은 확실하게 쉬고 계신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_iefi795c2b",
+            "startAt": 63966,
+            "endAt": 64720,
+            "text": "어머니.",
+            "speaker": 1
+        },
+        {
+            "id": "682e3ac2",
+            "startAt": 66060,
+            "endAt": 66620,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "72028f4b",
+            "startAt": 66950,
+            "endAt": 69740,
+            "text": "알겠어요? 일단 차량 출동했으니까 전화 좀 받으세요.",
+            "speaker": 0
+        },
+        {
+            "id": "443e1a65",
+            "startAt": 70020,
+            "endAt": 72020,
+            "text": "예, 센세이션이 없는 거 같애요.",
+            "speaker": 1
+        },
+        {
+            "id": "03d06c24",
+            "startAt": 72717,
+            "endAt": 73477,
+            "text": "반응이 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "98ce7b0c",
+            "startAt": 74475,
+            "endAt": 74895,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "f24894d8",
+            "startAt": 75440,
+            "endAt": 78139,
+            "text": "아, 그니까 이 숨 숨은 지금 쉬고 있죠, 확실하게?",
+            "speaker": 0
+        },
+        {
+            "id": "c92f3011",
+            "startAt": 77817,
+            "endAt": 81055,
+            "text": "예 예 예, 떨어져요, 산소 포화도가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hbh5ik59528",
+            "startAt": 78764,
+            "endAt": 79982,
+            "text": "예 알겠어요. 떨.",
+            "speaker": 0
+        },
+        {
+            "id": "5ad3fc3b",
+            "startAt": 81335,
+            "endAt": 82835,
+            "text": "예 차는 출동했어요, 알겠어요.",
+            "speaker": 0
+        },
+        {
+            "id": "7108a6b4",
+            "startAt": 82961,
+            "endAt": 83701,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 성북구 종암동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "의식장애",
+        "호흡곤란"
+    ],
+    "triage": "응급증상"
+}

@@ -1,0 +1,5090 @@
+{
+  "generatedAt": "2026-05-21T02:13:24.127Z",
+  "scenarioCount": 40,
+  "tests": {
+    "penaltySensitivity": {
+      "summary": {
+        "testedGridCount": 30,
+        "maxChangedTopRecommendationCount": 18,
+        "highInstabilityGridCount": 0,
+        "highInstabilityThreshold": "40개 중 20개 이상 변경"
+      },
+      "rows": [
+        {
+          "bedScale": 0,
+          "resourceScale": 0,
+          "changedTopRecommendationCount": 9,
+          "changedTopRecommendationRate": 0.225,
+          "medianAdjustedTopBeds": 8,
+          "medianAdjustedTopTravelMin": 9,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 742.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 21,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 648.9
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 36,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 486
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_guro",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100055",
+                "hospitalName": "한림대학교강남성심병원",
+                "district": "영등포구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 38,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 135
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100037",
+                "hospitalName": "대림성모병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 39,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 153
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 0,
+          "resourceScale": 0.5,
+          "changedTopRecommendationCount": 13,
+          "changedTopRecommendationRate": 0.325,
+          "medianAdjustedTopBeds": 6,
+          "medianAdjustedTopTravelMin": 9,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 742.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_yeouido",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 240.55
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 261.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 21,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 648.9
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_yeouido",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 242.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 255.15
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 0,
+          "resourceScale": 1,
+          "changedTopRecommendationCount": 15,
+          "changedTopRecommendationRate": 0.375,
+          "medianAdjustedTopBeds": 6,
+          "medianAdjustedTopTravelMin": 9,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 742.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_yeouido",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 240.55
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 261.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 21,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 648.9
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_yeouido",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 242.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 255.15
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 0,
+          "resourceScale": 1.5,
+          "changedTopRecommendationCount": 17,
+          "changedTopRecommendationRate": 0.425,
+          "medianAdjustedTopBeds": 6,
+          "medianAdjustedTopTravelMin": 9,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 742.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_yeouido",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 240.55
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 261.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 21,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 648.9
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_yeouido",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 242.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 255.15
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 0,
+          "resourceScale": 2,
+          "changedTopRecommendationCount": 18,
+          "changedTopRecommendationRate": 0.45,
+          "medianAdjustedTopBeds": 6,
+          "medianAdjustedTopTravelMin": 9,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 742.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_yeouido",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 240.55
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 261.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 21,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 648.9
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_yeouido",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 242.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 255.15
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 0.5,
+          "resourceScale": 0,
+          "changedTopRecommendationCount": 5,
+          "changedTopRecommendationRate": 0.125,
+          "medianAdjustedTopBeds": 8,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 614.65
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_guro",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100055",
+                "hospitalName": "한림대학교강남성심병원",
+                "district": "영등포구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 38,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 135
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100037",
+                "hospitalName": "대림성모병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 39,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 153
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C005_hongdae",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 480.91
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 499.58
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C005_guro",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 16,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 379.5
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 20,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 391
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 0.5,
+          "resourceScale": 0.5,
+          "changedTopRecommendationCount": 6,
+          "changedTopRecommendationRate": 0.15,
+          "medianAdjustedTopBeds": 8,
+          "medianAdjustedTopTravelMin": 9,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 742.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_guro",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100055",
+                "hospitalName": "한림대학교강남성심병원",
+                "district": "영등포구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 38,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 135
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100037",
+                "hospitalName": "대림성모병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 39,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 153
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 703.98
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C005_hongdae",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 480.91
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 21,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 621
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 0.5,
+          "resourceScale": 1,
+          "changedTopRecommendationCount": 11,
+          "changedTopRecommendationRate": 0.275,
+          "medianAdjustedTopBeds": 6,
+          "medianAdjustedTopTravelMin": 9,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 742.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_yeouido",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 240.55
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 261.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100005",
+                "hospitalName": "이화여자대학교의과대학부속목동병원",
+                "district": "양천구",
+                "availableErBeds": 5,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 517.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_yeouido",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 242.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 255.15
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 0.5,
+          "resourceScale": 1.5,
+          "changedTopRecommendationCount": 14,
+          "changedTopRecommendationRate": 0.35,
+          "medianAdjustedTopBeds": 6,
+          "medianAdjustedTopTravelMin": 10,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 742.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_yeouido",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 240.55
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 261.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100005",
+                "hospitalName": "이화여자대학교의과대학부속목동병원",
+                "district": "양천구",
+                "availableErBeds": 5,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 517.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_yeouido",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 242.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 255.15
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 0.5,
+          "resourceScale": 2,
+          "changedTopRecommendationCount": 15,
+          "changedTopRecommendationRate": 0.375,
+          "medianAdjustedTopBeds": 6,
+          "medianAdjustedTopTravelMin": 10,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 9,
+                "timeSlackMin": 11,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 742.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_yeouido",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 240.55
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 261.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100014",
+                "hospitalName": "고려대학교의과대학부속구로병원",
+                "district": "구로구",
+                "availableErBeds": 4,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 467.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100005",
+                "hospitalName": "이화여자대학교의과대학부속목동병원",
+                "district": "양천구",
+                "availableErBeds": 5,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 517.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_yeouido",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 242.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 255.15
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 1,
+          "resourceScale": 0,
+          "changedTopRecommendationCount": 2,
+          "changedTopRecommendationRate": 0.05,
+          "medianAdjustedTopBeds": 8,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 614.65
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C005_hongdae",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 480.91
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 499.58
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 1,
+          "resourceScale": 0.5,
+          "changedTopRecommendationCount": 1,
+          "changedTopRecommendationRate": 0.025,
+          "medianAdjustedTopBeds": 8,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C005_hongdae",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 480.91
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 499.58
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 1,
+          "resourceScale": 1,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "medianAdjustedTopBeds": 8,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": []
+        },
+        {
+          "bedScale": 1,
+          "resourceScale": 1.5,
+          "changedTopRecommendationCount": 6,
+          "changedTopRecommendationRate": 0.15,
+          "medianAdjustedTopBeds": 8,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100005",
+                "hospitalName": "이화여자대학교의과대학부속목동병원",
+                "district": "양천구",
+                "availableErBeds": 5,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 517.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_yeouido",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 242.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 255.15
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_nowon",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 24,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 264.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 20,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 281.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_yeouido",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 259.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 275.23
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_nowon",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 283.77
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 306.25
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 1,
+          "resourceScale": 2,
+          "changedTopRecommendationCount": 8,
+          "changedTopRecommendationRate": 0.2,
+          "medianAdjustedTopBeds": 8,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C001_yeouido",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 240.55
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 261.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100005",
+                "hospitalName": "이화여자대학교의과대학부속목동병원",
+                "district": "양천구",
+                "availableErBeds": 5,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "medium_risk_3_5",
+                "totalCost": 517.5
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_yeouido",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 242.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 255.15
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_nowon",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 24,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 264.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 20,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 281.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_yeouido",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "여의도",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 259.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 13,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 275.23
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 1.5,
+          "resourceScale": 0,
+          "changedTopRecommendationCount": 2,
+          "changedTopRecommendationRate": 0.05,
+          "medianAdjustedTopBeds": 8,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C005_hongdae",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 480.91
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 499.58
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 1.5,
+          "resourceScale": 0.5,
+          "changedTopRecommendationCount": 1,
+          "changedTopRecommendationRate": 0.025,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 1.5,
+          "resourceScale": 1,
+          "changedTopRecommendationCount": 1,
+          "changedTopRecommendationRate": 0.025,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 1.5,
+          "resourceScale": 1.5,
+          "changedTopRecommendationCount": 3,
+          "changedTopRecommendationRate": 0.075,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_nowon",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 24,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 264.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 20,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 281.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_nowon",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 283.77
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 306.25
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 1.5,
+          "resourceScale": 2,
+          "changedTopRecommendationCount": 5,
+          "changedTopRecommendationRate": 0.125,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100004",
+                "hospitalName": "순천향대학교부속서울병원",
+                "district": "용산구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 24,
+                "timeSlackMin": 6,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 552.94
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_nowon",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 24,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 264.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 20,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 281.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_nowon",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 283.77
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 306.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C005_nowon",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100035",
+                "hospitalName": "서울특별시서울의료원",
+                "district": "중랑구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 22,
+                "timeSlackMin": 8,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 711.02
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100013",
+                "hospitalName": "한양대학교병원",
+                "district": "성동구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 30,
+                "timeSlackMin": 0,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 780.18
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 2,
+          "resourceScale": 0,
+          "changedTopRecommendationCount": 3,
+          "changedTopRecommendationRate": 0.075,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 512.35
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 2,
+          "resourceScale": 0.5,
+          "changedTopRecommendationCount": 3,
+          "changedTopRecommendationRate": 0.075,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 512.35
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 2,
+          "resourceScale": 1,
+          "changedTopRecommendationCount": 3,
+          "changedTopRecommendationRate": 0.075,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 512.35
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 2,
+          "resourceScale": 1.5,
+          "changedTopRecommendationCount": 6,
+          "changedTopRecommendationRate": 0.15,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 512.35
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_nowon",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 24,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 264.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 20,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 281.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_nowon",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 283.77
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 306.25
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 2,
+          "resourceScale": 2,
+          "changedTopRecommendationCount": 6,
+          "changedTopRecommendationRate": 0.15,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100004",
+                "hospitalName": "순천향대학교부속서울병원",
+                "district": "용산구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 24,
+                "timeSlackMin": 6,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 552.94
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_nowon",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 24,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 264.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 20,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 281.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_nowon",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 283.77
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 306.25
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 3,
+          "resourceScale": 0,
+          "changedTopRecommendationCount": 5,
+          "changedTopRecommendationRate": 0.125,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 512.35
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C005_guro",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 16,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 379.5
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 480.91
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 3,
+          "resourceScale": 0.5,
+          "changedTopRecommendationCount": 5,
+          "changedTopRecommendationRate": 0.125,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 512.35
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C005_guro",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 16,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 379.5
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 480.91
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 3,
+          "resourceScale": 1,
+          "changedTopRecommendationCount": 5,
+          "changedTopRecommendationRate": 0.125,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "baseTop": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 512.35
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C005_nowon",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100035",
+                "hospitalName": "서울특별시서울의료원",
+                "district": "중랑구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 22,
+                "timeSlackMin": 8,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 711.02
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100013",
+                "hospitalName": "한양대학교병원",
+                "district": "성동구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 30,
+                "timeSlackMin": 0,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 780.18
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 3,
+          "resourceScale": 1.5,
+          "changedTopRecommendationCount": 6,
+          "changedTopRecommendationRate": 0.15,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 512.35
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_nowon",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 24,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 264.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 20,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 281.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_nowon",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 283.77
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 10,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 306.25
+              },
+              "changed": true
+            }
+          ]
+        },
+        {
+          "bedScale": 3,
+          "resourceScale": 2,
+          "changedTopRecommendationCount": 7,
+          "changedTopRecommendationRate": 0.175,
+          "medianAdjustedTopBeds": 11,
+          "medianAdjustedTopTravelMin": 15,
+          "examples": [
+            {
+              "scenarioId": "C002_city_hall",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "서울시청",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 7,
+                "timeSlackMin": 23,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 287.35
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100004",
+                "hospitalName": "순천향대학교부속서울병원",
+                "district": "용산구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 11,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 438.75
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_hongdae",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 14,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 489.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100004",
+                "hospitalName": "순천향대학교부속서울병원",
+                "district": "용산구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 24,
+                "timeSlackMin": 6,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 552.94
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C002_nowon",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "노원",
+              "baseTop": {
+                "hospitalId": "A1100016",
+                "hospitalName": "인제대학교상계백병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 6,
+                "timeSlackMin": 24,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 264.85
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100048",
+                "hospitalName": "노원을지대학교병원",
+                "district": "노원구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 10,
+                "timeSlackMin": 20,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 281.25
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C003_hongdae",
+              "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 29,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 333
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 26,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 351
+              },
+              "changed": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "baseTop": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "adjustedTop": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 558.17
+              },
+              "changed": true
+            }
+          ]
+        }
+      ]
+    },
+    "transportProxyShock": {
+      "summary": {
+        "testedMultipliers": [
+          1.1,
+          1.2,
+          1.3,
+          1.5
+        ],
+        "exceededAtTwentyPercentShock": 2,
+        "tightAtTwentyPercentShock": 9,
+        "exceededAtThirtyPercentShock": 6
+      },
+      "rows": [
+        {
+          "travelMultiplier": 1.1,
+          "exceededTopRecommendationCount": 1,
+          "tightButStillFeasibleCount": 7,
+          "robustCount": 32,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "top": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 21,
+              "adjustedSlackMin": -1,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C001_jamsil",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "잠실역",
+              "top": {
+                "hospitalId": "A1100053",
+                "hospitalName": "한국보훈복지의료공단중앙보훈병원",
+                "district": "강동구",
+                "availableErBeds": 17,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 459.25
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 18,
+              "adjustedSlackMin": 2,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "top": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 16,
+              "adjustedSlackMin": 4,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C001_eunpyeong",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "은평구청",
+              "top": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 18,
+                "timeSlackMin": 2,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 1188
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 20,
+              "adjustedSlackMin": 0,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "top": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 18,
+              "adjustedSlackMin": 2,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C004_jamsil",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "잠실역",
+              "top": {
+                "hospitalId": "A1100053",
+                "hospitalName": "한국보훈복지의료공단중앙보훈병원",
+                "district": "강동구",
+                "availableErBeds": 17,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 409.15
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 18,
+              "adjustedSlackMin": 2,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C004_eunpyeong",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "은평구청",
+              "top": {
+                "hospitalId": "A1121013",
+                "hospitalName": "가톨릭대학교은평성모병원",
+                "district": "은평구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 15,
+                "timeSlackMin": 5,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 579.54
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 17,
+              "adjustedSlackMin": 3,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C005_gangnam",
+              "caseTitle": "경미 두부외상처럼 보이나 항응고제/고령 취약성",
+              "locationLabel": "강남역",
+              "top": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 24,
+                "timeSlackMin": 6,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 597.63
+              },
+              "maxTransportTimeMin": 30,
+              "adjustedTravelTimeMin": 27,
+              "adjustedSlackMin": 3,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            }
+          ]
+        },
+        {
+          "travelMultiplier": 1.2,
+          "exceededTopRecommendationCount": 2,
+          "tightButStillFeasibleCount": 9,
+          "robustCount": 29,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "top": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 23,
+              "adjustedSlackMin": -3,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C001_jamsil",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "잠실역",
+              "top": {
+                "hospitalId": "A1100053",
+                "hospitalName": "한국보훈복지의료공단중앙보훈병원",
+                "district": "강동구",
+                "availableErBeds": 17,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 459.25
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 20,
+              "adjustedSlackMin": 0,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "top": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 17,
+              "adjustedSlackMin": 3,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C001_eunpyeong",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "은평구청",
+              "top": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 18,
+                "timeSlackMin": 2,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 1188
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 22,
+              "adjustedSlackMin": -2,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C002_gangnam",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "강남역",
+              "top": {
+                "hospitalId": "A1100004",
+                "hospitalName": "순천향대학교부속서울병원",
+                "district": "용산구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 22,
+                "timeSlackMin": 8,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 507.94
+              },
+              "maxTransportTimeMin": 30,
+              "adjustedTravelTimeMin": 27,
+              "adjustedSlackMin": 3,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "top": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 20,
+              "adjustedSlackMin": 0,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C004_jamsil",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "잠실역",
+              "top": {
+                "hospitalId": "A1100053",
+                "hospitalName": "한국보훈복지의료공단중앙보훈병원",
+                "district": "강동구",
+                "availableErBeds": 17,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 409.15
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 20,
+              "adjustedSlackMin": 0,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C004_eunpyeong",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "은평구청",
+              "top": {
+                "hospitalId": "A1121013",
+                "hospitalName": "가톨릭대학교은평성모병원",
+                "district": "은평구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 15,
+                "timeSlackMin": 5,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 579.54
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 18,
+              "adjustedSlackMin": 2,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            }
+          ]
+        },
+        {
+          "travelMultiplier": 1.3,
+          "exceededTopRecommendationCount": 6,
+          "tightButStillFeasibleCount": 5,
+          "robustCount": 29,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "top": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 25,
+              "adjustedSlackMin": -5,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C001_jamsil",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "잠실역",
+              "top": {
+                "hospitalId": "A1100053",
+                "hospitalName": "한국보훈복지의료공단중앙보훈병원",
+                "district": "강동구",
+                "availableErBeds": 17,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 459.25
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 21,
+              "adjustedSlackMin": -1,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "top": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 19,
+              "adjustedSlackMin": 1,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C001_eunpyeong",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "은평구청",
+              "top": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 18,
+                "timeSlackMin": 2,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 1188
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 24,
+              "adjustedSlackMin": -4,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C002_gangnam",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "강남역",
+              "top": {
+                "hospitalId": "A1100004",
+                "hospitalName": "순천향대학교부속서울병원",
+                "district": "용산구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 22,
+                "timeSlackMin": 8,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 507.94
+              },
+              "maxTransportTimeMin": 30,
+              "adjustedTravelTimeMin": 29,
+              "adjustedSlackMin": 1,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "top": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 21,
+              "adjustedSlackMin": -1,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C004_jamsil",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "잠실역",
+              "top": {
+                "hospitalId": "A1100053",
+                "hospitalName": "한국보훈복지의료공단중앙보훈병원",
+                "district": "강동구",
+                "availableErBeds": 17,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 409.15
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 21,
+              "adjustedSlackMin": -1,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C004_eunpyeong",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "은평구청",
+              "top": {
+                "hospitalId": "A1121013",
+                "hospitalName": "가톨릭대학교은평성모병원",
+                "district": "은평구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 15,
+                "timeSlackMin": 5,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 579.54
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 20,
+              "adjustedSlackMin": 0,
+              "exceedsMaxTransportTime": false,
+              "tightAfterShock": true
+            }
+          ]
+        },
+        {
+          "travelMultiplier": 1.5,
+          "exceededTopRecommendationCount": 11,
+          "tightButStillFeasibleCount": 1,
+          "robustCount": 28,
+          "examples": [
+            {
+              "scenarioId": "C001_hongdae",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "홍대입구",
+              "top": {
+                "hospitalId": "A1100011",
+                "hospitalName": "가톨릭대학교여의도성모병원",
+                "district": "영등포구",
+                "availableErBeds": 11,
+                "estimatedTravelTimeMin": 19,
+                "timeSlackMin": 1,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 576.05
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 29,
+              "adjustedSlackMin": -9,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C001_jamsil",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "잠실역",
+              "top": {
+                "hospitalId": "A1100053",
+                "hospitalName": "한국보훈복지의료공단중앙보훈병원",
+                "district": "강동구",
+                "availableErBeds": 17,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 459.25
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 24,
+              "adjustedSlackMin": -4,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C001_guro",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "구로디지털단지",
+              "top": {
+                "hospitalId": "A1100054",
+                "hospitalName": "성애의료재단성애병원",
+                "district": "영등포구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 14,
+                "timeSlackMin": 6,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 464.06
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 21,
+              "adjustedSlackMin": -1,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C001_eunpyeong",
+              "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+              "locationLabel": "은평구청",
+              "top": {
+                "hospitalId": "A1100007",
+                "hospitalName": "연세대학교의과대학세브란스병원",
+                "district": "서대문구",
+                "availableErBeds": 1,
+                "estimatedTravelTimeMin": 18,
+                "timeSlackMin": 2,
+                "bedBufferTier": "high_risk_1_2",
+                "totalCost": 1188
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 27,
+              "adjustedSlackMin": -7,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C002_gangnam",
+              "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+              "locationLabel": "강남역",
+              "top": {
+                "hospitalId": "A1100004",
+                "hospitalName": "순천향대학교부속서울병원",
+                "district": "용산구",
+                "availableErBeds": 14,
+                "estimatedTravelTimeMin": 22,
+                "timeSlackMin": 8,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 507.94
+              },
+              "maxTransportTimeMin": 30,
+              "adjustedTravelTimeMin": 33,
+              "adjustedSlackMin": -3,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C004_hongdae",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "홍대입구",
+              "top": {
+                "hospitalId": "A1100006",
+                "hospitalName": "강북삼성병원",
+                "district": "종로구",
+                "availableErBeds": 6,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 553.27
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 24,
+              "adjustedSlackMin": -4,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C004_jamsil",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "잠실역",
+              "top": {
+                "hospitalId": "A1100053",
+                "hospitalName": "한국보훈복지의료공단중앙보훈병원",
+                "district": "강동구",
+                "availableErBeds": 17,
+                "estimatedTravelTimeMin": 16,
+                "timeSlackMin": 4,
+                "bedBufferTier": "stable_buffer_gt_10",
+                "totalCost": 409.15
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 24,
+              "adjustedSlackMin": -4,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            },
+            {
+              "scenarioId": "C004_eunpyeong",
+              "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+              "locationLabel": "은평구청",
+              "top": {
+                "hospitalId": "A1121013",
+                "hospitalName": "가톨릭대학교은평성모병원",
+                "district": "은평구",
+                "availableErBeds": 8,
+                "estimatedTravelTimeMin": 15,
+                "timeSlackMin": 5,
+                "bedBufferTier": "low_risk_6_10",
+                "totalCost": 579.54
+              },
+              "maxTransportTimeMin": 20,
+              "adjustedTravelTimeMin": 23,
+              "adjustedSlackMin": -3,
+              "exceedsMaxTransportTime": true,
+              "tightAfterShock": false
+            }
+          ]
+        }
+      ]
+    },
+    "llmParameterNoise": {
+      "summary": {
+        "testedVariantCount": 304,
+        "changedTopRecommendationCount": 5,
+        "changedTopRecommendationRate": 0.0164,
+        "noFeasibleCount": 25
+      },
+      "grouped": [
+        {
+          "variant": "중증도 1단계 낮춤",
+          "count": 40,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 3
+        },
+        {
+          "variant": "중증도 1단계 높임",
+          "count": 40,
+          "changedTopRecommendationCount": 1,
+          "changedTopRecommendationRate": 0.025,
+          "noFeasibleCount": 3
+        },
+        {
+          "variant": "악화위험 1단계 낮춤",
+          "count": 40,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 3
+        },
+        {
+          "variant": "악화위험 1단계 높임",
+          "count": 40,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 3
+        },
+        {
+          "variant": "취약성 1단계 낮춤",
+          "count": 40,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 3
+        },
+        {
+          "variant": "최대 이송시간 한 단계 축소",
+          "count": 40,
+          "changedTopRecommendationCount": 3,
+          "changedTopRecommendationRate": 0.075,
+          "noFeasibleCount": 9
+        },
+        {
+          "variant": "최대 이송시간 한 단계 확대",
+          "count": 40,
+          "changedTopRecommendationCount": 1,
+          "changedTopRecommendationRate": 0.025,
+          "noFeasibleCount": 0
+        },
+        {
+          "variant": "취약성 1단계 높임",
+          "count": 24,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 1
+        }
+      ],
+      "fragileExamples": [
+        {
+          "scenarioId": "C001_gangnam",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "강남역",
+          "variant": "중증도 1단계 낮춤",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_gangnam",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "강남역",
+          "variant": "중증도 1단계 높임",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_gangnam",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "강남역",
+          "variant": "악화위험 1단계 낮춤",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_gangnam",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "강남역",
+          "variant": "악화위험 1단계 높임",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_gangnam",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "강남역",
+          "variant": "취약성 1단계 낮춤",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_gangnam",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "강남역",
+          "variant": "최대 이송시간 한 단계 축소",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_hongdae",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "홍대입구",
+          "variant": "최대 이송시간 한 단계 축소",
+          "baseTop": {
+            "hospitalId": "A1100011",
+            "hospitalName": "가톨릭대학교여의도성모병원",
+            "district": "영등포구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 19,
+            "timeSlackMin": 1,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 576.05
+          },
+          "variantTop": {
+            "hospitalId": "A1100007",
+            "hospitalName": "연세대학교의과대학세브란스병원",
+            "district": "서대문구",
+            "availableErBeds": 1,
+            "estimatedTravelTimeMin": 9,
+            "timeSlackMin": 6,
+            "bedBufferTier": "high_risk_1_2",
+            "totalCost": 816.75
+          },
+          "changed": true,
+          "noFeasible": false
+        },
+        {
+          "scenarioId": "C001_jamsil",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "잠실역",
+          "variant": "최대 이송시간 한 단계 축소",
+          "baseTop": {
+            "hospitalId": "A1100053",
+            "hospitalName": "한국보훈복지의료공단중앙보훈병원",
+            "district": "강동구",
+            "availableErBeds": 17,
+            "estimatedTravelTimeMin": 16,
+            "timeSlackMin": 4,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 459.25
+          },
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_nowon",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "노원",
+          "variant": "중증도 1단계 낮춤",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_nowon",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "노원",
+          "variant": "중증도 1단계 높임",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_nowon",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "노원",
+          "variant": "악화위험 1단계 낮춤",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_nowon",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "노원",
+          "variant": "악화위험 1단계 높임",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        }
+      ]
+    },
+    "resourceExtractionNoise": {
+      "summary": {
+        "testedVariantCount": 168,
+        "changedTopRecommendationCount": 3,
+        "changedTopRecommendationRate": 0.0179,
+        "noFeasibleCount": 10
+      },
+      "grouped": [
+        {
+          "variant": "필수 자원 누락: CT",
+          "count": 24,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 3
+        },
+        {
+          "variant": "필수 자원 누락: 외상 소생",
+          "count": 8,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 2
+        },
+        {
+          "variant": "필수 자원 과잉 추가: 수술 가능성",
+          "count": 24,
+          "changedTopRecommendationCount": 2,
+          "changedTopRecommendationRate": 0.0833,
+          "noFeasibleCount": 2
+        },
+        {
+          "variant": "필수 자원 누락: 엑스레이",
+          "count": 16,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 0
+        },
+        {
+          "variant": "필수 자원 누락: 정형외과 외상 대응",
+          "count": 16,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 0
+        },
+        {
+          "variant": "필수 자원 누락: 수술 가능성",
+          "count": 16,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 1
+        },
+        {
+          "variant": "필수 자원 누락: 출혈 처치",
+          "count": 16,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 1
+        },
+        {
+          "variant": "필수 자원 과잉 추가: CT",
+          "count": 16,
+          "changedTopRecommendationCount": 0,
+          "changedTopRecommendationRate": 0,
+          "noFeasibleCount": 0
+        },
+        {
+          "variant": "필수 자원 과잉 추가: 외상 소생",
+          "count": 32,
+          "changedTopRecommendationCount": 1,
+          "changedTopRecommendationRate": 0.0313,
+          "noFeasibleCount": 1
+        }
+      ],
+      "fragileExamples": [
+        {
+          "scenarioId": "C001_gangnam",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "강남역",
+          "variant": "필수 자원 누락: CT",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_gangnam",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "강남역",
+          "variant": "필수 자원 누락: 외상 소생",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_gangnam",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "강남역",
+          "variant": "필수 자원 과잉 추가: 수술 가능성",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_nowon",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "노원",
+          "variant": "필수 자원 누락: CT",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_nowon",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "노원",
+          "variant": "필수 자원 누락: 외상 소생",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_nowon",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "노원",
+          "variant": "필수 자원 과잉 추가: 수술 가능성",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C001_guro",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "구로디지털단지",
+          "variant": "필수 자원 과잉 추가: 수술 가능성",
+          "baseTop": {
+            "hospitalId": "A1100054",
+            "hospitalName": "성애의료재단성애병원",
+            "district": "영등포구",
+            "availableErBeds": 6,
+            "estimatedTravelTimeMin": 14,
+            "timeSlackMin": 6,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 464.06
+          },
+          "variantTop": {
+            "hospitalId": "A1100014",
+            "hospitalName": "고려대학교의과대학부속구로병원",
+            "district": "구로구",
+            "availableErBeds": 4,
+            "estimatedTravelTimeMin": 10,
+            "timeSlackMin": 10,
+            "bedBufferTier": "medium_risk_3_5",
+            "totalCost": 467.5
+          },
+          "changed": true,
+          "noFeasible": false
+        },
+        {
+          "scenarioId": "C003_hongdae",
+          "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+          "locationLabel": "홍대입구",
+          "variant": "필수 자원 과잉 추가: 외상 소생",
+          "baseTop": {
+            "hospitalId": "A1100006",
+            "hospitalName": "강북삼성병원",
+            "district": "종로구",
+            "availableErBeds": 6,
+            "estimatedTravelTimeMin": 16,
+            "timeSlackMin": 29,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 333
+          },
+          "variantTop": {
+            "hospitalId": "A1100011",
+            "hospitalName": "가톨릭대학교여의도성모병원",
+            "district": "영등포구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 19,
+            "timeSlackMin": 26,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 381.31
+          },
+          "changed": true,
+          "noFeasible": false
+        },
+        {
+          "scenarioId": "C004_gangnam",
+          "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+          "locationLabel": "강남역",
+          "variant": "필수 자원 누락: CT",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C004_gangnam",
+          "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+          "locationLabel": "강남역",
+          "variant": "필수 자원 누락: 수술 가능성",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C004_gangnam",
+          "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+          "locationLabel": "강남역",
+          "variant": "필수 자원 누락: 출혈 처치",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        },
+        {
+          "scenarioId": "C004_gangnam",
+          "caseTitle": "공사장 둔상 + 복부 통증 + 어지러움",
+          "locationLabel": "강남역",
+          "variant": "필수 자원 과잉 추가: 외상 소생",
+          "baseTop": null,
+          "variantTop": null,
+          "changed": false,
+          "noFeasible": true
+        }
+      ]
+    },
+    "liveCapacityDrift": {
+      "summary": {
+        "attempted": true,
+        "fetchedAt": "2026-05-21T02:13:24.292Z",
+        "districtsRequested": 25,
+        "freshActiveRows": 51,
+        "comparableHospitalCount": 51,
+        "changedErBedRows": 44,
+        "crossedPositiveBoundaryRows": 3,
+        "medianAbsoluteBedChange": 3,
+        "maxAbsoluteBedChange": 11,
+        "changedTopRecommendationCount": 23,
+        "freshNoFeasibleCount": 1
+      },
+      "rows": [
+        {
+          "hospitalId": "A1100003",
+          "hospitalName": "중앙대학교병원",
+          "district": "동작구",
+          "persistedErBeds": -6,
+          "freshErBeds": 5,
+          "absoluteBedChange": 11,
+          "crossedPositiveBoundary": true
+        },
+        {
+          "hospitalId": "A1100017",
+          "hospitalName": "서울대학교병원",
+          "district": "종로구",
+          "persistedErBeds": -6,
+          "freshErBeds": -14,
+          "absoluteBedChange": 8,
+          "crossedPositiveBoundary": false
+        },
+        {
+          "hospitalId": "A1100002",
+          "hospitalName": "건국대학교병원",
+          "district": "광진구",
+          "persistedErBeds": 13,
+          "freshErBeds": 6,
+          "absoluteBedChange": 7,
+          "crossedPositiveBoundary": false
+        },
+        {
+          "hospitalId": "A1100020",
+          "hospitalName": "의료법인한전의료재단한일병원",
+          "district": "도봉구",
+          "persistedErBeds": 9,
+          "freshErBeds": 16,
+          "absoluteBedChange": 7,
+          "crossedPositiveBoundary": false
+        },
+        {
+          "hospitalId": "A1120796",
+          "hospitalName": "이화여자대학교의과대학부속서울병원",
+          "district": "강서구",
+          "persistedErBeds": -6,
+          "freshErBeds": 1,
+          "absoluteBedChange": 7,
+          "crossedPositiveBoundary": true
+        },
+        {
+          "hospitalId": "A1100009",
+          "hospitalName": "재단법인아산사회복지재단서울아산병원",
+          "district": "송파구",
+          "persistedErBeds": 0,
+          "freshErBeds": -7,
+          "absoluteBedChange": 7,
+          "crossedPositiveBoundary": false
+        },
+        {
+          "hospitalId": "A1100005",
+          "hospitalName": "이화여자대학교의과대학부속목동병원",
+          "district": "양천구",
+          "persistedErBeds": 5,
+          "freshErBeds": 11,
+          "absoluteBedChange": 6,
+          "crossedPositiveBoundary": false
+        },
+        {
+          "hospitalId": "A1100016",
+          "hospitalName": "인제대학교상계백병원",
+          "district": "노원구",
+          "persistedErBeds": 8,
+          "freshErBeds": 2,
+          "absoluteBedChange": 6,
+          "crossedPositiveBoundary": false
+        },
+        {
+          "hospitalId": "A1100012",
+          "hospitalName": "학교법인가톨릭학원가톨릭대학교서울성모병원",
+          "district": "서초구",
+          "persistedErBeds": -4,
+          "freshErBeds": -10,
+          "absoluteBedChange": 6,
+          "crossedPositiveBoundary": false
+        },
+        {
+          "hospitalId": "A1100014",
+          "hospitalName": "고려대학교의과대학부속구로병원",
+          "district": "구로구",
+          "persistedErBeds": 4,
+          "freshErBeds": 9,
+          "absoluteBedChange": 5,
+          "crossedPositiveBoundary": false
+        },
+        {
+          "hospitalId": "A1100054",
+          "hospitalName": "성애의료재단성애병원",
+          "district": "영등포구",
+          "persistedErBeds": 6,
+          "freshErBeds": 11,
+          "absoluteBedChange": 5,
+          "crossedPositiveBoundary": false
+        },
+        {
+          "hospitalId": "A1100011",
+          "hospitalName": "가톨릭대학교여의도성모병원",
+          "district": "영등포구",
+          "persistedErBeds": 11,
+          "freshErBeds": 7,
+          "absoluteBedChange": 4,
+          "crossedPositiveBoundary": false
+        }
+      ],
+      "recommendationComparison": [
+        {
+          "scenarioId": "C001_city_hall",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "서울시청",
+          "persistedTop": {
+            "hospitalId": "A1100006",
+            "hospitalName": "강북삼성병원",
+            "district": "종로구",
+            "availableErBeds": 6,
+            "estimatedTravelTimeMin": 7,
+            "timeSlackMin": 13,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 339.65
+          },
+          "freshTop": {
+            "hospitalId": "A1100008",
+            "hospitalName": "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)",
+            "district": "성북구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 20,
+            "timeSlackMin": 0,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 647.65
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C001_hongdae",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "홍대입구",
+          "persistedTop": {
+            "hospitalId": "A1100011",
+            "hospitalName": "가톨릭대학교여의도성모병원",
+            "district": "영등포구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 19,
+            "timeSlackMin": 1,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 576.05
+          },
+          "freshTop": {
+            "hospitalId": "A1100005",
+            "hospitalName": "이화여자대학교의과대학부속목동병원",
+            "district": "양천구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 16,
+            "timeSlackMin": 4,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 459.25
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C001_yeouido",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "여의도",
+          "persistedTop": {
+            "hospitalId": "A1100011",
+            "hospitalName": "가톨릭대학교여의도성모병원",
+            "district": "영등포구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 7,
+            "timeSlackMin": 13,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 240.55
+          },
+          "freshTop": {
+            "hospitalId": "A1100054",
+            "hospitalName": "성애의료재단성애병원",
+            "district": "영등포구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 7,
+            "timeSlackMin": 13,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 206.25
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C001_guro",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "구로디지털단지",
+          "persistedTop": {
+            "hospitalId": "A1100054",
+            "hospitalName": "성애의료재단성애병원",
+            "district": "영등포구",
+            "availableErBeds": 6,
+            "estimatedTravelTimeMin": 14,
+            "timeSlackMin": 6,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 464.06
+          },
+          "freshTop": {
+            "hospitalId": "A1100014",
+            "hospitalName": "고려대학교의과대학부속구로병원",
+            "district": "구로구",
+            "availableErBeds": 9,
+            "estimatedTravelTimeMin": 10,
+            "timeSlackMin": 10,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 343.75
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C001_eunpyeong",
+          "caseTitle": "고령 낙상 + 두부 충격 + 일시 의식저하",
+          "locationLabel": "은평구청",
+          "persistedTop": {
+            "hospitalId": "A1100007",
+            "hospitalName": "연세대학교의과대학세브란스병원",
+            "district": "서대문구",
+            "availableErBeds": 1,
+            "estimatedTravelTimeMin": 18,
+            "timeSlackMin": 2,
+            "bedBufferTier": "high_risk_1_2",
+            "totalCost": 1188
+          },
+          "freshTop": {
+            "hospitalId": "A1121013",
+            "hospitalName": "가톨릭대학교은평성모병원",
+            "district": "은평구",
+            "availableErBeds": 5,
+            "estimatedTravelTimeMin": 15,
+            "timeSlackMin": 5,
+            "bedBufferTier": "medium_risk_3_5",
+            "totalCost": 633.88
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C002_hongdae",
+          "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+          "locationLabel": "홍대입구",
+          "persistedTop": {
+            "hospitalId": "A1100006",
+            "hospitalName": "강북삼성병원",
+            "district": "종로구",
+            "availableErBeds": 6,
+            "estimatedTravelTimeMin": 16,
+            "timeSlackMin": 14,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 489.85
+          },
+          "freshTop": {
+            "hospitalId": "A1100005",
+            "hospitalName": "이화여자대학교의과대학부속목동병원",
+            "district": "양천구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 16,
+            "timeSlackMin": 14,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 444.85
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C002_yeouido",
+          "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+          "locationLabel": "여의도",
+          "persistedTop": {
+            "hospitalId": "A1100011",
+            "hospitalName": "가톨릭대학교여의도성모병원",
+            "district": "영등포구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 7,
+            "timeSlackMin": 23,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 242.35
+          },
+          "freshTop": {
+            "hospitalId": "A1100054",
+            "hospitalName": "성애의료재단성애병원",
+            "district": "영등포구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 7,
+            "timeSlackMin": 23,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 210.15
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C002_nowon",
+          "caseTitle": "오토바이 사고 + 하지 변형/골절 의심 + 출혈",
+          "locationLabel": "노원",
+          "persistedTop": {
+            "hospitalId": "A1100016",
+            "hospitalName": "인제대학교상계백병원",
+            "district": "노원구",
+            "availableErBeds": 8,
+            "estimatedTravelTimeMin": 6,
+            "timeSlackMin": 24,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 264.85
+          },
+          "freshTop": {
+            "hospitalId": "A1100048",
+            "hospitalName": "노원을지대학교병원",
+            "district": "노원구",
+            "availableErBeds": 10,
+            "estimatedTravelTimeMin": 10,
+            "timeSlackMin": 20,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 322.65
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C003_city_hall",
+          "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+          "locationLabel": "서울시청",
+          "persistedTop": {
+            "hospitalId": "A1100006",
+            "hospitalName": "강북삼성병원",
+            "district": "종로구",
+            "availableErBeds": 6,
+            "estimatedTravelTimeMin": 7,
+            "timeSlackMin": 38,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 171
+          },
+          "freshTop": {
+            "hospitalId": "A1100052",
+            "hospitalName": "국립중앙의료원",
+            "district": "중구",
+            "availableErBeds": 12,
+            "estimatedTravelTimeMin": 11,
+            "timeSlackMin": 34,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 207
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C003_gangnam",
+          "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+          "locationLabel": "강남역",
+          "persistedTop": {
+            "hospitalId": "A1100004",
+            "hospitalName": "순천향대학교부속서울병원",
+            "district": "용산구",
+            "availableErBeds": 14,
+            "estimatedTravelTimeMin": 22,
+            "timeSlackMin": 23,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 405
+          },
+          "freshTop": {
+            "hospitalId": "A1100015",
+            "hospitalName": "연세대학교의과대학강남세브란스병원",
+            "district": "강남구",
+            "availableErBeds": 3,
+            "estimatedTravelTimeMin": 9,
+            "timeSlackMin": 36,
+            "bedBufferTier": "medium_risk_3_5",
+            "totalCost": 288
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C003_hongdae",
+          "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+          "locationLabel": "홍대입구",
+          "persistedTop": {
+            "hospitalId": "A1100006",
+            "hospitalName": "강북삼성병원",
+            "district": "종로구",
+            "availableErBeds": 6,
+            "estimatedTravelTimeMin": 16,
+            "timeSlackMin": 29,
+            "bedBufferTier": "low_risk_6_10",
+            "totalCost": 333
+          },
+          "freshTop": {
+            "hospitalId": "A1100005",
+            "hospitalName": "이화여자대학교의과대학부속목동병원",
+            "district": "양천구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 16,
+            "timeSlackMin": 29,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 297
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        },
+        {
+          "scenarioId": "C003_yeouido",
+          "caseTitle": "계단 낙상 + 허리/골반 통증 + 보행 불가",
+          "locationLabel": "여의도",
+          "persistedTop": {
+            "hospitalId": "A1100011",
+            "hospitalName": "가톨릭대학교여의도성모병원",
+            "district": "영등포구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 7,
+            "timeSlackMin": 38,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 135
+          },
+          "freshTop": {
+            "hospitalId": "A1100054",
+            "hospitalName": "성애의료재단성애병원",
+            "district": "영등포구",
+            "availableErBeds": 11,
+            "estimatedTravelTimeMin": 7,
+            "timeSlackMin": 38,
+            "bedBufferTier": "stable_buffer_gt_10",
+            "totalCost": 135
+          },
+          "changed": true,
+          "persistedNoFeasible": false,
+          "freshNoFeasible": false
+        }
+      ]
+    },
+    "staticProfileGap": {
+      "summary": {
+        "staticProfileRows": 74,
+        "usableMatchedProfiles": 0,
+        "rowsWithDoctorCount": 0,
+        "rowsWithSpecialistCount": 0,
+        "rowsWithTotalBeds": 0,
+        "rowsWithIcuBeds": 0,
+        "conclusion": "현재 정적 프로필은 병원 규모 보정 검증에 사용할 수 없고, 목적함수의 정적 신뢰도 항은 사실상 중립이다."
+      },
+      "examples": [
+        {
+          "hospitalId": "A1100011",
+          "hospitalName": "가톨릭대학교여의도성모병원",
+          "matchConfidence": "none",
+          "hasDoctorCount": false,
+          "hasSpecialistCount": false,
+          "hasTotalBeds": false,
+          "hasIcuBeds": false
+        },
+        {
+          "hospitalId": "A1121013",
+          "hospitalName": "가톨릭대학교은평성모병원",
+          "matchConfidence": "none",
+          "hasDoctorCount": false,
+          "hasSpecialistCount": false,
+          "hasTotalBeds": false,
+          "hasIcuBeds": false
+        },
+        {
+          "hospitalId": "A1100047",
+          "hospitalName": "강남고려병원",
+          "matchConfidence": "none",
+          "hasDoctorCount": false,
+          "hasSpecialistCount": false,
+          "hasTotalBeds": false,
+          "hasIcuBeds": false
+        },
+        {
+          "hospitalId": "A1100141",
+          "hospitalName": "강남베드로병원",
+          "matchConfidence": "none",
+          "hasDoctorCount": false,
+          "hasSpecialistCount": false,
+          "hasTotalBeds": false,
+          "hasIcuBeds": false
+        },
+        {
+          "hospitalId": "A1100076",
+          "hospitalName": "강남힐병원",
+          "matchConfidence": "none",
+          "hasDoctorCount": false,
+          "hasSpecialistCount": false,
+          "hasTotalBeds": false,
+          "hasIcuBeds": false
+        },
+        {
+          "hospitalId": "A1100043",
+          "hospitalName": "강동경희대학교병원",
+          "matchConfidence": "none",
+          "hasDoctorCount": false,
+          "hasSpecialistCount": false,
+          "hasTotalBeds": false,
+          "hasIcuBeds": false
+        },
+        {
+          "hospitalId": "A1100006",
+          "hospitalName": "강북삼성병원",
+          "matchConfidence": "none",
+          "hasDoctorCount": false,
+          "hasSpecialistCount": false,
+          "hasTotalBeds": false,
+          "hasIcuBeds": false
+        },
+        {
+          "hospitalId": "A1121842",
+          "hospitalName": "강북으뜸병원",
+          "matchConfidence": "none",
+          "hasDoctorCount": false,
+          "hasSpecialistCount": false,
+          "hasTotalBeds": false,
+          "hasIcuBeds": false
+        }
+      ]
+    }
+  }
+}

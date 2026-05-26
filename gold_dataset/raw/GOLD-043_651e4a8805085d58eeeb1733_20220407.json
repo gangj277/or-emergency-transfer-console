@@ -1,0 +1,259 @@
+{
+    "_id": "651e4a8805085d58eeeb1733",
+    "audioPath": "20230925/Seoul/2022/20220407/converted_[20220407]-[WR1139823604].wav",
+    "recordId": "64d189a00c544913ffb9",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 62280,
+    "utterances": [
+        {
+            "id": "31791e90",
+            "startAt": 180,
+            "endAt": 1880,
+            "text": "119 입니다. 무엇을 도와드릴까요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_so23gi2fnhg",
+            "startAt": 2064,
+            "endAt": 4654,
+            "text": "예, 제 어머니께서. 그거 항암 치료 환자인데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m4i5vi0uqr8",
+            "startAt": 4845,
+            "endAt": 5182,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4klgcg0lin",
+            "startAt": 5188,
+            "endAt": 10106,
+            "text": "어저께, 그 집에서 간호하다가. 그 진통제를 계속 세알이나 먹고도, 계속 그거.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q22os9qlkdg",
+            "startAt": 10147,
+            "endAt": 15638,
+            "text": "진통이 안 가라앉아서, 어저께 그 병원, 성모병원 다니거든요. 그 담당 그 간호사 진단으로. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fiafi4jk2sg",
+            "startAt": 15769,
+            "endAt": 19260,
+            "text": "수면제하고 같이 진통제 같이 먹었는데. 아침 일어나서 못 깨어나세요.",
+            "speaker": 1
+        },
+        {
+            "id": "6b0b8ebc",
+            "startAt": 19223,
+            "endAt": 21245,
+            "text": "짐이 의식이 없단 얘기신 거잖아. 지금요.",
+            "speaker": 0
+        },
+        {
+            "id": "fed07b6d",
+            "startAt": 20901,
+            "endAt": 24226,
+            "text": "예예예, 아무리 흔들어도. 예, 예, 그리고 손발이 굉장히 차가워요.",
+            "speaker": 1
+        },
+        {
+            "id": "01cf1ecf",
+            "startAt": 24312,
+            "endAt": 25432,
+            "text": "숨은 쉬어요, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "c7dcf512",
+            "startAt": 25703,
+            "endAt": 27052,
+            "text": "예, 숨은 쉬시는데. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "deeac326",
+            "startAt": 27032,
+            "endAt": 28481,
+            "text": "주소 알려주세요. 주소.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tku6p0iqjd",
+            "startAt": 27304,
+            "endAt": 28177,
+            "text": "어떻게 보면.",
+            "speaker": 1
+        },
+        {
+            "id": "72c2ba9e",
+            "startAt": 28520,
+            "endAt": 31234,
+            "text": "예, 동작구 사당로 14길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t57psdcnr78",
+            "startAt": 30781,
+            "endAt": 31072,
+            "text": "사당.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3iv8i6hcl3",
+            "startAt": 31245,
+            "endAt": 31499,
+            "text": "[개인정보]\t",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tst84fbg7r",
+            "startAt": 31799,
+            "endAt": 32545,
+            "text": "사당로.",
+            "speaker": 1
+        },
+        {
+            "id": "42b93d5c",
+            "startAt": 32770,
+            "endAt": 34037,
+            "text": "14길 몇 이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "cea46312",
+            "startAt": 34071,
+            "endAt": 34620,
+            "text": "14 길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k9mdqi1jgi",
+            "startAt": 34617,
+            "endAt": 35271,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "5ffc6ffc",
+            "startAt": 35357,
+            "endAt": 36039,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "d53946ac",
+            "startAt": 36297,
+            "endAt": 36753,
+            "text": "[개인정보] ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_77ui5pdsh1",
+            "startAt": 36769,
+            "endAt": 37315,
+            "text": "집이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qnm8l77qe7g",
+            "startAt": 37396,
+            "endAt": 38996,
+            "text": " 1 층에 제일 커피가 있는 건물.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iqcu5t8gf5g",
+            "startAt": 39028,
+            "endAt": 39646,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_odqejbfr8h",
+            "startAt": 39902,
+            "endAt": 40293,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fj0cq1h1n2g",
+            "startAt": 40296,
+            "endAt": 41715,
+            "text": "집으로 가면 되는 거예요. 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j8k0giposo8",
+            "startAt": 41843,
+            "endAt": 42661,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7000dglpit8",
+            "startAt": 42513,
+            "endAt": 46376,
+            "text": "어머니, 혹시 코로나 관련해서. 확진 받거나 지금 그러신분 아무도 안계시죠. 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_454o61m3n4g",
+            "startAt": 46379,
+            "endAt": 48079,
+            "text": "호흡은 있단 얘기신 거죠. 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3gon82nhvb",
+            "startAt": 48074,
+            "endAt": 48738,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mi90m4ulol",
+            "startAt": 48744,
+            "endAt": 52517,
+            "text": "그쪽으로 저희 구급차 나가보라고 할게요. 네, 구급차 지금 가는 중이구요. 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vaq2p91e1u",
+            "startAt": 52742,
+            "endAt": 53078,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6460dvik1j",
+            "startAt": 53055,
+            "endAt": 58318,
+            "text": "구급대원이 가면서 전화드릴 수 있어요. 선생님, 혹시 저희가 의료진 좀 연결 좀 할게요, 전화 끊지 마세요, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "d849982c",
+            "startAt": 58676,
+            "endAt": 59266,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 동작구 사당동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애"
+    ],
+    "triage": "응급증상"
+}

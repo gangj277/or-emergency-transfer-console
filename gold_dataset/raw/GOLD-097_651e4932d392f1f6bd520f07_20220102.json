@@ -1,0 +1,344 @@
+{
+    "_id": "651e4932d392f1f6bd520f07",
+    "audioPath": "20230925/Seoul/2022/20220102/converted_[20220102]-[WO1139279425].wav",
+    "recordId": "88f70ed01362a7fb4e69",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 88920,
+    "utterances": [
+        {
+            "id": "2bf19c75",
+            "startAt": 465,
+            "endAt": 1595,
+            "text": " 예. 119 입니다.   ",
+            "speaker": 0
+        },
+        {
+            "id": "efd3b229",
+            "startAt": 2070,
+            "endAt": 4006,
+            "text": "아, 예, 저희 어머니가.",
+            "speaker": 1
+        },
+        {
+            "id": "d598f815",
+            "startAt": 4015,
+            "endAt": 4504,
+            "text": "예예.",
+            "speaker": 0
+        },
+        {
+            "id": "ba3860de",
+            "startAt": 4481,
+            "endAt": 11677,
+            "text": "백신 맞은 이후로. 자꾸 여기 가슴 아프다라고도 하시고. 지금 계속 넘어지시고, 오늘도 지금 화장실 갔다 왔다 너.",
+            "speaker": 1
+        },
+        {
+            "id": "ba5fb031",
+            "startAt": 11685,
+            "endAt": 14156,
+            "text": "아, 기운이 없으셔서 넘어져요, 아니면 어지러워서 넘어져요?",
+            "speaker": 0
+        },
+        {
+            "id": "d0f1a874",
+            "startAt": 14425,
+            "endAt": 17998,
+            "text": "어지러운 것도 있고, 막 계속 뭐 증상은 계속 호소를 하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "f76d4fbc",
+            "startAt": 18008,
+            "endAt": 20113,
+            "text": "아, 주소불러 구급차 필요하신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "fd85ea7e",
+            "startAt": 20215,
+            "endAt": 23520,
+            "text": "예, 지금 뭐 넘어지시고, 지금 쓰러지셔갖고.",
+            "speaker": 1
+        },
+        {
+            "id": "6e39ef39",
+            "startAt": 23523,
+            "endAt": 28928,
+            "text": "의식은 있어요, 없어요? 의식은?  알겠습니다, 주소 먼저 불러주세요, 주소는요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n0i7dtt6ldg",
+            "startAt": 25503,
+            "endAt": 26812,
+            "text": "예, 의식은 있어요",
+            "speaker": 1
+        },
+        {
+            "id": "d63ff6d4",
+            "startAt": 29009,
+            "endAt": 30674,
+            "text": "여기 두산 아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "146a8f9b",
+            "startAt": 30678,
+            "endAt": 31529,
+            "text": "두산아파트?",
+            "speaker": 0
+        },
+        {
+            "id": "07b9dd58",
+            "startAt": 31824,
+            "endAt": 33331,
+            "text": "예, 여기 가산동.",
+            "speaker": 1
+        },
+        {
+            "id": "9f6aa0fc",
+            "startAt": 33458,
+            "endAt": 34595,
+            "text": "가산동 몇 번지예요?",
+            "speaker": 0
+        },
+        {
+            "id": "e6985f50",
+            "startAt": 34773,
+            "endAt": 36861,
+            "text": "가산동에 두산아파트. 아, 그.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_15j77jnvk1g",
+            "startAt": 38633,
+            "endAt": 39933,
+            "text": "[개인정보]  ",
+            "speaker": 1
+        },
+        {
+            "id": "ac775624",
+            "startAt": 39964,
+            "endAt": 40315,
+            "text": "가산동.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_om631qcsrbg",
+            "startAt": 40303,
+            "endAt": 41158,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "5d25f0a7",
+            "startAt": 41296,
+            "endAt": 42856,
+            "text": "예, 두산 아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_melgdvk28so",
+            "startAt": 41594,
+            "endAt": 42284,
+            "text": "두산 아파트.",
+            "speaker": 0
+        },
+        {
+            "id": "a26f5bb0",
+            "startAt": 42813,
+            "endAt": 45895,
+            "text": "자, 옛날 주소에 예요, 옛날 주소예요, 아니면 신주소예요?",
+            "speaker": 0
+        },
+        {
+            "id": "04f58e65",
+            "startAt": 46101,
+            "endAt": 47101,
+            "text": "현재 주소예요.",
+            "speaker": 1
+        },
+        {
+            "id": "a326313f",
+            "startAt": 47168,
+            "endAt": 48117,
+            "text": "현재 주소면.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uiv6i19ip18",
+            "startAt": 48100,
+            "endAt": 49118,
+            "text": "무슨 길이요.",
+            "speaker": 0
+        },
+        {
+            "id": "4afe0a1e",
+            "startAt": 48121,
+            "endAt": 49059,
+            "text": "아 가산로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_loadbkg36co",
+            "startAt": 49066,
+            "endAt": 49611,
+            "text": "[개인정보]  ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_19psv6mbmqo",
+            "startAt": 49603,
+            "endAt": 50430,
+            "text": "가산로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6l5dpnu0jbg",
+            "startAt": 50419,
+            "endAt": 50892,
+            "text": "[개인정보]  ",
+            "speaker": 0
+        },
+        {
+            "id": "223d6168",
+            "startAt": 50874,
+            "endAt": 54347,
+            "text": "잠시만요. 두산 아파트시고 몇 동 몇 호세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gc8q0c4vp4o",
+            "startAt": 51439,
+            "endAt": 52248,
+            "text": "예. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "ac67046d",
+            "startAt": 54344,
+            "endAt": 55583,
+            "text": "[개인정보]  ",
+            "speaker": 1
+        },
+        {
+            "id": "8bbc7e77",
+            "startAt": 55563,
+            "endAt": 56487,
+            "text": "[개인정보]  ",
+            "speaker": 0
+        },
+        {
+            "id": "d7e78fa7",
+            "startAt": 56613,
+            "endAt": 58050,
+            "text": "[개인정보]  ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u73s53pppb8",
+            "startAt": 58030,
+            "endAt": 59129,
+            "text": "[개인정보]  ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_90bdgtc10so",
+            "startAt": 59111,
+            "endAt": 61330,
+            "text": "[개인정보]  ",
+            "speaker": 0
+        },
+        {
+            "id": "5316796a",
+            "startAt": 61401,
+            "endAt": 67229,
+            "text": "어머니 의식은 있다고 하셨죠? 예 최근에 코로나 관련된 증상. 여행력 뭐 특이사항 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1b3t83rqc98",
+            "startAt": 63401,
+            "endAt": 64283,
+            "text": "예. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "bbacb969",
+            "startAt": 68296,
+            "endAt": 70441,
+            "text": "아니, 계속 뭐 그 가슴을 호소하시고.",
+            "speaker": 1
+        },
+        {
+            "id": "66b3e55f",
+            "startAt": 70416,
+            "endAt": 73795,
+            "text": "자, 코로나 관련된 증상. 여행력 기침 감. 뭐. 고열같은.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bovjc8p9vg",
+            "startAt": 74219,
+            "endAt": 75719,
+            "text": "아니, 뭐 그런 건 없으세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mekmi6gbhro",
+            "startAt": 75518,
+            "endAt": 77728,
+            "text": "그런건 없으세요? 두산 두산 아파",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8lm3nubqvfo",
+            "startAt": 77696,
+            "endAt": 78777,
+            "text": "[개인정보]   ",
+            "speaker": 0
+        },
+        {
+            "id": "d20e3426",
+            "startAt": 78739,
+            "endAt": 86969,
+            "text": "그 두산 위브 말씀하시는거 맞지요? 됐구요. 대원들 나가면서 전화드릴 수 있으니까. 전화받으면 다시 한번 안내해주세요. 구급차 나갑니다. 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ap11vhh5cvg",
+            "startAt": 81428,
+            "endAt": 82655,
+            "text": "예, 예, 두산위브 입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6cfpuo1r6jg",
+            "startAt": 85609,
+            "endAt": 86373,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "f2a50331",
+            "startAt": 86951,
+            "endAt": 87443,
+            "text": "으이.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 금천구 가산동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "가슴불편감"
+    ],
+    "triage": "잠재응급증상"
+}

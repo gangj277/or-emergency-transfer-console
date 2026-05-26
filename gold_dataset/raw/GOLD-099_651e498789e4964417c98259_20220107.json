@@ -1,0 +1,253 @@
+{
+    "_id": "651e498789e4964417c98259",
+    "audioPath": "20230925/Seoul/2022/20220107/converted_[20220107]-[WO1139303144].wav",
+    "recordId": "23ddfb2ebb501d25b849",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 46560,
+    "utterances": [
+        {
+            "id": "99836a45",
+            "startAt": 931,
+            "endAt": 1861,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "85700738",
+            "startAt": 2273,
+            "endAt": 3551,
+            "text": "네, 그 시흥동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7460dsin0b8",
+            "startAt": 3627,
+            "endAt": 4455,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jfma722ut48",
+            "startAt": 4572,
+            "endAt": 5309,
+            "text": "중앙 시흥 하이츠빌",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_to2dt6e8alg",
+            "startAt": 5400,
+            "endAt": 5745,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l85bbfu5sj",
+            "startAt": 5854,
+            "endAt": 8236,
+            "text": "앞으로 119를 좀 불러주실 수 있을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "b4228e21",
+            "startAt": 7864,
+            "endAt": 8996,
+            "text": "네 처 시흥동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gk64b0g4348",
+            "startAt": 9072,
+            "endAt": 10136,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "4b3e7547",
+            "startAt": 10531,
+            "endAt": 10971,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "be4ae79e",
+            "startAt": 11591,
+            "endAt": 12641,
+            "text": "그 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "96b04915",
+            "startAt": 13210,
+            "endAt": 15876,
+            "text": "가슴에 흉통이 있으신 거 같아요. 저희 신랑이",
+            "speaker": 1
+        },
+        {
+            "id": "157191b1",
+            "startAt": 15171,
+            "endAt": 16291,
+            "text": "누가 그러신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "e74b7fc0",
+            "startAt": 16751,
+            "endAt": 17541,
+            "text": "저희 신랑이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gec2ojm8cj8",
+            "startAt": 18268,
+            "endAt": 19268,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "69c80b9d",
+            "startAt": 19324,
+            "endAt": 20453,
+            "text": "나와 계신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "1e16d4f8",
+            "startAt": 20697,
+            "endAt": 23087,
+            "text": "아니요, 지금 퇴근하고 있는데 집 앞에서.",
+            "speaker": 1
+        },
+        {
+            "id": "6e963f26",
+            "startAt": 23117,
+            "endAt": 25207,
+            "text": "아, 그 남편분 전화번호 좀 알려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "48279d1b",
+            "startAt": 25577,
+            "endAt": 26647,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "f2f9a9a3",
+            "startAt": 26837,
+            "endAt": 27747,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "48f582c5",
+            "startAt": 28347,
+            "endAt": 29317,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "571ae842",
+            "startAt": 29507,
+            "endAt": 30987,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "6b8ade4c",
+            "startAt": 31387,
+            "endAt": 32562,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "ca54f203",
+            "startAt": 32497,
+            "endAt": 33823,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "1317977f",
+            "startAt": 34117,
+            "endAt": 34726,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "c8f26761",
+            "startAt": 34737,
+            "endAt": 37287,
+            "text": "그 중앙 하이츠 빌라 앞이라는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "6f3ed1cd",
+            "startAt": 37466,
+            "endAt": 37909,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6bancet74d",
+            "startAt": 37961,
+            "endAt": 38879,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b83ormttpc",
+            "startAt": 38997,
+            "endAt": 39879,
+            "text": "있나 봐요, 좀 빨리.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iolirvfjoj",
+            "startAt": 40024,
+            "endAt": 41360,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bn8q28vqppg",
+            "startAt": 41415,
+            "endAt": 42224,
+            "text": "보내면 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d3bpahiqv3g",
+            "startAt": 42497,
+            "endAt": 43460,
+            "text": "네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5lo7gc7clm8",
+            "startAt": 42833,
+            "endAt": 44797,
+            "text": "예 알겠습니다 그쪽으로 구급차 보낼게요",
+            "speaker": 0
+        },
+        {
+            "id": "3d7da67c",
+            "startAt": 45099,
+            "endAt": 46139,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 금천구 시흥동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "심계항진",
+        "가슴불편감"
+    ],
+    "triage": "잠재응급증상"
+}

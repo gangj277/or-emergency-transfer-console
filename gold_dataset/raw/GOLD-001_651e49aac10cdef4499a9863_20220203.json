@@ -1,0 +1,267 @@
+{
+    "_id": "651e49aac10cdef4499a9863",
+    "audioPath": "20230925/Seoul/2022/20220203/converted_[20220203]-[WP1139435547].wav",
+    "recordId": "b2e3ec503fd3a152b9e2",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 91080,
+    "utterances": [
+        {
+            "id": "0774c4d1",
+            "startAt": 755,
+            "endAt": 1992,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "1a724f4c",
+            "startAt": 1979,
+            "endAt": 3442,
+            "text": "예, 수고하십니다.",
+            "speaker": 1
+        },
+        {
+            "id": "5260d006",
+            "startAt": 3442,
+            "endAt": 3955,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "66416267",
+            "startAt": 3882,
+            "endAt": 5545,
+            "text": "여기 여 삼무아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "d5f41554",
+            "startAt": 5843,
+            "endAt": 8203,
+            "text": "[개인정보]\n",
+            "speaker": 1
+        },
+        {
+            "id": "b7f2555c",
+            "startAt": 8215,
+            "endAt": 8555,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "57309355",
+            "startAt": 9142,
+            "endAt": 12182,
+            "text": "우리 집사람이 갑자기 지금 아픈 중에 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "dfe1d27b",
+            "startAt": 12302,
+            "endAt": 12552,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "3f674669",
+            "startAt": 12755,
+            "endAt": 13985,
+            "text": "쓰러져가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "850a3599",
+            "startAt": 14032,
+            "endAt": 14435,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "693641d1",
+            "startAt": 14822,
+            "endAt": 20651,
+            "text": "지금 숨을 못 쉬는거 같은데 내가 지금 인공호흡을 시키는데도 아직도 맥박이 안 돌아오네요.",
+            "speaker": 1
+        },
+        {
+            "id": "ffaa4f2c",
+            "startAt": 20414,
+            "endAt": 23064,
+            "text": "숨을 안 쉬고 쓰러지셔가지고요? 아내분이 지병이있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "3d18cf39",
+            "startAt": 23401,
+            "endAt": 23884,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "0c735093",
+            "startAt": 23924,
+            "endAt": 25404,
+            "text": "질병이 있으신 거예요, 원래?",
+            "speaker": 0
+        },
+        {
+            "id": "6850a5d8",
+            "startAt": 25351,
+            "endAt": 27167,
+            "text": "예, 원래 지금 질병이 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "7c09c6b4",
+            "startAt": 26694,
+            "endAt": 27934,
+            "text": "어떤 질병 있으신데요?",
+            "speaker": 0
+        },
+        {
+            "id": "57a39019",
+            "startAt": 28071,
+            "endAt": 30217,
+            "text": "그 저 폐암 4기요.",
+            "speaker": 1
+        },
+        {
+            "id": "6dd02fba",
+            "startAt": 29991,
+            "endAt": 30984,
+            "text": "폐암 환자요?",
+            "speaker": 0
+        },
+        {
+            "id": "d94e1d33",
+            "startAt": 30984,
+            "endAt": 31464,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1p2g8puud38",
+            "startAt": 31562,
+            "endAt": 33278,
+            "text": "우선 구급차 갈거구요. 전화.",
+            "speaker": 0
+        },
+        {
+            "id": "5e8dcda6",
+            "startAt": 33308,
+            "endAt": 34964,
+            "text": "[개인정보]\n",
+            "speaker": 0
+        },
+        {
+            "id": "3b765397",
+            "startAt": 35056,
+            "endAt": 35841,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "10e09ce3",
+            "startAt": 35695,
+            "endAt": 39567,
+            "text": "구급차 갔고 가는 동안 저희가 상태 좀 여쭤봐야 되니까 끊지 마세요. 전화 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gfvebkip598",
+            "startAt": 38895,
+            "endAt": 40222,
+            "text": "예, 예, 예. 예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "76c0a9e7",
+            "startAt": 40615,
+            "endAt": 42155,
+            "text": "그래서 지금 현재.",
+            "speaker": 1
+        },
+        {
+            "id": "46bb7aee",
+            "startAt": 42172,
+            "endAt": 43288,
+            "text": "예, 전화 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "d9ea51f2",
+            "startAt": 42744,
+            "endAt": 48235,
+            "text": "제가, 제가 인공호흡을 지금 시키고 있는데도 숨이 안 돌아오네요, 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "2d02b610",
+            "startAt": 48355,
+            "endAt": 51865,
+            "text": "그래요, 알겠어요 우선은 좀 기달려보세요. 예 구급차 지금가고있으니까요.",
+            "speaker": 0
+        },
+        {
+            "id": "3879a78b",
+            "startAt": 51395,
+            "endAt": 60884,
+            "text": "어떻게 하는게 제일 좋아요. 인공호흡을 시키는데 안 되는디, 입으로 지금 해가지고 내가 지금 바람을 집어넣고 있고 해도 숨이 안 들어가고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "1bd5a92b",
+            "startAt": 60124,
+            "endAt": 64334,
+            "text": "잠깐만요, 제가 의료 의료 응급처치하는 방법 알려드릴게요. 끊지 마세요, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "b1f3bc81",
+            "startAt": 64591,
+            "endAt": 65554,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "36764cce",
+            "startAt": 83519,
+            "endAt": 85316,
+            "text": "폐암 4기세요? 아내분께서.",
+            "speaker": 0
+        },
+        {
+            "id": "399880aa",
+            "startAt": 85709,
+            "endAt": 86586,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "011c5fcc",
+            "startAt": 86249,
+            "endAt": 89576,
+            "text": "아, 지금 저희 상담하는 부서가 전부 다 연결이 지금 안 돼 잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "a107f548",
+            "startAt": 89289,
+            "endAt": 89819,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 서대문구 북가좌동",
+    "disasterLarge": "구급",
+    "disasterMedium": "심정지",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "심정지",
+        "호흡정지"
+    ],
+    "triage": "응급증상"
+}

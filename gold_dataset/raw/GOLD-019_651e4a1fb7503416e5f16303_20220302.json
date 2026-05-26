@@ -1,0 +1,318 @@
+{
+    "_id": "651e4a1fb7503416e5f16303",
+    "audioPath": "20230925/Seoul/2022/20220302/converted_[20220302]-[WQ1139583281].wav",
+    "recordId": "e0c97e1ba81d5eab5f75",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 86760,
+    "utterances": [
+        {
+            "id": "5ab9a36a",
+            "startAt": 1383,
+            "endAt": 2954,
+            "text": "119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "eb454166",
+            "startAt": 4028,
+            "endAt": 5912,
+            "text": "아, 네, 저 여기.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_omakp2aajco",
+            "startAt": 7018,
+            "endAt": 13806,
+            "text": "아이가 좀 저 수술을 좀 했는데 출혈 때문에 그래 쓰러지 쓰러진다고 지금 좀 그러거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "fc29d52b",
+            "startAt": 14373,
+            "endAt": 16483,
+            "text": "아이가 무슨 수술을 했는데요.",
+            "speaker": 0
+        },
+        {
+            "id": "9938b20d",
+            "startAt": 16843,
+            "endAt": 21053,
+            "text": "아, 자궁, 그 저 염전 수술을 했었는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uabpivpkvd",
+            "startAt": 21090,
+            "endAt": 22981,
+            "text": "지금 지금 급해 급해가.",
+            "speaker": 1
+        },
+        {
+            "id": "3c231301",
+            "startAt": 22203,
+            "endAt": 24133,
+            "text": "지금 급해가 긴급한 상황이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "af18023a",
+            "startAt": 24763,
+            "endAt": 30913,
+            "text": "구급차 보내드릴 거니까 지금 환자 의식 있어요. 호흡 없어, 호, 의, 의식, 호흡 어때요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tuvpvcbqkfo",
+            "startAt": 30221,
+            "endAt": 31431,
+            "text": "거 의식 빨 빨리 좀.",
+            "speaker": 1
+        },
+        {
+            "id": "7d89a4a8",
+            "startAt": 31503,
+            "endAt": 32428,
+            "text": "거의 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "b468ca0f",
+            "startAt": 33634,
+            "endAt": 36810,
+            "text": "강하게 흔들어 깨웠을 때 움찔하거나 그런 반응 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "2276da7f",
+            "startAt": 38382,
+            "endAt": 39442,
+            "text": "아, 있죠 있죠.",
+            "speaker": 1
+        },
+        {
+            "id": "5d9427af",
+            "startAt": 40152,
+            "endAt": 43632,
+            "text": "코로나 관련해서 확진이라던가 뭐 특이사항 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "59695c85",
+            "startAt": 43662,
+            "endAt": 44702,
+            "text": "없습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "946129d7",
+            "startAt": 45062,
+            "endAt": 46373,
+            "text": "주소 알려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pkncv80dhu",
+            "startAt": 47330,
+            "endAt": 49339,
+            "text": "여 양천구 목동.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4fmt80np5b8",
+            "startAt": 49707,
+            "endAt": 50434,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t3g3c326mm",
+            "startAt": 52359,
+            "endAt": 53150,
+            "text": "목동동로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tmnq4ja49fo",
+            "startAt": 53186,
+            "endAt": 55168,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ctt6lh3bv0o",
+            "startAt": 55611,
+            "endAt": 55975,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m5a66s3hamg",
+            "startAt": 56714,
+            "endAt": 57777,
+            "text": "목동동로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dobafic6ahg",
+            "startAt": 57848,
+            "endAt": 58593,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jkk2l16l0dg",
+            "startAt": 59282,
+            "endAt": 60618,
+            "text": "목동종로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fb5glbbela",
+            "startAt": 60654,
+            "endAt": 61463,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ensf86g3l8",
+            "startAt": 61995,
+            "endAt": 63422,
+            "text": "목동동로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_08p1fit2h08",
+            "startAt": 63454,
+            "endAt": 64290,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p0fp8ntrji8",
+            "startAt": 65447,
+            "endAt": 66102,
+            "text": "목동.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i8tdriv01f",
+            "startAt": 65463,
+            "endAt": 66890,
+            "text": "목동 종로.",
+            "speaker": 0
+        },
+        {
+            "id": "6d9466ef",
+            "startAt": 66912,
+            "endAt": 68001,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "eb1d7e1e",
+            "startAt": 68184,
+            "endAt": 68614,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "e3d86c47",
+            "startAt": 69034,
+            "endAt": 69827,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "b90c291e",
+            "startAt": 70114,
+            "endAt": 70814,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "8c35a126",
+            "startAt": 71114,
+            "endAt": 71904,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1isb1b9rl0o",
+            "startAt": 73024,
+            "endAt": 74133,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "a247fa46",
+            "startAt": 74199,
+            "endAt": 75675,
+            "text": "거기가 부영 그린타운",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uv664pmm96",
+            "startAt": 76933,
+            "endAt": 77615,
+            "text": "3차.",
+            "speaker": 1
+        },
+        {
+            "id": "ef785f4a",
+            "startAt": 77177,
+            "endAt": 79911,
+            "text": "예 부영 그린타운 3차.",
+            "speaker": 0
+        },
+        {
+            "id": "4a1567ac",
+            "startAt": 80146,
+            "endAt": 80816,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "68250f1a",
+            "startAt": 81131,
+            "endAt": 82976,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "bfe9e4b6",
+            "startAt": 83201,
+            "endAt": 83901,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "b670c9ff",
+            "startAt": 83999,
+            "endAt": 85426,
+            "text": "예, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "06631b78",
+            "startAt": 85591,
+            "endAt": 85951,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 양천구 목동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "복통",
+        "실신",
+        "그 밖의출혈",
+        "어지러움"
+    ],
+    "triage": "준응급증상"
+}

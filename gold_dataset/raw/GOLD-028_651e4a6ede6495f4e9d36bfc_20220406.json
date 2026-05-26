@@ -1,0 +1,442 @@
+{
+    "_id": "651e4a6ede6495f4e9d36bfc",
+    "audioPath": "20230925/Seoul/2022/20220406/converted_[20220406]-[WR1139820171].wav",
+    "recordId": "223e30750d412b0f08e3",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 125520,
+    "utterances": [
+        {
+            "id": "93d76cce",
+            "startAt": 7615,
+            "endAt": 8341,
+            "text": "세요.",
+            "speaker": 1
+        },
+        {
+            "id": "073f1f03",
+            "startAt": 8575,
+            "endAt": 9539,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "1921fef1",
+            "startAt": 9404,
+            "endAt": 12077,
+            "text": "아 예, 좀 빨리 좀 와주세요, 할아버지 좀.",
+            "speaker": 1
+        },
+        {
+            "id": "265d07a4",
+            "startAt": 12050,
+            "endAt": 13095,
+            "text": "선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "ac516ab2",
+            "startAt": 12344,
+            "endAt": 13997,
+            "text": "아우 저 저거 저.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i94jsmgs8d8",
+            "startAt": 14364,
+            "endAt": 17128,
+            "text": "십, 십삼년만에. 네, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "b906838e",
+            "startAt": 14819,
+            "endAt": 16490,
+            "text": "선생님, 할머니.",
+            "speaker": 0
+        },
+        {
+            "id": "6b0b2024",
+            "startAt": 17577,
+            "endAt": 18968,
+            "text": "진정 좀 하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "1cafeb35",
+            "startAt": 18841,
+            "endAt": 19402,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "c2df1529",
+            "startAt": 19513,
+            "endAt": 21250,
+            "text": "진정을 하시라고요, 진정을.",
+            "speaker": 0
+        },
+        {
+            "id": "20e9aa5f",
+            "startAt": 21052,
+            "endAt": 21948,
+            "text": "예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "dffd4946",
+            "startAt": 22041,
+            "endAt": 25063,
+            "text": "출동 나가고 있으니까 좀 제발 좀 진정하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "37072a2d",
+            "startAt": 24926,
+            "endAt": 26167,
+            "text": "예, 예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "985db2b9",
+            "startAt": 25582,
+            "endAt": 27227,
+            "text": "묻는 말에 대답 좀 하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "260c493e",
+            "startAt": 27231,
+            "endAt": 28274,
+            "text": "예예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "1dcab3fe",
+            "startAt": 28182,
+            "endAt": 33909,
+            "text": "옆에 분도 진정하라고 하세요. 소리 지른다고 쓰러졌던 분이 일어나는 거 아니니까.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_75s41e2ng5g",
+            "startAt": 30082,
+            "endAt": 31373,
+            "text": "어, 예, 예, 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "e9c2a207",
+            "startAt": 33838,
+            "endAt": 36941,
+            "text": "아, 그래도 거꾸로 좀 비켜주세요. 다, 다 있어.",
+            "speaker": 1
+        },
+        {
+            "id": "cf8a6f61",
+            "startAt": 36093,
+            "endAt": 38032,
+            "text": "할아버지, 할아버지예요?",
+            "speaker": 0
+        },
+        {
+            "id": "bf497fe4",
+            "startAt": 38280,
+            "endAt": 39580,
+            "text": "예예예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "28646294",
+            "startAt": 39778,
+            "endAt": 41811,
+            "text": "숨 쉬는지 안 쉬는지 확인해보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "2760fcd6",
+            "startAt": 45561,
+            "endAt": 47415,
+            "text": "가슴이 오르락 내리락 해요?",
+            "speaker": 0
+        },
+        {
+            "id": "1b10811a",
+            "startAt": 46955,
+            "endAt": 48558,
+            "text": "예, 숨은 쉬어요, 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "db98974f",
+            "startAt": 48587,
+            "endAt": 51855,
+            "text": "가슴이요, 배, 배 까 보세요. 옷, 옷 위로 재껴보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "8d34e236",
+            "startAt": 51852,
+            "endAt": 53082,
+            "text": "옷을 예예 오세요.",
+            "speaker": 1
+        },
+        {
+            "id": "e5ae8bff",
+            "startAt": 54275,
+            "endAt": 55462,
+            "text": "옷을 어 이렇게.",
+            "speaker": 1
+        },
+        {
+            "id": "81806f48",
+            "startAt": 54920,
+            "endAt": 56057,
+            "text": "배가 아팠던건.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ag8g2d77ajg",
+            "startAt": 54937,
+            "endAt": 56046,
+            "text": "예, 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5etvd3d50d",
+            "startAt": 56637,
+            "endAt": 57510,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "9e7731fa",
+            "startAt": 56640,
+            "endAt": 58708,
+            "text": "진정하세요, 진정하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2hc89lv4j5g",
+            "startAt": 59055,
+            "endAt": 63928,
+            "text": "소리 지르지 마시고 진정하세요, 차분하게 좀 차분하게 차분하게 얘기하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "d2fac610",
+            "startAt": 60741,
+            "endAt": 62553,
+            "text": "아니 아빠가 지금 숨을.",
+            "speaker": 1
+        },
+        {
+            "id": "af463236",
+            "startAt": 63880,
+            "endAt": 64320,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "48c385e4",
+            "startAt": 65240,
+            "endAt": 66585,
+            "text": "숨을 쉬어요, 안 쉬어요?",
+            "speaker": 0
+        },
+        {
+            "id": "13addf92",
+            "startAt": 66568,
+            "endAt": 72529,
+            "text": "숨을 살짝 쉬는데 숨이 지금 끊어지 끊어졌다가 붙었다 해요. 지금 출발했어요?",
+            "speaker": 0
+        },
+        {
+            "id": "7c201bd0",
+            "startAt": 72789,
+            "endAt": 79684,
+            "text": "구급차는 아까 전에 출발했어요. 그 묻는 말에 대답을 좀 해주셔야지 출동하는 대원들한테 전달을 하잖아요.",
+            "speaker": 1
+        },
+        {
+            "id": "79cc29d2",
+            "startAt": 74731,
+            "endAt": 75453,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "d292bd87",
+            "startAt": 80997,
+            "endAt": 85002,
+            "text": "지금 니가 잠깐만 헐떡헐떡이 아니고 딱.",
+            "speaker": 0
+        },
+        {
+            "id": "3040285c",
+            "startAt": 81009,
+            "endAt": 83188,
+            "text": "좀 헐떡헐떡 거리고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u41hn7e0thg",
+            "startAt": 85365,
+            "endAt": 87692,
+            "text": "잠깐만 옆에 일단 아버님 옆으로 가보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g81s5jlgbog",
+            "startAt": 88365,
+            "endAt": 90938,
+            "text": "옆구리 옆구리를 세게 꼬집어 보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "99211246",
+            "startAt": 95180,
+            "endAt": 96593,
+            "text": "아빠 못 느껴요.",
+            "speaker": 1
+        },
+        {
+            "id": "c1ea1730",
+            "startAt": 96772,
+            "endAt": 98521,
+            "text": "아, 반응이 전혀 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_okmnqr2r7co",
+            "startAt": 98174,
+            "endAt": 99011,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9cjo060i70o",
+            "startAt": 99192,
+            "endAt": 102574,
+            "text": "가슴 옷 위로 재켜보시고 가슴이나 배가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0h69654cabg",
+            "startAt": 103047,
+            "endAt": 105520,
+            "text": "규칙적으로 오르락 내리락 하는지 보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "a5554c59",
+            "startAt": 106258,
+            "endAt": 106896,
+            "text": "아니.",
+            "speaker": 1
+        },
+        {
+            "id": "ecb72536",
+            "startAt": 107707,
+            "endAt": 109888,
+            "text": "그니까 중요한 거니까 보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oum95bfpd4",
+            "startAt": 107720,
+            "endAt": 109092,
+            "text": "안 움직여요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jn3nb7necv8",
+            "startAt": 109856,
+            "endAt": 110383,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ih1qn72godo",
+            "startAt": 110120,
+            "endAt": 111247,
+            "text": "안 움, 안 움직여요?",
+            "speaker": 0
+        },
+        {
+            "id": "747b15a8",
+            "startAt": 111203,
+            "endAt": 112312,
+            "text": "안 움직여요.",
+            "speaker": 1
+        },
+        {
+            "id": "897a3d20",
+            "startAt": 112076,
+            "endAt": 114733,
+            "text": "안 움직여요? 숨을 안 쉬는 거 같다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_acr09db5nig",
+            "startAt": 113156,
+            "endAt": 113783,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "1103d6c2",
+            "startAt": 114597,
+            "endAt": 117192,
+            "text": "예. 숨을 지금 못 쉬어요, 아빠가.",
+            "speaker": 1
+        },
+        {
+            "id": "06cd40f3",
+            "startAt": 117156,
+            "endAt": 118711,
+            "text": "일단 기다려보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "10d377e1",
+            "startAt": 118767,
+            "endAt": 119484,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "7609188f",
+            "startAt": 119521,
+            "endAt": 121456,
+            "text": "끊지 마세, 전화 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "c44a60fc",
+            "startAt": 121419,
+            "endAt": 122090,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rb0p4er8nlo",
+            "startAt": 123993,
+            "endAt": 125402,
+            "text": "119 지금 불렀는데.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 중랑구 묵동",
+    "disasterLarge": "구급",
+    "disasterMedium": "심정지",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "심정지",
+        "호흡정지"
+    ],
+    "triage": "응급증상"
+}

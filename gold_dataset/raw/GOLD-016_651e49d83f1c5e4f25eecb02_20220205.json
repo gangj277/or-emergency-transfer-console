@@ -1,0 +1,379 @@
+{
+    "_id": "651e49d83f1c5e4f25eecb02",
+    "audioPath": "20230925/Seoul/2022/20220205/converted_[20220205]-[WP1139443398].wav",
+    "recordId": "41e3c4f464a8e496ad42",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 116880,
+    "utterances": [
+        {
+            "id": "6140c84b",
+            "startAt": 242,
+            "endAt": 1324,
+            "text": "사고난거 같아 이.",
+            "speaker": 1
+        },
+        {
+            "id": "80821683",
+            "startAt": 1189,
+            "endAt": 2084,
+            "text": "전화가요.",
+            "speaker": 0
+        },
+        {
+            "id": "09bd92c0",
+            "startAt": 2086,
+            "endAt": 3632,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hp22lcuu9v8",
+            "startAt": 3644,
+            "endAt": 4905,
+            "text": "여기 교통사고 났어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p21qtujdo1",
+            "startAt": 5439,
+            "endAt": 7446,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "5c96eb40",
+            "startAt": 8142,
+            "endAt": 10509,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "c277a648",
+            "startAt": 10508,
+            "endAt": 13586,
+            "text": "바로 위에 119 있거든요, 밑으로 빨리 내려 보내주세요. ",
+            "speaker": 1
+        },
+        {
+            "id": "4a741502",
+            "startAt": 12945,
+            "endAt": 15310,
+            "text": "아니요, 선생님. 뭐랑 뭐랑 부딪혔어요? ",
+            "speaker": 0
+        },
+        {
+            "id": "489ad7ed",
+            "startAt": 15433,
+            "endAt": 17339,
+            "text": "오토바이하고요. 빨리 내려와 주세요. ",
+            "speaker": 1
+        },
+        {
+            "id": "cc90701d",
+            "startAt": 16974,
+            "endAt": 18471,
+            "text": "오토바이랑 사람이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "5aaefe6b",
+            "startAt": 18720,
+            "endAt": 19817,
+            "text": "네, 네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "eb047675",
+            "startAt": 20133,
+            "endAt": 21649,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lcl8f8np2ao",
+            "startAt": 21643,
+            "endAt": 23258,
+            "text": "빨리 밑으로 빨리 보내주세요. ",
+            "speaker": 1
+        },
+        {
+            "id": "abcfe5ef",
+            "startAt": 23373,
+            "endAt": 23837,
+            "text": "역삼동. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iegli0m9kdg",
+            "startAt": 23839,
+            "endAt": 24762,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p6al67l5t",
+            "startAt": 24765,
+            "endAt": 30315,
+            "text": "선생님, 잠시만요. 저 구급차 보냈고요 선생님. 저, 환자 분 뭐 깔려있거나 그런 상황이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "d8cd0360",
+            "startAt": 30460,
+            "endAt": 32709,
+            "text": "네, 네, 지금 할머니하고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b7iu8fccim8",
+            "startAt": 31878,
+            "endAt": 32378,
+            "text": "깔려.",
+            "speaker": 0
+        },
+        {
+            "id": "adb19c89",
+            "startAt": 33201,
+            "endAt": 35659,
+            "text": "깔려있어요? 뭐 오토바이에 깔려있어요. 지금? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6jg58qvda9g",
+            "startAt": 35139,
+            "endAt": 37278,
+            "text": "아니요, 지금 여기 인도로 옮겼어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "306bfbf4",
+            "startAt": 37575,
+            "endAt": 39580,
+            "text": "옮겼어요? 할머니 의식 없어요, 혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "dcd02419",
+            "startAt": 39494,
+            "endAt": 40852,
+            "text": "네, 그런 거 같은데요.",
+            "speaker": 1
+        },
+        {
+            "id": "5181ad5c",
+            "startAt": 40862,
+            "endAt": 41559,
+            "text": "음 의식이",
+            "speaker": 0
+        },
+        {
+            "id": "6f1b18f8",
+            "startAt": 41557,
+            "endAt": 43023,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_beurq8vip98",
+            "startAt": 43020,
+            "endAt": 45913,
+            "text": "위에 위에 119 있잖아요. 빨리 좀 내려 보내주세요. 저",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jd4ptj3ppo8",
+            "startAt": 45309,
+            "endAt": 51440,
+            "text": "선생님 저희가 상황을 알아야 돼서 그래요, 구급차는 출발했고요. 그 할머니 의식 전혀 없어요? 움직임도 전혀 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8jirblkoa4",
+            "startAt": 50478,
+            "endAt": 52055,
+            "text": "네, 네, 네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "d936cc03",
+            "startAt": 52475,
+            "endAt": 55038,
+            "text": "움직임도 전혀 없고 의식도 전혀 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_imssl51b3i8",
+            "startAt": 54240,
+            "endAt": 55394,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "e2f79146",
+            "startAt": 55565,
+            "endAt": 57863,
+            "text": "알겠습니다. 그쪽으로 구급차 출발했고요.",
+            "speaker": 1
+        },
+        {
+            "id": "d66ff4f6",
+            "startAt": 57380,
+            "endAt": 58022,
+            "text": "네, 역삼동. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kui0iivokb8",
+            "startAt": 58009,
+            "endAt": 58932,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pkfmoogd9h8",
+            "startAt": 58916,
+            "endAt": 60200,
+            "text": "빨리 와주셔야 될 거 같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "1ba2e734",
+            "startAt": 60583,
+            "endAt": 64213,
+            "text": "가고 있어요 선생님. 의식이 전혀 없다는 거죠, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "0bc688dc",
+            "startAt": 61601,
+            "endAt": 66011,
+            "text": "119, 119 바로 위에 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "162c7cea",
+            "startAt": 66192,
+            "endAt": 67924,
+            "text": "가고 있어요. 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_phphmjcgio8",
+            "startAt": 66417,
+            "endAt": 67440,
+            "text": "물어보기만 하고. ",
+            "speaker": 1
+        },
+        {
+            "id": "6b067fb7",
+            "startAt": 68903,
+            "endAt": 70478,
+            "text": "바로 위에 있는 게 119인데.",
+            "speaker": 1
+        },
+        {
+            "id": "16d01edd",
+            "startAt": 70657,
+            "endAt": 71677,
+            "text": "선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "279aa362",
+            "startAt": 72278,
+            "endAt": 75043,
+            "text": "못 찾았어 지금 119. 네, 그지?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_od77k914rf8",
+            "startAt": 74579,
+            "endAt": 78448,
+            "text": "그 구급차는 출발했고요. 그 근처에 있는 게 아니라.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_klot6i1r97",
+            "startAt": 77517,
+            "endAt": 78764,
+            "text": "계속 출발만 했다고만",
+            "speaker": 1
+        },
+        {
+            "id": "b12c9652",
+            "startAt": 80081,
+            "endAt": 83919,
+            "text": "어, 출발. 어 출발했다고 하는데 계속 계속 뭘 물어봐 언니.",
+            "speaker": 1
+        },
+        {
+            "id": "67a1c995",
+            "startAt": 84593,
+            "endAt": 85373,
+            "text": "선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n4c4jnuvkh",
+            "startAt": 85087,
+            "endAt": 86456,
+            "text": " 올 생각을 안 해, 어.",
+            "speaker": 1
+        },
+        {
+            "id": "7d5efc28",
+            "startAt": 87529,
+            "endAt": 88700,
+            "text": "어머 어떡해.",
+            "speaker": 1
+        },
+        {
+            "id": "4db3ca2f",
+            "startAt": 88854,
+            "endAt": 92854,
+            "text": "구급차 가고 있는데 선생님 옆에 가까이 가실 수 있으세요? 환자 분. 혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "035575cf",
+            "startAt": 93089,
+            "endAt": 98567,
+            "text": "네, 저희 가게 앞에서 지금 오토바이 부닥쳤다. 빨리 와주셔야 될 거 같아요. 물어보기만 하지 마시고 빨리 와주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "8b3feba5",
+            "startAt": 98952,
+            "endAt": 106471,
+            "text": "선생님, 저희가 나가는 게 아니라 저희는 환자 분 상태를 파악해서 구급자한테 정확히 전달할라 그래요. 지금 구급차는 지금 출발해서 가고 있거든요?",
+            "speaker": 0
+        },
+        {
+            "id": "51b8e36e",
+            "startAt": 106156,
+            "endAt": 110741,
+            "text": "아니, 1분 거리밖에 안 되는데 왜 이렇게 안 와요? 여기 바로 119 위에 있는 건데?",
+            "speaker": 1
+        },
+        {
+            "id": "0b0d24b5",
+            "startAt": 112828,
+            "endAt": 116281,
+            "text": "그러니까 지금. 알겠습니다. 선생님. 구급차 가고 있어요. 끊을게요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 은평구 역촌동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "열상"
+    ],
+    "triage": "응급증상"
+}

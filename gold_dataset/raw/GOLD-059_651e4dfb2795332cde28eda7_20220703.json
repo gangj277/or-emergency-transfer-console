@@ -1,0 +1,234 @@
+{
+    "_id": "651e4dfb2795332cde28eda7",
+    "audioPath": "20230925/Seoul/2022/20220703/converted_[20220703]-[WU1140303851].wav",
+    "recordId": "7c097f4d50a8b9d08cad",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 77520,
+    "utterances": [
+        {
+            "id": "b8f7c367",
+            "startAt": 430,
+            "endAt": 1690,
+            "text": "2 다시 몇 호죠?",
+            "speaker": 1
+        },
+        {
+            "id": "4b60b3d6",
+            "startAt": 1641,
+            "endAt": 2934,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rq7ghgmic5",
+            "startAt": 3609,
+            "endAt": 6055,
+            "text": "네, 여, 안녕하세요, 여기 고척.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qnlbfchqua8",
+            "startAt": 6080,
+            "endAt": 7252,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2vi9ge828m8",
+            "startAt": 7270,
+            "endAt": 8634,
+            "text": "아버지 몇 호라고요?",
+            "speaker": 1
+        },
+        {
+            "id": "cba38344",
+            "startAt": 10479,
+            "endAt": 12644,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c57c8607",
+            "startAt": 12669,
+            "endAt": 13393,
+            "text": "고척동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vftq8svbqno",
+            "startAt": 13456,
+            "endAt": 15229,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_va86gb8u8ig",
+            "startAt": 15631,
+            "endAt": 16613,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "869ff0ba",
+            "startAt": 16275,
+            "endAt": 17286,
+            "text": "무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_176no4adc6",
+            "startAt": 16860,
+            "endAt": 21952,
+            "text": "저희 아버님이 어제 혼자 계셨는데 지금 가슴이 너무 답답하시고요",
+            "speaker": 1
+        },
+        {
+            "id": "6702bf48",
+            "startAt": 21917,
+            "endAt": 24297,
+            "text": "머리도 어지러우시대요.",
+            "speaker": 1
+        },
+        {
+            "id": "ae32948d",
+            "startAt": 24727,
+            "endAt": 27968,
+            "text": "예, 7년전에 뇌출혈 있으셔가지고",
+            "speaker": 1
+        },
+        {
+            "id": "5cdb6caf",
+            "startAt": 28095,
+            "endAt": 32536,
+            "text": "지금 그러시는데 되게 말씀도 약간 어눌하시고 하셔가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k7vv99a569g",
+            "startAt": 32159,
+            "endAt": 35623,
+            "text": "아, 예, 알겠어요. 응급실 가보려고 하시는데 지금 거동도 힘드신 상태라는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "e3808302",
+            "startAt": 36224,
+            "endAt": 40714,
+            "text": "예, 걷는, 걷기는 하시는데 지금 말이 조금 힘들어하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "252b0235",
+            "startAt": 40171,
+            "endAt": 41104,
+            "text": "아 예, 고척동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vd1ml9n3dh",
+            "startAt": 41151,
+            "endAt": 42524,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lurijqgn6k8",
+            "startAt": 42565,
+            "endAt": 43774,
+            "text": "몇 층 몇 호로 가면 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "e21aeb51",
+            "startAt": 44228,
+            "endAt": 49276,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1b9ef40d",
+            "startAt": 50535,
+            "endAt": 52807,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "8af7ae61",
+            "startAt": 53060,
+            "endAt": 55695,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "cc19a8d1",
+            "startAt": 56413,
+            "endAt": 60484,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1d183f60",
+            "startAt": 60605,
+            "endAt": 61746,
+            "text": "네, 예, 주택이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_30lco1pp3uo",
+            "startAt": 61560,
+            "endAt": 64924,
+            "text": "예, 알겠어요, 그쪽으로 가볼 거고 신고하신 분 따님 분이신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "59335a88",
+            "startAt": 65071,
+            "endAt": 66136,
+            "text": "며느리에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k4ot06hkbe8",
+            "startAt": 65587,
+            "endAt": 66660,
+            "text": "며느님분?",
+            "speaker": 0
+        },
+        {
+            "id": "2ba1a941",
+            "startAt": 67260,
+            "endAt": 67946,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u8f7d5gadh8",
+            "startAt": 67483,
+            "endAt": 71602,
+            "text": "예 알겠어요, 저희 그쪽으로 가볼 테니까 도착하면 안내 좀 해주세요, 구급대원들.",
+            "speaker": 0
+        },
+        {
+            "id": "fdde4e08",
+            "startAt": 72007,
+            "endAt": 73639,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 구로구 고척동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "기타",
+        "어지러움",
+        "마비"
+    ],
+    "triage": "준응급증상"
+}

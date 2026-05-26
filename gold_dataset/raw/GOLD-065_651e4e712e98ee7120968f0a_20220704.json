@@ -1,0 +1,156 @@
+{
+    "_id": "651e4e712e98ee7120968f0a",
+    "audioPath": "20230925/Seoul/2022/20220704/converted_[20220704]-[WU1140310212].wav",
+    "recordId": "72bedae63f880cc238be",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 33600,
+    "utterances": [
+        {
+            "id": "1eb94edd",
+            "startAt": 748,
+            "endAt": 1882,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "2f9895fb",
+            "startAt": 1340,
+            "endAt": 5636,
+            "text": "안녕하세요, 여기가 어 혜화 열린내과라고 하는데요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v8vqo0hirp",
+            "startAt": 5704,
+            "endAt": 6404,
+            "text": "네 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hqfqn6c2tr",
+            "startAt": 6224,
+            "endAt": 11397,
+            "text": "예 투석 받는 사람이 지금 에 멘탈이 없어서 빨리 좀 오셔야 될 거 같애요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3d2qlnub5pg",
+            "startAt": 9801,
+            "endAt": 12210,
+            "text": "네 네 네 주소가 어떻게 되세요? 주소가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e21vbiljfj",
+            "startAt": 12473,
+            "endAt": 14727,
+            "text": "어 서울시 성북구 동소문로 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m9o6m4vv1r",
+            "startAt": 14698,
+            "endAt": 15544,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_24g5gto10ug",
+            "startAt": 15533,
+            "endAt": 16071,
+            "text": "골든타워 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1995ukg4fco",
+            "startAt": 16043,
+            "endAt": 17080,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ku3cf641bbg",
+            "startAt": 17600,
+            "endAt": 19409,
+            "text": "혜화 열린내과에?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_usneog2nddo",
+            "startAt": 19342,
+            "endAt": 20697,
+            "text": "네 네 혜화 열린의원 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_195mlde6q8",
+            "startAt": 21320,
+            "endAt": 22275,
+            "text": "열린 의원?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_inblhkb584g",
+            "startAt": 22389,
+            "endAt": 23016,
+            "text": "네, 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s177pvt40bg",
+            "startAt": 23036,
+            "endAt": 23755,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dq8ccdgjm78",
+            "startAt": 23856,
+            "endAt": 26301,
+            "text": " 네 네 투석하시는 분인데 빨리 와주세요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a2hp7f7qrg",
+            "startAt": 26337,
+            "endAt": 28074,
+            "text": "예, 의식이 안 좋다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rgtivh0gpa",
+            "startAt": 27956,
+            "endAt": 28628,
+            "text": "네네, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kdfl8nsfbio",
+            "startAt": 29056,
+            "endAt": 30892,
+            "text": "알았어요 출동하겠습니다. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j38abjr9oe8",
+            "startAt": 29837,
+            "endAt": 31383,
+            "text": "네 감사합니다",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 성북구 동선동4가",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "의식장애",
+        "구토",
+        "마비"
+    ],
+    "triage": "응급증상"
+}

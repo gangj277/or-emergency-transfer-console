@@ -1,0 +1,262 @@
+{
+    "_id": "651e4c8ad24efd3f59d018a2",
+    "audioPath": "20230925/Seoul/2022/20220607/converted_[20220607]-[WT1140151581].wav",
+    "recordId": "1a69177699ca5a3aaa2d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 96720,
+    "utterances": [
+        {
+            "id": "6eec7668",
+            "startAt": 708,
+            "endAt": 1608,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "0c42db70",
+            "startAt": 1898,
+            "endAt": 3668,
+            "text": "예, 여기 그 환자가 있는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "ab5d04cf",
+            "startAt": 4138,
+            "endAt": 4688,
+            "text": "네, 네, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "8e3ab7bc",
+            "startAt": 5378,
+            "endAt": 8038,
+            "text": "저기 나비 천호동 나비 쇼핑몰 앞이요.",
+            "speaker": 1
+        },
+        {
+            "id": "78d330a3",
+            "startAt": 8898,
+            "endAt": 9868,
+            "text": "나비 쇼핑몰이요?",
+            "speaker": 0
+        },
+        {
+            "id": "73e1556e",
+            "startAt": 10128,
+            "endAt": 14958,
+            "text": "예 중 저 나비 나비요. 나비 쇼핑몰 나비.",
+            "speaker": 1
+        },
+        {
+            "id": "7cdd542a",
+            "startAt": 15463,
+            "endAt": 16630,
+            "text": "쇼핑몰 나비요?",
+            "speaker": 0
+        },
+        {
+            "id": "f8a87e4c",
+            "startAt": 16697,
+            "endAt": 17576,
+            "text": "예, ",
+            "speaker": 1
+        },
+        {
+            "id": "74a872e9",
+            "startAt": 21843,
+            "endAt": 24165,
+            "text": "아, 네, 선생님, 그 누가 어떻게 불편한 거예요 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "8c56a279",
+            "startAt": 24633,
+            "endAt": 30773,
+            "text": "아이 거기 그 로데오, 그 길거리에서 갑자기 그 저 간질 발작을 하더니요.",
+            "speaker": 1
+        },
+        {
+            "id": "055e39c2",
+            "startAt": 31135,
+            "endAt": 31635,
+            "text": "네, 네, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "b41e6336",
+            "startAt": 32503,
+            "endAt": 36953,
+            "text": "그 걸어 이게 막 건 간질 바짝 하면서 쓰러 넘어지고.",
+            "speaker": 1
+        },
+        {
+            "id": "5a5c1f72",
+            "startAt": 37263,
+            "endAt": 37553,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "f315f3ce",
+            "startAt": 38260,
+            "endAt": 41451,
+            "text": "또 넘어지고 막 그러더라고요, 입술이 파래지고.",
+            "speaker": 1
+        },
+        {
+            "id": "d38ed739",
+            "startAt": 41870,
+            "endAt": 43200,
+            "text": "현재는요, 지금 멈췄어요?",
+            "speaker": 0
+        },
+        {
+            "id": "c3c73320",
+            "startAt": 43800,
+            "endAt": 44760,
+            "text": "지금 앉아있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "327342b1",
+            "startAt": 45250,
+            "endAt": 47240,
+            "text": "아, 지금은 앉아있는 앉아있는 상태.",
+            "speaker": 0
+        },
+        {
+            "id": "4da3a91d",
+            "startAt": 47530,
+            "endAt": 55023,
+            "text": "예, 그 얼마 전에 성심병원에서 신경 신경외과에서 뇌출혈 수술하고요.",
+            "speaker": 1
+        },
+        {
+            "id": "2b114b68",
+            "startAt": 55303,
+            "endAt": 55793,
+            "text": "네, 네, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "04c3bc1c",
+            "startAt": 56173,
+            "endAt": 59463,
+            "text": "소화기내과에서 장출혈 수술하고 나왔는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "1b964749",
+            "startAt": 60143,
+            "endAt": 61123,
+            "text": "아, 네, 네, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "fe801a4d",
+            "startAt": 61363,
+            "endAt": 67708,
+            "text": "오늘 갑자기 간질 발작 하더니 그 쓰러지고서 제가 일으켜 갖고 지금 앉혀 놨거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "0c3742e7",
+            "startAt": 68028,
+            "endAt": 68638,
+            "text": "남자 분이죠?",
+            "speaker": 0
+        },
+        {
+            "id": "2df117d4",
+            "startAt": 69008,
+            "endAt": 70708,
+            "text": "네, 남자 분인데 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "0daebc1a",
+            "startAt": 70778,
+            "endAt": 72214,
+            "text": "지금은 의식도 있고. 호흡도 있죠?",
+            "speaker": 0
+        },
+        {
+            "id": "3c88c9aa",
+            "startAt": 72758,
+            "endAt": 75158,
+            "text": "아, 지금 저 호흡하기가 힘들대요.",
+            "speaker": 1
+        },
+        {
+            "id": "8053fc82",
+            "startAt": 75828,
+            "endAt": 78058,
+            "text": "아, 그니까 호흡이 있는데 지금 불편하세요?",
+            "speaker": 0
+        },
+        {
+            "id": "f786c917",
+            "startAt": 78418,
+            "endAt": 82938,
+            "text": "예, 호흡이 호흡하기가 좀 불편하고 눈이 풀렸고요.",
+            "speaker": 1
+        },
+        {
+            "id": "cf4ee55f",
+            "startAt": 83376,
+            "endAt": 88186,
+            "text": "아, 알겠습니다. 선생님 가는 동안에요, 선생님 숨 쉬는지 잘 봐주시고.",
+            "speaker": 0
+        },
+        {
+            "id": "2c9ee513",
+            "startAt": 88194,
+            "endAt": 91933,
+            "text": "혹시 시면 응급 상황이니까요. 다시 전화 주 지금 구급차 가고 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "8b711b03",
+            "startAt": 88216,
+            "endAt": 88864,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ch01snna7no",
+            "startAt": 90268,
+            "endAt": 91013,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "c642b75e",
+            "startAt": 92046,
+            "endAt": 92546,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "68807067",
+            "startAt": 93016,
+            "endAt": 93256,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강동구 천호동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "호흡곤란",
+        "어지러움",
+        "경련/발작",
+        "구토"
+    ],
+    "triage": "준응급증상"
+}

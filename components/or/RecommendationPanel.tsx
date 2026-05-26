@@ -17,24 +17,19 @@ import {
 } from "@/lib/or-ui/format";
 import { Divider, EmptyHint, InfoNote, KPI, Panel, Pill, TierBadge } from "./atoms";
 
-const decompositionPalette = {
-  travel_cost: { fg: "text-accent-ink", bg: "bg-accent", soft: "bg-accent-soft", label: "travel" },
-  bed_buffer_risk: { fg: "text-tier-medium", bg: "bg-tier-medium", soft: "bg-tier-medium-soft", label: "bed buffer" },
-  resource_margin_risk: { fg: "text-tier-high", bg: "bg-tier-high", soft: "bg-tier-high-soft", label: "resource" },
-  level_penalty: { fg: "text-tier-infeasible", bg: "bg-tier-infeasible", soft: "bg-tier-infeasible-soft", label: "level penalty" },
-  static_reliability_penalty: { fg: "text-tier-unknown", bg: "bg-tier-unknown", soft: "bg-tier-unknown-soft", label: "static reliability" },
-  hard_constraint_penalty: { fg: "text-tier-infeasible", bg: "bg-tier-infeasible/90", soft: "bg-tier-infeasible-soft", label: "hard constraint" },
+const SUBTITLE = "normalized_utility_v3 · 51개 live-capacity 후보에서 top-3 선정";
+
+// v3 desirability U = Σ weightₖ·utilityₖ. The breakdown shows each weighted
+// contribution; higher = better. Colors: time (accent), capacity (bed/medium),
+// capability (definitive-care depth, stable-green).
+const contributionPalette = {
+  time: { fg: "text-accent-ink", bg: "bg-accent", label: "time" },
+  capacity: { fg: "text-tier-medium", bg: "bg-tier-medium", label: "capacity" },
+  capability: { fg: "text-tier-stable", bg: "bg-tier-stable", label: "capability" },
 } as const;
 
-type CostKey = keyof typeof decompositionPalette;
-const costOrder: CostKey[] = [
-  "travel_cost",
-  "bed_buffer_risk",
-  "resource_margin_risk",
-  "level_penalty",
-  "static_reliability_penalty",
-  "hard_constraint_penalty",
-];
+type UtilKey = keyof typeof contributionPalette;
+const utilOrder: UtilKey[] = ["time", "capacity", "capability"];
 
 export function RecommendationPanel({
   response,
@@ -47,12 +42,12 @@ export function RecommendationPanel({
     return (
       <Panel
         title="Recommendation"
-        subtitle="capacity_buffer_v2 · 51개 live-capacity 후보에서 top-3 선정"
+        subtitle={SUBTITLE}
         meta={<span className="mono text-ink-faint">대기 중</span>}
       >
         <EmptyHint>
           좌측에서 sample case를 선택하고 <span className="mono">Run Recommendation</span>을 실행하면
-          top-3 병원 후보와 objective decomposition이 표시됩니다.
+          top-3 병원 후보와 utility decomposition이 표시됩니다.
         </EmptyHint>
       </Panel>
     );
@@ -62,7 +57,7 @@ export function RecommendationPanel({
     return (
       <Panel
         title="Recommendation"
-        subtitle="capacity_buffer_v2 · 51개 live-capacity 후보에서 top-3 선정"
+        subtitle={SUBTITLE}
         meta={<span className="mono text-ink-faint">ranking 계산 중…</span>}
       >
         <div className="flex flex-col gap-3">
@@ -86,7 +81,7 @@ export function RecommendationPanel({
   return (
     <Panel
       title="Recommendation"
-      subtitle="capacity_buffer_v2 · 51개 live-capacity 후보에서 top-3 선정"
+      subtitle={SUBTITLE}
       meta={
         <div className="flex items-center gap-2">
           <Pill tone={feasibleCount > 0 ? "ok" : "danger"} size="xs">
@@ -152,9 +147,7 @@ function FormulationHeader({ response }: { response: RecommendationResponse }) {
           candidate set: <span className="mono text-ink">{f.candidateSetPolicy}</span>
         </span>
       </div>
-      <p className="mono text-[10.5px] leading-snug text-ink-muted">
-        objective · min({f.objective.replace(/^min\s+/, "")})
-      </p>
+      <p className="mono text-[10.5px] leading-snug text-ink-muted">objective · {f.objective}</p>
       <div className="flex flex-wrap gap-1">
         {f.hardConstraints.map((c) => (
           <Pill key={c} tone="muted" size="xs">{c}</Pill>
@@ -205,10 +198,10 @@ function RankOneCard({ item }: { item: RankedHospital }) {
           </Pill>
           <div className="text-right">
             <span className="text-[10px] font-medium uppercase tracking-[0.12em] text-ink-muted">
-              total cost
+              desirability ↑
             </span>
             <div className="num text-[30px] font-semibold leading-none text-ink">
-              {fmtFloat(item.totalCost, 1)}
+              {fmtFloat(item.desirability, 3)}
             </div>
           </div>
         </div>
@@ -250,7 +243,7 @@ function RankOneCard({ item }: { item: RankedHospital }) {
 
       <Divider />
 
-      <ObjectiveDecomposition item={item} reference={item} expanded />
+      <UtilityDecomposition item={item} expanded />
 
       <DepartmentResourceCoverage item={item} />
 
@@ -281,7 +274,7 @@ function RankCompactCard({
 }) {
   const h = item.hospital.hospital;
   const { label: shortName, full: fullName } = displayHospitalName(h.hospital_name);
-  const deltaCost = reference ? item.totalCost - reference.totalCost : 0;
+  const deltaDesir = reference ? item.desirability - reference.desirability : 0;
   const deltaTime = reference ? item.estimatedTravelTimeMin - reference.estimatedTravelTimeMin : 0;
 
   return (
@@ -311,12 +304,12 @@ function RankCompactCard({
         </div>
         <div className="flex shrink-0 flex-col items-end gap-0.5">
           <div className="num text-[16px] font-semibold leading-none text-ink">
-            {fmtFloat(item.totalCost, 1)}
+            {fmtFloat(item.desirability, 3)}
           </div>
-          {reference && deltaCost !== 0 ? (
-            <span className={`num text-[10px] ${deltaCost > 0 ? "text-ink-muted" : "text-tier-stable"}`}>
-              {deltaCost > 0 ? "+" : ""}
-              {fmtFloat(deltaCost, 1)} vs #1
+          {reference && deltaDesir !== 0 ? (
+            <span className={`num text-[10px] ${deltaDesir < 0 ? "text-ink-muted" : "text-tier-stable"}`}>
+              {deltaDesir > 0 ? "+" : ""}
+              {fmtFloat(deltaDesir, 3)} vs #1
             </span>
           ) : null}
         </div>
@@ -341,7 +334,7 @@ function RankCompactCard({
 
       <TierBadge tier={item.bedBufferTier} beds={item.availableErBeds} size="sm" />
 
-      <ObjectiveDecomposition item={item} reference={reference} />
+      <UtilityDecomposition item={item} />
 
       {item.constraintViolations.length > 0 ? (
         <div className="flex flex-wrap gap-1">
@@ -372,119 +365,98 @@ function CompactStat({ label, value, delta }: { label: string; value: string; de
   );
 }
 
-function ObjectiveDecomposition({
+// Utility contribution bar: each weighted contribution (weightₖ·utilityₖ) fills
+// part of a [0,1] track; the full track is the ideal hospital (desirability = 1).
+// The dashed trailing gap is "headroom to ideal" — visually, longer fill = better.
+function UtilityDecomposition({
   item,
-  reference,
   expanded = false,
 }: {
   item: RankedHospital;
-  reference?: RankedHospital;
   expanded?: boolean;
 }) {
-  const breakdown: Record<CostKey, number> = {
-    travel_cost: item.costBreakdown.travelCost,
-    bed_buffer_risk: item.costBreakdown.bedBufferRisk,
-    resource_margin_risk: item.costBreakdown.resourceMarginRisk,
-    level_penalty: item.costBreakdown.levelPenalty,
-    static_reliability_penalty: item.costBreakdown.staticReliabilityPenalty,
-    hard_constraint_penalty: item.costBreakdown.hardConstraintPenalty,
-  };
-  const total = costOrder.reduce((sum, k) => sum + Math.max(0, breakdown[k]), 0) || 1;
-  const referenceTotal = reference
-    ? costOrder.reduce((sum, k) => {
-        const b = reference.costBreakdown;
-        const map: Record<CostKey, number> = {
-          travel_cost: b.travelCost,
-          bed_buffer_risk: b.bedBufferRisk,
-          resource_margin_risk: b.resourceMarginRisk,
-          level_penalty: b.levelPenalty,
-          static_reliability_penalty: b.staticReliabilityPenalty,
-          hard_constraint_penalty: b.hardConstraintPenalty,
-        };
-        return sum + Math.max(0, map[k]);
-      }, 0) || 1
-    : total;
-  const scaleDenominator = Math.max(total, referenceTotal);
-  const trailing = Math.max(0, scaleDenominator - total);
+  const contrib = item.scoreBreakdown;
+  const gapToIdeal = Math.max(0, 1 - item.desirability);
 
   return (
     <div className="flex flex-col gap-2">
       <div className="flex items-baseline justify-between gap-2">
         <span className="text-[10px] font-semibold uppercase tracking-[0.12em] text-ink-muted">
-          Objective decomposition
+          Utility contribution
         </span>
         <span className="num shrink-0 text-[10px] text-ink-faint">
-          {fmtFloat(total, 1)}
-          {reference && reference !== item ? ` · ref ${fmtFloat(referenceTotal, 1)}` : ""}
+          U {fmtFloat(item.desirability, 3)} / 1.000
         </span>
       </div>
       <div className="flex h-2.5 w-full overflow-hidden rounded-sm bg-surface-sunken">
-        {costOrder.map((key) => {
-          const value = Math.max(0, breakdown[key]);
+        {utilOrder.map((key) => {
+          const value = Math.max(0, contrib[key]);
           if (value === 0) return null;
-          const widthPct = (value / scaleDenominator) * 100;
           return (
             <span
               key={key}
-              className={`${decompositionPalette[key].bg} h-full`}
-              style={{ width: `${widthPct}%` }}
-              title={`${decompositionPalette[key].label}: ${fmtFloat(value, 1)}`}
+              className={`${contributionPalette[key].bg} h-full`}
+              style={{ width: `${value * 100}%` }}
+              title={`${contributionPalette[key].label}: ${fmtFloat(value, 3)}`}
             />
           );
         })}
-        {trailing > 0 ? (
+        {gapToIdeal > 0 ? (
           <span
             className="h-full border-l border-dashed border-line"
-            style={{ width: `${(trailing / scaleDenominator) * 100}%` }}
-            title="cost gap vs rank #1"
+            style={{ width: `${gapToIdeal * 100}%` }}
+            title="headroom to ideal (U=1)"
           />
         ) : null}
       </div>
       {expanded ? (
         <table className="mono w-full text-left text-[10.5px]">
+          <thead>
+            <tr className="text-[9px] uppercase tracking-[0.08em] text-ink-faint">
+              <td className="py-0.5" />
+              <td className="py-0.5 text-right">utility</td>
+              <td className="py-0.5 text-right">weight</td>
+              <td className="py-0.5 text-right">contrib</td>
+            </tr>
+          </thead>
           <tbody>
-            {costOrder.map((key) => {
-              const value = breakdown[key];
-              const palette = decompositionPalette[key];
+            {utilOrder.map((key) => {
+              const palette = contributionPalette[key];
               return (
-                <tr key={key} className="border-t border-line/70 first:border-t-0">
+                <tr key={key} className="border-t border-line/70">
                   <td className="py-1 pr-2 align-middle">
                     <span className="inline-flex items-center gap-1.5">
                       <span className={`h-1.5 w-3 rounded-sm ${palette.bg}`} />
-                      <span className={`uppercase tracking-[0.06em] ${palette.fg}`}>
-                        {palette.label}
-                      </span>
+                      <span className={`uppercase tracking-[0.06em] ${palette.fg}`}>{palette.label}</span>
                     </span>
                   </td>
-                  <td className="num py-1 text-right text-ink">{fmtFloat(value, 1)}</td>
-                  <td className="num w-12 py-1 pl-2 text-right text-ink-muted">
-                    {((value / total) * 100).toFixed(0)}%
-                  </td>
+                  <td className="num py-1 text-right text-ink">{fmtFloat(item.utilities[key], 3)}</td>
+                  <td className="num py-1 text-right text-ink-muted">{fmtFloat(item.weights[key], 2)}</td>
+                  <td className="num py-1 text-right text-ink">{fmtFloat(item.scoreBreakdown[key], 3)}</td>
                 </tr>
               );
             })}
             <tr className="border-t border-line">
               <td className="py-1 pr-2 text-[10px] font-semibold uppercase tracking-[0.08em] text-ink-muted">
-                total
-              </td>
-              <td className="num py-1 text-right text-[11.5px] font-semibold text-ink">
-                {fmtFloat(item.totalCost, 1)}
+                desirability
               </td>
               <td />
+              <td />
+              <td className="num py-1 text-right text-[11.5px] font-semibold text-ink">
+                {fmtFloat(item.desirability, 3)}
+              </td>
             </tr>
           </tbody>
         </table>
       ) : (
         <div className="flex flex-wrap gap-x-3 gap-y-1 text-[10px]">
-          {costOrder.map((key) => {
-            const value = breakdown[key];
-            if (value === 0) return null;
-            const palette = decompositionPalette[key];
+          {utilOrder.map((key) => {
+            const palette = contributionPalette[key];
             return (
               <span key={key} className="inline-flex items-center gap-1">
                 <span className={`h-1.5 w-2.5 rounded-sm ${palette.bg}`} />
                 <span className="text-ink-muted">{palette.label}</span>
-                <span className="num text-ink">{fmtFloat(value, 0)}</span>
+                <span className="num text-ink">{fmtFloat(item.utilities[key], 2)}</span>
               </span>
             );
           })}

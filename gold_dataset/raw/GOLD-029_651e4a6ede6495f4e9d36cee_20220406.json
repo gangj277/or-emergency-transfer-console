@@ -1,0 +1,254 @@
+{
+    "_id": "651e4a6ede6495f4e9d36cee",
+    "audioPath": "20230925/Seoul/2022/20220406/converted_[20220406]-[WR1139820397].wav",
+    "recordId": "3514519d3878bf17bb89",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 81480,
+    "utterances": [
+        {
+            "id": "8adb6107",
+            "startAt": 1668,
+            "endAt": 3201,
+            "text": "예, 119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "5498b7f4",
+            "startAt": 3385,
+            "endAt": 6158,
+            "text": "아, 여기 가 수유동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4k73ei58cn8",
+            "startAt": 6373,
+            "endAt": 7963,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aid7bthr7no",
+            "startAt": 7936,
+            "endAt": 9454,
+            "text": "우영빌라인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "eee843b8",
+            "startAt": 9465,
+            "endAt": 11790,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "06abe649",
+            "startAt": 12005,
+            "endAt": 18075,
+            "text": "네, 근데 아빠가 계단에서 떨어지셨는데 피 나셔서 쓰러지셨어요.",
+            "speaker": 1
+        },
+        {
+            "id": "60f4fc49",
+            "startAt": 18382,
+            "endAt": 19528,
+            "text": "의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "c5fc3793",
+            "startAt": 19860,
+            "endAt": 22619,
+            "text": "아니요, 의식도 없는 거 같은데 피 나요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hk74vu9kdc",
+            "startAt": 22309,
+            "endAt": 23527,
+            "text": "몇 층에 있어요, 몇 층?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u5ssdcnjqh",
+            "startAt": 23845,
+            "endAt": 25718,
+            "text": "지금 어 1층 로비요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_td2k6bj5t3",
+            "startAt": 25809,
+            "endAt": 26745,
+            "text": "1층 로비에?",
+            "speaker": 0
+        },
+        {
+            "id": "1fe657e6",
+            "startAt": 26737,
+            "endAt": 29437,
+            "text": "흔들어 깨워봐도 의식이 없어요, 대답도 못해요?",
+            "speaker": 0
+        },
+        {
+            "id": "1a93123c",
+            "startAt": 29618,
+            "endAt": 30318,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "e5659e72",
+            "startAt": 30385,
+            "endAt": 31695,
+            "text": "머리에서 나요, 출혈이?",
+            "speaker": 0
+        },
+        {
+            "id": "4d1ce83f",
+            "startAt": 32135,
+            "endAt": 33890,
+            "text": "네, 지금 피 나요.",
+            "speaker": 1
+        },
+        {
+            "id": "3c3d11f0",
+            "startAt": 35376,
+            "endAt": 37057,
+            "text": "흔들어도 눈도 못 떠요?",
+            "speaker": 0
+        },
+        {
+            "id": "00bc9666",
+            "startAt": 37266,
+            "endAt": 38315,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ampp17ou61",
+            "startAt": 38517,
+            "endAt": 39026,
+            "text": "아빠",
+            "speaker": 1
+        },
+        {
+            "id": "17df8d78",
+            "startAt": 39036,
+            "endAt": 41864,
+            "text": "숨은 정상적으로 쉬어요? 가슴이 오르락내리락해요?",
+            "speaker": 0
+        },
+        {
+            "id": "fdb88e3e",
+            "startAt": 42127,
+            "endAt": 43386,
+            "text": "네, 숨은 쉬어요.",
+            "speaker": 1
+        },
+        {
+            "id": "8dd9fc6c",
+            "startAt": 43993,
+            "endAt": 46215,
+            "text": "계단 몇 계단 정도 구른 거 같아요?",
+            "speaker": 0
+        },
+        {
+            "id": "bedba1e8",
+            "startAt": 46789,
+            "endAt": 49168,
+            "text": "그건 모르겠어요. 아빠가 키가 커서",
+            "speaker": 1
+        },
+        {
+            "id": "215a8b02",
+            "startAt": 49496,
+            "endAt": 51696,
+            "text": "계단 떨어지는 건 보셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "47c7f0a3",
+            "startAt": 51894,
+            "endAt": 53125,
+            "text": "아니요, 못 봤어요.",
+            "speaker": 1
+        },
+        {
+            "id": "a24c59d3",
+            "startAt": 53147,
+            "endAt": 56861,
+            "text": "그럼 계단에서 떨어진지 창문에서 떨어진지 확실히 모르는 거네요?",
+            "speaker": 0
+        },
+        {
+            "id": "3103eee9",
+            "startAt": 57316,
+            "endAt": 60548,
+            "text": "네, 아니, 여기 내려오시다가 넘어졌다",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_20ceanesqc",
+            "startAt": 59571,
+            "endAt": 60544,
+            "text": "그건 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "cba528f8",
+            "startAt": 61193,
+            "endAt": 64683,
+            "text": "네, 지금 피 흘리고 있어, 그냥 빨리 와주시면 안돼요?",
+            "speaker": 1
+        },
+        {
+            "id": "c2079062",
+            "startAt": 64150,
+            "endAt": 72958,
+            "text": "예, 차 보냈어요. 이미 차 보냈는데 네 상태를 좀 파악해야 더 그래서 가슴 오르락내리락 숨 정상적으로 잘 쉬는 건 맞죠?",
+            "speaker": 0
+        },
+        {
+            "id": "17fb023a",
+            "startAt": 73004,
+            "endAt": 73868,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "27a4562b",
+            "startAt": 74188,
+            "endAt": 77203,
+            "text": "아 네, 예, 알겠습니다. 조금만 기다리고 계세요.",
+            "speaker": 0
+        },
+        {
+            "id": "4846ec6c",
+            "startAt": 77248,
+            "endAt": 78363,
+            "text": "네, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qufm2akloho",
+            "startAt": 77898,
+            "endAt": 78762,
+            "text": "예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 강북구 수유동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증 외)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "두통",
+        "기타통증",
+        "그 밖의출혈"
+    ],
+    "triage": "준응급증상"
+}

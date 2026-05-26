@@ -1,0 +1,179 @@
+{
+    "_id": "651e4c3e8c3bda5f9fa38b1f",
+    "audioPath": "20230925/Seoul/2022/20220601/converted_[20220601]-[WT1140121171].wav",
+    "recordId": "f7a6350475f75396385f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 67440,
+    "utterances": [
+        {
+            "id": "1a87f80b",
+            "startAt": 2316,
+            "endAt": 3026,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0bqml2u6hl8",
+            "startAt": 3391,
+            "endAt": 6527,
+            "text": "아, 네, 여기 이 서대문구 명지대 일갈길",
+            "speaker": 1
+        },
+        {
+            "id": "5382b31c",
+            "startAt": 6510,
+            "endAt": 8126,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "28e7742f",
+            "startAt": 8828,
+            "endAt": 10698,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "d442d7e2",
+            "startAt": 10858,
+            "endAt": 14918,
+            "text": "네, 네, 저 응, 여 응급차 좀 불러주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "2f54a18e",
+            "startAt": 15308,
+            "endAt": 16098,
+            "text": "무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "08b9efb5",
+            "startAt": 16258,
+            "endAt": 25703,
+            "text": "예, 지금 남편이 오, 오늘 하루 종일 토하고 막 그랬는데 지금 도저히 예, 못 견뎌해가서. 병원에 가야 될 거 같고.",
+            "speaker": 1
+        },
+        {
+            "id": "a38037fb",
+            "startAt": 25095,
+            "endAt": 28613,
+            "text": "그 말고 다른 증상은 없으세요? 뭐 어디가 제일 아프다고 말씀하세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kham8kl5338",
+            "startAt": 26936,
+            "endAt": 27518,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "fa28bb04",
+            "startAt": 28677,
+            "endAt": 36281,
+            "text": "어 계속 토하고 이 이 가슴 있는 데가 아프고 지금 어 네.",
+            "speaker": 1
+        },
+        {
+            "id": "a0584c95",
+            "startAt": 36979,
+            "endAt": 38114,
+            "text": "배가 아프신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "b330443d",
+            "startAt": 38439,
+            "endAt": 38789,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_be717uisjio",
+            "startAt": 39406,
+            "endAt": 39860,
+            "text": "배가?",
+            "speaker": 1
+        },
+        {
+            "id": "e7bd61bc",
+            "startAt": 39581,
+            "endAt": 40425,
+            "text": "배가 아프세요?",
+            "speaker": 0
+        },
+        {
+            "id": "a0c1f06b",
+            "startAt": 40559,
+            "endAt": 43169,
+            "text": "아니요, 저기 계속 토하고.",
+            "speaker": 1
+        },
+        {
+            "id": "b88e8799",
+            "startAt": 44044,
+            "endAt": 44334,
+            "text": "응.",
+            "speaker": 0
+        },
+        {
+            "id": "8df6fd21",
+            "startAt": 44624,
+            "endAt": 53702,
+            "text": "토하고 어 음식 음식물 같 어. 근데 아 자꾸 빨간 빨간.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g7jlpv3ol58",
+            "startAt": 54075,
+            "endAt": 56466,
+            "text": "음 음 거 피노.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7ui9fisrdeo",
+            "startAt": 57323,
+            "endAt": 60377,
+            "text": "피인지 피 아닌지 잘 모르겠는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9lfq3phodfo",
+            "startAt": 60995,
+            "endAt": 63677,
+            "text": "계속 토하는데 빨간 물을 토해요.",
+            "speaker": 1
+        },
+        {
+            "id": "a621cffa",
+            "startAt": 64960,
+            "endAt": 66365,
+            "text": "알겠습니다. 기다리세요.",
+            "speaker": 0
+        },
+        {
+            "id": "73fad4bd",
+            "startAt": 65718,
+            "endAt": 66750,
+            "text": "네. 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 서대문구 남가좌동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "복통",
+        "호흡곤란",
+        "토혈",
+        "가슴불편감",
+        "혈변"
+    ],
+    "triage": "준응급증상"
+}

@@ -1,0 +1,239 @@
+{
+    "_id": "651e4a8805085d58eeeb1766",
+    "audioPath": "20230925/Seoul/2022/20220407/converted_[20220407]-[WR1139822885].wav",
+    "recordId": "93ca694b1212d25b8e24",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 82080,
+    "utterances": [
+        {
+            "id": "f0866631",
+            "startAt": 877,
+            "endAt": 1730,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "cdb3b777",
+            "startAt": 2195,
+            "endAt": 2915,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "8621f582",
+            "startAt": 3265,
+            "endAt": 3775,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "755fa45a",
+            "startAt": 4455,
+            "endAt": 7067,
+            "text": "아, 여기 제 와이프가.",
+            "speaker": 1
+        },
+        {
+            "id": "70e0d76e",
+            "startAt": 7197,
+            "endAt": 7757,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "ec153af8",
+            "startAt": 8277,
+            "endAt": 11707,
+            "text": "이렇게, 38 임신한 상태고 38주인데.",
+            "speaker": 1
+        },
+        {
+            "id": "760cfac6",
+            "startAt": 12007,
+            "endAt": 12347,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "1f556a14",
+            "startAt": 12927,
+            "endAt": 14237,
+            "text": "지금 양성이구요.",
+            "speaker": 1
+        },
+        {
+            "id": "2b73baaf",
+            "startAt": 14727,
+            "endAt": 16127,
+            "text": "네, 확진자세요?",
+            "speaker": 0
+        },
+        {
+            "id": "4b9d49bf",
+            "startAt": 15581,
+            "endAt": 18003,
+            "text": "그 예 예, 확진자인데 지금 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t3t7a45tfjo",
+            "startAt": 19006,
+            "endAt": 20479,
+            "text": "출혈이 좀 있고 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rekto969sjo",
+            "startAt": 21015,
+            "endAt": 22706,
+            "text": "근육통이 좀 오는 거 같아서.",
+            "speaker": 1
+        },
+        {
+            "id": "075372aa",
+            "startAt": 23860,
+            "endAt": 28850,
+            "text": "어, 병원 어디에서 뭐 그 애기 낳기로 한 병원 있어요, 임신 되시고서?",
+            "speaker": 0
+        },
+        {
+            "id": "66311561",
+            "startAt": 29460,
+            "endAt": 33550,
+            "text": "아, 그 강서 리지메디병원에 하려 했었는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "3fb19e26",
+            "startAt": 39853,
+            "endAt": 41633,
+            "text": "가진통 오고 피도 비쳐요?",
+            "speaker": 0
+        },
+        {
+            "id": "db81284b",
+            "startAt": 42307,
+            "endAt": 45817,
+            "text": "예 예, 피가 계속 예, 나 나고 있습니다. 조금씩이요.",
+            "speaker": 1
+        },
+        {
+            "id": "962f12a0",
+            "startAt": 47291,
+            "endAt": 48941,
+            "text": "선생님 주소 어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "dc8a80d0",
+            "startAt": 50241,
+            "endAt": 52841,
+            "text": "아, 그리고 저도 지금 확진자라서.",
+            "speaker": 1
+        },
+        {
+            "id": "372bab59",
+            "startAt": 53431,
+            "endAt": 54671,
+            "text": "예, 일단 주소 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "8af1efbb",
+            "startAt": 55281,
+            "endAt": 58294,
+            "text": "서울시, 강서구 화곡로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_psemru4tnag",
+            "startAt": 58751,
+            "endAt": 59105,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0dpeb9r4cgo",
+            "startAt": 59432,
+            "endAt": 60055,
+            "text": "10길에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4oqli7vcdco",
+            "startAt": 60038,
+            "endAt": 60751,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "f64e5243",
+            "startAt": 61877,
+            "endAt": 62490,
+            "text": "7길에",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o7j77ia3neg",
+            "startAt": 62484,
+            "endAt": 62949,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "5b54a5bf",
+            "startAt": 63386,
+            "endAt": 64485,
+            "text": "예 예, 금호하이빌",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2mnd7bjk95o",
+            "startAt": 64469,
+            "endAt": 65153,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "cd5252ce",
+            "startAt": 69644,
+            "endAt": 72674,
+            "text": "거기서는 저 출산 못한대요? 다니시던 병원은?",
+            "speaker": 0
+        },
+        {
+            "id": "a651cae4",
+            "startAt": 73044,
+            "endAt": 76174,
+            "text": "예 예, 거 확진 격리가 해지돼야지만 출산할 수 있다고.",
+            "speaker": 1
+        },
+        {
+            "id": "04712c6f",
+            "startAt": 78329,
+            "endAt": 80579,
+            "text": "일단 차 보내봤어요. 기다려보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "ece695ea",
+            "startAt": 81099,
+            "endAt": 81739,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강서구 화곡동",
+    "disasterLarge": "구급",
+    "disasterMedium": "약물중독",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "분만진통",
+        "그 밖의출혈"
+    ],
+    "triage": "잠재응급증상"
+}

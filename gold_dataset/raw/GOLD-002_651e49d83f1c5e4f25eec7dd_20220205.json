@@ -1,0 +1,182 @@
+{
+    "_id": "651e49d83f1c5e4f25eec7dd",
+    "audioPath": "20230925/Seoul/2022/20220205/converted_[20220205]-[WP1139443395].wav",
+    "recordId": "42897ef49088654f7bac",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 42600,
+    "utterances": [
+        {
+            "id": "2bddb5e3",
+            "startAt": 964,
+            "endAt": 1704,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "9e32c46f",
+            "startAt": 2328,
+            "endAt": 5296,
+            "text": "여보세요. 지금 응급상태. 저기 입에서 거품이 나오고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "5484490b",
+            "startAt": 5140,
+            "endAt": 6500,
+            "text": "구급차요, 주소가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "448b6097",
+            "startAt": 7544,
+            "endAt": 8354,
+            "text": "여기 주소요?",
+            "speaker": 1
+        },
+        {
+            "id": "16f133a2",
+            "startAt": 8393,
+            "endAt": 8755,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "1cbc62ed",
+            "startAt": 9359,
+            "endAt": 10279,
+            "text": "광진구.",
+            "speaker": 1
+        },
+        {
+            "id": "35346b4b",
+            "startAt": 10417,
+            "endAt": 11157,
+            "text": "광진구.",
+            "speaker": 0
+        },
+        {
+            "id": "f9801044",
+            "startAt": 11689,
+            "endAt": 13189,
+            "text": "검나 도로 30 나길.",
+            "speaker": 1
+        },
+        {
+            "id": "7944224b",
+            "startAt": 13484,
+            "endAt": 15164,
+            "text": "30나벨에 나길이요? 예.",
+            "speaker": 0
+        },
+        {
+            "id": "7b2396eb",
+            "startAt": 15391,
+            "endAt": 16282,
+            "text": "30나길",
+            "speaker": 1
+        },
+        {
+            "id": "16c43110",
+            "startAt": 16289,
+            "endAt": 18191,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "67804c8c",
+            "startAt": 19226,
+            "endAt": 19987,
+            "text": "다하임아트빌",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5v4t620254o",
+            "startAt": 20008,
+            "endAt": 22081,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "cfaa04f6",
+            "startAt": 22105,
+            "endAt": 23065,
+            "text": "남자에요, 여자에요?",
+            "speaker": 0
+        },
+        {
+            "id": "6d6d3b8f",
+            "startAt": 23343,
+            "endAt": 24211,
+            "text": "여자에요.",
+            "speaker": 1
+        },
+        {
+            "id": "04b34309",
+            "startAt": 24200,
+            "endAt": 26169,
+            "text": "지금 의식은 있어요? 의식 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "d3a021e0",
+            "startAt": 25836,
+            "endAt": 27823,
+            "text": "네, 없습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "f6d6e40d",
+            "startAt": 26830,
+            "endAt": 28500,
+            "text": "호흡은요? 숨은 쉬고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "45b00661",
+            "startAt": 28442,
+            "endAt": 29456,
+            "text": "호흡 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "abc9e2e4",
+            "startAt": 29443,
+            "endAt": 30310,
+            "text": "호흡이 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "7de60f60",
+            "startAt": 30223,
+            "endAt": 31183,
+            "text": "심호흡해야 되나?",
+            "speaker": 1
+        },
+        {
+            "id": "d2c0c7bb",
+            "startAt": 31692,
+            "endAt": 34692,
+            "text": "출동 할 거고요, 간호사하고 의료지도 연결할 거예요, 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "1b2ace43",
+            "startAt": 35071,
+            "endAt": 35612,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 광진구 구의동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "기타부정",
+    "symptom": [
+        "경련/발작"
+    ],
+    "triage": "잠재응급증상"
+}

@@ -1,0 +1,147 @@
+{
+    "_id": "651e4f9dddc447a00994554b",
+    "audioPath": "20230925/Seoul/2022/20220904/converted_[20220904]-[WW1140750998].wav",
+    "recordId": "737f019e24e5adf85d4c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 40440,
+    "utterances": [
+        {
+            "id": "f63e9cc3",
+            "startAt": 320,
+            "endAt": 1628,
+            "text": "네, 119 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "14810daf",
+            "startAt": 1664,
+            "endAt": 4310,
+            "text": "네, 여기 돈암동 월곡로 6길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mld6ard8cl8",
+            "startAt": 4355,
+            "endAt": 6283,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c6716246",
+            "startAt": 6267,
+            "endAt": 8161,
+            "text": "잠깐만요, 월곡로 6길",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_795nk50qu1o",
+            "startAt": 8131,
+            "endAt": 12513,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "7333e06d",
+            "startAt": 12482,
+            "endAt": 13880,
+            "text": "누가 아픈 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nf5pfa7b2qo",
+            "startAt": 12871,
+            "endAt": 13281,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "eebae9a4",
+            "startAt": 13919,
+            "endAt": 17328,
+            "text": "엄마가 원래 공황 장애랑 협심증을 같이",
+            "speaker": 1
+        },
+        {
+            "id": "f0e3b0fd",
+            "startAt": 16661,
+            "endAt": 19848,
+            "text": "어머니. 지금 증세, 지금 증세만 얘기해줘요.",
+            "speaker": 0
+        },
+        {
+            "id": "0690e9ec",
+            "startAt": 19220,
+            "endAt": 25168,
+            "text": "저기, 공황. 어제 저녁부터 공황장애 그 증상이 계속 나타난 것 같은데. 계속",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t9eg5ikomhg",
+            "startAt": 23959,
+            "endAt": 25614,
+            "text": "지금도 공황장애.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dp6uiv5nucg",
+            "startAt": 25742,
+            "endAt": 31124,
+            "text": "근데 밤새 계속 이어지고, 지금은 자기가 느끼기를 좀 가슴 통증이 있다고 그래서요.",
+            "speaker": 1
+        },
+        {
+            "id": "6b95ee6a",
+            "startAt": 29779,
+            "endAt": 32995,
+            "text": "그 열나거나 기침 나거나 감기 증세 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ltmlslnrtvg",
+            "startAt": 32969,
+            "endAt": 34251,
+            "text": "그런 건 따로 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sdupch5qgeg",
+            "startAt": 33761,
+            "endAt": 36451,
+            "text": "집에 확진자나 자가격리자 없으시고요?",
+            "speaker": 0
+        },
+        {
+            "id": "75ba7ae8",
+            "startAt": 36407,
+            "endAt": 36874,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "b23da59a",
+            "startAt": 36834,
+            "endAt": 39110,
+            "text": "네, 출동 나갔으니까 기다려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "eeb0e10a",
+            "startAt": 39086,
+            "endAt": 39626,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 성북구 종암동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "경련/발작"
+    ],
+    "triage": "준응급증상"
+}

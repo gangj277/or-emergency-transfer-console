@@ -1,0 +1,255 @@
+{
+    "_id": "651e4c8ad24efd3f59d018ed",
+    "audioPath": "20230925/Seoul/2022/20220607/converted_[20220607]-[WT1140149862].wav",
+    "recordId": "1c1f3339c3c1bb377fbe",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 59760,
+    "utterances": [
+        {
+            "id": "5dc7205d",
+            "startAt": 10822,
+            "endAt": 11462,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "db43d0c5",
+            "startAt": 11533,
+            "endAt": 13176,
+            "text": "네, 그 건물에서 사람이 떨어졌 ",
+            "speaker": 0
+        },
+        {
+            "id": "d153545e",
+            "startAt": 13169,
+            "endAt": 14423,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_antce222s58",
+            "startAt": 14495,
+            "endAt": 14995,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "770e1eb4",
+            "startAt": 14995,
+            "endAt": 18385,
+            "text": "에서 떨어졌어요. 근데 그 위치가. 선생님 지나가다 보고 신고하신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "69b6d9a6",
+            "startAt": 18529,
+            "endAt": 18982,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "82ca23ba",
+            "startAt": 19280,
+            "endAt": 20719,
+            "text": "선생님. 뭐 지나가다 보신 거 아.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_llvdesjdvo8",
+            "startAt": 20581,
+            "endAt": 24980,
+            "text": "소리가 나가지고 나와보니까. 저희 여기 모텔이거든요. 모텔 투숙객이었는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p4s2u2vjgjg",
+            "startAt": 25133,
+            "endAt": 26060,
+            "text": "네. 모텔. 모텔.",
+            "speaker": 0
+        },
+        {
+            "id": "5cff4ebc",
+            "startAt": 25744,
+            "endAt": 26370,
+            "text": "떨어졌어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_no3k6rg7oa",
+            "startAt": 26544,
+            "endAt": 26899,
+            "text": "모텔",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tv89j0dfms",
+            "startAt": 26889,
+            "endAt": 27380,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "4a4d999b",
+            "startAt": 27367,
+            "endAt": 30031,
+            "text": "떨어졌어요? 선생님, 그 혹시 옆에 다가가실 수 있겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "d4f44ee5",
+            "startAt": 29975,
+            "endAt": 31307,
+            "text": "예, 바로 앞에 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "96b4b203",
+            "startAt": 31399,
+            "endAt": 33886,
+            "text": "아, 그래요. 선생님, 그 모텔 이름이 뭐예요? 모텔 이름 저.",
+            "speaker": 0
+        },
+        {
+            "id": "8e01c517",
+            "startAt": 33333,
+            "endAt": 34969,
+            "text": "예, 럭스 호텔이요. 럭스 호텔.",
+            "speaker": 1
+        },
+        {
+            "id": "0b063f66",
+            "startAt": 35042,
+            "endAt": 36066,
+            "text": "럭비 호텔?",
+            "speaker": 0
+        },
+        {
+            "id": "75c1d7c2",
+            "startAt": 36188,
+            "endAt": 38811,
+            "text": "럭스. 도봉구청 앞에 있는 거요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kose4r5h058",
+            "startAt": 37568,
+            "endAt": 37759,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "9ab4b477",
+            "startAt": 39166,
+            "endAt": 41755,
+            "text": "도봉구청 앞에 있는 호텔을 주소가 그러면.",
+            "speaker": 0
+        },
+        {
+            "id": "d35f78a1",
+            "startAt": 41775,
+            "endAt": 43197,
+            "text": "상계 그 노원구 상계동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7atr8peumj",
+            "startAt": 41895,
+            "endAt": 42250,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lpm0gqkkmhg",
+            "startAt": 43174,
+            "endAt": 44028,
+            "text": "[개인정보]\t",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d4omksed62o",
+            "startAt": 43970,
+            "endAt": 44534,
+            "text": "맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "4bf0e99f",
+            "startAt": 44802,
+            "endAt": 46066,
+            "text": "[개인정보]\t",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hqn9kd7ir2o",
+            "startAt": 46322,
+            "endAt": 47531,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "59b40aef",
+            "startAt": 47531,
+            "endAt": 50708,
+            "text": "선생님. 저 의료진 좀 연결 좀 할게요. 선생님 전화 끊지.말아주세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e1u6das41do",
+            "startAt": 47751,
+            "endAt": 48160,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "b14e0c9f",
+            "startAt": 50449,
+            "endAt": 51098,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i1kjk696j18",
+            "startAt": 53149,
+            "endAt": 54395,
+            "text": "아저씨 괜찮아요?",
+            "speaker": 1
+        },
+        {
+            "id": "82be8f3d",
+            "startAt": 55461,
+            "endAt": 56771,
+            "text": "의식 있어요? 그분?",
+            "speaker": 0
+        },
+        {
+            "id": "ab77a513",
+            "startAt": 56888,
+            "endAt": 58696,
+            "text": "약간 움직여요, 움직이기는.",
+            "speaker": 1
+        },
+        {
+            "id": "cacb96ba",
+            "startAt": 58519,
+            "endAt": 59669,
+            "text": "움직임 있어요? 연결.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 노원구 상계동",
+    "disasterLarge": "구급",
+    "disasterMedium": "심정지",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "심정지",
+        "호흡정지",
+        "골절",
+        "열상"
+    ],
+    "triage": "응급증상"
+}

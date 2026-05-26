@@ -1,0 +1,9 @@
+{
+  "runId": "gold-100-live",
+  "generatedAt": "2026-05-26T05:06:23.358Z",
+  "sourcePath": "/Users/gangjimin/Documents/main_dev/school/OR확정/demo-app/gold_dataset/gold_cases.json",
+  "outputPath": "/Users/gangjimin/Documents/main_dev/school/OR확정/demo-app/outputs/gold-e2e/gold-100-live/inputs/gold_cases_with_synthetic_locations.json",
+  "locationSetVersion": "seoul_balanced_v1",
+  "caseCount": 100,
+  "note": "Synthetic Seoul coordinates for OR ranking experiments; source addresses are not used."
+}

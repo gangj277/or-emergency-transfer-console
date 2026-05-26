@@ -1,10 +1,18 @@
 export const incidentTypes = [
+  // trauma / surgical (retained — fixtures, tests, and UI depend on these)
   "fall_head_injury",
   "fall_orthopedic",
   "traffic_trauma",
   "blunt_abdominal_trauma",
   "minor_head_injury_anticoagulant",
   "other_trauma",
+  // medical high-acuity (added to match the real Seoul 119 case distribution)
+  "cardiac_arrest",
+  "stroke",
+  "respiratory_failure",
+  "seizure",
+  "cardiac",
+  "gi_bleeding",
 ] as const;
 
 export const departments = [
@@ -13,6 +21,11 @@ export const departments = [
   "orthopedics",
   "general_surgery",
   "trauma_surgery",
+  // medical specialties
+  "cardiology",
+  "neurology",
+  "pulmonology",
+  "internal_medicine",
 ] as const;
 
 export const resources = [
@@ -22,6 +35,12 @@ export const resources = [
   "surgery_capability",
   "bleeding_control",
   "trauma_resuscitation",
+  // medical critical-care resources (mapped to already-collected live capacity signals)
+  "cath_lab_pci",
+  "thrombectomy_thrombolysis",
+  "airway_ventilation",
+  "defibrillation_resuscitation",
+  "critical_care",
 ] as const;
 
 export const hospitalLevels = [

@@ -1,0 +1,193 @@
+{
+    "_id": "651e4bc5df6bf0d825aa54e1",
+    "audioPath": "20230925/Seoul/2022/20220505/converted_[20220505]-[WS1139973939].wav",
+    "recordId": "76b513ea0c7c7053b98a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 77040,
+    "utterances": [
+        {
+            "id": "42ba3d98",
+            "startAt": 412,
+            "endAt": 1192,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "dd722a74",
+            "startAt": 2083,
+            "endAt": 7173,
+            "text": "아, 네, 저 지금 저 저 아버지께서 조금 편찮으셔가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "37cfe8ca",
+            "startAt": 7223,
+            "endAt": 8173,
+            "text": "어디가 안 좋으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "856f75b8",
+            "startAt": 8203,
+            "endAt": 10677,
+            "text": "네, 병원 좀 응급실 좀 가야 될 거 같은데요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_si5ovht3cm8",
+            "startAt": 10864,
+            "endAt": 12021,
+            "text": "그니까 어디가 아프",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mm18kbn3mkg",
+            "startAt": 11785,
+            "endAt": 14492,
+            "text": "아산병원, 아산병 아산병원으로 가야 될 거 같은데요.",
+            "speaker": 1
+        },
+        {
+            "id": "0b2019c1",
+            "startAt": 14613,
+            "endAt": 17303,
+            "text": "구급대랑 상의하셔야 되고요. 아버님 어디가 안 좋으신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d4t48s36q9g",
+            "startAt": 17398,
+            "endAt": 21532,
+            "text": "아, 지금 막 지금 저 변에 저 피가 많이 좀 나세요",
+            "speaker": 1
+        },
+        {
+            "id": "d15152d3",
+            "startAt": 22214,
+            "endAt": 28742,
+            "text": "그 아니요, 파열 지금 약간 좀 파열이 있으세요 수술을 좀 하셨거든요, 아산병원에서",
+            "speaker": 1
+        },
+        {
+            "id": "9101e1e3",
+            "startAt": 28231,
+            "endAt": 32041,
+            "text": "변에서 피가 나오는 거예요, 아니면 그냥 항문에서 피가 흐르는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "2b780ba6",
+            "startAt": 32221,
+            "endAt": 37483,
+            "text": "어디 지금 어디서 나는 거 같애요. 피가 어디서 나는지 정확히 모르겠는데 피가 좀 많이 났어요 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aue1q5i9f88",
+            "startAt": 37869,
+            "endAt": 40319,
+            "text": "하혈 지금 하 저 하혈을 좀 많이 하셨어요.",
+            "speaker": 1
+        },
+        {
+            "id": "4e96121e",
+            "startAt": 40410,
+            "endAt": 41310,
+            "text": "의식은 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "89824fac",
+            "startAt": 41750,
+            "endAt": 42810,
+            "text": "네, 의식은 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "cb01dd29",
+            "startAt": 42804,
+            "endAt": 43887,
+            "text": "거기 주소 좀 불러주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "05afe610",
+            "startAt": 44220,
+            "endAt": 51237,
+            "text": "네, 여기 저 훼민, 저 문 저 송파구 문정동 훼미리 아파트",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vn0pj1mfnt",
+            "startAt": 51470,
+            "endAt": 53305,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "685c5114",
+            "startAt": 53969,
+            "endAt": 55459,
+            "text": "아버님 무슨 수술 하셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "c57e0fcd",
+            "startAt": 55749,
+            "endAt": 63840,
+            "text": "아, 저희 저 그 저 장 뭐 뭐지? 췌장 췌장 쪽을 좀 췌장암",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gk4i0nl9seo",
+            "startAt": 64172,
+            "endAt": 67500,
+            "text": "담도 담도암 좀 있으셔가지고 수술 좀 하셨거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "cdc0f47a",
+            "startAt": 68076,
+            "endAt": 71056,
+            "text": "아, 선생님, 일단 구급차 가니까 좀 기다리고 계시고요.",
+            "speaker": 0
+        },
+        {
+            "id": "99d2d992",
+            "startAt": 71213,
+            "endAt": 71969,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "a4224ad8",
+            "startAt": 72016,
+            "endAt": 73336,
+            "text": "아, 병원 갈 준비하고 계세요 ",
+            "speaker": 0
+        },
+        {
+            "id": "fd211b1e",
+            "startAt": 73493,
+            "endAt": 75033,
+            "text": "예, 알겠습니다, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 송파구 문정동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증 외)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "복통",
+        "기타",
+        "전신쇠약",
+        "어지러움",
+        "혈변"
+    ],
+    "triage": "응급증상"
+}

@@ -1,0 +1,276 @@
+{
+    "_id": "651e4f6d06957f3443ecf87e",
+    "audioPath": "20230925/Seoul/2022/20220902/converted_[20220902]-[WW1140738311].wav",
+    "recordId": "6a45a7ab28c4dce544a3",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 77400,
+    "utterances": [
+        {
+            "id": "93e21e91",
+            "startAt": 196,
+            "endAt": 1772,
+            "text": "119입니다 연결됐습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "ad4a2cd2",
+            "startAt": 2007,
+            "endAt": 7726,
+            "text": "예, 저 강서 경찰서 뒤에 그 금호, 거 공사 현장 있거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "3c841200",
+            "startAt": 7856,
+            "endAt": 9296,
+            "text": "금호 공사 현장이요?",
+            "speaker": 0
+        },
+        {
+            "id": "a4fdbba8",
+            "startAt": 9380,
+            "endAt": 11620,
+            "text": "예 예, 사람이 지금 크게 다쳐갖고요.",
+            "speaker": 1
+        },
+        {
+            "id": "823654b0",
+            "startAt": 11583,
+            "endAt": 12888,
+            "text": "남성분이에요, 여성분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "9293aa92",
+            "startAt": 13681,
+            "endAt": 14432,
+            "text": "남자요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k79bdgm353",
+            "startAt": 14424,
+            "endAt": 19051,
+            "text": "남성분? 잠시만요. 그 금호 올린 퍼스트 아파트 공사 현장 말씀하시는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mvn9q3l2hbo",
+            "startAt": 18389,
+            "endAt": 19644,
+            "text": " 예, 예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "58bbdc18",
+            "startAt": 19303,
+            "endAt": 25008,
+            "text": "아, 선생님, 지금 차량, 예, 뭔지 어딘지 알고요. 차량 보내는데요. 남성분 지금 의식이나 이런 거 어때요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oh95r96svao",
+            "startAt": 20051,
+            "endAt": 20942,
+            "text": "금호.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_naktn4ha8mg",
+            "startAt": 25849,
+            "endAt": 27449,
+            "text": "어떻게, 에, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0chg9uthfco",
+            "startAt": 26016,
+            "endAt": 26898,
+            "text": "지금 저.",
+            "speaker": 1
+        },
+        {
+            "id": "a847db15",
+            "startAt": 27560,
+            "endAt": 32904,
+            "text": "아이 저 저기 그 기계 포크레인에 좀 좀 부닺쳤나 머리를 부닺쳤어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0rthevn356g",
+            "startAt": 32327,
+            "endAt": 33782,
+            "text": "아, 그래요, 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fig41sngkco",
+            "startAt": 33873,
+            "endAt": 34427,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "6c1614c4",
+            "startAt": 34330,
+            "endAt": 36333,
+            "text": "선생님 의식은? 부르면, 눈 떠요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pb2cvkvrln",
+            "startAt": 37740,
+            "endAt": 38585,
+            "text": "눈 안 떠요?",
+            "speaker": 0
+        },
+        {
+            "id": "452fd188",
+            "startAt": 39013,
+            "endAt": 41340,
+            "text": "아, 지금 제가 옆에서 전화해갖고.",
+            "speaker": 1
+        },
+        {
+            "id": "ac4f79cd",
+            "startAt": 41333,
+            "endAt": 44621,
+            "text": "아 예, 선생님 차량 보냈고요, 의식이랑 호흡 상태 좀 봐주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ck5e3o5eb7",
+            "startAt": 42180,
+            "endAt": 42807,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "6d13088f",
+            "startAt": 45183,
+            "endAt": 45533,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "4c6b0cff",
+            "startAt": 45517,
+            "endAt": 47619,
+            "text": "의식 있는지 좀 봐주세요. 차량은 보냈어요.",
+            "speaker": 0
+        },
+        {
+            "id": "f766f036",
+            "startAt": 48502,
+            "endAt": 49160,
+            "text": "예 예",
+            "speaker": 1
+        },
+        {
+            "id": "1227ff1d",
+            "startAt": 49096,
+            "endAt": 51537,
+            "text": "예, 의식 있는지 좀 봐주세요, 부르면 눈 뜨는지.",
+            "speaker": 0
+        },
+        {
+            "id": "a6e1ee9e",
+            "startAt": 52831,
+            "endAt": 56498,
+            "text": "아, 지금 눈은 떠요? 눈은 떠요? 예, 눈은 뜬답니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u2aupfln5bg",
+            "startAt": 56244,
+            "endAt": 57789,
+            "text": "아, 알겠습니다. 지금.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u36mhil4br",
+            "startAt": 58087,
+            "endAt": 58560,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_739sks8mjgg",
+            "startAt": 58455,
+            "endAt": 60618,
+            "text": "그 사, 공사 현장으로 차량 보냈구요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qvrj0fujtk",
+            "startAt": 60740,
+            "endAt": 61549,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "45b0e980",
+            "startAt": 61207,
+            "endAt": 65060,
+            "text": "조금만 기다려주시고 머리에 깨끗한 수건이랑 거즈 같은 걸로 지혈 좀 하시고.",
+            "speaker": 0
+        },
+        {
+            "id": "1fee1893",
+            "startAt": 65224,
+            "endAt": 65985,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "2ebc9c99",
+            "startAt": 65893,
+            "endAt": 69470,
+            "text": "선생님, 그 뭐 구조가 필요하거나 이런 건 없죠. 구급차만 가면 되는 거 맞죠?",
+            "speaker": 0
+        },
+        {
+            "id": "c072c5f9",
+            "startAt": 69453,
+            "endAt": 70492,
+            "text": "예, 예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "59d025db",
+            "startAt": 70377,
+            "endAt": 72355,
+            "text": "가고 있습니다. 가고 있다고 말씀 좀 해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "fe565cd1",
+            "startAt": 72681,
+            "endAt": 73422,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "fb63d129",
+            "startAt": 73155,
+            "endAt": 73823,
+            "text": "예, 예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강서구 화곡동",
+    "disasterLarge": "구급",
+    "disasterMedium": "부상",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "기타통증",
+        "열상",
+        "찰과상",
+        "타박상"
+    ],
+    "triage": "응급증상"
+}

@@ -1,0 +1,219 @@
+{
+    "_id": "651e464d69a4f266f0626c43",
+    "audioPath": "20230925/Seoul/2022/20220101/converted_[20220101]-[WO1139273853].wav",
+    "recordId": "c5ef70f82c241320c16f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 62640,
+    "utterances": [
+        {
+            "id": "78245b5f",
+            "startAt": 640,
+            "endAt": 3138,
+            "text": "119 상황실입니다, 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "3894200b",
+            "startAt": 3229,
+            "endAt": 8964,
+            "text": "아 예, 신랑이 숨을 못 셔가지고, 갑자기. 너무 힘들어하는데.",
+            "speaker": 1
+        },
+        {
+            "id": "c72fdfed",
+            "startAt": 9158,
+            "endAt": 11575,
+            "text": "예, 알겠습니다. 그 주소 어떻게 되세요, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "da812efa",
+            "startAt": 11815,
+            "endAt": 12591,
+            "text": "어, 방학동.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4bvoeq35ab8",
+            "startAt": 12588,
+            "endAt": 14468,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "aaf76dce",
+            "startAt": 14448,
+            "endAt": 17266,
+            "text": "잠시만요, 위치 함보게요, 방학동?",
+            "speaker": 0
+        },
+        {
+            "id": "60184894",
+            "startAt": 16618,
+            "endAt": 17254,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jeaff0jc1ng",
+            "startAt": 17256,
+            "endAt": 19474,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1a56d2b0",
+            "startAt": 19457,
+            "endAt": 22201,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "de8dcf74",
+            "startAt": 22394,
+            "endAt": 24036,
+            "text": "위치 한번 볼게요. 선생님",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jr625q17sp",
+            "startAt": 24556,
+            "endAt": 25013,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4aohddv37ig",
+            "startAt": 24863,
+            "endAt": 26620,
+            "text": "이 몇 층 몇 호로 가면 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3nvs6i99rpg",
+            "startAt": 26947,
+            "endAt": 28265,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "a2aef893",
+            "startAt": 28259,
+            "endAt": 29082,
+            "text": "아, 다세대",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jv71gcqaru8",
+            "startAt": 29063,
+            "endAt": 29824,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ul9ghrm54l8",
+            "startAt": 29795,
+            "endAt": 31641,
+            "text": "그 남편분께서는 의식은 어떠세요?",
+            "speaker": 0
+        },
+        {
+            "id": "f35a4179",
+            "startAt": 32265,
+            "endAt": 36287,
+            "text": "식은땀 흘리고 기침을 하고, 가슴이 너무아 쪼여와서",
+            "speaker": 1
+        },
+        {
+            "id": "7ef84eb4",
+            "startAt": 36316,
+            "endAt": 39791,
+            "text": "예, 알겠습니다. 그 혹시 열도 나세요? 발열?",
+            "speaker": 0
+        },
+        {
+            "id": "4bfaa5d5",
+            "startAt": 38975,
+            "endAt": 40274,
+            "text": "열은 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qcq15nkiu4o",
+            "startAt": 40384,
+            "endAt": 42927,
+            "text": "코로나 관련해서? 아, 열은 없으시고",
+            "speaker": 0
+        },
+        {
+            "id": "ef92327e",
+            "startAt": 42288,
+            "endAt": 45735,
+            "text": "응 그거 없고 지금 식은땀이 나고, 차요",
+            "speaker": 1
+        },
+        {
+            "id": "ad3f75c1",
+            "startAt": 44493,
+            "endAt": 47830,
+            "text": "지병도 없으, 없으신데 갑자기 그러시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9b0p4g5pdv8",
+            "startAt": 47679,
+            "endAt": 48634,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_25tbmvvt7ng",
+            "startAt": 48861,
+            "endAt": 50725,
+            "text": "아, 알겠습니다. 저희가요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6ok8u4rkij",
+            "startAt": 49770,
+            "endAt": 55898,
+            "text": "아니, 의식이 없거나 그런 거는 아닌데, 힘이 없어 가지고, 어떻게 혼자를 못들겠어 가지고",
+            "speaker": 1
+        },
+        {
+            "id": "9a52bd26",
+            "startAt": 55576,
+            "endAt": 60260,
+            "text": "아, 예, 알겠습니다. 저희가 응급처치 한번 알려드릴 테니까, 전화 끊지 마세요, 선생님",
+            "speaker": 0
+        },
+        {
+            "id": "bade61ec",
+            "startAt": 60163,
+            "endAt": 60910,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "f17225e3",
+            "startAt": 60463,
+            "endAt": 61938,
+            "text": "차는 출동 했습니다",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 도봉구 방학동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "호흡곤란",
+        "기침"
+    ],
+    "triage": "응급증상"
+}

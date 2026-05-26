@@ -1,0 +1,148 @@
+{
+    "_id": "651e4be244870884abc47754",
+    "audioPath": "20230925/Seoul/2022/20220506/converted_[20220506]-[WS1139979012].wav",
+    "recordId": "1554bccc54a9840471e8",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 32759.999999999996,
+    "utterances": [
+        {
+            "id": "4f0cf9e4",
+            "startAt": 578,
+            "endAt": 1433,
+            "text": "119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ermm9fam0r",
+            "startAt": 900,
+            "endAt": 3009,
+            "text": "예, 119죠?",
+            "speaker": 1
+        },
+        {
+            "id": "83a8e734",
+            "startAt": 3276,
+            "endAt": 3766,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "03a37afe",
+            "startAt": 4151,
+            "endAt": 5773,
+            "text": "여기 교통사고 나서요.",
+            "speaker": 1
+        },
+        {
+            "id": "eff41d44",
+            "startAt": 6178,
+            "endAt": 7641,
+            "text": "네, 예, 위치가 어디죠?",
+            "speaker": 0
+        },
+        {
+            "id": "be5f7736",
+            "startAt": 7222,
+            "endAt": 8257,
+            "text": "여기 강 강서로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kocoqogdmbg",
+            "startAt": 8257,
+            "endAt": 9439,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "030641de",
+            "startAt": 9951,
+            "endAt": 12382,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "5112a36d",
+            "startAt": 12391,
+            "endAt": 13979,
+            "text": "예, 여기 강서로.",
+            "speaker": 1
+        },
+        {
+            "id": "e269c64f",
+            "startAt": 14091,
+            "endAt": 15553,
+            "text": "예, 뭐랑 뭐가 부딪혔어요?",
+            "speaker": 0
+        },
+        {
+            "id": "1c0245eb",
+            "startAt": 15791,
+            "endAt": 19271,
+            "text": "자동 자, 자동차랑 자전거 사람 지금 경기 일으키고 난리도 아닌데요.",
+            "speaker": 1
+        },
+        {
+            "id": "bf2c4746",
+            "startAt": 19652,
+            "endAt": 20992,
+            "text": "지금 뭐 깔려있거나 그런가요?",
+            "speaker": 0
+        },
+        {
+            "id": "dc4d70db",
+            "startAt": 21342,
+            "endAt": 24219,
+            "text": "깔려있진 않아요, 바닥에 누워있어요. 빨리 오셔야 될 거 같애요.",
+            "speaker": 1
+        },
+        {
+            "id": "6cb63b31",
+            "startAt": 24492,
+            "endAt": 26577,
+            "text": "예, 알겠습니다. 차 출발했구요.",
+            "speaker": 0
+        },
+        {
+            "id": "03b27715",
+            "startAt": 25835,
+            "endAt": 27832,
+            "text": "예예예, 경기 일으키고 있어요 예.",
+            "speaker": 1
+        },
+        {
+            "id": "edf6c5d5",
+            "startAt": 26917,
+            "endAt": 28286,
+            "text": "의식은 있어요 의식?",
+            "speaker": 0
+        },
+        {
+            "id": "90c1689d",
+            "startAt": 28662,
+            "endAt": 31565,
+            "text": "의식은 있는데 지금 계속 경기 일으켜요 빨리 오셔야 될 것 같아.",
+            "speaker": 1
+        },
+        {
+            "id": "e05a93e9",
+            "startAt": 30786,
+            "endAt": 32162,
+            "text": "예, 알았어요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강서구 화곡동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "흉통",
+        "호흡곤란"
+    ],
+    "triage": "응급증상"
+}

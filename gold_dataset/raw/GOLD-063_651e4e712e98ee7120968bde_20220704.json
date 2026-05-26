@@ -1,0 +1,190 @@
+{
+    "_id": "651e4e712e98ee7120968bde",
+    "audioPath": "20230925/Seoul/2022/20220704/converted_[20220704]-[WU1140312250].wav",
+    "recordId": "f8d9f0ff0c922722bba0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 63720,
+    "utterances": [
+        {
+            "id": "c802ccad",
+            "startAt": 680,
+            "endAt": 2067,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "b1e51b28",
+            "startAt": 2266,
+            "endAt": 5676,
+            "text": "어, 안녕하세요. 여기 양천 어르신 종합복지관 요양센터인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "df2a4484",
+            "startAt": 6051,
+            "endAt": 7548,
+            "text": "네, 양천 노인종합복지관?",
+            "speaker": 0
+        },
+        {
+            "id": "9a76a58d",
+            "startAt": 7931,
+            "endAt": 9931,
+            "text": "병설 양천 어르신 요양센터인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "f8cf5ad0",
+            "startAt": 10041,
+            "endAt": 10561,
+            "text": "네네.",
+            "speaker": 0
+        },
+        {
+            "id": "a4ce5f63",
+            "startAt": 11055,
+            "endAt": 19025,
+            "text": "할머니가 지금 숨이 되게 가파요. 식사를 하시려고 들어갔는데. 산소포화도도 지금 90 밑으로 떨어지거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "ce5e9ddd",
+            "startAt": 19194,
+            "endAt": 21033,
+            "text": "어, 할머니 의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "8f9fdf2a",
+            "startAt": 21795,
+            "endAt": 26049,
+            "text": "원래가, 원래 다, 아, 의식은 있으세요. 원래 말이 좀 없고 그렇긴 하신데.",
+            "speaker": 1
+        },
+        {
+            "id": "a1a93b56",
+            "startAt": 26180,
+            "endAt": 28050,
+            "text": "예, 기침이나 열, 가래 증상은요?",
+            "speaker": 0
+        },
+        {
+            "id": "45b58cd8",
+            "startAt": 28860,
+            "endAt": 34591,
+            "text": "한, 할머니가 지금 맥박이 조금 높아요. 95, 체온은 37도까지 올라가시고요.",
+            "speaker": 1
+        },
+        {
+            "id": "5dee862f",
+            "startAt": 34775,
+            "endAt": 36425,
+            "text": "네, 몇 층이에요, 거기가?",
+            "speaker": 0
+        },
+        {
+            "id": "ca2df6f4",
+            "startAt": 36893,
+            "endAt": 38147,
+            "text": "어, 복지관 병설",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_09j12dph99o",
+            "startAt": 38137,
+            "endAt": 38874,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "d6e5363f",
+            "startAt": 39623,
+            "endAt": 40670,
+            "text": "병설요양원",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ea82vvbhqco",
+            "startAt": 40647,
+            "endAt": 41428,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "c7806b11",
+            "startAt": 41556,
+            "endAt": 42213,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "efe456cf",
+            "startAt": 42322,
+            "endAt": 46516,
+            "text": "네, 병원 갈 준비하고 계세요? 저희 구급차. 가기 전, 가기.",
+            "speaker": 0
+        },
+        {
+            "id": "77ff59ab",
+            "startAt": 45273,
+            "endAt": 52608,
+            "text": "네, 오실, 오실 때 삐요삐요 안 했으면 좋겠어. 할머니들이 동조 돼서 삐요삐요는 안 하시고 오셨으면 감사하겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "e690ccf5",
+            "startAt": 52874,
+            "endAt": 57043,
+            "text": "거기 가서 끌게요. 만일에 가다가 사고 나면 저희, 전적으로 저희 책임이어서.",
+            "speaker": 0
+        },
+        {
+            "id": "5e33cbf2",
+            "startAt": 56929,
+            "endAt": 57508,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "328a36f3",
+            "startAt": 57248,
+            "endAt": 58919,
+            "text": "그게 좀 애매모호해요.",
+            "speaker": 0
+        },
+        {
+            "id": "800acafa",
+            "startAt": 58879,
+            "endAt": 60940,
+            "text": "예, 여기 오셔서 꺼주세요, 그러면.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6r72933g8h",
+            "startAt": 60811,
+            "endAt": 61820,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1vjj55ri6u",
+            "startAt": 61684,
+            "endAt": 62211,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 양천구 신정동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "호흡곤란"
+    ],
+    "triage": "응급증상"
+}

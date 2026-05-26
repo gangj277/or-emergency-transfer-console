@@ -1,0 +1,169 @@
+{
+    "_id": "651e4e89429d02dab45a2e30",
+    "audioPath": "20230925/Seoul/2022/20220707/converted_[20220707]-[WU1140329550].wav",
+    "recordId": "ebd458bd45397f75944f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 42960,
+    "utterances": [
+        {
+            "id": "54650f00",
+            "startAt": 11346,
+            "endAt": 12059,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "a16c7593",
+            "startAt": 11869,
+            "endAt": 14286,
+            "text": "예, 예 구급차 출동했고요, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "f4a1e213",
+            "startAt": 14485,
+            "endAt": 15173,
+            "text": "예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "39438885",
+            "startAt": 14994,
+            "endAt": 16853,
+            "text": "지금 뭐 뭔 차에 깔려 있어요, 뭔 차에?",
+            "speaker": 0
+        },
+        {
+            "id": "c7269e6b",
+            "startAt": 17204,
+            "endAt": 21133,
+            "text": "차를 그냥 들었는데, 의식이 하나도 없으시네, 큰일 났네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_su538tvmhoo",
+            "startAt": 19493,
+            "endAt": 20030,
+            "text": "예?",
+            "speaker": 0
+        },
+        {
+            "id": "0523207c",
+            "startAt": 21266,
+            "endAt": 23459,
+            "text": "차를 들었다고요? 승용차에 깔려있는 사람이.",
+            "speaker": 0
+        },
+        {
+            "id": "9d98a668",
+            "startAt": 23577,
+            "endAt": 27484,
+            "text": "예 밑에 계신데, 예, 차 차를 들어서 위로 그냥 올려놨는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fr5mcr4k6kg",
+            "startAt": 23962,
+            "endAt": 24825,
+            "text": "들어, 들.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sdm4dt2qm2g",
+            "startAt": 27003,
+            "endAt": 29098,
+            "text": "아 오, 아 그래요, 차를 치웠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "176c7180",
+            "startAt": 29591,
+            "endAt": 30711,
+            "text": "차를 치웠는데 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "2f0b6fa2",
+            "startAt": 31116,
+            "endAt": 32066,
+            "text": "의식이 없다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rr87h1ne5ng",
+            "startAt": 32260,
+            "endAt": 33110,
+            "text": "그래서 그이.",
+            "speaker": 0
+        },
+        {
+            "id": "7127c751",
+            "startAt": 32416,
+            "endAt": 33276,
+            "text": "예, 아.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p3jsfqlnprg",
+            "startAt": 33351,
+            "endAt": 34371,
+            "text": "숨 숨을 안 쉬어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7tp2okkb60g",
+            "startAt": 34291,
+            "endAt": 35191,
+            "text": "숨을 못 쉬시고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_39lnbmvtpd",
+            "startAt": 34891,
+            "endAt": 35831,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_932dhmtr4uo",
+            "startAt": 35131,
+            "endAt": 37381,
+            "text": "예 알았어요. 알았어 알았어 알았어. 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "d2f82f38",
+            "startAt": 37556,
+            "endAt": 41196,
+            "text": "자 구급차 출동 했고, 자 의료지도 받 의료지도, 의료지도 연결할게요.",
+            "speaker": 0
+        },
+        {
+            "id": "293afdfc",
+            "startAt": 41636,
+            "endAt": 42026,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "cf589597",
+            "startAt": 42126,
+            "endAt": 42956,
+            "text": "저 의료지도 연결할.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 동대문구 제기동",
+    "disasterLarge": "구급",
+    "disasterMedium": "사고",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "심정지",
+        "호흡정지"
+    ],
+    "triage": "응급증상"
+}

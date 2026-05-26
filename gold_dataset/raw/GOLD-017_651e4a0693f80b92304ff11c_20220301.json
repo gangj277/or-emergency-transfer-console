@@ -1,0 +1,399 @@
+{
+    "_id": "651e4a0693f80b92304ff11c",
+    "audioPath": "20230925/Seoul/2022/20220301/converted_[20220301]-[WQ1139578051].wav",
+    "recordId": "ff9aabc1e904f398d8da",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 103440,
+    "utterances": [
+        {
+            "id": "3c21eb6f",
+            "startAt": 482,
+            "endAt": 2425,
+            "text": "119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "95da330f",
+            "startAt": 2203,
+            "endAt": 4896,
+            "text": "예, 뭐 좀 문의 좀 드릴려고 하는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "f5e9a4a2",
+            "startAt": 4753,
+            "endAt": 6053,
+            "text": "예, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_if6mnd7pf3o",
+            "startAt": 5073,
+            "endAt": 7818,
+            "text": "장 장 예, 장인어른이 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "4a430541",
+            "startAt": 8394,
+            "endAt": 12025,
+            "text": "눈동자 위로 올라가셔가지고 곧 돌아가실 거 같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "df892e37",
+            "startAt": 11976,
+            "endAt": 15953,
+            "text": "선생님, 숨 쉬는 거 안 쉬어요? 장인어은 70대요, 80대요?",
+            "speaker": 0
+        },
+        {
+            "id": "d6826da3",
+            "startAt": 16407,
+            "endAt": 17823,
+            "text": "19, 90대에요.",
+            "speaker": 1
+        },
+        {
+            "id": "7f217b3b",
+            "startAt": 17906,
+            "endAt": 21716,
+            "text": "선생님, 지금 눈동자 돌아가고 숨 쉬는 거 한 번만 확인해보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "930e480f",
+            "startAt": 21373,
+            "endAt": 23285,
+            "text": "숨 쉬는거 가쁘게 쉬어요, 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "f5b027be",
+            "startAt": 23298,
+            "endAt": 26315,
+            "text": "가쁘게 쉬는데 가슴이 오르락내락 움직여요?",
+            "speaker": 0
+        },
+        {
+            "id": "6973a48f",
+            "startAt": 25509,
+            "endAt": 26942,
+            "text": "예, 예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "70384cea",
+            "startAt": 27082,
+            "endAt": 29273,
+            "text": "가슴 움직이는 건 눈으로 보여요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d7kihfulmno",
+            "startAt": 29565,
+            "endAt": 30192,
+            "text": "그까.",
+            "speaker": 1
+        },
+        {
+            "id": "939e7a86",
+            "startAt": 30339,
+            "endAt": 33459,
+            "text": "옆에서 보면은 이거 들쑥날쑥해요.",
+            "speaker": 1
+        },
+        {
+            "id": "2c0d348b",
+            "startAt": 33533,
+            "endAt": 38567,
+            "text": "들쑥날쑥이 계속해서 있다는 거죠? 자 그 차 자극에 반응은 없고요?",
+            "speaker": 0
+        },
+        {
+            "id": "e9dff6ba",
+            "startAt": 38774,
+            "endAt": 41751,
+            "text": "예, 뭘 물어봐도 대답이 없으시고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b1d7qh7sgq",
+            "startAt": 41801,
+            "endAt": 43611,
+            "text": "눈동자 위로 올라가 계신데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_63h1c0l2mpg",
+            "startAt": 44102,
+            "endAt": 44965,
+            "text": "선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e9b40des7p",
+            "startAt": 44947,
+            "endAt": 45847,
+            "text": "그.",
+            "speaker": 0
+        },
+        {
+            "id": "804a2f25",
+            "startAt": 45877,
+            "endAt": 50124,
+            "text": "한 번 숨 쉬고 몰아 쉬는 건 아니고 계속 빠르게 계속해서 숨을 쉰다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "4a9a24dd",
+            "startAt": 48914,
+            "endAt": 50060,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cqlhfejvbb",
+            "startAt": 50074,
+            "endAt": 50884,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "0d53aed0",
+            "startAt": 50863,
+            "endAt": 53023,
+            "text": "선생님, 그 주소 알려주세요, 주소.",
+            "speaker": 0
+        },
+        {
+            "id": "d6685734",
+            "startAt": 53316,
+            "endAt": 55843,
+            "text": "지금 그 PCR 검사 갈 수 있어요?",
+            "speaker": 1
+        },
+        {
+            "id": "2d387c23",
+            "startAt": 56156,
+            "endAt": 61340,
+            "text": "PCR 검사하러 가실 수는 없구요. 지 그 응급실 가실려고 하시는 거 아니에요? 저희 구급차 타고?",
+            "speaker": 0
+        },
+        {
+            "id": "6ede0967",
+            "startAt": 60061,
+            "endAt": 62642,
+            "text": "예, 예, 맞아요, 저거 어제도.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tppjh0hlns",
+            "startAt": 62857,
+            "endAt": 64430,
+            "text": "며칠전에도 그니까.",
+            "speaker": 1
+        },
+        {
+            "id": "41007d04",
+            "startAt": 63183,
+            "endAt": 65746,
+            "text": "선생님 주소 알려달라고요, 주소.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_78ruapev3g8",
+            "startAt": 65802,
+            "endAt": 67711,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ojoqg8ba7v8",
+            "startAt": 67675,
+            "endAt": 68939,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_iqtmb6uanio",
+            "startAt": 68975,
+            "endAt": 70202,
+            "text": "예, 신사동.",
+            "speaker": 1
+        },
+        {
+            "id": "92cd7925",
+            "startAt": 70173,
+            "endAt": 71578,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e48fd12b",
+            "startAt": 71830,
+            "endAt": 73241,
+            "text": "선생님 다시요.",
+            "speaker": 0
+        },
+        {
+            "id": "e4fb297f",
+            "startAt": 73724,
+            "endAt": 75061,
+            "text": "은평구.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1rtsafqvtng",
+            "startAt": 73730,
+            "endAt": 74894,
+            "text": "신사동.",
+            "speaker": 1
+        },
+        {
+            "id": "b7b03009",
+            "startAt": 75088,
+            "endAt": 76568,
+            "text": "은평구 신사동.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_thc01q1hr28",
+            "startAt": 75284,
+            "endAt": 76312,
+            "text": "그 신사동.",
+            "speaker": 1
+        },
+        {
+            "id": "72d8455c",
+            "startAt": 76546,
+            "endAt": 78141,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9cki8oskv2o",
+            "startAt": 78003,
+            "endAt": 79230,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8bkoniphv78",
+            "startAt": 79239,
+            "endAt": 79694,
+            "text": "신사동.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_90bkp0tfpuo",
+            "startAt": 79666,
+            "endAt": 80776,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "9c242734",
+            "startAt": 80743,
+            "endAt": 81869,
+            "text": "몇 층 몇 호?",
+            "speaker": 0
+        },
+        {
+            "id": "c7a75efc",
+            "startAt": 82639,
+            "endAt": 85061,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uvjrjuhiuuo",
+            "startAt": 85039,
+            "endAt": 85594,
+            "text": "신사동.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v9met2poh1g",
+            "startAt": 85576,
+            "endAt": 86348,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_idq92ffvg5g",
+            "startAt": 86321,
+            "endAt": 87321,
+            "text": "갈꺼고요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e95pkdl7k98",
+            "startAt": 87358,
+            "endAt": 92331,
+            "text": "일단 저희 구급차 도착하기 전에 아버지 의식 없어지신다던가. 호흡 없어지시면.",
+            "speaker": 0
+        },
+        {
+            "id": "a22a315f",
+            "startAt": 92388,
+            "endAt": 93925,
+            "text": "저희한테 빠르게 신고해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8sgrmj1tg6",
+            "startAt": 93885,
+            "endAt": 95185,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "9047c509",
+            "startAt": 95173,
+            "endAt": 96198,
+            "text": "예, 예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "5935c232",
+            "startAt": 96526,
+            "endAt": 100209,
+            "text": "알겠습니다. 지금 뭐 알겠습니다. 일단 응급실로 가실 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "bf06a929",
+            "startAt": 100141,
+            "endAt": 101126,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "5718e2ae",
+            "startAt": 100866,
+            "endAt": 102502,
+            "text": "예, 예, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "d40c5060",
+            "startAt": 102381,
+            "endAt": 103140,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 은평구 신사동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "호흡곤란"
+    ],
+    "triage": "준응급증상"
+}

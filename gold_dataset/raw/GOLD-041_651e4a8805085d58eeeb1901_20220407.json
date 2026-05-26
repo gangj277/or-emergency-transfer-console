@@ -1,0 +1,323 @@
+{
+    "_id": "651e4a8805085d58eeeb1901",
+    "audioPath": "20230925/Seoul/2022/20220407/converted_[20220407]-[WR1139824996].wav",
+    "recordId": "794ce6d354bc2d6e0ea1",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 117120,
+    "utterances": [
+        {
+            "id": "wavesurfer_e6f1nra651o",
+            "startAt": 740,
+            "endAt": 2048,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_52kcpjlitc",
+            "startAt": 2890,
+            "endAt": 6091,
+            "text": "아, 예 보 여기 도봉 실버 센터구요.",
+            "speaker": 1
+        },
+        {
+            "id": "3f79669e",
+            "startAt": 5977,
+            "endAt": 6577,
+            "text": "어디요?",
+            "speaker": 0
+        },
+        {
+            "id": "f65523c1",
+            "startAt": 6497,
+            "endAt": 8867,
+            "text": "여보세요? 도봉 실버 센터.",
+            "speaker": 1
+        },
+        {
+            "id": "4b39dc5e",
+            "startAt": 8865,
+            "endAt": 10157,
+            "text": "도봉 실버 센터.",
+            "speaker": 0
+        },
+        {
+            "id": "639702b2",
+            "startAt": 10687,
+            "endAt": 12637,
+            "text": "네, 네, 남자 어르신이구요.",
+            "speaker": 1
+        },
+        {
+            "id": "b6770a84",
+            "startAt": 12627,
+            "endAt": 13127,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "241d2b7f",
+            "startAt": 13437,
+            "endAt": 18107,
+            "text": "어르신 산소포화도가 지금 74에서 81이구요.",
+            "speaker": 1
+        },
+        {
+            "id": "4f769e10",
+            "startAt": 18177,
+            "endAt": 19227,
+            "text": "의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "4882ece4",
+            "startAt": 18697,
+            "endAt": 21147,
+            "text": "맥박은. 의식은 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "40e0dd49",
+            "startAt": 21383,
+            "endAt": 22443,
+            "text": "산소포화도 70?",
+            "speaker": 0
+        },
+        {
+            "id": "f826d398",
+            "startAt": 23254,
+            "endAt": 24937,
+            "text": "74에서 81 ",
+            "speaker": 1
+        },
+        {
+            "id": "6be6de93",
+            "startAt": 25285,
+            "endAt": 28021,
+            "text": "의식 없어요? 원래 없어요? 지금 없어진 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "96dc1c13",
+            "startAt": 28859,
+            "endAt": 30419,
+            "text": "지금 없어진 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "1be6bd0d",
+            "startAt": 30126,
+            "endAt": 31036,
+            "text": "숨은 쉬어요?",
+            "speaker": 0
+        },
+        {
+            "id": "aac5d2d2",
+            "startAt": 32043,
+            "endAt": 36593,
+            "text": "숨은 쉬어요, 숨은 쉬고요. 맥박이 112구요.",
+            "speaker": 1
+        },
+        {
+            "id": "a8df84d6",
+            "startAt": 39912,
+            "endAt": 41461,
+            "text": "네, 도봉 실버 센터요?",
+            "speaker": 0
+        },
+        {
+            "id": "67db3a78",
+            "startAt": 41902,
+            "endAt": 42552,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "209e3e23",
+            "startAt": 42605,
+            "endAt": 45041,
+            "text": "잠시만요, 몇 층 몇 호로 가야 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "c6c869fd",
+            "startAt": 45482,
+            "endAt": 47412,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "5ea09a3e",
+            "startAt": 47771,
+            "endAt": 48406,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3dao6vqsi9o",
+            "startAt": 52206,
+            "endAt": 54699,
+            "text": "혹시 열나거나 기침 나거나 코로나 증상 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "b670d0b7",
+            "startAt": 55210,
+            "endAt": 56507,
+            "text": "미결정 났어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gt10bujpj5",
+            "startAt": 62395,
+            "endAt": 63526,
+            "text": "29년생.",
+            "speaker": 1
+        },
+        {
+            "id": "b3ee780a",
+            "startAt": 63695,
+            "endAt": 65155,
+            "text": "오늘 미결정이 난 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n7becis2bn",
+            "startAt": 66822,
+            "endAt": 69999,
+            "text": "아니요, 오늘 미결정이 아니었어요. 잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lq3be814ivg",
+            "startAt": 78024,
+            "endAt": 79285,
+            "text": "지금 오실 수 있나요?",
+            "speaker": 1
+        },
+        {
+            "id": "8e8974fa",
+            "startAt": 79718,
+            "endAt": 81080,
+            "text": "네, 지금 바로 출동했어요.",
+            "speaker": 0
+        },
+        {
+            "id": "0d8cb57b",
+            "startAt": 81753,
+            "endAt": 86332,
+            "text": "네, 잠깐만요 미결정은 저희가 언제 통보받았는지 확인 좀 할게요.",
+            "speaker": 1
+        },
+        {
+            "id": "ea40c99c",
+            "startAt": 86519,
+            "endAt": 88336,
+            "text": "그럼 그다음에 검사 다시 안 하셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "d4f5c52b",
+            "startAt": 90047,
+            "endAt": 91177,
+            "text": "아니요, 내일 해요.",
+            "speaker": 1
+        },
+        {
+            "id": "870099ac",
+            "startAt": 92320,
+            "endAt": 93411,
+            "text": "도봉실버센터.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jijd65vd2fo",
+            "startAt": 92522,
+            "endAt": 93562,
+            "text": "네 잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jnn2anssm2o",
+            "startAt": 93560,
+            "endAt": 94845,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hthd272k9ug",
+            "startAt": 95091,
+            "endAt": 95807,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j6b525hlb1g",
+            "startAt": 100630,
+            "endAt": 105054,
+            "text": "지금 어르신 의식이 그 없거든요, 반응이.",
+            "speaker": 1
+        },
+        {
+            "id": "525937f4",
+            "startAt": 105282,
+            "endAt": 107379,
+            "text": "아예 없어요? 숨은 정상적으로 쉬어요?",
+            "speaker": 0
+        },
+        {
+            "id": "2ce2bd6a",
+            "startAt": 107567,
+            "endAt": 108851,
+            "text": "예, 숨은 쉬어요.",
+            "speaker": 1
+        },
+        {
+            "id": "1ba8a803",
+            "startAt": 109741,
+            "endAt": 112356,
+            "text": "정상적으로 쉬어요? 규칙적으로 가슴 오르락 내리락?",
+            "speaker": 0
+        },
+        {
+            "id": "994a8073",
+            "startAt": 111367,
+            "endAt": 113210,
+            "text": "네, 네. 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "6314a2cc",
+            "startAt": 113132,
+            "endAt": 114976,
+            "text": "아, 예, 알겠습니다. 출동했어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bkpchunmgrg",
+            "startAt": 114200,
+            "endAt": 114945,
+            "text": "잠깐만.",
+            "speaker": 1
+        },
+        {
+            "id": "6c3f8ac2",
+            "startAt": 115416,
+            "endAt": 116136,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 도봉구 방학동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "호흡곤란"
+    ],
+    "triage": "응급증상"
+}

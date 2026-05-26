@@ -1,0 +1,161 @@
+{
+    "_id": "651e4c5b48bae907503799b6",
+    "audioPath": "20230925/Seoul/2022/20220602/converted_[20220602]-[WT1140123299].wav",
+    "recordId": "77ec99dff6c954adfa0f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 36240,
+    "utterances": [
+        {
+            "id": "52ed9646",
+            "startAt": 459,
+            "endAt": 1499,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "2bd08e97",
+            "startAt": 1614,
+            "endAt": 3458,
+            "text": "여기 강남 원데이 치과 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d0llglsuapo",
+            "startAt": 3745,
+            "endAt": 4772,
+            "text": "2관인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "598b101b",
+            "startAt": 4898,
+            "endAt": 6568,
+            "text": "원데이 치과 2관이요?",
+            "speaker": 0
+        },
+        {
+            "id": "a30fe69d",
+            "startAt": 6777,
+            "endAt": 7304,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "0ac197fa",
+            "startAt": 8014,
+            "endAt": 10734,
+            "text": "원데이치과 2관 에.",
+            "speaker": 0
+        },
+        {
+            "id": "7c04cc9c",
+            "startAt": 10847,
+            "endAt": 13861,
+            "text": "네, 여기 환자분이 원래 투석 중이셨는 투석",
+            "speaker": 1
+        },
+        {
+            "id": "bd067ae2",
+            "startAt": 14060,
+            "endAt": 21800,
+            "text": "환자분이신데 이틀전에 수술 받고 갑자기 호흡하기 힘들다고 하시고 또 심장도 빨리 뛰고 혈압이 좀 높게 나와.",
+            "speaker": 1
+        },
+        {
+            "id": "3ff497bf",
+            "startAt": 20439,
+            "endAt": 21599,
+            "text": "지금 의식은요?",
+            "speaker": 0
+        },
+        {
+            "id": "a9ee9593",
+            "startAt": 21952,
+            "endAt": 23524,
+            "text": "있으세요, 의식은 다 있으세요",
+            "speaker": 1
+        },
+        {
+            "id": "81a4651e",
+            "startAt": 22825,
+            "endAt": 26139,
+            "text": "아 알겠어요, 바로 보낼게요. 몇 층으로 가면 되죠?",
+            "speaker": 0
+        },
+        {
+            "id": "10861ac6",
+            "startAt": 26350,
+            "endAt": 27227,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5pn3lsjh06g",
+            "startAt": 27362,
+            "endAt": 28243,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8ueesvnrtdo",
+            "startAt": 28416,
+            "endAt": 28989,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "578861f9",
+            "startAt": 28623,
+            "endAt": 30054,
+            "text": "저건가요, 남자분인가요?",
+            "speaker": 0
+        },
+        {
+            "id": "fdeb74a0",
+            "startAt": 30045,
+            "endAt": 31243,
+            "text": "네, 남자분이세요.",
+            "speaker": 1
+        },
+        {
+            "id": "403dc75e",
+            "startAt": 30973,
+            "endAt": 33087,
+            "text": "아, 알겠습니다, 바로 보내겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "9a836b3a",
+            "startAt": 33057,
+            "endAt": 33713,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "cd5087ad",
+            "startAt": 33777,
+            "endAt": 34362,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "fbf1a642",
+            "startAt": 34928,
+            "endAt": 35568,
+            "text": "바로 온대.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 강남구 역삼동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "호흡곤란"
+    ],
+    "triage": "잠재응급증상"
+}

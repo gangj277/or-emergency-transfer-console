@@ -1,0 +1,183 @@
+{
+    "_id": "651e4bc5df6bf0d825aa55b7",
+    "audioPath": "20230925/Seoul/2022/20220505/converted_[20220505]-[WS1139970575].wav",
+    "recordId": "14707f10aa56519c1be5",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 55320,
+    "utterances": [
+        {
+            "id": "27de3238",
+            "startAt": 620,
+            "endAt": 1671,
+            "text": "119상황실 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "3b5e7d2d",
+            "startAt": 2285,
+            "endAt": 5322,
+            "text": "아, 네, 저 혹시 응급차 좀 보내주실 수 있을까요?",
+            "speaker": 1
+        },
+        {
+            "id": "a744c26c",
+            "startAt": 5255,
+            "endAt": 6505,
+            "text": "주소가 어떻게 되나요? 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p7dihh2b7e",
+            "startAt": 6794,
+            "endAt": 8376,
+            "text": "어 답십리 파크 자이.",
+            "speaker": 1
+        },
+        {
+            "id": "4495db0c",
+            "startAt": 8343,
+            "endAt": 11446,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9gp3c4qm72",
+            "startAt": 12021,
+            "endAt": 12512,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "257598fa",
+            "startAt": 12478,
+            "endAt": 13565,
+            "text": "무슨 일이신데요, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "70f30f2d",
+            "startAt": 13745,
+            "endAt": 19491,
+            "text": "아, 애가 애가 지금 열이 되게 많이 나는데 좀 어, 5살이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_578hem3gir8",
+            "startAt": 16602,
+            "endAt": 17674,
+            "text": "몇 살이예요, 아이가?",
+            "speaker": 0
+        },
+        {
+            "id": "1f54a285",
+            "startAt": 19478,
+            "endAt": 25355,
+            "text": "아이고 호흡이랑 의식은 어때요? 숨은 잘 쉬고 있어요, 경련 같은 거 해요, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8kvokgdp6fg",
+            "startAt": 22242,
+            "endAt": 23888,
+            "text": "의식이 이상해요. 의식이.",
+            "speaker": 1
+        },
+        {
+            "id": "2ab59083",
+            "startAt": 25921,
+            "endAt": 29611,
+            "text": "오한 있었는데 지금 경련은 아니고 좀 힘이 많이 빠져있고요.",
+            "speaker": 1
+        },
+        {
+            "id": "15bb85ca",
+            "startAt": 29641,
+            "endAt": 30726,
+            "text": "기력이 없어 보여요?",
+            "speaker": 0
+        },
+        {
+            "id": "612220cc",
+            "startAt": 30127,
+            "endAt": 33941,
+            "text": "대답을 잘 안해 예, 대답을 안 해요, 예 약간 쓰러지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "df6f7772",
+            "startAt": 32520,
+            "endAt": 35723,
+            "text": "부르면 선생님 부르면 확실히 엄마, 아빠는 다 알아봐요?",
+            "speaker": 0
+        },
+        {
+            "id": "d009d1d3",
+            "startAt": 36867,
+            "endAt": 38727,
+            "text": "어 아, 눈이 조금 흐릿해요.",
+            "speaker": 1
+        },
+        {
+            "id": "52a9a1a0",
+            "startAt": 38807,
+            "endAt": 41767,
+            "text": "그래요, 알겠 출동 했고요. 코로나 관련 특별한 거 있어요, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "94bb60d4",
+            "startAt": 42217,
+            "endAt": 43167,
+            "text": "아니요, 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "83b02052",
+            "startAt": 43197,
+            "endAt": 44647,
+            "text": "그 자가검사 한번 해보셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "12be4cde",
+            "startAt": 45307,
+            "endAt": 46317,
+            "text": "아니요, 안 했어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d6osnmjml5g",
+            "startAt": 46392,
+            "endAt": 49665,
+            "text": "네, 알겠습니다. 구급자 가면서 전화할때 전화 꼭 받으시고 파크자이 아파트.",
+            "speaker": 0
+        },
+        {
+            "id": "3792b6cf",
+            "startAt": 49644,
+            "endAt": 51547,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "9bffe556",
+            "startAt": 51707,
+            "endAt": 53107,
+            "text": "네, 맞아요, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 동대문구 답십리동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "고열",
+        "경련/발작"
+    ],
+    "triage": "준응급증상"
+}

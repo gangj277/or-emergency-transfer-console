@@ -1,0 +1,294 @@
+{
+    "_id": "651e4b1829d82455557a235a",
+    "audioPath": "20230925/Seoul/2022/20220502/converted_[20220502]-[WS1139957673].wav",
+    "recordId": "c8074b80a4ff67e1cce9",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 71400,
+    "utterances": [
+        {
+            "id": "487a59b8",
+            "startAt": 777,
+            "endAt": 1823,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "d9f5f907",
+            "startAt": 2153,
+            "endAt": 4278,
+            "text": "네, 여기 사람이 쓰러졌거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "43b5c28c",
+            "startAt": 4711,
+            "endAt": 5684,
+            "text": "의식은 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "7dc5b93b",
+            "startAt": 6422,
+            "endAt": 6766,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "b441eec8",
+            "startAt": 7044,
+            "endAt": 8034,
+            "text": "의식 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "7e9f66ad",
+            "startAt": 9326,
+            "endAt": 11590,
+            "text": "아니요, 지금 신월동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7g1e96jpid8",
+            "startAt": 11616,
+            "endAt": 12671,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vod0uddvp8o",
+            "startAt": 12670,
+            "endAt": 13297,
+            "text": "이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "cf878330",
+            "startAt": 13870,
+            "endAt": 15296,
+            "text": "의식 있어요? 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "46b99133",
+            "startAt": 15370,
+            "endAt": 16218,
+            "text": "없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ku041iphiig",
+            "startAt": 16590,
+            "endAt": 17544,
+            "text": "숨은 쉬나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6qvg5niaoe",
+            "startAt": 17972,
+            "endAt": 18835,
+            "text": "안 쉬어요.",
+            "speaker": 1
+        },
+        {
+            "id": "d874c5ec",
+            "startAt": 19200,
+            "endAt": 20228,
+            "text": "숨도 안 쉬어요?",
+            "speaker": 0
+        },
+        {
+            "id": "3f4ed92e",
+            "startAt": 20560,
+            "endAt": 24774,
+            "text": "지금 그러니깐요. 얼른 예 다 지금 숨을 안 쉬어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j0ve1p5htt",
+            "startAt": 23497,
+            "endAt": 23815,
+            "text": "어어?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rjcm16ucqgo",
+            "startAt": 25117,
+            "endAt": 25879,
+            "text": "어 어떡해.",
+            "speaker": 1
+        },
+        {
+            "id": "bedc5886",
+            "startAt": 27082,
+            "endAt": 28507,
+            "text": "몇 층에 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qt22i9q72o8",
+            "startAt": 27088,
+            "endAt": 27952,
+            "text": "숨 쉬어요?",
+            "speaker": 1
+        },
+        {
+            "id": "864577e5",
+            "startAt": 29579,
+            "endAt": 30325,
+            "text": "신월동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_or5ka4r3aqo",
+            "startAt": 30326,
+            "endAt": 31690,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "04e20d56",
+            "startAt": 31877,
+            "endAt": 33426,
+            "text": "몇 층으로 몇 호로 가면 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9vf9pf53u3o",
+            "startAt": 33908,
+            "endAt": 35054,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "b1356f8d",
+            "startAt": 35064,
+            "endAt": 36567,
+            "text": "또와또와 호프집이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "bae27509",
+            "startAt": 37973,
+            "endAt": 39963,
+            "text": "그 구급차 하나 보냈고. 남자예요? 여자예요?",
+            "speaker": 0
+        },
+        {
+            "id": "a2268e8d",
+            "startAt": 40305,
+            "endAt": 41346,
+            "text": "남자요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_in550edvj88",
+            "startAt": 40316,
+            "endAt": 40689,
+            "text": "남자",
+            "speaker": 1
+        },
+        {
+            "id": "ed2ce4bb",
+            "startAt": 41691,
+            "endAt": 43065,
+            "text": "숨 쉬나 안 쉬나 보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "917b00bb",
+            "startAt": 45347,
+            "endAt": 47385,
+            "text": "호흡 있어요? 예. 호흡 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "37ddc36b",
+            "startAt": 48702,
+            "endAt": 50406,
+            "text": "의식은요? 눈 뜨고 반응 있어요?  ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ueqr8kq25fo",
+            "startAt": 50316,
+            "endAt": 51489,
+            "text": "없어요, 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "624f112a",
+            "startAt": 51906,
+            "endAt": 52740,
+            "text": "의식 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "ef9e4bb8",
+            "startAt": 52951,
+            "endAt": 55046,
+            "text": "구급차 보냈어요. 왜 쓰러진 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "26fd6b74",
+            "startAt": 56166,
+            "endAt": 60785,
+            "text": "그냥 여기에서 넘어지셨어요. 여기 술집이라 화장실 가다가 넘어지셨어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e4jt5ridlao",
+            "startAt": 61609,
+            "endAt": 64427,
+            "text": "머리를 지금 그래서 그대로 뒤로 넘어지셨어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "842d9e8f",
+            "startAt": 65008,
+            "endAt": 67505,
+            "text": "예, 전화 끊지 말고 기다리세요. 구급차 보냈어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rukv5tki5co",
+            "startAt": 67527,
+            "endAt": 68591,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aout7sb794o",
+            "startAt": 68564,
+            "endAt": 69727,
+            "text": "맞죠, 신월동?",
+            "speaker": 0
+        },
+        {
+            "id": "7abc9e2a",
+            "startAt": 70344,
+            "endAt": 70691,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q35thclvfb8",
+            "startAt": 70691,
+            "endAt": 71182,
+            "text": "[개인정보]",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 양천구 신월동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애"
+    ],
+    "triage": "응급증상"
+}

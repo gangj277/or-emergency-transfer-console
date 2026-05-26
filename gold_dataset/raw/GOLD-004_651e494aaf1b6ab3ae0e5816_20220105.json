@@ -1,0 +1,152 @@
+{
+    "_id": "651e494aaf1b6ab3ae0e5816",
+    "audioPath": "20230925/Seoul/2022/20220105/converted_[20220105]-[WO1139292254].wav",
+    "recordId": "cef53ac7359926a3663c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 47160,
+    "utterances": [
+        {
+            "id": "ad337cf8",
+            "startAt": 1032,
+            "endAt": 5058,
+            "text": "할아버지 아, 여기 교통사고 났어요, 빨리 좀 와주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "53f4dc75",
+            "startAt": 5272,
+            "endAt": 6448,
+            "text": "위치가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "8675ef6d",
+            "startAt": 6655,
+            "endAt": 13905,
+            "text": "여기 남성역 골목시장 앞이여 빨리요 예 차량 예 할아버지 할아버지 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r6nmej5uuh",
+            "startAt": 10630,
+            "endAt": 13447,
+            "text": "차랑 할아버지랑 부딪혔다고 예",
+            "speaker": 0
+        },
+        {
+            "id": "4c6f844f",
+            "startAt": 14012,
+            "endAt": 15115,
+            "text": "차 보냈고요.",
+            "speaker": 0
+        },
+        {
+            "id": "0a4c5c98",
+            "startAt": 15052,
+            "endAt": 15881,
+            "text": "예 빨리요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8mvsk8lgul",
+            "startAt": 15350,
+            "endAt": 18017,
+            "text": "어떻게 되지는 상태가 어때요? 상태가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4o28et18p",
+            "startAt": 17262,
+            "endAt": 19712,
+            "text": "지금 완전히 넘어지셔가지고 머리에 피나요",
+            "speaker": 1
+        },
+        {
+            "id": "b1d07b66",
+            "startAt": 19867,
+            "endAt": 21270,
+            "text": "의식은 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_odb08a4o1ao",
+            "startAt": 20707,
+            "endAt": 21180,
+            "text": "빨리",
+            "speaker": 1
+        },
+        {
+            "id": "8bb5c207",
+            "startAt": 21377,
+            "endAt": 24687,
+            "text": "예, 할아버지 의식 있으세요? 할아버지 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a2o14pgmrn",
+            "startAt": 24939,
+            "endAt": 25589,
+            "text": "빨리요",
+            "speaker": 1
+        },
+        {
+            "id": "b1693362",
+            "startAt": 25310,
+            "endAt": 29217,
+            "text": "전화, 전화 전화 끊지 마세요. 지금 차량 갔구요",
+            "speaker": 0
+        },
+        {
+            "id": "85cb9350",
+            "startAt": 29214,
+            "endAt": 31900,
+            "text": "예, 빨리요 할아버지.",
+            "speaker": 1
+        },
+        {
+            "id": "9cdbfbdb",
+            "startAt": 32546,
+            "endAt": 34303,
+            "text": "선생님이 운전 했어요?",
+            "speaker": 0
+        },
+        {
+            "id": "e2056cb2",
+            "startAt": 34346,
+            "endAt": 38647,
+            "text": "네네네네 제가 먼저했어요 파란불인데 할아버지가.",
+            "speaker": 1
+        },
+        {
+            "id": "9ea3a874",
+            "startAt": 38750,
+            "endAt": 41147,
+            "text": "앞에 보이는 건물 뭐.",
+            "speaker": 0
+        },
+        {
+            "id": "44424946",
+            "startAt": 41144,
+            "endAt": 46907,
+            "text": "건물 여기 서울 정원 치과의원이요, 그 다음에 남성동 길목시장. 빨리요. 네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gma33pi17to",
+            "startAt": 44033,
+            "endAt": 46217,
+            "text": "예 잠시만 그쪽으로 나갈게요",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 동작구 사당동",
+    "disasterLarge": "구급",
+    "disasterMedium": "심정지",
+    "urgencyLevel": "상",
+    "sentiment": "기타부정",
+    "symptom": [],
+    "triage": ""
+}

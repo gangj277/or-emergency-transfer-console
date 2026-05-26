@@ -1,0 +1,245 @@
+{
+    "_id": "651e4f853f2c336d2bb0a202",
+    "audioPath": "20230925/Seoul/2022/20220903/converted_[20220903]-[WW1140745883].wav",
+    "recordId": "02af2eba6bddc02666bd",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 86280,
+    "utterances": [
+        {
+            "id": "8a00283d",
+            "startAt": 1646,
+            "endAt": 3255,
+            "text": "네 119 상황실입니다",
+            "speaker": 0
+        },
+        {
+            "id": "a5fe9e70",
+            "startAt": 3875,
+            "endAt": 6849,
+            "text": "아, 네, 선생님, 저기 저희 어머니가.",
+            "speaker": 1
+        },
+        {
+            "id": "6815d813",
+            "startAt": 7451,
+            "endAt": 12148,
+            "text": "지금 지금 한 36시간째 지금 주무시고 계시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "452665bc",
+            "startAt": 12703,
+            "endAt": 15968,
+            "text": "혹시 뭐 당뇨나 뭐 이런 거 그런 지병 같은 건 없으시고?",
+            "speaker": 0
+        },
+        {
+            "id": "a6fed753",
+            "startAt": 16325,
+            "endAt": 22354,
+            "text": "아, 그런 건 다 있 있 있구요. 이제 투 저희 어머니 투석 환자거든요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_po7u4686l5",
+            "startAt": 22784,
+            "endAt": 28227,
+            "text": "네, 지금 주무시는 건지 이 알 수가 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "52fb0e5b",
+            "startAt": 28272,
+            "endAt": 29737,
+            "text": "아, 당뇨도 있고 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_e1sb9js24c8",
+            "startAt": 28555,
+            "endAt": 29641,
+            "text": "그래가지고",
+            "speaker": 1
+        },
+        {
+            "id": "b6b6e073",
+            "startAt": 30286,
+            "endAt": 30906,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "ef4e12ea",
+            "startAt": 31007,
+            "endAt": 37503,
+            "text": "당뇨도 있, 당뇨에 투석이고 당뇨도 있고 투석 혈 저혈당 같은 거 예전에 빠진 적 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "ed8a3904",
+            "startAt": 37995,
+            "endAt": 40075,
+            "text": "저혈당? 아니요.",
+            "speaker": 1
+        },
+        {
+            "id": "62935aae",
+            "startAt": 39103,
+            "endAt": 41156,
+            "text": "예 그런 건 그런 적은 없고?",
+            "speaker": 0
+        },
+        {
+            "id": "6e1a3daf",
+            "startAt": 41598,
+            "endAt": 42333,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "03780394",
+            "startAt": 43158,
+            "endAt": 44824,
+            "text": "아, 일단 그 주소가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "b34f3fab",
+            "startAt": 45644,
+            "endAt": 46987,
+            "text": "여기 동교로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vpt3oou62a8",
+            "startAt": 46997,
+            "endAt": 48568,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "8803419a",
+            "startAt": 48626,
+            "endAt": 49160,
+            "text": "잠깐만요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o3vbu0mahcg",
+            "startAt": 49211,
+            "endAt": 52325,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oqao7s127v",
+            "startAt": 52345,
+            "endAt": 55039,
+            "text": "혹시 막 이렇게 꼬집어서 깨워보셔도 그래요? 안 일어나요?",
+            "speaker": 0
+        },
+        {
+            "id": "f983ad2c",
+            "startAt": 56439,
+            "endAt": 59255,
+            "text": "아 그까 움직임은 약간 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "8dce83da",
+            "startAt": 58671,
+            "endAt": 61828,
+            "text": "아, 움직임 약간 있으신 상태에서 안 일어나시고 아 이번",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_475igjq05to",
+            "startAt": 59596,
+            "endAt": 61739,
+            "text": "이거 아 네 네",
+            "speaker": 1
+        },
+        {
+            "id": "f95d16bf",
+            "startAt": 61860,
+            "endAt": 62273,
+            "text": "동교로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9lkf6l3caq8",
+            "startAt": 62282,
+            "endAt": 63267,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nvshj9llt7o",
+            "startAt": 63327,
+            "endAt": 64210,
+            "text": "주택이에요 빌라예요?",
+            "speaker": 0
+        },
+        {
+            "id": "4426eb7a",
+            "startAt": 65146,
+            "endAt": 65815,
+            "text": "주택이요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_opckkqchmfo",
+            "startAt": 65824,
+            "endAt": 68081,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "3e0ce2ab",
+            "startAt": 68106,
+            "endAt": 73965,
+            "text": "호흡은 하고 계신데 의식이 없으시다는 거잖아요? 예, 일단 알겠습니다. 그 코로나 관련 증상은 없으시고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_35mi1gcqjv8",
+            "startAt": 70010,
+            "endAt": 71210,
+            "text": "예 예",
+            "speaker": 1
+        },
+        {
+            "id": "a22970ba",
+            "startAt": 74217,
+            "endAt": 80648,
+            "text": "네, 그리고 그 허리, 그 경추가 지금 골절이 돼있으신 상태거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "54765bfe",
+            "startAt": 80214,
+            "endAt": 83260,
+            "text": "아, 알겠습니다. 그 우리 대원들원테 말씀해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "ac2b98e6",
+            "startAt": 83394,
+            "endAt": 84085,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 마포구 연남동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애"
+    ],
+    "triage": "준응급증상"
+}

@@ -1,0 +1,232 @@
+{
+    "_id": "651e4f2166d8da7dcba975d2",
+    "audioPath": "20230925/Seoul/2022/20220806/converted_[20220806]-[WV1140533728].wav",
+    "recordId": "9b3fe06098e7da72490b",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 88800,
+    "utterances": [
+        {
+            "id": "ed765ff7",
+            "startAt": 418,
+            "endAt": 1461,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "6b1788c2",
+            "startAt": 2098,
+            "endAt": 9038,
+            "text": "예, 수고하십니다. 네, 저기 여기는 수원 영식이라고 하는 숙박업소인데요. 그 저희 네네.",
+            "speaker": 1
+        },
+        {
+            "id": "f82e33e3",
+            "startAt": 9098,
+            "endAt": 11048,
+            "text": "주소가 어떻게 돼요? 혹시 아세요?",
+            "speaker": 0
+        },
+        {
+            "id": "8d6bc3e0",
+            "startAt": 11678,
+            "endAt": 13664,
+            "text": "영등포구 영등포로.",
+            "speaker": 1
+        },
+        {
+            "id": "f0b424de",
+            "startAt": 13658,
+            "endAt": 14208,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "e23d053a",
+            "startAt": 14875,
+            "endAt": 16475,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2r5pif93nf8",
+            "startAt": 17042,
+            "endAt": 17578,
+            "text": "잠시만요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_042lkqhsf98",
+            "startAt": 17615,
+            "endAt": 18906,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "a51887da",
+            "startAt": 18948,
+            "endAt": 20892,
+            "text": " 고 수 숙박 업소 이름이 뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "04cdcb09",
+            "startAt": 21468,
+            "endAt": 23346,
+            "text": "예, 수원 여인숙이요.",
+            "speaker": 1
+        },
+        {
+            "id": "f464b1d0",
+            "startAt": 23305,
+            "endAt": 24884,
+            "text": "수원 여인숙 예 예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0jijc9invkg",
+            "startAt": 24838,
+            "endAt": 30839,
+            "text": "예 저는 저 여기 주인이고요. 그 저희 손님 중에 9호실에 계신 분이.",
+            "speaker": 1
+        },
+        {
+            "id": "bd6a65a9",
+            "startAt": 31134,
+            "endAt": 39016,
+            "text": "그 아침에 그 8시 한 반 정도 해가지고 쓰러지셔가지고 일어나시지 못해요. 지금은 의식은 있으신데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d1i21t4l1no",
+            "startAt": 38966,
+            "endAt": 41193,
+            "text": "아, 일단 몇 몇 층이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3e8ftrh3nj",
+            "startAt": 39686,
+            "endAt": 41559,
+            "text": "평상 평상.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_snc5ib2pfm8",
+            "startAt": 41659,
+            "endAt": 44295,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n4h093mln2g",
+            "startAt": 44260,
+            "endAt": 45051,
+            "text": "남자분?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jqser1457jg",
+            "startAt": 45525,
+            "endAt": 46780,
+            "text": "네 남자분이세요.",
+            "speaker": 1
+        },
+        {
+            "id": "fd85ff93",
+            "startAt": 46150,
+            "endAt": 49165,
+            "text": "남자 투숙객이고 지금 얼굴은 봤나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hm65ql1d9tg",
+            "startAt": 50032,
+            "endAt": 58670,
+            "text": "예, 저 지금 그 평상시에 비해서 말투가 좀 어눌하시고. 한쪽 왼쪽 팔를 갖다가 잘 못 쓰시는 거 보니까",
+            "speaker": 1
+        },
+        {
+            "id": "10637e05",
+            "startAt": 58791,
+            "endAt": 67165,
+            "text": " 혹시 그 갑자기 뭐 저 뇌출혈이나 내일 비해서 뭐 풍 비슷하게 오는 거 같요. 아무래도 병원에 가보셔야 될 거 같거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k2m92ppga08",
+            "startAt": 61652,
+            "endAt": 64698,
+            "text": "그래요 그래요.",
+            "speaker": 0
+        },
+        {
+            "id": "29e85986",
+            "startAt": 67068,
+            "endAt": 70542,
+            "text": "네, 지금 차 출동시킬 거고요. 영등포로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p2aibirbvq",
+            "startAt": 70562,
+            "endAt": 71971,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gl7h7mnd4qo",
+            "startAt": 72009,
+            "endAt": 72655,
+            "text": "수원 여의숙.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l42qjidve8g",
+            "startAt": 72671,
+            "endAt": 73844,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "b4a5f860",
+            "startAt": 74312,
+            "endAt": 79784,
+            "text": "네, 네, 이분이 그 저 중앙병원에 다니시는 분인데 그.",
+            "speaker": 1
+        },
+        {
+            "id": "add11886",
+            "startAt": 78686,
+            "endAt": 85268,
+            "text": "아, 일단 병원은 병원은 이제 그 출동한 사람들이랑 의논해주시고 차는 제가 지금 바로 보내드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "df76b9e8",
+            "startAt": 85332,
+            "endAt": 86615,
+            "text": "아 네네, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vr13l9a94m8",
+            "startAt": 86598,
+            "endAt": 87480,
+            "text": "네, 예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 영등포구 신길동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "기타",
+        "마비"
+    ],
+    "triage": "응급증상"
+}

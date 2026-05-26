@@ -1,0 +1,329 @@
+{
+    "_id": "651e4f853f2c336d2bb09ff1",
+    "audioPath": "20230925/Seoul/2022/20220903/converted_[20220903]-[WW1140744536].wav",
+    "recordId": "5f62bd8e30454b77971a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 110400,
+    "utterances": [
+        {
+            "id": "4326f245",
+            "startAt": 363,
+            "endAt": 1323,
+            "text": "입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "9f0eb4ea",
+            "startAt": 1813,
+            "endAt": 2595,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "662fb545",
+            "startAt": 2641,
+            "endAt": 3855,
+            "text": "네, 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "59de0c57",
+            "startAt": 4015,
+            "endAt": 12640,
+            "text": "아, 네, 저 저희 엄마가 80인데요. 어, 그 9월 5일에 삼성병원에 어 수술 예약이 잡혀있었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "bd7dcd11",
+            "startAt": 12673,
+            "endAt": 13410,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "51a2fdad",
+            "startAt": 13628,
+            "endAt": 19065,
+            "text": "네, 근데 오늘 새벽에 화장실 가다 넘어지셔가지고 왼쪽이 마비가 오셨거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "47f96464",
+            "startAt": 19642,
+            "endAt": 20333,
+            "text": "지금이요?",
+            "speaker": 0
+        },
+        {
+            "id": "341e7288",
+            "startAt": 20780,
+            "endAt": 24954,
+            "text": "네, 네, 그런데 자꾸 고혈압 약이랑.",
+            "speaker": 1
+        },
+        {
+            "id": "62e96469",
+            "startAt": 23654,
+            "endAt": 25701,
+            "text": "구급차 필요해서 전화하신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "aee62305",
+            "startAt": 26104,
+            "endAt": 26835,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "215602e2",
+            "startAt": 26611,
+            "endAt": 28423,
+            "text": "네, 주소 말씀하세요, 일단.",
+            "speaker": 0
+        },
+        {
+            "id": "7ca398e8",
+            "startAt": 28736,
+            "endAt": 32608,
+            "text": "어, 그 여 잠실 리센치 아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "8326535a",
+            "startAt": 33487,
+            "endAt": 34636,
+            "text": "리센치요?",
+            "speaker": 0
+        },
+        {
+            "id": "efda1b67",
+            "startAt": 34948,
+            "endAt": 36338,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "a4b8ec8b",
+            "startAt": 37077,
+            "endAt": 38266,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "8e11373a",
+            "startAt": 38593,
+            "endAt": 39296,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "54aaec8a",
+            "startAt": 40010,
+            "endAt": 41281,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "47f3a39d",
+            "startAt": 41564,
+            "endAt": 43197,
+            "text": "네, 네. 그.",
+            "speaker": 1
+        },
+        {
+            "id": "2981ee59",
+            "startAt": 42164,
+            "endAt": 43502,
+            "text": "기침도 해요, 혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "6f17068f",
+            "startAt": 44021,
+            "endAt": 44531,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "075f0167",
+            "startAt": 44854,
+            "endAt": 46246,
+            "text": "기침도 혹시 하나요?",
+            "speaker": 0
+        },
+        {
+            "id": "98cf74b6",
+            "startAt": 46817,
+            "endAt": 53988,
+            "text": "기침은 제가 지금 저 언니 집이라서 같이 있지는 않는데요. 고열이 난다고 들었어요. 마비가 있고.",
+            "speaker": 1
+        },
+        {
+            "id": "8a879348",
+            "startAt": 53219,
+            "endAt": 55669,
+            "text": "어 네, 코로나 걸린 적 있나요, 혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "fc9f4ae5",
+            "startAt": 56200,
+            "endAt": 60069,
+            "text": "어, 그, 확진 에에에.",
+            "speaker": 1
+        },
+        {
+            "id": "4c9c1378",
+            "startAt": 57882,
+            "endAt": 58686,
+            "text": "잘 몰라요?",
+            "speaker": 0
+        },
+        {
+            "id": "22af37b5",
+            "startAt": 60322,
+            "endAt": 64326,
+            "text": "자, 일단은 그쪽으로 출동 나갔고요. 현장 전화번호 있음 좀 주실래요?",
+            "speaker": 0
+        },
+        {
+            "id": "aa85d95f",
+            "startAt": 64826,
+            "endAt": 65854,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "84d8c9e1",
+            "startAt": 66397,
+            "endAt": 67197,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "f574bf9c",
+            "startAt": 67388,
+            "endAt": 68536,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "0c2617c5",
+            "startAt": 68691,
+            "endAt": 69983,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "93c46aec",
+            "startAt": 70639,
+            "endAt": 71783,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c68bdd87",
+            "startAt": 72278,
+            "endAt": 73440,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4lh8slo98a8",
+            "startAt": 73964,
+            "endAt": 75945,
+            "text": "네, 그리고 이게 전화.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0jeg5bf8sa",
+            "startAt": 74418,
+            "endAt": 75955,
+            "text": "이게 어머니 전화번호예요?",
+            "speaker": 0
+        },
+        {
+            "id": "e20fe28e",
+            "startAt": 76268,
+            "endAt": 77572,
+            "text": "아, 저희 언니요.",
+            "speaker": 1
+        },
+        {
+            "id": "5d99ccc3",
+            "startAt": 77508,
+            "endAt": 78812,
+            "text": "언니 전화번호?",
+            "speaker": 0
+        },
+        {
+            "id": "975c0f8f",
+            "startAt": 77962,
+            "endAt": 87958,
+            "text": "오늘 엄마랑. 예, 엄마랑 같이 있는데. 근데 지금 저희 만약에 응급실에 간다면 춘천병원으로 가면은 좋겠어요. 왜냐면 5일에 예약이 되어.",
+            "speaker": 1
+        },
+        {
+            "id": "62a84e8c",
+            "startAt": 85555,
+            "endAt": 95726,
+            "text": "어이 선, 선생님 이거는 병원 이송 차량이 아니고 응급 이송 차량이에요. 원하시는 병원은 용건이 있어야 돼. 근처 섭외되는 병원으로 가는 거라서",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b3gddsluimo",
+            "startAt": 96255,
+            "endAt": 101445,
+            "text": "그 부분은 참고하셔야 될 거 같애요. 그리고 여, 열이 있으셔가지고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uqq95opbssg",
+            "startAt": 96291,
+            "endAt": 100109,
+            "text": "아, 네. 아, 알겠습니, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mkb8n499rf",
+            "startAt": 101636,
+            "endAt": 107627,
+            "text": "병원 찾기도 쉽지가 않아요. 병원 안 이송 안 될 확률도 있기 때문에 그거는 지금 어떻게 될지 몰라서.",
+            "speaker": 0
+        },
+        {
+            "id": "54b57c84",
+            "startAt": 107976,
+            "endAt": 110345,
+            "text": "네네, 알겠습니다, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l17r12rj6po",
+            "startAt": 107982,
+            "endAt": 108455,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5tn94p3f9vo",
+            "startAt": 109318,
+            "endAt": 109882,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 송파구 잠실동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "마비"
+    ],
+    "triage": "응급증상"
+}

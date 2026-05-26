@@ -1,0 +1,163 @@
+{
+    "_id": "651e4d9be84a30cdf982d421",
+    "audioPath": "20230925/Seoul/2022/20220702/converted_[20220702]-[WU1140293548].wav",
+    "recordId": "799daf1852244261d4a8",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 63840,
+    "utterances": [
+        {
+            "id": "d2024135",
+            "startAt": 745,
+            "endAt": 1922,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lf00do1n818",
+            "startAt": 1346,
+            "endAt": 1855,
+            "text": "네 여보",
+            "speaker": 1
+        },
+        {
+            "id": "d925361a",
+            "startAt": 2307,
+            "endAt": 4476,
+            "text": "저 여기 잠시만요, 주소 알려드릴게요.",
+            "speaker": 1
+        },
+        {
+            "id": "174910fd",
+            "startAt": 4471,
+            "endAt": 4941,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "091f461d",
+            "startAt": 19232,
+            "endAt": 20642,
+            "text": "용산구 이태원로.",
+            "speaker": 1
+        },
+        {
+            "id": "4682a1a5",
+            "startAt": 20782,
+            "endAt": 21322,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "36e6747c",
+            "startAt": 21782,
+            "endAt": 25783,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "ce436c55",
+            "startAt": 26562,
+            "endAt": 28921,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "2d49def4",
+            "startAt": 29082,
+            "endAt": 30972,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "87083e02",
+            "startAt": 31449,
+            "endAt": 39031,
+            "text": "네, 그 뭐냐. 남자, 여자분이 앉아있다가 자동차 바퀴에 지금 어 끌려가지고 살점이 날라갔거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "4de29576",
+            "startAt": 39225,
+            "endAt": 40705,
+            "text": "지금 의식 호흡은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "0fe360d9",
+            "startAt": 41598,
+            "endAt": 42775,
+            "text": "네, 일단 의식은 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "ed2e4867",
+            "startAt": 42945,
+            "endAt": 49705,
+            "text": "예, 알겠습니다. 갈 거구요, 저한테 불러주신 그 주소가 뭐 상가 이름이나 그런 게 있을까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f9lj6183gj8",
+            "startAt": 43784,
+            "endAt": 44812,
+            "text": "빨리 좀 와주세요",
+            "speaker": 1
+        },
+        {
+            "id": "ab163ea3",
+            "startAt": 50272,
+            "endAt": 54644,
+            "text": "어, 그냥 그 한글로 일공팔 치면 돼요, 그니까 숫자 말고 일공팔 치면 돼요.",
+            "speaker": 1
+        },
+        {
+            "id": "6856b6d2",
+            "startAt": 54656,
+            "endAt": 56477,
+            "text": "일, 일공팔?",
+            "speaker": 0
+        },
+        {
+            "id": "f6a02f75",
+            "startAt": 56437,
+            "endAt": 59487,
+            "text": "그 네네. 빨리 좀 와주세요. 네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "613fabd4",
+            "startAt": 57572,
+            "endAt": 60866,
+            "text": "한글루? 예, 행인이시죠, 선생님은?",
+            "speaker": 0
+        },
+        {
+            "id": "13d97a96",
+            "startAt": 61205,
+            "endAt": 61575,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "ac02d10a",
+            "startAt": 61615,
+            "endAt": 62635,
+            "text": "알겠어요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 용산구 이태원동",
+    "disasterLarge": "구급",
+    "disasterMedium": "부상",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "기타통증",
+        "열상",
+        "타박상"
+    ],
+    "triage": "잠재응급증상"
+}

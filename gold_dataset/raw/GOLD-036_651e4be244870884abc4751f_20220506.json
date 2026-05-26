@@ -1,0 +1,226 @@
+{
+    "_id": "651e4be244870884abc4751f",
+    "audioPath": "20230925/Seoul/2022/20220506/converted_[20220506]-[WS1139979407].wav",
+    "recordId": "385f1f5a516414e62eef",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 74040,
+    "utterances": [
+        {
+            "id": "daff3f3b",
+            "startAt": 1177,
+            "endAt": 2237,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "24bb18a9",
+            "startAt": 2977,
+            "endAt": 8107,
+            "text": "예, 여기 횡단보도 앞에 사람이 그 차에 치였거든요. 여기 위치가요?",
+            "speaker": 1
+        },
+        {
+            "id": "2e4e9617",
+            "startAt": 6814,
+            "endAt": 8687,
+            "text": "그 엇 예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "50511970",
+            "startAt": 9447,
+            "endAt": 12127,
+            "text": "아, 여기가 뭐 여기 성민 그린빌라?",
+            "speaker": 1
+        },
+        {
+            "id": "28e10829",
+            "startAt": 12847,
+            "endAt": 16397,
+            "text": "거기 번지소 도로명 주소 써있나요? 혹시 그 빌라면 써있을 거 같은데?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_umskmlpgn8",
+            "startAt": 15593,
+            "endAt": 15893,
+            "text": "오.",
+            "speaker": 1
+        },
+        {
+            "id": "4246d8e7",
+            "startAt": 17251,
+            "endAt": 18361,
+            "text": "아니, 이게 왜 안 보여?",
+            "speaker": 1
+        },
+        {
+            "id": "d5b1ca67",
+            "startAt": 20172,
+            "endAt": 22252,
+            "text": "그 가게 같은 거 하나 불러주세.",
+            "speaker": 0
+        },
+        {
+            "id": "bebc4a2f",
+            "startAt": 20489,
+            "endAt": 24967,
+            "text": "여기 뭐  특선 명가 영양 돌솥 왕 갈비탕.",
+            "speaker": 1
+        },
+        {
+            "id": "94e83f2b",
+            "startAt": 25859,
+            "endAt": 26589,
+            "text": "축산.",
+            "speaker": 0
+        },
+        {
+            "id": "687b8955",
+            "startAt": 27485,
+            "endAt": 28680,
+            "text": "축산 명가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ga3ndt2pemo",
+            "startAt": 29343,
+            "endAt": 32016,
+            "text": "병 꽃게 만두 있고 막 그러거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cah4gapojhg",
+            "startAt": 33598,
+            "endAt": 34834,
+            "text": "잠깐만 여기가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qf2ocpu1i5g",
+            "startAt": 37998,
+            "endAt": 38971,
+            "text": "그 고통로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tpoivn3dj5o",
+            "startAt": 38937,
+            "endAt": 40083,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "d9cef777",
+            "startAt": 40656,
+            "endAt": 41276,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "376b85bb",
+            "startAt": 41916,
+            "endAt": 42486,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "34cc37bc",
+            "startAt": 43316,
+            "endAt": 44426,
+            "text": "그 앞으로 가면 되죠, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "174d7857",
+            "startAt": 45046,
+            "endAt": 46620,
+            "text": "예, 요 앞에 횡단보도에.",
+            "speaker": 1
+        },
+        {
+            "id": "6faaca65",
+            "startAt": 46686,
+            "endAt": 48166,
+            "text": "차가 보행자를 친 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "b3214918",
+            "startAt": 49127,
+            "endAt": 50743,
+            "text": "네. 그런 거 같애요",
+            "speaker": 1
+        },
+        {
+            "id": "7ce996ac",
+            "startAt": 50345,
+            "endAt": 52199,
+            "text": "의식이 있어요. 의식?",
+            "speaker": 0
+        },
+        {
+            "id": "8b658924",
+            "startAt": 52147,
+            "endAt": 55827,
+            "text": "아, 제 저는 지금 지나가는 길에 차 치는 거 보고 바로 전화드린 거라.",
+            "speaker": 1
+        },
+        {
+            "id": "d8612f82",
+            "startAt": 55967,
+            "endAt": 60476,
+            "text": "어 예, 예, 의식 있는지 이런 건 확인 안 돼요. 혹시? 차는 지금 보냈거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "fa6dd78b",
+            "startAt": 61842,
+            "endAt": 62504,
+            "text": "어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h0qh4sl515o",
+            "startAt": 64308,
+            "endAt": 69008,
+            "text": "지금 어르신이 움직이시긴 하시거든요. 머리에 피도 많이 나세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f01u8hv6nc8",
+            "startAt": 66821,
+            "endAt": 67949,
+            "text": "아 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "659f96a6",
+            "startAt": 68999,
+            "endAt": 69779,
+            "text": "네, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "458e60fa",
+            "startAt": 70331,
+            "endAt": 70748,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 구로구 고척동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "의식장애",
+        "그 밖의출혈",
+        "열상"
+    ],
+    "triage": "응급증상"
+}

@@ -1,0 +1,176 @@
+{
+    "_id": "651e4b6d304f68a2e7021955",
+    "audioPath": "20230925/Seoul/2022/20220503/converted_[20220503]-[WS1139961547].wav",
+    "recordId": "7976575b01ce376f5b9f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 43200,
+    "utterances": [
+        {
+            "id": "35dbb6a9",
+            "startAt": 224,
+            "endAt": 1070,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "5be9be16",
+            "startAt": 1408,
+            "endAt": 2124,
+            "text": "예, 여기 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8giv1vlfivo",
+            "startAt": 2118,
+            "endAt": 3491,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "83efbc12",
+            "startAt": 3590,
+            "endAt": 4790,
+            "text": "잠깐만 흑석동이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "02009ca7",
+            "startAt": 5330,
+            "endAt": 5810,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "d3bf2d61",
+            "startAt": 5840,
+            "endAt": 8275,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "28302951",
+            "startAt": 8450,
+            "endAt": 11010,
+            "text": "잠깐만요 예, 위치 확인됐어요. 그쪽에 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "9514c639",
+            "startAt": 11630,
+            "endAt": 12510,
+            "text": "지금 어머니가.",
+            "speaker": 1
+        },
+        {
+            "id": "4399a850",
+            "startAt": 12501,
+            "endAt": 13561,
+            "text": "네 어머니가 ",
+            "speaker": 0
+        },
+        {
+            "id": "cbaad825",
+            "startAt": 13073,
+            "endAt": 18625,
+            "text": "그 체하셨 체하셨는데 갑자기 그냥 나오셔가지고 숨을 안쉬고 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bab0tlu139o",
+            "startAt": 17222,
+            "endAt": 19477,
+            "text": "의식이 없어요? 의식이 없고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_el9mndmdk18",
+            "startAt": 18653,
+            "endAt": 21898,
+            "text": "의식 없으시고 지금 피를 토하셨어요",
+            "speaker": 1
+        },
+        {
+            "id": "2691bc5b",
+            "startAt": 20352,
+            "endAt": 24077,
+            "text": "의식도 없구 피를 토했어요? 호흡 호흡은?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kei8m663uc8",
+            "startAt": 22493,
+            "endAt": 24384,
+            "text": "피 붉은",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fskg631nujg",
+            "startAt": 24534,
+            "endAt": 25162,
+            "text": "호흡은?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hiupd830s78",
+            "startAt": 24779,
+            "endAt": 27506,
+            "text": "호흡 아 이런",
+            "speaker": 1
+        },
+        {
+            "id": "31edfe83",
+            "startAt": 26454,
+            "endAt": 27402,
+            "text": "몰라요?",
+            "speaker": 0
+        },
+        {
+            "id": "91bf2207",
+            "startAt": 27868,
+            "endAt": 29849,
+            "text": "호흡이 거의 없어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bpv4ekvgv98",
+            "startAt": 29416,
+            "endAt": 31162,
+            "text": "그래요 몇 층이에요, 몇 층, 몇 층?",
+            "speaker": 0
+        },
+        {
+            "id": "251adbf4",
+            "startAt": 31299,
+            "endAt": 32603,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "0120898d",
+            "startAt": 32592,
+            "endAt": 37292,
+            "text": "끊지 마세요. 제희 구급차 그쪽으로 출동을 했고요. 제가 응급조차 하는 부서 연결할 거예요. 잠시만 전화 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "1edb6708",
+            "startAt": 37839,
+            "endAt": 42363,
+            "text": "예, 엄마, 엄마, 엄마, 엄마, 숨쉬어봐 숨 ",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 동작구 흑석동",
+    "disasterLarge": "구급",
+    "disasterMedium": "심정지",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "심정지",
+        "호흡정지"
+    ],
+    "triage": "응급증상"
+}

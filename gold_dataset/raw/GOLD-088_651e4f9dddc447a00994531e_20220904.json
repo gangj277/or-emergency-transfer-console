@@ -1,0 +1,234 @@
+{
+    "_id": "651e4f9dddc447a00994531e",
+    "audioPath": "20230925/Seoul/2022/20220904/converted_[20220904]-[WW1140749646].wav",
+    "recordId": "e14f70b9dda5d1d7d75d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 72000,
+    "utterances": [
+        {
+            "id": "46a66c72",
+            "startAt": 1717,
+            "endAt": 2853,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aqkgcf01urg",
+            "startAt": 3381,
+            "endAt": 5845,
+            "text": "네 예 여기요 일루미네.",
+            "speaker": 1
+        },
+        {
+            "id": "94bf0a1c",
+            "startAt": 5786,
+            "endAt": 6548,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "b2e09794",
+            "startAt": 6773,
+            "endAt": 7567,
+            "text": "잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "5aac7afb",
+            "startAt": 7683,
+            "endAt": 8626,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "180badf3",
+            "startAt": 15087,
+            "endAt": 16981,
+            "text": "마포 가든호텔 앞인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "fb71c0ad",
+            "startAt": 17073,
+            "endAt": 19091,
+            "text": "가든 호텔 앞이고 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "168da7c1",
+            "startAt": 19140,
+            "endAt": 23145,
+            "text": "마포 가든 앞에 호텔 앞인데 차에 치어가지고 빨리 119좀 보내주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "e1f84f59",
+            "startAt": 22961,
+            "endAt": 25224,
+            "text": "차 대 보행자랑 부딪힌 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "f9fa8f08",
+            "startAt": 25379,
+            "endAt": 26333,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "f9d09c7a",
+            "startAt": 26127,
+            "endAt": 27654,
+            "text": "어 차 밑에 깔려있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "6b19a33e",
+            "startAt": 27985,
+            "endAt": 29310,
+            "text": "아니요, 아니요, 그건 아닌데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bi19njpofro",
+            "startAt": 28934,
+            "endAt": 32853,
+            "text": "그건 아니에요? 그래요 저희 구급차 보냈고요, 신고자분 관계가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "a7d71df1",
+            "startAt": 33355,
+            "endAt": 34342,
+            "text": "저 친구예요, 친구.",
+            "speaker": 1
+        },
+        {
+            "id": "137c7052",
+            "startAt": 34458,
+            "endAt": 37740,
+            "text": "아, 뭐. 차량 가해자분? 차량 운전자?",
+            "speaker": 0
+        },
+        {
+            "id": "f5767043",
+            "startAt": 37704,
+            "endAt": 42274,
+            "text": "아니, 아니, 아니, 가해자 아니고 저 뒤에서 이제 친구 보내고.",
+            "speaker": 1
+        },
+        {
+            "id": "23536ea4",
+            "startAt": 42203,
+            "endAt": 42690,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "b69f2815",
+            "startAt": 43265,
+            "endAt": 44556,
+            "text": "그 뒤에 있던 친구예요.",
+            "speaker": 1
+        },
+        {
+            "id": "af9ccdce",
+            "startAt": 44759,
+            "endAt": 47269,
+            "text": "아, 그래요? 그면 환자가 1명 발생했어요?",
+            "speaker": 0
+        },
+        {
+            "id": "3ff9235d",
+            "startAt": 47478,
+            "endAt": 48930,
+            "text": "네, 네, 네, 빨리 보내주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "0067ec70",
+            "startAt": 48957,
+            "endAt": 51340,
+            "text": "아, 구급차는 가고 있어요 진정 좀 하셔요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u3mn7tcdqo",
+            "startAt": 51664,
+            "endAt": 52736,
+            "text": "네 네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jlp8gohqdig",
+            "startAt": 52109,
+            "endAt": 54273,
+            "text": "차는, 차는 어떤 차량이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "b40ad448",
+            "startAt": 54605,
+            "endAt": 56944,
+            "text": "차는 승용차인데, 가이드는 여기 앞에 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "3054241e",
+            "startAt": 56175,
+            "endAt": 59478,
+            "text": "승용차? 아, 그래요? 의식이랑은 다 있고? 치었는데?",
+            "speaker": 0
+        },
+        {
+            "id": "f1a29500",
+            "startAt": 59742,
+            "endAt": 62542,
+            "text": "예, 의식 의식은 좀 애매해요, 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "b69310ae",
+            "startAt": 62784,
+            "endAt": 64772,
+            "text": "의식이 없다는 거예요? 애매하다는 게?",
+            "speaker": 0
+        },
+        {
+            "id": "32a1650c",
+            "startAt": 65120,
+            "endAt": 67719,
+            "text": "지금 숨을 쉬고 있는데 의식은 없는 거 같아요. ",
+            "speaker": 1
+        },
+        {
+            "id": "02fbe06f",
+            "startAt": 66431,
+            "endAt": 70115,
+            "text": "의식은 있나요? 그래요, 알겠어요, 상태 잘 보고 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "3a5a2062",
+            "startAt": 70473,
+            "endAt": 71109,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 마포구 도화동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "의식장애",
+        "열상",
+        "찰과상",
+        "타박상"
+    ],
+    "triage": "응급증상"
+}

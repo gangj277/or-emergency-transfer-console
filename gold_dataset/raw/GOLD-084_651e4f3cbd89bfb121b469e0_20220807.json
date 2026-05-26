@@ -1,0 +1,331 @@
+{
+    "_id": "651e4f3cbd89bfb121b469e0",
+    "audioPath": "20230925/Seoul/2022/20220807/converted_[20220807]-[WV1140541615].wav",
+    "recordId": "00251c2b63b8329563a2",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 116760,
+    "utterances": [
+        {
+            "id": "233bfd54",
+            "startAt": 569,
+            "endAt": 1721,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "a78f597a",
+            "startAt": 1910,
+            "endAt": 4435,
+            "text": "아 네, 여기 래미안",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l46ueip56ng",
+            "startAt": 4437,
+            "endAt": 6825,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1803957d",
+            "startAt": 7154,
+            "endAt": 8376,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "03db0385",
+            "startAt": 8494,
+            "endAt": 9121,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "142230cd",
+            "startAt": 10578,
+            "endAt": 15908,
+            "text": "반포역 있는데 래미안이 2개가 있어요. 래미안 퍼스트 아",
+            "speaker": 0
+        },
+        {
+            "id": "332f7b36",
+            "startAt": 16550,
+            "endAt": 17520,
+            "text": "퍼스티지요.",
+            "speaker": 1
+        },
+        {
+            "id": "7312ad76",
+            "startAt": 17673,
+            "endAt": 21825,
+            "text": "퍼스티지 맞아요? 래미안 퍼스티지 네, 몇 동 몇 호예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3p27203i14o",
+            "startAt": 19125,
+            "endAt": 20712,
+            "text": "네 네 네",
+            "speaker": 1
+        },
+        {
+            "id": "a51c2ed6",
+            "startAt": 21895,
+            "endAt": 24432,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "636e487f",
+            "startAt": 24450,
+            "endAt": 28145,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "a5b622b5",
+            "startAt": 28270,
+            "endAt": 29522,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c5dafb16qi",
+            "startAt": 29599,
+            "endAt": 31574,
+            "text": "네 아 저 남",
+            "speaker": 1
+        },
+        {
+            "id": "bf0dd357",
+            "startAt": 29907,
+            "endAt": 32081,
+            "text": "어, 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "eeddd879",
+            "startAt": 32262,
+            "endAt": 35444,
+            "text": "아, 저희 남편이 지금 항암 치료 중인데.",
+            "speaker": 1
+        },
+        {
+            "id": "ee3be408",
+            "startAt": 35739,
+            "endAt": 36369,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "a9ba319b",
+            "startAt": 36559,
+            "endAt": 38481,
+            "text": "약간 쇼크가 온 거 같거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "ab7f1fef",
+            "startAt": 38672,
+            "endAt": 40401,
+            "text": "그 증상이 뭐 어떠세요?",
+            "speaker": 0
+        },
+        {
+            "id": "cb3fb4e1",
+            "startAt": 40649,
+            "endAt": 44099,
+            "text": "지금 이렇게 몸이 약간 경련이 있으면서.",
+            "speaker": 1
+        },
+        {
+            "id": "a6795505",
+            "startAt": 44187,
+            "endAt": 46236,
+            "text": "근육 경련이 있다는 말씀이시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "1419c6da",
+            "startAt": 46357,
+            "endAt": 48606,
+            "text": "그런 거 같애요. 이렇게 막 약간 떨고.",
+            "speaker": 1
+        },
+        {
+            "id": "db0e259b",
+            "startAt": 48764,
+            "endAt": 54071,
+            "text": "그리고 제가 아무리 불러도 대답을 못 해요. 그니까 눈은 떠있는데 예",
+            "speaker": 1
+        },
+        {
+            "id": "34d28a7f",
+            "startAt": 48764,
+            "endAt": 49639,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j7vlrje3d7g",
+            "startAt": 51936,
+            "endAt": 53211,
+            "text": "눈은 뜨고 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "4ae61105",
+            "startAt": 54094,
+            "endAt": 56501,
+            "text": "아, 눈은 떠 있는데",
+            "speaker": 0
+        },
+        {
+            "id": "51f73b95",
+            "startAt": 55644,
+            "endAt": 57324,
+            "text": "그리고 숨 차하고요.",
+            "speaker": 1
+        },
+        {
+            "id": "cf2c24f6",
+            "startAt": 60968,
+            "endAt": 62860,
+            "text": "말하기 힘들어하시는 거네요? 말하기",
+            "speaker": 0
+        },
+        {
+            "id": "aa24e7fb",
+            "startAt": 62845,
+            "endAt": 65847,
+            "text": "말도 안 해. 아, 그니까. 암튼 안하는데",
+            "speaker": 1
+        },
+        {
+            "id": "18ceb3e2",
+            "startAt": 64907,
+            "endAt": 70758,
+            "text": "코로나 관련해서 확진자는 집안에 없으시죠? 확진하신 어 알겠습니다. 저희 지금 일단 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rigfci0as2o",
+            "startAt": 67411,
+            "endAt": 69274,
+            "text": "없어요 네 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_boct8dkcn98",
+            "startAt": 70786,
+            "endAt": 76023,
+            "text": "구급차량 보내드릴거구요. 구급차량 가면서 전화드릴 수 있으니까 전화 꼭 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "41a83052",
+            "startAt": 76164,
+            "endAt": 78684,
+            "text": "저 그 성모병원으로 가는 거죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_psrmdue1ab",
+            "startAt": 76473,
+            "endAt": 77011,
+            "text": "그",
+            "speaker": 0
+        },
+        {
+            "id": "3b2f7528",
+            "startAt": 78227,
+            "endAt": 85657,
+            "text": "죄송한데 그 병원은 구급대원이 가서 현장에서 판단하고 결정하는 부분이니까 구급대원이랑 말씀 한번 해보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "0f91195c",
+            "startAt": 85752,
+            "endAt": 86456,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "f6afd3c6",
+            "startAt": 86702,
+            "endAt": 89209,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ap1fjafn6ko",
+            "startAt": 89336,
+            "endAt": 89911,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "92209244",
+            "startAt": 90302,
+            "endAt": 91561,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "871db319",
+            "startAt": 91677,
+            "endAt": 94099,
+            "text": "그 세화여중 쪽에 있는.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_elo5huimsao",
+            "startAt": 96173,
+            "endAt": 97260,
+            "text": "세화여중",
+            "speaker": 0
+        },
+        {
+            "id": "a9bd01af",
+            "startAt": 97538,
+            "endAt": 101877,
+            "text": "예, 반포 종합운 반포종합운동장 쪽이요, 단지가.",
+            "speaker": 1
+        },
+        {
+            "id": "1978d07b",
+            "startAt": 104301,
+            "endAt": 106483,
+            "text": "어, 죄송해요, 한번 좀 찾아볼게요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qd3qbo7a59g",
+            "startAt": 106485,
+            "endAt": 107673,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c28373af7do",
+            "startAt": 107823,
+            "endAt": 114760,
+            "text": "세화 여 아, 세화 쪽에 있는 거 어 그 옆에 어 찾았어요 지금 갈게요. 네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 서초구 반포동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "고열",
+        "경련/발작"
+    ],
+    "triage": "응급증상"
+}

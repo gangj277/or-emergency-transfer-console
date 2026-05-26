@@ -1,0 +1,358 @@
+{
+    "_id": "651e4fcea6a4bdae3d84c3cd",
+    "audioPath": "20230925/Seoul/2022/20220907/converted_[20220907]-[WW1140772596].wav",
+    "recordId": "6393c801050b464eae6b",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 141720,
+    "utterances": [
+        {
+            "id": "c72e866e",
+            "startAt": 261,
+            "endAt": 900,
+            "text": "입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "16d99d8e",
+            "startAt": 1096,
+            "endAt": 5265,
+            "text": "네, 수고하십니다. 저희는 신월 실버 요양원이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "e7cd076b",
+            "startAt": 5419,
+            "endAt": 7760,
+            "text": "신월 실버 요양원 맞죠?",
+            "speaker": 0
+        },
+        {
+            "id": "10153b35",
+            "startAt": 7563,
+            "endAt": 9524,
+            "text": "네, 신월 실버 요양원.",
+            "speaker": 1
+        },
+        {
+            "id": "85645497",
+            "startAt": 9090,
+            "endAt": 10935,
+            "text": "아 네, 무슨 일신데요?",
+            "speaker": 0
+        },
+        {
+            "id": "cbf5072f",
+            "startAt": 10990,
+            "endAt": 15570,
+            "text": "아, 어르신이 코로나에 그 확진이 됐는데.",
+            "speaker": 1
+        },
+        {
+            "id": "9efad846",
+            "startAt": 15623,
+            "endAt": 17600,
+            "text": "지금 상황이 조금 안 좋아요.",
+            "speaker": 1
+        },
+        {
+            "id": "b74792c4",
+            "startAt": 17366,
+            "endAt": 19561,
+            "text": "아, 확진자예요? 네.",
+            "speaker": 0
+        },
+        {
+            "id": "7aca66cd",
+            "startAt": 18010,
+            "endAt": 21837,
+            "text": "산소 예 산소포화도가 지금 계속 떨어지고 있구요.",
+            "speaker": 1
+        },
+        {
+            "id": "b5dbcc0c",
+            "startAt": 21909,
+            "endAt": 24402,
+            "text": "예, 그래서 지금 119 부르려고 하거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "70391b5c",
+            "startAt": 23502,
+            "endAt": 28430,
+            "text": "아, 그래서 그래서 그 응급실 가시게 구급차 요청하시는 거죠? 그 주소가 곰달래로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1gpvurirb2g",
+            "startAt": 26315,
+            "endAt": 27543,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5ta763fnig",
+            "startAt": 28464,
+            "endAt": 29199,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k83460m3nmo",
+            "startAt": 29235,
+            "endAt": 30407,
+            "text": "네 네 네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8ln4j43ofoo",
+            "startAt": 29891,
+            "endAt": 32655,
+            "text": "네 몇 몇 층으로 가면 돼요? 실버요양원.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vnctodb398",
+            "startAt": 31683,
+            "endAt": 33238,
+            "text": "1 1층이요.",
+            "speaker": 1
+        },
+        {
+            "id": "016af4be",
+            "startAt": 33224,
+            "endAt": 35656,
+            "text": "1층 그 가고 남자 여자예요?",
+            "speaker": 0
+        },
+        {
+            "id": "9ded7d24",
+            "startAt": 35803,
+            "endAt": 37240,
+            "text": "여자분이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kgqtge844fo",
+            "startAt": 36171,
+            "endAt": 37962,
+            "text": "으 아 나이대는요?",
+            "speaker": 0
+        },
+        {
+            "id": "6a70512c",
+            "startAt": 38348,
+            "endAt": 44252,
+            "text": "나이대는 잠시만요. 제가 이거 봐야되는데 한 8 90넘었을거 같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "062f9c91",
+            "startAt": 43255,
+            "endAt": 51033,
+            "text": "아 그니까 대 그 대충 얘기해주시면 돼 90대 정도 돼요. 네, 그리고 지금 그 지금 그 호 호흡은 가 잘하고 있어요? 규칙적으로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k4a97sfhep",
+            "startAt": 45948,
+            "endAt": 46885,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "548b68ec",
+            "startAt": 51336,
+            "endAt": 54509,
+            "text": "열이 지금 많이 오르고 있는 거 같아요. 점점 더요.",
+            "speaker": 1
+        },
+        {
+            "id": "4acdb8cc",
+            "startAt": 53442,
+            "endAt": 56008,
+            "text": "아 음 아, 그리고 의식은요? 의식.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eso60a86ps",
+            "startAt": 56764,
+            "endAt": 57764,
+            "text": "의식 의식이요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tmm6rk8q95",
+            "startAt": 56780,
+            "endAt": 59117,
+            "text": "의식은 있어 예 의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hqf2drr2oe8",
+            "startAt": 58484,
+            "endAt": 61357,
+            "text": "말을 못해요. 어르신이 말도 어눌하고.",
+            "speaker": 1
+        },
+        {
+            "id": "1d73668b",
+            "startAt": 59816,
+            "endAt": 65191,
+            "text": "의 그럼 의 의 의식도 저하되시고 호흡은 그래도 심정지 사항은 아니죠. 가슴 오르락 내리락하죠?",
+            "speaker": 0
+        },
+        {
+            "id": "1f6b2a70",
+            "startAt": 65727,
+            "endAt": 68264,
+            "text": "잠시만요. 잠 바꿔봐. 119 119 119.",
+            "speaker": 1
+        },
+        {
+            "id": "26ddfe71",
+            "startAt": 69361,
+            "endAt": 70323,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "ea864357",
+            "startAt": 69932,
+            "endAt": 75528,
+            "text": "어 네 119인데요. 구급차 지금 보낼 건데 저 어르신 지금 호흡은 규칙적으로 잘하고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t4fsnunqkj",
+            "startAt": 71160,
+            "endAt": 72015,
+            "text": "네 네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "b0db4e9a",
+            "startAt": 76364,
+            "endAt": 84048,
+            "text": "지금 안돼서 산소 호흡기를 끼어 꼈는데 아까는 뭐 80 88이었다가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k7ivkot7ig",
+            "startAt": 84209,
+            "endAt": 92128,
+            "text": "예, 아까 제가 야스타로 파스로비드 타러 가기 전까지만 해도 92 93 이렇게 나와 93정도 나왔거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nivg3q4a51",
+            "startAt": 90784,
+            "endAt": 93320,
+            "text": "아 지금 지금 얼마정도 나와요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n8hcijngf2",
+            "startAt": 93156,
+            "endAt": 101075,
+            "text": "지금 조금 아까 80 81이였는데 지금도 근데 저 어르신이 손이 차가워서 어떤 땐 잘 잘 안 재어지는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g87km295068",
+            "startAt": 101023,
+            "endAt": 104587,
+            "text": "열이 너무 높아요. 지금 38.8도 이래요.",
+            "speaker": 1
+        },
+        {
+            "id": "64caee34",
+            "startAt": 103322,
+            "endAt": 106599,
+            "text": "잠깐만요 네 구급차 갔고요. 그.",
+            "speaker": 0
+        },
+        {
+            "id": "27d5f2d2",
+            "startAt": 107340,
+            "endAt": 110716,
+            "text": "요양병원에서 그 확진자, 지금부터 그 진료하고 있었던 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "9ddb9ec8",
+            "startAt": 111422,
+            "endAt": 119102,
+            "text": "아, 확진돼서 그 저 소견서는 받았어요. 기동관한테 네 그래서.",
+            "speaker": 1
+        },
+        {
+            "id": "26ca8539",
+            "startAt": 116315,
+            "endAt": 124464,
+            "text": "아 아 일단은 일단 일단 알겠구요. 일단은 그 제가 구급차는 보냈고 응급처치 해주는데 연결할 거니까 전화 끊지 마시고요.",
+            "speaker": 0
+        },
+        {
+            "id": "16ce0b9e",
+            "startAt": 124568,
+            "endAt": 129303,
+            "text": "그 일단은 그 이송 여부는 구급 대원이 판단할 거니까. 잠 잠깐만.",
+            "speaker": 0
+        },
+        {
+            "id": "9ef5fc9b",
+            "startAt": 128460,
+            "endAt": 129951,
+            "text": "네 어디다 전화했어요?",
+            "speaker": 1
+        },
+        {
+            "id": "67d79005",
+            "startAt": 130033,
+            "endAt": 131340,
+            "text": "보호자는 연락하셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "2739dedb",
+            "startAt": 131632,
+            "endAt": 132984,
+            "text": "보호자 지금 전화할 거예요.",
+            "speaker": 1
+        },
+        {
+            "id": "959718e2",
+            "startAt": 132981,
+            "endAt": 134600,
+            "text": "아, 그 잠깐만요.",
+            "speaker": 0
+        },
+        {
+            "id": "107fbbea",
+            "startAt": 133558,
+            "endAt": 136923,
+            "text": "아까 설명은 하기 하긴 했거든요, 보호자한테.",
+            "speaker": 1
+        },
+        {
+            "id": "9c63b6e6",
+            "startAt": 136489,
+            "endAt": 139145,
+            "text": "예 잠깐만요, 그 응급처치 좀 연결할게요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 양천구 신월동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "중립",
+    "symptom": [
+        "호흡곤란",
+        "고열"
+    ],
+    "triage": "잠재응급증상"
+}

@@ -1,0 +1,172 @@
+{
+  "caseCount": 100,
+  "locationSetVersion": "seoul_balanced_v1",
+  "districtCounts": {
+    "종로구": 4,
+    "중구": 4,
+    "용산구": 4,
+    "성동구": 4,
+    "동대문구": 4,
+    "성북구": 4,
+    "강북구": 4,
+    "광진구": 4,
+    "중랑구": 4,
+    "노원구": 4,
+    "은평구": 4,
+    "도봉구": 4,
+    "서대문구": 4,
+    "마포구": 4,
+    "양천구": 4,
+    "강서구": 4,
+    "구로구": 4,
+    "금천구": 4,
+    "영등포구": 4,
+    "동작구": 4,
+    "관악구": 4,
+    "서초구": 4,
+    "강남구": 4,
+    "송파구": 4,
+    "강동구": 4
+  },
+  "zoneCounts": {
+    "central": 12,
+    "east": 20,
+    "north": 12,
+    "outer": 20,
+    "west": 20,
+    "south": 16
+  },
+  "categoryByDistrict": {
+    "종로구": {
+      "cardiac_arrest_rosc": 1,
+      "major_bleeding_gi": 1,
+      "chest_pain_cardiac": 1,
+      "critical_medical_unspecified": 1
+    },
+    "중구": {
+      "stroke_neuro_consciousness": 1,
+      "major_trauma_head_injury": 1,
+      "respiratory_failure_airway": 1,
+      "seizure_neurologic": 1
+    },
+    "용산구": {
+      "cardiac_arrest_rosc": 1,
+      "major_bleeding_gi": 1,
+      "major_trauma_head_injury": 1,
+      "chest_pain_cardiac": 1
+    },
+    "성동구": {
+      "cardiac_arrest_rosc": 1,
+      "stroke_neuro_consciousness": 1,
+      "respiratory_failure_airway": 1,
+      "seizure_neurologic": 1
+    },
+    "광진구": {
+      "respiratory_failure_airway": 1,
+      "major_bleeding_gi": 1,
+      "major_trauma_head_injury": 1,
+      "chest_pain_cardiac": 1
+    },
+    "동대문구": {
+      "stroke_neuro_consciousness": 1,
+      "cardiac_arrest_rosc": 1,
+      "seizure_neurologic": 1,
+      "chest_pain_cardiac": 1
+    },
+    "중랑구": {
+      "respiratory_failure_airway": 1,
+      "major_bleeding_gi": 1,
+      "seizure_neurologic": 1,
+      "major_trauma_head_injury": 1
+    },
+    "성북구": {
+      "stroke_neuro_consciousness": 1,
+      "cardiac_arrest_rosc": 1,
+      "major_bleeding_gi": 1,
+      "chest_pain_cardiac": 1
+    },
+    "강북구": {
+      "cardiac_arrest_rosc": 1,
+      "stroke_neuro_consciousness": 1,
+      "respiratory_failure_airway": 1,
+      "seizure_neurologic": 1
+    },
+    "도봉구": {
+      "respiratory_failure_airway": 1,
+      "major_bleeding_gi": 1,
+      "seizure_neurologic": 1,
+      "chest_pain_cardiac": 1
+    },
+    "노원구": {
+      "stroke_neuro_consciousness": 1,
+      "cardiac_arrest_rosc": 1,
+      "major_bleeding_gi": 1,
+      "chest_pain_cardiac": 1
+    },
+    "은평구": {
+      "stroke_neuro_consciousness": 1,
+      "respiratory_failure_airway": 1,
+      "cardiac_arrest_rosc": 1,
+      "seizure_neurologic": 1
+    },
+    "서대문구": {
+      "stroke_neuro_consciousness": 1,
+      "respiratory_failure_airway": 1,
+      "seizure_neurologic": 1,
+      "chest_pain_cardiac": 1
+    },
+    "마포구": {
+      "stroke_neuro_consciousness": 1,
+      "respiratory_failure_airway": 1,
+      "cardiac_arrest_rosc": 2
+    },
+    "양천구": {
+      "respiratory_failure_airway": 2,
+      "stroke_neuro_consciousness": 1,
+      "cardiac_arrest_rosc": 1
+    },
+    "강서구": {
+      "stroke_neuro_consciousness": 2,
+      "respiratory_failure_airway": 1,
+      "cardiac_arrest_rosc": 1
+    },
+    "구로구": {
+      "stroke_neuro_consciousness": 1,
+      "respiratory_failure_airway": 1,
+      "cardiac_arrest_rosc": 2
+    },
+    "금천구": {
+      "stroke_neuro_consciousness": 1,
+      "respiratory_failure_airway": 2,
+      "cardiac_arrest_rosc": 1
+    },
+    "영등포구": {
+      "stroke_neuro_consciousness": 2,
+      "respiratory_failure_airway": 1,
+      "cardiac_arrest_rosc": 1
+    },
+    "동작구": {
+      "respiratory_failure_airway": 2,
+      "stroke_neuro_consciousness": 1,
+      "cardiac_arrest_rosc": 1
+    },
+    "관악구": {
+      "respiratory_failure_airway": 2,
+      "stroke_neuro_consciousness": 2
+    },
+    "서초구": {
+      "stroke_neuro_consciousness": 2,
+      "respiratory_failure_airway": 2
+    },
+    "강남구": {
+      "stroke_neuro_consciousness": 2,
+      "respiratory_failure_airway": 2
+    },
+    "송파구": {
+      "stroke_neuro_consciousness": 4
+    },
+    "강동구": {
+      "stroke_neuro_consciousness": 4
+    }
+  }
+}

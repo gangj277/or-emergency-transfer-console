@@ -1,0 +1,434 @@
+{
+    "_id": "651e4f531e44dfea6eb05b5b",
+    "audioPath": "20230925/Seoul/2022/20220901/converted_[20220901]-[WW1140730040].wav",
+    "recordId": "92e0e0b782b19018daa9",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 141000,
+    "utterances": [
+        {
+            "id": "wavesurfer_5o46c95llao",
+            "startAt": 400,
+            "endAt": 1060,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "45470ba0",
+            "startAt": 1634,
+            "endAt": 2314,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lo87mr1ovko",
+            "startAt": 2400,
+            "endAt": 4280,
+            "text": "예, 119예요, 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gl8242kgvr",
+            "startAt": 3660,
+            "endAt": 5720,
+            "text": "예, 애기가 토해갖고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7q0rj21lp3",
+            "startAt": 5679,
+            "endAt": 8309,
+            "text": "토하고 있는데 지금 눈이 돌아갔어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fm8j1bd2v28",
+            "startAt": 7816,
+            "endAt": 10386,
+            "text": "눈이 좀 탁해.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f8kd4912aq8",
+            "startAt": 8014,
+            "endAt": 9044,
+            "text": "주소 먼저요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_etkb4cehagg",
+            "startAt": 11583,
+            "endAt": 12933,
+            "text": "주소 먼저 알려줘, 주소.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qin9ncutv8o",
+            "startAt": 13115,
+            "endAt": 16933,
+            "text": "예, 주공 천 11단지.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6ihaibm9kbo",
+            "startAt": 16810,
+            "endAt": 17480,
+            "text": "예?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pb9psldvn6",
+            "startAt": 18005,
+            "endAt": 18839,
+            "text": "주공.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8b393nm9pc",
+            "startAt": 18826,
+            "endAt": 20636,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fpdghjn3c3",
+            "startAt": 21996,
+            "endAt": 24186,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ntq161uj528",
+            "startAt": 24551,
+            "endAt": 25641,
+            "text": "몇 동요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pcho8r92u2",
+            "startAt": 26016,
+            "endAt": 26860,
+            "text": "주공.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4bfdkdferro",
+            "startAt": 26886,
+            "endAt": 28807,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uc52q3lr03o",
+            "startAt": 28907,
+            "endAt": 30187,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "efe8eb72",
+            "startAt": 31019,
+            "endAt": 34771,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_59otrtqagh8",
+            "startAt": 34959,
+            "endAt": 35853,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8tvj57t0c8",
+            "startAt": 36884,
+            "endAt": 38445,
+            "text": "아이 어떤가요? 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_suev6596an8",
+            "startAt": 39760,
+            "endAt": 46347,
+            "text": "애기 토 토를 하는데 토 하고 있는데 예, 얼굴 까매지면서 눈이 돌 돌았어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o0h49gc1l8",
+            "startAt": 42727,
+            "endAt": 43467,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tne9r566ed8",
+            "startAt": 48449,
+            "endAt": 50099,
+            "text": "지금 호흡같은거 어때요? 아이?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_83r59mgh6q8",
+            "startAt": 51640,
+            "endAt": 53030,
+            "text": "지금 뭐야.",
+            "speaker": 1
+        },
+        {
+            "id": "d7ea4dc2",
+            "startAt": 53837,
+            "endAt": 54537,
+            "text": "엄마좀 봐봐.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0e0ganan6kg",
+            "startAt": 54536,
+            "endAt": 55106,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "08edcda0",
+            "startAt": 55949,
+            "endAt": 58511,
+            "text": "호흡 지 호흡 쉬지 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cmu9sjcnrjg",
+            "startAt": 58911,
+            "endAt": 61281,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2me4lpq3ong",
+            "startAt": 61753,
+            "endAt": 62133,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7720d4u9qh8",
+            "startAt": 62193,
+            "endAt": 63483,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "04eb3a4a",
+            "startAt": 63451,
+            "endAt": 64551,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "91ad1c4a",
+            "startAt": 65866,
+            "endAt": 71177,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rb9cfr8l7do",
+            "startAt": 73459,
+            "endAt": 75109,
+            "text": "지금 전화 어머니 좀 바꿔주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "eb73344d",
+            "startAt": 76685,
+            "endAt": 77779,
+            "text": "뭐 해 그.",
+            "speaker": 1
+        },
+        {
+            "id": "00ad95a8",
+            "startAt": 79769,
+            "endAt": 81439,
+            "text": "어머니 좀 바꿔주세요, 어머니.",
+            "speaker": 0
+        },
+        {
+            "id": "e1eb94e1",
+            "startAt": 82439,
+            "endAt": 83279,
+            "text": "괜찮았어, 왜.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a6vuupaint",
+            "startAt": 83321,
+            "endAt": 84181,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mlt9gv1ftag",
+            "startAt": 84732,
+            "endAt": 85382,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cgaqi0d1b2g",
+            "startAt": 85438,
+            "endAt": 86708,
+            "text": "엄마 어디 아파?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9jc42ere678",
+            "startAt": 87061,
+            "endAt": 89941,
+            "text": "여보세요, 어린이 뚜드리지 마시고, 지금 어떻게 됀거에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kert65nkbqo",
+            "startAt": 90139,
+            "endAt": 91043,
+            "text": "그렇지?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hsrk9g5h8bg",
+            "startAt": 92030,
+            "endAt": 95445,
+            "text": "어머, 어머니 좀 바꿔줘, 몇 살된 아이예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2q7ckt0siu",
+            "startAt": 94554,
+            "endAt": 95164,
+            "text": "4살.",
+            "speaker": 1
+        },
+        {
+            "id": "1d5270a1",
+            "startAt": 95703,
+            "endAt": 96233,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "49c0463f",
+            "startAt": 96944,
+            "endAt": 98254,
+            "text": "어 몇 살 된 아이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "af7e86ce",
+            "startAt": 98374,
+            "endAt": 99644,
+            "text": "4살이구요.",
+            "speaker": 1
+        },
+        {
+            "id": "c509d5c2",
+            "startAt": 99814,
+            "endAt": 100424,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "3d05bc05",
+            "startAt": 103450,
+            "endAt": 104580,
+            "text": "지금 자다가.",
+            "speaker": 1
+        },
+        {
+            "id": "73defe34",
+            "startAt": 104890,
+            "endAt": 105320,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "2e709791",
+            "startAt": 106602,
+            "endAt": 110382,
+            "text": "갑자기 일어나서 눈이 옆으로 돌아가면서 토를 했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "35a8f1b6",
+            "startAt": 110772,
+            "endAt": 111352,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "7de6e1d6",
+            "startAt": 111642,
+            "endAt": 119824,
+            "text": "예. 그러면서 지금 대답을 안 하고 그랬다 그 의식이 없진 않았는데 전에 열경기를 계속 했던 애기예요.",
+            "speaker": 1
+        },
+        {
+            "id": "4e22c6cd",
+            "startAt": 119664,
+            "endAt": 120434,
+            "text": "예예.",
+            "speaker": 0
+        },
+        {
+            "id": "5d3eb0d0",
+            "startAt": 120644,
+            "endAt": 125534,
+            "text": "근데 지금 계속 애기가 너무 힘들어하고 숨을 잘 안 쉴려고.",
+            "speaker": 1
+        },
+        {
+            "id": "7906d26a",
+            "startAt": 124554,
+            "endAt": 131624,
+            "text": "선생님, 지금 두드리지 마세요. 일단 저희 간호사분 간단 응급처치법 안내해드릴 테니까 일단 아예 눕히세요.",
+            "speaker": 0
+        },
+        {
+            "id": "59658e1b",
+            "startAt": 131884,
+            "endAt": 135224,
+            "text": "네, 경기해요, 선생님 열 안나고요, 경기하고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "16f21f46",
+            "startAt": 134454,
+            "endAt": 138254,
+            "text": "일단 눕히세요, 눕히세요, 두드리지 말고 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tgaulqqoa4",
+            "startAt": 136311,
+            "endAt": 137372,
+            "text": "네, 눕혔어요.",
+            "speaker": 1
+        },
+        {
+            "id": "c34df597",
+            "startAt": 140221,
+            "endAt": 140521,
+            "text": "어",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 노원구 상계동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "구토"
+    ],
+    "triage": "잠재응급증상"
+}

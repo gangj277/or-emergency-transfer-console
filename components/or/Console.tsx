@@ -146,14 +146,14 @@ export function Console() {
               <span className="mono text-[10px] font-semibold uppercase tracking-[0.18em] text-ink-muted">
                 OR Emergency Transfer Console
               </span>
-              <Pill tone="muted" size="xs">demo · capacity_buffer_v2</Pill>
+              <Pill tone="muted" size="xs">demo · normalized_utility_v3</Pill>
             </div>
             <h1 className="mt-1 text-[16px] font-semibold tracking-tight text-ink">
               응급 통화 → OR 변수 → 서울 응급의료기관 top-3 추천
             </h1>
             <p className="mt-0.5 max-w-3xl text-[11.5px] leading-snug text-ink-muted">
               transcript와 신고 위치를 OR 변수로 변환하고, NEMC live capacity가 있는 51개 후보를
-              capacity_buffer_v2 ranking으로 정렬합니다. 실제 의료 의사결정 시스템이 아닌 OR 팀플 시연용입니다.
+              normalized_utility_v3 desirability(↑)로 정렬합니다. 실제 의료 의사결정 시스템이 아닌 OR 팀플 시연용입니다.
             </p>
           </div>
           <div className="flex flex-wrap items-center gap-2">
@@ -224,7 +224,7 @@ function FooterNotes() {
       </p>
       <p>
         이 콘솔은 “확정 진료 가능” 또는 “실시간 최단 경로”를 보장하지 않습니다.
-        OR formulation `capacity_buffer_v2`의 설명 가능성을 검증하기 위한 demo입니다.
+        OR formulation `normalized_utility_v3`의 설명 가능성을 검증하기 위한 demo입니다.
       </p>
     </footer>
   );

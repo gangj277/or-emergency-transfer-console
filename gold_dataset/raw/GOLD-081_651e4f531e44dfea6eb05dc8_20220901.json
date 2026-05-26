@@ -1,0 +1,274 @@
+{
+    "_id": "651e4f531e44dfea6eb05dc8",
+    "audioPath": "20230925/Seoul/2022/20220901/converted_[20220901]-[WW1140730065].wav",
+    "recordId": "46b9fe0fb875154c0363",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 99360,
+    "utterances": [
+        {
+            "id": "6dd718f5",
+            "startAt": 989,
+            "endAt": 1619,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "2dde2844",
+            "startAt": 1929,
+            "endAt": 8382,
+            "text": "예, 수고하십니다. 네, 다름이 아니구요. 예, 빨리 어디 병원을 갈려고.",
+            "speaker": 1
+        },
+        {
+            "id": "0fb39f5b",
+            "startAt": 9497,
+            "endAt": 10842,
+            "text": "어디가 불편하세요, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "49cfa53e",
+            "startAt": 11137,
+            "endAt": 11377,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "a6afe612",
+            "startAt": 11847,
+            "endAt": 12837,
+            "text": "어디가 아프세요?",
+            "speaker": 0
+        },
+        {
+            "id": "3b46f5bf",
+            "startAt": 14290,
+            "endAt": 15373,
+            "text": "가슴이 아프구요.",
+            "speaker": 1
+        },
+        {
+            "id": "e3bde6e9",
+            "startAt": 15750,
+            "endAt": 16140,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "7015e453",
+            "startAt": 16915,
+            "endAt": 18100,
+            "text": "아, 정신을 못 차리시네.",
+            "speaker": 1
+        },
+        {
+            "id": "1dbd0cb2",
+            "startAt": 18655,
+            "endAt": 19145,
+            "text": "누가요?",
+            "speaker": 0
+        },
+        {
+            "id": "cfc8bf04",
+            "startAt": 19785,
+            "endAt": 20645,
+            "text": "어, 집사람이.",
+            "speaker": 1
+        },
+        {
+            "id": "912d378d",
+            "startAt": 21564,
+            "endAt": 22744,
+            "text": "아, 정신을 못 차린다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "94327732",
+            "startAt": 22968,
+            "endAt": 23670,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "667e53b9",
+            "startAt": 24465,
+            "endAt": 26731,
+            "text": "그 의식이 없다는 거예요, 아니면 의식이 지금.",
+            "speaker": 0
+        },
+        {
+            "id": "04ee1064",
+            "startAt": 26885,
+            "endAt": 30925,
+            "text": "아, 지금 아직 가슴이 엄청 아픈 모양이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "2d005735",
+            "startAt": 31185,
+            "endAt": 32525,
+            "text": "선생님 주소가 어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "2446d024",
+            "startAt": 33039,
+            "endAt": 37464,
+            "text": "음 목동 중앙북로.",
+            "speaker": 1
+        },
+        {
+            "id": "aa0a4ee0",
+            "startAt": 38221,
+            "endAt": 40014,
+            "text": "목동 중앙북로.",
+            "speaker": 0
+        },
+        {
+            "id": "a0ae7e56",
+            "startAt": 40164,
+            "endAt": 40873,
+            "text": "20길,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5ph41ajiecg",
+            "startAt": 41442,
+            "endAt": 42097,
+            "text": "20길,",
+            "speaker": 0
+        },
+        {
+            "id": "26d02963",
+            "startAt": 42403,
+            "endAt": 45873,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "e5b0c2c3",
+            "startAt": 46353,
+            "endAt": 47878,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1bf3a95b",
+            "startAt": 50230,
+            "endAt": 52764,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "fb0296c8",
+            "startAt": 54069,
+            "endAt": 58328,
+            "text": "응 목동 목동 종송주택.",
+            "speaker": 1
+        },
+        {
+            "id": "f19192f4",
+            "startAt": 60327,
+            "endAt": 61007,
+            "text": "무슨 주택이요?",
+            "speaker": 0
+        },
+        {
+            "id": "fafc887c",
+            "startAt": 61735,
+            "endAt": 63969,
+            "text": "목동 종송주택.",
+            "speaker": 1
+        },
+        {
+            "id": "618c8973",
+            "startAt": 64539,
+            "endAt": 65462,
+            "text": "종송 주택?",
+            "speaker": 0
+        },
+        {
+            "id": "b9f66fc0",
+            "startAt": 65734,
+            "endAt": 66514,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "f67a1f8e",
+            "startAt": 67624,
+            "endAt": 69667,
+            "text": "목동 중앙북로,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cupgdgv8ldg",
+            "startAt": 69676,
+            "endAt": 73012,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "35bca58b",
+            "startAt": 73255,
+            "endAt": 73770,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "2d36d31d",
+            "startAt": 73894,
+            "endAt": 76059,
+            "text": "예, 선생님 구급차 출발했고요.",
+            "speaker": 0
+        },
+        {
+            "id": "a4a97cf7",
+            "startAt": 76234,
+            "endAt": 76666,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "cd45eb9a",
+            "startAt": 76824,
+            "endAt": 80814,
+            "text": "지금 숨 쉬는 거 이런 거 다 정상적으로 다 쉬시고 그렇다 하시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "ef1fc7f0",
+            "startAt": 81194,
+            "endAt": 85300,
+            "text": "아 예, 아, 통증이 온 모양이에요, 그 계속 예.",
+            "speaker": 1
+        },
+        {
+            "id": "cfc784a6",
+            "startAt": 85793,
+            "endAt": 87115,
+            "text": "예, 알겠습니다 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i5eb753ntio",
+            "startAt": 86939,
+            "endAt": 87502,
+            "text": "예, 예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 양천구 목동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "의식장애"
+    ],
+    "triage": "준응급증상"
+}

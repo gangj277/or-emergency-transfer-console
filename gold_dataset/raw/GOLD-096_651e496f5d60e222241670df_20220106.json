@@ -1,0 +1,303 @@
+{
+    "_id": "651e496f5d60e222241670df",
+    "audioPath": "20230925/Seoul/2022/20220106/converted_[20220106]-[WO1139299169].wav",
+    "recordId": "b656682cd32240ba259e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 103200,
+    "utterances": [
+        {
+            "id": "9aab6dcb",
+            "startAt": 718,
+            "endAt": 2868,
+            "text": "네, 119 상황실입니다. 무엇을 도와드릴까요?",
+            "speaker": 0
+        },
+        {
+            "id": "88eb2dee",
+            "startAt": 3248,
+            "endAt": 5288,
+            "text": "예, 저희 그 저희 엄마가.",
+            "speaker": 1
+        },
+        {
+            "id": "2b9c097a",
+            "startAt": 5408,
+            "endAt": 5848,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "e3609a63",
+            "startAt": 6118,
+            "endAt": 7988,
+            "text": "지금 열이 좀 많이 나고요.",
+            "speaker": 1
+        },
+        {
+            "id": "48ef9c87",
+            "startAt": 8168,
+            "endAt": 9868,
+            "text": "네, 혹시 몇 도신지 아시나요?",
+            "speaker": 0
+        },
+        {
+            "id": "f6e28441",
+            "startAt": 10624,
+            "endAt": 13024,
+            "text": "38.17이었나? 네.",
+            "speaker": 1
+        },
+        {
+            "id": "a50f5e30",
+            "startAt": 14074,
+            "endAt": 15184,
+            "text": "38.1이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rpt5f4r1mqg",
+            "startAt": 14282,
+            "endAt": 21118,
+            "text": "38이요 네, 네, 그래서 지금 그 이번 주 그 세브란스에서 항암치료를 하고 있거든요. 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ca685b326jg",
+            "startAt": 20700,
+            "endAt": 22536,
+            "text": "아, 항암치료 중이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "0afdddf5",
+            "startAt": 22750,
+            "endAt": 28166,
+            "text": "예예. 그래서 화요일 날 항암치료를 하고 왔는데 지금 두통이 너무 심하고 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6it8q44o1i8",
+            "startAt": 28718,
+            "endAt": 32227,
+            "text": "그 가슴 앞에가 전체적으로 압박이 되게 심해요.",
+            "speaker": 1
+        },
+        {
+            "id": "c4615673",
+            "startAt": 32196,
+            "endAt": 33296,
+            "text": "아, 흉통도 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "751d6d04",
+            "startAt": 33486,
+            "endAt": 34845,
+            "text": "예, 흉통이 있어요. ",
+            "speaker": 1
+        },
+        {
+            "id": "1230820e",
+            "startAt": 34202,
+            "endAt": 38250,
+            "text": "알겠습니다. 세브란스 신촌 세브란스에서 그 진료받으셨다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "09d74a0e",
+            "startAt": 38016,
+            "endAt": 42446,
+            "text": "예, 예 예 그래서 사실 그 응급실 방금 세브란스에 전화했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "d0cc6fcf",
+            "startAt": 42689,
+            "endAt": 43149,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "6155e23c",
+            "startAt": 43319,
+            "endAt": 49279,
+            "text": "그 응급상황, 어떻게 이거 조치할 수 있는 거 있냐고 알려달라고 했더니 환자를 봐야지 얘기해줄 수 있다면서.",
+            "speaker": 1
+        },
+        {
+            "id": "09832469",
+            "startAt": 49309,
+            "endAt": 50999,
+            "text": "아 저 알겠습니다 일단",
+            "speaker": 0
+        },
+        {
+            "id": "be67cac8",
+            "startAt": 49658,
+            "endAt": 52270,
+            "text": "119에 전화하라고. 그러더라고요",
+            "speaker": 1
+        },
+        {
+            "id": "5952a241",
+            "startAt": 51834,
+            "endAt": 54459,
+            "text": "일단은 그 주소가 어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "0b8de4ed",
+            "startAt": 54799,
+            "endAt": 55166,
+            "text": "어",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ips0704s9p8",
+            "startAt": 56400,
+            "endAt": 57627,
+            "text": "한글 비석로.",
+            "speaker": 1
+        },
+        {
+            "id": "9f39065c",
+            "startAt": 58109,
+            "endAt": 59249,
+            "text": "한글 비석로.",
+            "speaker": 0
+        },
+        {
+            "id": "41f0e9cf",
+            "startAt": 59409,
+            "endAt": 60549,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "fec1e981",
+            "startAt": 61417,
+            "endAt": 62497,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bkbgnvtbl18",
+            "startAt": 62682,
+            "endAt": 63800,
+            "text": "그 보람아파트",
+            "speaker": 1
+        },
+        {
+            "id": "abbbb605",
+            "startAt": 62727,
+            "endAt": 63757,
+            "text": "보람아파트.",
+            "speaker": 0
+        },
+        {
+            "id": "baff5e04",
+            "startAt": 64056,
+            "endAt": 72713,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "eca9822b",
+            "startAt": 72938,
+            "endAt": 75438,
+            "text": "알겠습니다. 저희가 구급자 한 대 보내드렸는데.",
+            "speaker": 0
+        },
+        {
+            "id": "f0b79b2a",
+            "startAt": 75568,
+            "endAt": 76028,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "1874650e",
+            "startAt": 76058,
+            "endAt": 77588,
+            "text": "지금 열이 나신다고 하셨잖아요.",
+            "speaker": 0
+        },
+        {
+            "id": "f32af0a4",
+            "startAt": 77698,
+            "endAt": 78188,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "74cf6f8c",
+            "startAt": 78218,
+            "endAt": 83778,
+            "text": "일단 열이 나시면 신촌 세브란스는 아마 열이 나시면 거기에 치료를 받으셨어도.",
+            "speaker": 0
+        },
+        {
+            "id": "7314e926",
+            "startAt": 84208,
+            "endAt": 84578,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "60a0c2d5",
+            "startAt": 84778,
+            "endAt": 91088,
+            "text": "그 이렇게 격리실 있는 병동이 있어야지만 들어갈 수 있는데 아마 없어서 아마 엄청 기다리실 거예요. 그 점은 미리 말씀을 드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "58519440",
+            "startAt": 90843,
+            "endAt": 91895,
+            "text": "네, 네, 네. 네",
+            "speaker": 1
+        },
+        {
+            "id": "43271daf",
+            "startAt": 92164,
+            "endAt": 97264,
+            "text": "네, 일단은 병원 이송 관련 돼서는 도착하는 구급대원에게 문어보셔야 됩니다.",
+            "speaker": 0
+        },
+        {
+            "id": "59911587",
+            "startAt": 97364,
+            "endAt": 98424,
+            "text": "네, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "ccfff498",
+            "startAt": 98454,
+            "endAt": 99064,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "848e9dfe",
+            "startAt": 99214,
+            "endAt": 99534,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 노원구 상계동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "두통",
+        "고열",
+        "가슴불편감"
+    ],
+    "triage": "응급증상"
+}

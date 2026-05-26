@@ -1,0 +1,416 @@
+{
+    "_id": "651e4f08d163a62ed3b43b5b",
+    "audioPath": "20230925/Seoul/2022/20220805/converted_[20220805]-[WV1140532371].wav",
+    "recordId": "847d7302a04a6031a1f1",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 134280,
+    "utterances": [
+        {
+            "id": "wavesurfer_hbj939ue8ng",
+            "startAt": 1027,
+            "endAt": 1800,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q1tmd3rljt8",
+            "startAt": 2155,
+            "endAt": 6591,
+            "text": "네, 여기 지금 한강 광나루 한강 시민공원인데요. 여기 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vm58ujhel8o",
+            "startAt": 6936,
+            "endAt": 11563,
+            "text": "어린 친구가 그 갑자기 발작을 일으켜가지고 구급차 좀 보내주시겠어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r08bbqu2in8",
+            "startAt": 11736,
+            "endAt": 12600,
+            "text": "남자예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ednbdbf97ng",
+            "startAt": 12191,
+            "endAt": 14654,
+            "text": "자전거 타다가 지금 쓰러졌어요. 남자구요 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0slmqm5aeto",
+            "startAt": 15436,
+            "endAt": 17936,
+            "text": "어디로 가면 돼요? 그러면요 광나루",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4bn9pbamvbo",
+            "startAt": 16827,
+            "endAt": 18709,
+            "text": "여기가 지금 아.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uko338fbklo",
+            "startAt": 19582,
+            "endAt": 20636,
+            "text": "어디쯤이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i9rph2qinig",
+            "startAt": 21354,
+            "endAt": 25218,
+            "text": "여기 광진교에서 암사 구리 암사대교로 가는 길 사이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e7uosbbk54",
+            "startAt": 25672,
+            "endAt": 28081,
+            "text": "광진교에서 구리 암사대교 사이.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_747o7d8bp68",
+            "startAt": 27436,
+            "endAt": 29681,
+            "text": "네네네네네. 아 괜찮아요? 잠깐만 괜찮아요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8hb146a8evg",
+            "startAt": 30272,
+            "endAt": 30981,
+            "text": "괜찮아요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f8tjc3m568o",
+            "startAt": 32145,
+            "endAt": 33008,
+            "text": "괜찮아요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8ofb1s772u8",
+            "startAt": 35100,
+            "endAt": 37427,
+            "text": "아 자전거를 타다가 넘어져가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h2vi6q9lesg",
+            "startAt": 37418,
+            "endAt": 38745,
+            "text": "그래서 경련하는거 같아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o3c1k77jrng",
+            "startAt": 38654,
+            "endAt": 41627,
+            "text": "다다다. 잠깐만요. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5i0pdied2to",
+            "startAt": 43372,
+            "endAt": 44336,
+            "text": "머릴 부딪혔어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_07mp3mr8qp8",
+            "startAt": 45790,
+            "endAt": 46890,
+            "text": "아.",
+            "speaker": 1
+        },
+        {
+            "id": "ad66a0f5",
+            "startAt": 48564,
+            "endAt": 50911,
+            "text": "숨 천천히 쉬어, 숨 천천히 쉬어.",
+            "speaker": 1
+        },
+        {
+            "id": "d8aa251e",
+            "startAt": 50968,
+            "endAt": 52792,
+            "text": "일어 일으켜, 일어 날래요, 괜찮아요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4rkhhhnrpc8",
+            "startAt": 54299,
+            "endAt": 56354,
+            "text": "됐다 됐어 됐어. 됐다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nht0o861ei",
+            "startAt": 64126,
+            "endAt": 65899,
+            "text": "얼굴부터 부딪힌 거 같은데 음.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dhoafre7vj8",
+            "startAt": 66499,
+            "endAt": 68326,
+            "text": "상처는 있어요? 상처?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7n1ifmsjp08",
+            "startAt": 69772,
+            "endAt": 72372,
+            "text": "지금 상처는 없는 거 같거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e2oasgg61l",
+            "startAt": 72417,
+            "endAt": 72990,
+            "text": "지금.",
+            "speaker": 1
+        },
+        {
+            "id": "3f2a6965",
+            "startAt": 73117,
+            "endAt": 74206,
+            "text": "얼굴에 상처라.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tuitehdcu3o",
+            "startAt": 74081,
+            "endAt": 74590,
+            "text": "음.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0qhtucrdqc",
+            "startAt": 75335,
+            "endAt": 78217,
+            "text": "괜찮아져서 조금 의식이 돌아오긴 했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2jamnut65o8",
+            "startAt": 77772,
+            "endAt": 79208,
+            "text": "아 그 친구가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ouqh7as7bio",
+            "startAt": 79499,
+            "endAt": 80144,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i35bt1qlbqg",
+            "startAt": 80444,
+            "endAt": 85744,
+            "text": "혹시나 뭐 의사나 뭐 물어보고 필요하면 대충 위치는 나오고 축구장 인근인 거 같은데.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gkvbr942eog",
+            "startAt": 85799,
+            "endAt": 86990,
+            "text": "맞아요 그 근처예요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0bin8bh2veg",
+            "startAt": 87081,
+            "endAt": 87881,
+            "text": "예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u0gqueg1li8",
+            "startAt": 88144,
+            "endAt": 89135,
+            "text": "가볼래요 괜찮아요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j4bo03f4mp8",
+            "startAt": 89053,
+            "endAt": 90081,
+            "text": "병원 아니 병원.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dv23nk1vcdg",
+            "startAt": 89599,
+            "endAt": 90426,
+            "text": "괜찮아요?",
+            "speaker": 1
+        },
+        {
+            "id": "a832d354",
+            "startAt": 90677,
+            "endAt": 91573,
+            "text": "병원 가야 돼.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_98n08hhg7u8",
+            "startAt": 91226,
+            "endAt": 93908,
+            "text": "와, 가야될 거 같으니까 좀 와주시겠어요 혹시?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m9h1hglnt8",
+            "startAt": 93953,
+            "endAt": 95108,
+            "text": "축구장 인근요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_id9qllhviio",
+            "startAt": 95344,
+            "endAt": 98044,
+            "text": "네 맞아요. 지금 축구장 쪽이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cols53hko1",
+            "startAt": 98408,
+            "endAt": 99171,
+            "text": "축구장에서.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5k8bvc6hba8",
+            "startAt": 98508,
+            "endAt": 102790,
+            "text": "수영장에서 더 가야돼요. 남서쪽으로 더 가야돼요 수영장에서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a1uegdkfc4o",
+            "startAt": 103135,
+            "endAt": 103971,
+            "text": "수영장에서?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1dgq1r0rie8",
+            "startAt": 104153,
+            "endAt": 104980,
+            "text": "네 네 네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h89rr8gtm7g",
+            "startAt": 105153,
+            "endAt": 109917,
+            "text": "예 일단 전화 좀 잘 받구요. 지금은 외상은 없고 경련하는 거도 멈췄죠 그러면은요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j93osdjbkv",
+            "startAt": 109453,
+            "endAt": 112189,
+            "text": "외상은 지금 보이지는 않고. 응.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ledaetst778",
+            "startAt": 112617,
+            "endAt": 113498,
+            "text": "네 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mcn4m1f6uk",
+            "startAt": 113071,
+            "endAt": 116244,
+            "text": "처음 처음에 경련하는 거는 조금 멈췄거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0k2oser2rho",
+            "startAt": 116208,
+            "endAt": 117071,
+            "text": "아 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0n5upffmvmo",
+            "startAt": 116471,
+            "endAt": 120353,
+            "text": "근데 숨 숨이 좀 아직도 그래도 좀 가빠하는 편이구요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6173hlr1i2",
+            "startAt": 120344,
+            "endAt": 121407,
+            "text": "아 그래요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_519dcete64o",
+            "startAt": 120698,
+            "endAt": 125662,
+            "text": "정신이 그래도 이 온전치는 않아서 제가 봤을 때 빨리 와주시는 게 맞을 거 같애요.",
+            "speaker": 1
+        },
+        {
+            "id": "8d025c8b",
+            "startAt": 125750,
+            "endAt": 129748,
+            "text": "그래요, 일단 기다리고 계십쇼. 근데 차량 출동이 좀 많아서 좀 멀리서 가니까.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_es4p5nhas1g",
+            "startAt": 129780,
+            "endAt": 131907,
+            "text": "그래도 최대한 빨리 좀 부탁드릴게요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fn8ac3n1b5o",
+            "startAt": 131289,
+            "endAt": 132680,
+            "text": "전화 좀 잘 받으세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_58fu12dt3og",
+            "startAt": 132962,
+            "endAt": 133762,
+            "text": "네. 예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강동구 암사동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "두통",
+        "고열",
+        "찰과상",
+        "경련/발작"
+    ],
+    "triage": "응급증상"
+}

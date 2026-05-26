@@ -1,0 +1,204 @@
+{
+    "_id": "651e4dfb2795332cde28f14c",
+    "audioPath": "20230925/Seoul/2022/20220703/converted_[20220703]-[WU1140301834].wav",
+    "recordId": "1894e6be27cb72256dc3",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 72240,
+    "utterances": [
+        {
+            "id": "1e170fc2",
+            "startAt": 1734,
+            "endAt": 3459,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "a0ad4456",
+            "startAt": 3244,
+            "endAt": 4313,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "1de6982e",
+            "startAt": 4503,
+            "endAt": 5425,
+            "text": "네네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c059j26ls08",
+            "startAt": 5637,
+            "endAt": 6619,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8gj4j4db1vg",
+            "startAt": 6593,
+            "endAt": 8202,
+            "text": "네 무슨 일이세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hhcrmk7aua8",
+            "startAt": 7393,
+            "endAt": 12275,
+            "text": "제가 가슴이 막 막 굶고 가면 같이 같이 아파요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vqdqgre8flg",
+            "startAt": 11037,
+            "endAt": 13437,
+            "text": "자 어서 주소가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ckgfdcpqbc",
+            "startAt": 14273,
+            "endAt": 18374,
+            "text": "여기 가양 강서구 가양 2동 5단지 아파트",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f7ea7hog7l",
+            "startAt": 19074,
+            "endAt": 25429,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "17a46598",
+            "startAt": 26082,
+            "endAt": 28242,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "bd541910",
+            "startAt": 28622,
+            "endAt": 31782,
+            "text": "아, 가양 5단지 하 5단지 도시개발 아파트죠?",
+            "speaker": 0
+        },
+        {
+            "id": "4e7e71f8",
+            "startAt": 32256,
+            "endAt": 33664,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "8c1eb046",
+            "startAt": 33596,
+            "endAt": 34926,
+            "text": "아, 가슴이 아파요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mpenila28i",
+            "startAt": 35273,
+            "endAt": 38000,
+            "text": "저기 땀이 쭉 흘리고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_egjn2tqdj08",
+            "startAt": 37875,
+            "endAt": 43539,
+            "text": "여기 심장이 너무 아파요, 그리고 저 혀바닥 밑에 먹는 거 약 먹고 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6rqqjq8vg78",
+            "startAt": 43506,
+            "endAt": 47679,
+            "text": "다시 또 저 가슴 아픈 약 먹었는데도 은근 막 응급양 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0b3bt018hro",
+            "startAt": 47862,
+            "endAt": 52954,
+            "text": "두 번이나 먹었는데도 안 들어요. 식은땀도 시원하고 걷지도 못하게 고 막",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ljso2ccl32",
+            "startAt": 53237,
+            "endAt": 56546,
+            "text": "아우 죽을 거 같애요, 막.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oje75le66ig",
+            "startAt": 53710,
+            "endAt": 55965,
+            "text": "신고자분 문 열어주실 수 있죠.",
+            "speaker": 0
+        },
+        {
+            "id": "b6967a79",
+            "startAt": 56935,
+            "endAt": 61504,
+            "text": "문을 열어줄 수 있죠. 문은 열어줄 수 있죠.",
+            "speaker": 0
+        },
+        {
+            "id": "732f7d12",
+            "startAt": 61938,
+            "endAt": 62652,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "137f7de3",
+            "startAt": 62900,
+            "endAt": 65447,
+            "text": "문은 열어줄 수 있죠. 문 문.",
+            "speaker": 0
+        },
+        {
+            "id": "21207d32",
+            "startAt": 65557,
+            "endAt": 67137,
+            "text": "예, 열어놨어요.",
+            "speaker": 1
+        },
+        {
+            "id": "3cb05984",
+            "startAt": 67377,
+            "endAt": 69638,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_brp6srdfad8",
+            "startAt": 69677,
+            "endAt": 70777,
+            "text": "출동합니다.",
+            "speaker": 0
+        },
+        {
+            "id": "f957f549",
+            "startAt": 70887,
+            "endAt": 71981,
+            "text": "예, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 강서구 가양동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "호흡곤란"
+    ],
+    "triage": "응급증상"
+}

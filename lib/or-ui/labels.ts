@@ -13,6 +13,12 @@ export const incidentTypeLabel: Record<IncidentType, string> = {
   blunt_abdominal_trauma: "복부 둔상",
   minor_head_injury_anticoagulant: "경미 두부외상 + 항응고제/취약성",
   other_trauma: "기타 외상",
+  cardiac_arrest: "심정지",
+  stroke: "뇌졸중",
+  respiratory_failure: "호흡부전",
+  seizure: "발작/경련",
+  cardiac: "흉통/급성관상동맥",
+  gi_bleeding: "위장관 출혈",
 };
 
 export const hospitalLevelLabel: Record<HospitalLevel, string> = {
@@ -27,6 +33,10 @@ export const departmentLabel: Record<Department, string> = {
   orthopedics: "정형외과",
   general_surgery: "일반외과",
   trauma_surgery: "외상외과",
+  cardiology: "순환기내과",
+  neurology: "신경과",
+  pulmonology: "호흡기내과",
+  internal_medicine: "내과",
 };
 
 export const resourceLabel: Record<Resource, string> = {
@@ -36,6 +46,11 @@ export const resourceLabel: Record<Resource, string> = {
   surgery_capability: "수술 가능성",
   bleeding_control: "출혈 처치/수술",
   trauma_resuscitation: "외상 소생",
+  cath_lab_pci: "심혈관 중재술(PCI)",
+  thrombectomy_thrombolysis: "혈전 제거/용해",
+  airway_ventilation: "기도/인공호흡",
+  defibrillation_resuscitation: "제세동/소생",
+  critical_care: "중환자 집중치료",
 };
 
 export const bedBufferLabel: Record<BedBufferTier, string> = {
@@ -49,6 +64,7 @@ export const bedBufferLabel: Record<BedBufferTier, string> = {
 
 export const constraintViolationLabel: Record<string, string> = {
   max_transport_time_exceeded: "최대 이송시간 초과",
+  max_transport_time_soft_exceeded: "이송시간 초과(소프트 페널티)",
   minimum_hospital_level_not_met: "요구 병원 수준 미충족",
   missing_live_er_bed_count: "실시간 응급실 병상 정보 없음",
   no_positive_available_er_beds: "가용 응급실 병상 없음",

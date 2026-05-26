@@ -1,0 +1,190 @@
+{
+    "_id": "651e4c5b48bae90750379c69",
+    "audioPath": "20230925/Seoul/2022/20220602/converted_[20220602]-[WT1140121695].wav",
+    "recordId": "ea93f0ca6fe1562ea56c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 57720,
+    "utterances": [
+        {
+            "id": "2bffaeac",
+            "startAt": 1741,
+            "endAt": 3362,
+            "text": "네, 119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "6da4355f",
+            "startAt": 3302,
+            "endAt": 7141,
+            "text": "네, 안녕하세요. 수고 많으십니다. 여기는 금천구 독산동.",
+            "speaker": 1
+        },
+        {
+            "id": "f68beba0",
+            "startAt": 8691,
+            "endAt": 9561,
+            "text": "독산동.",
+            "speaker": 0
+        },
+        {
+            "id": "0b9e6cee",
+            "startAt": 9628,
+            "endAt": 11472,
+            "text": "네, 금천구 덕산동.",
+            "speaker": 1
+        },
+        {
+            "id": "84bbf4b7",
+            "startAt": 11880,
+            "endAt": 12177,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "5fd76e17",
+            "startAt": 12165,
+            "endAt": 14327,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "a8b63754",
+            "startAt": 16034,
+            "endAt": 16633,
+            "text": "구 잇",
+            "speaker": 0
+        },
+        {
+            "id": "6d132429",
+            "startAt": 16792,
+            "endAt": 18677,
+            "text": "어, 요양원 아니에요? 이문 요양원?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3ililmffhfo",
+            "startAt": 18539,
+            "endAt": 19548,
+            "text": "네 이문 요양원",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4obareg4fn",
+            "startAt": 19532,
+            "endAt": 20723,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sa13jc3v8s",
+            "startAt": 20706,
+            "endAt": 21225,
+            "text": "할머니",
+            "speaker": 1
+        },
+        {
+            "id": "8cc587ee",
+            "startAt": 21159,
+            "endAt": 22859,
+            "text": "아, 네, 할아버지예 할머니예요?",
+            "speaker": 0
+        },
+        {
+            "id": "463a68b4",
+            "startAt": 22775,
+            "endAt": 24849,
+            "text": "하 저기 여자 어르신이요",
+            "speaker": 1
+        },
+        {
+            "id": "3f2a8b4f",
+            "startAt": 25075,
+            "endAt": 27086,
+            "text": "할머니가 어디가 편찮으신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "22d88804",
+            "startAt": 27112,
+            "endAt": 32569,
+            "text": "인제 저기 아무래도 그냥 이제 원래 말씀을 잘 못하시는데.",
+            "speaker": 1
+        },
+        {
+            "id": "49053da2",
+            "startAt": 32590,
+            "endAt": 33864,
+            "text": "의식 의식이 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "5f0714c3",
+            "startAt": 33947,
+            "endAt": 39985,
+            "text": "아니, 이 떨고 그게 거 이제 거품을 내시고 저기 이렇게",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e151pb28h0o",
+            "startAt": 40246,
+            "endAt": 44818,
+            "text": "그냥 부들부들 그냥 떠시기만 하시는데 아무튼 경련하고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_93acvu75uoo",
+            "startAt": 42331,
+            "endAt": 44731,
+            "text": "경견해 경견하고 경련하고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vjaen24k94",
+            "startAt": 44773,
+            "endAt": 46345,
+            "text": "네 네 그러신거 같애요",
+            "speaker": 1
+        },
+        {
+            "id": "bd50f671",
+            "startAt": 46554,
+            "endAt": 47840,
+            "text": "숨은 잘 쉬고 있구요?",
+            "speaker": 0
+        },
+        {
+            "id": "3353e380",
+            "startAt": 47790,
+            "endAt": 50405,
+            "text": "네, 네, 네, 네, 그래서 산소 드리고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "6c23d681",
+            "startAt": 50655,
+            "endAt": 56045,
+            "text": "예, 알겠어 저희 치출로 출동대 가고 있고 저희 의료지도 선 예, 출동대 가고 있습니다, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "2c1f9388",
+            "startAt": 55975,
+            "endAt": 56759,
+            "text": "네, 네",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 금천구 독산동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "호흡곤란",
+        "경련/발작"
+    ],
+    "triage": "응급증상"
+}

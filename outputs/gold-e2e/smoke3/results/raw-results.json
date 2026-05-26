@@ -1,0 +1,871 @@
+{
+  "metadata": {
+    "runId": "smoke3",
+    "generatedAt": "2026-05-26T11:27:46.468Z",
+    "source": "/Users/gangjimin/Documents/main_dev/school/OR확정/demo-app/outputs/gold-e2e/smoke3/inputs/gold_cases_with_synthetic_locations.json",
+    "capacityMode": "static_snapshot",
+    "model": "openai/gpt-5.4-mini",
+    "limit": 3
+  },
+  "cases": [
+    {
+      "case_id": "GOLD-001",
+      "category": "cardiac_arrest_rosc",
+      "synthetic_location": {
+        "district": "종로구",
+        "zone": "central",
+        "lat": 37.5735,
+        "lon": 126.9788,
+        "location_set_version": "seoul_balanced_v1",
+        "assignment_reason": "category-balanced round-robin assignment for cardiac_arrest_rosc; no source address used"
+      },
+      "pipeline_status": "succeeded",
+      "pipeline_latency_ms": 6061,
+      "stage1_fact_count": 6,
+      "stage1_missing_info_count": 5,
+      "stage2_parameters": {
+        "incident_type": "cardiac_arrest",
+        "severity_level": 5,
+        "deterioration_risk": 5,
+        "vulnerability_level": 4,
+        "required_departments": [
+          "emergency_medicine"
+        ],
+        "required_resources": [
+          "defibrillation_resuscitation",
+          "critical_care"
+        ],
+        "max_transport_time_min": 15,
+        "minimum_hospital_level": "local_center_or_above",
+        "or_notes": "Sudden collapse at home with unresponsiveness, no breathing, and no pulse reported; bystander rescue breaths in progress. Clinical picture is most consistent with active cardiac/respiratory arrest. Advanced lung cancer increases vulnerability and limits physiologic reserve. Prioritize immediate resuscitation-capable ED with critical care."
+      },
+      "validation_failure_count": 0,
+      "validation_warning_count": 0,
+      "ranking_status": "succeeded",
+      "strict_feasible_count": 24,
+      "top1": {
+        "rank": 1,
+        "hospitalId": "A1100006",
+        "hospitalName": "강북삼성병원",
+        "district": "종로구",
+        "feasible": true,
+        "estimatedTravelTimeMin": 9,
+        "timeSlackMin": 6,
+        "distanceKm": 1.11,
+        "availableErBeds": 6,
+        "bedBufferTier": "low_risk_6_10",
+        "totalCost": 449.88,
+        "objectiveTerms": {
+          "estimated_travel_time_min": 9,
+          "time_slack_min": 6,
+          "available_er_beds": 6,
+          "bed_buffer_tier": "low_risk_6_10",
+          "bed_buffer_risk": 89.12,
+          "resource_margin_risk": 81.76,
+          "static_reliability_penalty": 0,
+          "travel_cost": 279,
+          "level_penalty": 0,
+          "hard_constraint_penalty": 0,
+          "time_soft_penalty": 0,
+          "total_cost": 449.88
+        },
+        "constraintViolations": []
+      },
+      "nearest_feasible_top1": {
+        "rank": 1,
+        "hospitalId": "A1100006",
+        "hospitalName": "강북삼성병원",
+        "district": "종로구",
+        "feasible": true,
+        "estimatedTravelTimeMin": 9,
+        "timeSlackMin": 6,
+        "distanceKm": 1.11,
+        "availableErBeds": 6,
+        "bedBufferTier": "low_risk_6_10",
+        "totalCost": 449.88,
+        "objectiveTerms": {
+          "estimated_travel_time_min": 9,
+          "time_slack_min": 6,
+          "available_er_beds": 6,
+          "bed_buffer_tier": "low_risk_6_10",
+          "bed_buffer_risk": 89.12,
+          "resource_margin_risk": 81.76,
+          "static_reliability_penalty": 0,
+          "travel_cost": 279,
+          "level_penalty": 0,
+          "hard_constraint_penalty": 0,
+          "time_soft_penalty": 0,
+          "total_cost": 449.88
+        },
+        "constraintViolations": []
+      },
+      "title": "GOLD-001 심정지 호흡정지",
+      "labels": {
+        "disaster_large": "구급",
+        "disaster_medium": "심정지",
+        "urgency_level": "상",
+        "triage": "응급증상",
+        "symptom": "심정지 호흡정지",
+        "sentiment": "불안/걱정",
+        "media_type": "Mobile"
+      },
+      "selection": {
+        "source": "agent_wave_01_06",
+        "severity_score": 343,
+        "category": "cardiac_arrest_rosc",
+        "key_medical_phrases": [
+          "심정지",
+          "호흡정지"
+        ],
+        "or_relevance_reason": "Time-critical cardiac arrest or peri-arrest case where CPR, ROSC, cath/ICU capability, and travel time dominate hospital choice. Source labels: 심정지, urgency 상, triage 응급증상. Key signals: 심정지, 호흡정지."
+      },
+      "attempt_count": 1,
+      "stage1": {
+        "case_id": "GOLD-001",
+        "medical_observations": {
+          "incident_context": {
+            "incident_type_text": "Collapse with suspected cardiac arrest and respiratory arrest",
+            "location_context": "Apartment/home",
+            "injury_mechanism": "Sudden collapse during acute illness; no trauma mentioned"
+          },
+          "patient_context": {
+            "age_group": "unknown",
+            "vulnerability_mentions": [
+              "advanced lung cancer (stage 4)"
+            ],
+            "medication_or_history_mentions": [
+              "history of lung cancer stage 4"
+            ]
+          },
+          "clinical_facts": [
+            {
+              "category": "consciousness",
+              "finding": "Collapsed and unresponsive implied",
+              "status": "present"
+            },
+            {
+              "category": "breathing",
+              "finding": "Not breathing / cannot breathe",
+              "status": "present"
+            },
+            {
+              "category": "circulation_bleeding",
+              "finding": "Pulse not returned / no pulse reported",
+              "status": "present"
+            },
+            {
+              "category": "medication_history",
+              "finding": "Known serious medical illness: stage 4 lung cancer",
+              "status": "present"
+            },
+            {
+              "category": "time_course",
+              "finding": "Sudden onset while at home",
+              "status": "present"
+            },
+            {
+              "category": "other",
+              "finding": "Caller performing mouth-to-mouth ventilation / rescue breaths",
+              "status": "present"
+            }
+          ],
+          "missing_critical_info": [
+            "Exact duration of collapse and apnea",
+            "Whether any CPR chest compressions were performed",
+            "Current skin color or signs of circulation",
+            "Any witnessed choking, seizure, or trauma",
+            "Vital signs"
+          ]
+        }
+      },
+      "validation": {
+        "stage1": {
+          "valid": true,
+          "failures": [],
+          "warnings": []
+        },
+        "stage2": {
+          "valid": true,
+          "failures": [],
+          "warnings": []
+        }
+      },
+      "top3": [
+        {
+          "rank": 1,
+          "hospitalId": "A1100006",
+          "hospitalName": "강북삼성병원",
+          "district": "종로구",
+          "feasible": true,
+          "estimatedTravelTimeMin": 9,
+          "timeSlackMin": 6,
+          "distanceKm": 1.11,
+          "availableErBeds": 6,
+          "bedBufferTier": "low_risk_6_10",
+          "totalCost": 449.88,
+          "objectiveTerms": {
+            "estimated_travel_time_min": 9,
+            "time_slack_min": 6,
+            "available_er_beds": 6,
+            "bed_buffer_tier": "low_risk_6_10",
+            "bed_buffer_risk": 89.12,
+            "resource_margin_risk": 81.76,
+            "static_reliability_penalty": 0,
+            "travel_cost": 279,
+            "level_penalty": 0,
+            "hard_constraint_penalty": 0,
+            "time_soft_penalty": 0,
+            "total_cost": 449.88
+          },
+          "constraintViolations": []
+        },
+        {
+          "rank": 2,
+          "hospitalId": "A1100052",
+          "hospitalName": "국립중앙의료원",
+          "district": "중구",
+          "feasible": true,
+          "estimatedTravelTimeMin": 12,
+          "timeSlackMin": 3,
+          "distanceKm": 2.48,
+          "availableErBeds": 9,
+          "bedBufferTier": "low_risk_6_10",
+          "totalCost": 562.26,
+          "objectiveTerms": {
+            "estimated_travel_time_min": 12,
+            "time_slack_min": 3,
+            "available_er_beds": 9,
+            "bed_buffer_tier": "low_risk_6_10",
+            "bed_buffer_risk": 108.5,
+            "resource_margin_risk": 81.76,
+            "static_reliability_penalty": 0,
+            "travel_cost": 372,
+            "level_penalty": 0,
+            "hard_constraint_penalty": 0,
+            "time_soft_penalty": 0,
+            "total_cost": 562.26
+          },
+          "constraintViolations": []
+        },
+        {
+          "rank": 3,
+          "hospitalId": "A1100007",
+          "hospitalName": "연세대학교의과대학세브란스병원",
+          "district": "서대문구",
+          "feasible": true,
+          "estimatedTravelTimeMin": 15,
+          "timeSlackMin": 0,
+          "distanceKm": 3.58,
+          "availableErBeds": 1,
+          "bedBufferTier": "high_risk_1_2",
+          "totalCost": 1246.2,
+          "objectiveTerms": {
+            "estimated_travel_time_min": 15,
+            "time_slack_min": 0,
+            "available_er_beds": 1,
+            "bed_buffer_tier": "high_risk_1_2",
+            "bed_buffer_risk": 781.2,
+            "resource_margin_risk": 0,
+            "static_reliability_penalty": 0,
+            "travel_cost": 465,
+            "level_penalty": 0,
+            "hard_constraint_penalty": 0,
+            "time_soft_penalty": 0,
+            "total_cost": 1246.2
+          },
+          "constraintViolations": []
+        }
+      ],
+      "recommendations": {
+        "strictFeasibleCount": 24,
+        "relaxedFallbackUsed": false,
+        "constraintDiagnostics": {
+          "violationCounts": {
+            "minimum_hospital_level_not_met": 20,
+            "required_resource_missing": 5,
+            "no_positive_available_er_beds": 7
+          },
+          "minimumTransportTimeForNonTimeFeasibleCandidateMin": 18,
+          "nonTimeFeasibleCandidateCount": 21,
+          "dominantRelaxationHint": "minimum_hospital_level_is_binding_constraint"
+        }
+      }
+    },
+    {
+      "case_id": "GOLD-002",
+      "category": "stroke_neuro_consciousness",
+      "synthetic_location": {
+        "district": "중구",
+        "zone": "central",
+        "lat": 37.5636,
+        "lon": 126.9976,
+        "location_set_version": "seoul_balanced_v1",
+        "assignment_reason": "category-balanced round-robin assignment for stroke_neuro_consciousness; no source address used"
+      },
+      "pipeline_status": "succeeded",
+      "pipeline_latency_ms": 4391,
+      "stage1_fact_count": 9,
+      "stage1_missing_info_count": 6,
+      "stage2_parameters": {
+        "incident_type": "cardiac_arrest",
+        "severity_level": 5,
+        "deterioration_risk": 5,
+        "vulnerability_level": 2,
+        "required_departments": [
+          "emergency_medicine"
+        ],
+        "required_resources": [
+          "defibrillation_resuscitation",
+          "critical_care"
+        ],
+        "max_transport_time_min": 10,
+        "minimum_hospital_level": "regional_center",
+        "or_notes": "Unconscious with absent breathing reported; seizure-like collapse with frothing may represent active cardiac arrest or peri-arrest state. Treat as immediately life-threatening and prioritize resuscitation-capable destination."
+      },
+      "validation_failure_count": 0,
+      "validation_warning_count": 0,
+      "ranking_status": "succeeded",
+      "strict_feasible_count": 6,
+      "top1": {
+        "rank": 1,
+        "hospitalId": "A1100008",
+        "hospitalName": "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)",
+        "district": "성북구",
+        "feasible": true,
+        "estimatedTravelTimeMin": 16,
+        "timeSlackMin": -6,
+        "distanceKm": 3.65,
+        "availableErBeds": 9,
+        "bedBufferTier": "low_risk_6_10",
+        "totalCost": 2051.2,
+        "objectiveTerms": {
+          "estimated_travel_time_min": 16,
+          "time_slack_min": -6,
+          "available_er_beds": 9,
+          "bed_buffer_tier": "low_risk_6_10",
+          "bed_buffer_risk": 101.5,
+          "resource_margin_risk": 149.7,
+          "static_reliability_penalty": 0,
+          "travel_cost": 464,
+          "level_penalty": 0,
+          "hard_constraint_penalty": 0,
+          "time_soft_penalty": 1336,
+          "total_cost": 2051.2
+        },
+        "constraintViolations": []
+      },
+      "nearest_feasible_top1": {
+        "rank": 1,
+        "hospitalId": "A1100008",
+        "hospitalName": "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)",
+        "district": "성북구",
+        "feasible": true,
+        "estimatedTravelTimeMin": 16,
+        "timeSlackMin": -6,
+        "distanceKm": 3.65,
+        "availableErBeds": 9,
+        "bedBufferTier": "low_risk_6_10",
+        "totalCost": 2051.2,
+        "objectiveTerms": {
+          "estimated_travel_time_min": 16,
+          "time_slack_min": -6,
+          "available_er_beds": 9,
+          "bed_buffer_tier": "low_risk_6_10",
+          "bed_buffer_risk": 101.5,
+          "resource_margin_risk": 149.7,
+          "static_reliability_penalty": 0,
+          "travel_cost": 464,
+          "level_penalty": 0,
+          "hard_constraint_penalty": 0,
+          "time_soft_penalty": 1336,
+          "total_cost": 2051.2
+        },
+        "constraintViolations": []
+      },
+      "title": "GOLD-002 경련/발작",
+      "labels": {
+        "disaster_large": "구급",
+        "disaster_medium": "질병(중증)",
+        "urgency_level": "상",
+        "triage": "잠재응급증상",
+        "symptom": "경련/발작",
+        "sentiment": "기타부정",
+        "media_type": "Mobile"
+      },
+      "selection": {
+        "source": "agent_wave_01_06",
+        "severity_score": 275,
+        "category": "stroke_neuro_consciousness",
+        "key_medical_phrases": [
+          "경련",
+          "발작"
+        ],
+        "or_relevance_reason": "Neurologic or altered-consciousness case where stroke center access, CT availability, and rapid transfer matter. Source labels: 질병(중증), urgency 상, triage 잠재응급증상. Key signals: 경련, 발작."
+      },
+      "attempt_count": 1,
+      "stage1": {
+        "case_id": "GOLD-002",
+        "medical_observations": {
+          "incident_context": {
+            "incident_type_text": "Seizure-like emergency with frothing from the mouth",
+            "location_context": "Residential address in Gwangjin-gu, apartment building",
+            "injury_mechanism": "Unclear; sudden collapse with unresponsiveness and absent breathing reported"
+          },
+          "patient_context": {
+            "age_group": "unknown",
+            "vulnerability_mentions": [],
+            "medication_or_history_mentions": []
+          },
+          "clinical_facts": [
+            {
+              "category": "incident_mechanism",
+              "finding": "Foam coming out of the mouth",
+              "status": "present"
+            },
+            {
+              "category": "consciousness",
+              "finding": "Unconscious / no consciousness",
+              "status": "present"
+            },
+            {
+              "category": "breathing",
+              "finding": "No breathing reported",
+              "status": "present"
+            },
+            {
+              "category": "circulation_bleeding",
+              "finding": "No bleeding mentioned",
+              "status": "unclear"
+            },
+            {
+              "category": "pain",
+              "finding": "Pain not mentioned",
+              "status": "unclear"
+            },
+            {
+              "category": "mobility",
+              "finding": "Mobility not assessable due to unresponsiveness",
+              "status": "unclear"
+            },
+            {
+              "category": "injury_site",
+              "finding": "No focal injury site mentioned",
+              "status": "unclear"
+            },
+            {
+              "category": "time_course",
+              "finding": "Acute emergency at time of call",
+              "status": "present"
+            },
+            {
+              "category": "other",
+              "finding": "Female patient reported",
+              "status": "present"
+            }
+          ],
+          "missing_critical_info": [
+            "Pulse/circulation status",
+            "Whether seizure activity was ongoing at time of call",
+            "Duration of unresponsiveness or apnea",
+            "Any CPR or rescue breathing started",
+            "Known seizure history or relevant medical history",
+            "Medications or allergies"
+          ]
+        }
+      },
+      "validation": {
+        "stage1": {
+          "valid": true,
+          "failures": [],
+          "warnings": []
+        },
+        "stage2": {
+          "valid": true,
+          "failures": [],
+          "warnings": []
+        }
+      },
+      "top3": [
+        {
+          "rank": 1,
+          "hospitalId": "A1100008",
+          "hospitalName": "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)",
+          "district": "성북구",
+          "feasible": true,
+          "estimatedTravelTimeMin": 16,
+          "timeSlackMin": -6,
+          "distanceKm": 3.65,
+          "availableErBeds": 9,
+          "bedBufferTier": "low_risk_6_10",
+          "totalCost": 2051.2,
+          "objectiveTerms": {
+            "estimated_travel_time_min": 16,
+            "time_slack_min": -6,
+            "available_er_beds": 9,
+            "bed_buffer_tier": "low_risk_6_10",
+            "bed_buffer_risk": 101.5,
+            "resource_margin_risk": 149.7,
+            "static_reliability_penalty": 0,
+            "travel_cost": 464,
+            "level_penalty": 0,
+            "hard_constraint_penalty": 0,
+            "time_soft_penalty": 1336,
+            "total_cost": 2051.2
+          },
+          "constraintViolations": []
+        },
+        {
+          "rank": 2,
+          "hospitalId": "A1100013",
+          "hospitalName": "한양대학교병원",
+          "district": "성동구",
+          "feasible": true,
+          "estimatedTravelTimeMin": 17,
+          "timeSlackMin": -7,
+          "distanceKm": 4.19,
+          "availableErBeds": 14,
+          "bedBufferTier": "stable_buffer_gt_10",
+          "totalCost": 2127.14,
+          "objectiveTerms": {
+            "estimated_travel_time_min": 17,
+            "time_slack_min": -7,
+            "available_er_beds": 14,
+            "bed_buffer_tier": "stable_buffer_gt_10",
+            "bed_buffer_risk": 20.3,
+            "resource_margin_risk": 79.84,
+            "static_reliability_penalty": 0,
+            "travel_cost": 493,
+            "level_penalty": 0,
+            "hard_constraint_penalty": 0,
+            "time_soft_penalty": 1534,
+            "total_cost": 2127.14
+          },
+          "constraintViolations": []
+        },
+        {
+          "rank": 3,
+          "hospitalId": "A1100005",
+          "hospitalName": "이화여자대학교의과대학부속목동병원",
+          "district": "양천구",
+          "feasible": true,
+          "estimatedTravelTimeMin": 32,
+          "timeSlackMin": -22,
+          "distanceKm": 10.27,
+          "availableErBeds": 5,
+          "bedBufferTier": "medium_risk_3_5",
+          "totalCost": 7305.9,
+          "objectiveTerms": {
+            "estimated_travel_time_min": 32,
+            "time_slack_min": -22,
+            "available_er_beds": 5,
+            "bed_buffer_tier": "medium_risk_3_5",
+            "bed_buffer_risk": 284.2,
+            "resource_margin_risk": 149.7,
+            "static_reliability_penalty": 0,
+            "travel_cost": 928,
+            "level_penalty": 0,
+            "hard_constraint_penalty": 0,
+            "time_soft_penalty": 5944,
+            "total_cost": 7305.9
+          },
+          "constraintViolations": []
+        }
+      ],
+      "recommendations": {
+        "strictFeasibleCount": 6,
+        "relaxedFallbackUsed": false,
+        "constraintDiagnostics": {
+          "violationCounts": {
+            "minimum_hospital_level_not_met": 44,
+            "no_positive_available_er_beds": 7,
+            "required_resource_missing": 5
+          },
+          "minimumTransportTimeForNonTimeFeasibleCandidateMin": 16,
+          "nonTimeFeasibleCandidateCount": 6,
+          "dominantRelaxationHint": "strict_time_window_too_tight_min_required_16"
+        }
+      }
+    },
+    {
+      "case_id": "GOLD-003",
+      "category": "cardiac_arrest_rosc",
+      "synthetic_location": {
+        "district": "용산구",
+        "zone": "central",
+        "lat": 37.5326,
+        "lon": 126.9904,
+        "location_set_version": "seoul_balanced_v1",
+        "assignment_reason": "category-balanced round-robin assignment for cardiac_arrest_rosc; no source address used"
+      },
+      "pipeline_status": "succeeded",
+      "pipeline_latency_ms": 3812,
+      "stage1_fact_count": 5,
+      "stage1_missing_info_count": 6,
+      "stage2_parameters": {
+        "incident_type": "cardiac_arrest",
+        "severity_level": 5,
+        "deterioration_risk": 5,
+        "vulnerability_level": 3,
+        "required_departments": [
+          "emergency_medicine"
+        ],
+        "required_resources": [
+          "defibrillation_resuscitation",
+          "critical_care"
+        ],
+        "max_transport_time_min": 10,
+        "minimum_hospital_level": "regional_center",
+        "or_notes": "Found down after apparent fall with no consciousness and not breathing/suspected apnea; treat as active arrest/near-arrest until proven otherwise. Older adult with possible unwitnessed fall and unclear traumatic component."
+      },
+      "validation_failure_count": 0,
+      "validation_warning_count": 0,
+      "ranking_status": "succeeded",
+      "strict_feasible_count": 6,
+      "top1": {
+        "rank": 1,
+        "hospitalId": "A1100013",
+        "hospitalName": "한양대학교병원",
+        "district": "성동구",
+        "feasible": true,
+        "estimatedTravelTimeMin": 23,
+        "timeSlackMin": -13,
+        "distanceKm": 5.68,
+        "availableErBeds": 14,
+        "bedBufferTier": "stable_buffer_gt_10",
+        "totalCost": 3765.8,
+        "objectiveTerms": {
+          "estimated_travel_time_min": 23,
+          "time_slack_min": -13,
+          "available_er_beds": 14,
+          "bed_buffer_tier": "stable_buffer_gt_10",
+          "bed_buffer_risk": 21,
+          "resource_margin_risk": 80.8,
+          "static_reliability_penalty": 0,
+          "travel_cost": 690,
+          "level_penalty": 0,
+          "hard_constraint_penalty": 0,
+          "time_soft_penalty": 2974,
+          "total_cost": 3765.8
+        },
+        "constraintViolations": []
+      },
+      "nearest_feasible_top1": {
+        "rank": 1,
+        "hospitalId": "A1100013",
+        "hospitalName": "한양대학교병원",
+        "district": "성동구",
+        "feasible": true,
+        "estimatedTravelTimeMin": 23,
+        "timeSlackMin": -13,
+        "distanceKm": 5.68,
+        "availableErBeds": 14,
+        "bedBufferTier": "stable_buffer_gt_10",
+        "totalCost": 3765.8,
+        "objectiveTerms": {
+          "estimated_travel_time_min": 23,
+          "time_slack_min": -13,
+          "available_er_beds": 14,
+          "bed_buffer_tier": "stable_buffer_gt_10",
+          "bed_buffer_risk": 21,
+          "resource_margin_risk": 80.8,
+          "static_reliability_penalty": 0,
+          "travel_cost": 690,
+          "level_penalty": 0,
+          "hard_constraint_penalty": 0,
+          "time_soft_penalty": 2974,
+          "total_cost": 3765.8
+        },
+        "constraintViolations": []
+      },
+      "title": "GOLD-003 심정지 호흡정지 그 밖의출혈 골절 열상",
+      "labels": {
+        "disaster_large": "구급",
+        "disaster_medium": "질병(중증)",
+        "urgency_level": "상",
+        "triage": "응급증상",
+        "symptom": "심정지 호흡정지 그 밖의출혈 골절 열상",
+        "sentiment": "당황/난처",
+        "media_type": "Mobile"
+      },
+      "selection": {
+        "source": "agent_wave_01_06",
+        "severity_score": 340,
+        "category": "cardiac_arrest_rosc",
+        "key_medical_phrases": [
+          "심정지",
+          "호흡정지",
+          "추락",
+          "골절"
+        ],
+        "or_relevance_reason": "Time-critical cardiac arrest or peri-arrest case where CPR, ROSC, cath/ICU capability, and travel time dominate hospital choice. Source labels: 질병(중증), urgency 상, triage 응급증상. Key signals: 심정지, 호흡정지, 추락, 골절."
+      },
+      "attempt_count": 1,
+      "stage1": {
+        "case_id": "GOLD-003",
+        "medical_observations": {
+          "incident_context": {
+            "incident_type_text": "Fall from apartment area",
+            "location_context": "Apartment complex near a school; fell near stairs / flowerbed area",
+            "injury_mechanism": "Likely fall from stairs or elevated apartment area"
+          },
+          "patient_context": {
+            "age_group": "older_adult",
+            "vulnerability_mentions": [
+              "Older adult woman",
+              "Possible unwitnessed fall",
+              "Found down"
+            ],
+            "medication_or_history_mentions": []
+          },
+          "clinical_facts": [
+            {
+              "category": "incident_mechanism",
+              "finding": "Reported fall at apartment complex",
+              "status": "present"
+            },
+            {
+              "category": "incident_mechanism",
+              "finding": "Possible fall from stairs near apartment",
+              "status": "present"
+            },
+            {
+              "category": "consciousness",
+              "finding": "No consciousness",
+              "status": "present"
+            },
+            {
+              "category": "breathing",
+              "finding": "Not breathing or suspected apnea",
+              "status": "present"
+            },
+            {
+              "category": "injury_site",
+              "finding": "Found on ground near apartment stairs / flowerbed area",
+              "status": "present"
+            }
+          ],
+          "missing_critical_info": [
+            "Presence or absence of bleeding",
+            "Presence or absence of fractures or deformity",
+            "Presence or absence of head injury",
+            "Vital signs",
+            "Time from injury to call",
+            "Exact mechanism of fall"
+          ]
+        }
+      },
+      "validation": {
+        "stage1": {
+          "valid": true,
+          "failures": [],
+          "warnings": []
+        },
+        "stage2": {
+          "valid": true,
+          "failures": [],
+          "warnings": []
+        }
+      },
+      "top3": [
+        {
+          "rank": 1,
+          "hospitalId": "A1100013",
+          "hospitalName": "한양대학교병원",
+          "district": "성동구",
+          "feasible": true,
+          "estimatedTravelTimeMin": 23,
+          "timeSlackMin": -13,
+          "distanceKm": 5.68,
+          "availableErBeds": 14,
+          "bedBufferTier": "stable_buffer_gt_10",
+          "totalCost": 3765.8,
+          "objectiveTerms": {
+            "estimated_travel_time_min": 23,
+            "time_slack_min": -13,
+            "available_er_beds": 14,
+            "bed_buffer_tier": "stable_buffer_gt_10",
+            "bed_buffer_risk": 21,
+            "resource_margin_risk": 80.8,
+            "static_reliability_penalty": 0,
+            "travel_cost": 690,
+            "level_penalty": 0,
+            "hard_constraint_penalty": 0,
+            "time_soft_penalty": 2974,
+            "total_cost": 3765.8
+          },
+          "constraintViolations": []
+        },
+        {
+          "rank": 2,
+          "hospitalId": "A1100008",
+          "hospitalName": "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)",
+          "district": "성북구",
+          "feasible": true,
+          "estimatedTravelTimeMin": 24,
+          "timeSlackMin": -14,
+          "distanceKm": 6.85,
+          "availableErBeds": 9,
+          "bedBufferTier": "low_risk_6_10",
+          "totalCost": 4232.5,
+          "objectiveTerms": {
+            "estimated_travel_time_min": 24,
+            "time_slack_min": -14,
+            "available_er_beds": 9,
+            "bed_buffer_tier": "low_risk_6_10",
+            "bed_buffer_risk": 105,
+            "resource_margin_risk": 151.5,
+            "static_reliability_penalty": 0,
+            "travel_cost": 720,
+            "level_penalty": 0,
+            "hard_constraint_penalty": 0,
+            "time_soft_penalty": 3256,
+            "total_cost": 4232.5
+          },
+          "constraintViolations": []
+        },
+        {
+          "rank": 3,
+          "hospitalId": "A1100005",
+          "hospitalName": "이화여자대학교의과대학부속목동병원",
+          "district": "양천구",
+          "feasible": true,
+          "estimatedTravelTimeMin": 29,
+          "timeSlackMin": -19,
+          "distanceKm": 9.2,
+          "availableErBeds": 5,
+          "bedBufferTier": "medium_risk_3_5",
+          "totalCost": 6161.5,
+          "objectiveTerms": {
+            "estimated_travel_time_min": 29,
+            "time_slack_min": -19,
+            "available_er_beds": 5,
+            "bed_buffer_tier": "medium_risk_3_5",
+            "bed_buffer_risk": 294,
+            "resource_margin_risk": 151.5,
+            "static_reliability_penalty": 0,
+            "travel_cost": 870,
+            "level_penalty": 0,
+            "hard_constraint_penalty": 0,
+            "time_soft_penalty": 4846,
+            "total_cost": 6161.5
+          },
+          "constraintViolations": []
+        }
+      ],
+      "recommendations": {
+        "strictFeasibleCount": 6,
+        "relaxedFallbackUsed": false,
+        "constraintDiagnostics": {
+          "violationCounts": {
+            "minimum_hospital_level_not_met": 44,
+            "no_positive_available_er_beds": 7,
+            "required_resource_missing": 5
+          },
+          "minimumTransportTimeForNonTimeFeasibleCandidateMin": 23,
+          "nonTimeFeasibleCandidateCount": 6,
+          "dominantRelaxationHint": "strict_time_window_too_tight_min_required_23"
+        }
+      }
+    }
+  ]
+}

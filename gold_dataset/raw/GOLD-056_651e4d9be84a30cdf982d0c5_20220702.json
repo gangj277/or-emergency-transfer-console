@@ -1,0 +1,358 @@
+{
+    "_id": "651e4d9be84a30cdf982d0c5",
+    "audioPath": "20230925/Seoul/2022/20220702/converted_[20220702]-[WU1140298851].wav",
+    "recordId": "f2a465a978837feab24f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 140640,
+    "utterances": [
+        {
+            "id": "fa8ae093",
+            "startAt": 1587,
+            "endAt": 2997,
+            "text": "네 119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9hurjlmlqig",
+            "startAt": 2844,
+            "endAt": 5898,
+            "text": "아, 네, 안녕하세요. 여기 강동 리버스트 4단지 아파트인데요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kmuam8ifujo",
+            "startAt": 6604,
+            "endAt": 11677,
+            "text": "네, 네, 여기 지금 베란다 앞에 1 층에 지금 할머니께서 지금 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vctqo9fligo",
+            "startAt": 12422,
+            "endAt": 17786,
+            "text": "쓰러져 계시는데 쓰러져 계신 건지 그 링거 같은 거 하고 쓰러져 계시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "96c41cc9",
+            "startAt": 19997,
+            "endAt": 21539,
+            "text": "지금 의식이 없는 거예요, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "0f2c937c",
+            "startAt": 21693,
+            "endAt": 27759,
+            "text": "의식이 없는 것 같애요. 저도 지금 입주민 통해서 지금 발견해 저는 이제 보안근무자인데.",
+            "speaker": 1
+        },
+        {
+            "id": "8a58ff81",
+            "startAt": 28135,
+            "endAt": 31565,
+            "text": "선생님, 여기가 거기 미사 강변.",
+            "speaker": 0
+        },
+        {
+            "id": "56632369",
+            "startAt": 31689,
+            "endAt": 35236,
+            "text": "여기 강일동이거든요. 강동 리버스트 4단지.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_prmr686l6qo",
+            "startAt": 33828,
+            "endAt": 34810,
+            "text": "강일동?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vdodb7adk2",
+            "startAt": 35677,
+            "endAt": 36350,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "8a79c38c",
+            "startAt": 35972,
+            "endAt": 38684,
+            "text": "리버스트 4단지요? 4단지 몇 동 앞이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f2aft6gj0mg",
+            "startAt": 37468,
+            "endAt": 38032,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "c1a91707",
+            "startAt": 39017,
+            "endAt": 40132,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7mglqv4adsg",
+            "startAt": 40137,
+            "endAt": 42565,
+            "text": "바로 앞이에요. 옆에 분리수거장 바로 앞이요.",
+            "speaker": 1
+        },
+        {
+            "id": "5b877c09",
+            "startAt": 42929,
+            "endAt": 43199,
+            "text": "근데.",
+            "speaker": 1
+        },
+        {
+            "id": "de8c5f9a",
+            "startAt": 43434,
+            "endAt": 46904,
+            "text": "좀 상황이 좀 안 좋은 거 같아서 빨리 와주셔야 될 거 같으세요.",
+            "speaker": 1
+        },
+        {
+            "id": "ae2d7c89",
+            "startAt": 47409,
+            "endAt": 52607,
+            "text": "선생님 선생님이 응급 처치 하셔야죠, 가까이 가주세요, 선생님 차는 나가니까요, 선생님 의식 호흡을 확인해 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "6b1d8202",
+            "startAt": 52860,
+            "endAt": 54178,
+            "text": "네, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "29869f09",
+            "startAt": 54258,
+            "endAt": 56178,
+            "text": "가까이 지금 가 옆에 계신 거 아니에요?",
+            "speaker": 0
+        },
+        {
+            "id": "7a242089",
+            "startAt": 56580,
+            "endAt": 58488,
+            "text": "네, 네 옆에 있는데",
+            "speaker": 1
+        },
+        {
+            "id": "a8dee901",
+            "startAt": 58446,
+            "endAt": 60251,
+            "text": "한번 흔들어보세요, 반응하시나 안 하시나.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tl1s6k7cgh",
+            "startAt": 60838,
+            "endAt": 61993,
+            "text": "네, 괜찮으세요? ",
+            "speaker": 1
+        },
+        {
+            "id": "d507dadf",
+            "startAt": 63180,
+            "endAt": 66077,
+            "text": "아, 지금 배 쪽에 상처가 있어서.",
+            "speaker": 1
+        },
+        {
+            "id": "f8b2a60b",
+            "startAt": 68487,
+            "endAt": 70043,
+            "text": "아, 의식 있냐고요, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "df3e34a4",
+            "startAt": 71766,
+            "endAt": 73564,
+            "text": "네, 괜찮으세요, 들리세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_olhm4ao3528",
+            "startAt": 74209,
+            "endAt": 75064,
+            "text": "의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "5a695111",
+            "startAt": 77163,
+            "endAt": 78257,
+            "text": "의식없어요? 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pkadjij8r4g",
+            "startAt": 80329,
+            "endAt": 80957,
+            "text": "잠시만",
+            "speaker": 1
+        },
+        {
+            "id": "ee609c87",
+            "startAt": 84173,
+            "endAt": 85651,
+            "text": "의식아 응",
+            "speaker": 1
+        },
+        {
+            "id": "765ad1d4",
+            "startAt": 86387,
+            "endAt": 87881,
+            "text": "눈도 깜빡깜빡 안 하세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_63l6cs9rmco",
+            "startAt": 86415,
+            "endAt": 87179,
+            "text": "들리실",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nfiel31kau",
+            "startAt": 90497,
+            "endAt": 91561,
+            "text": "안들리세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6mov6vbueh8",
+            "startAt": 94246,
+            "endAt": 95646,
+            "text": "어머니 들리세요 여기?",
+            "speaker": 1
+        },
+        {
+            "id": "4bf115ed",
+            "startAt": 98635,
+            "endAt": 100664,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "8a91e336",
+            "startAt": 100675,
+            "endAt": 102120,
+            "text": "네, 네, 반응이 없습니다",
+            "speaker": 1
+        },
+        {
+            "id": "b78ca580",
+            "startAt": 101731,
+            "endAt": 104020,
+            "text": "어, 코에 손 대보세요, 선생님 바람 나오나 안나오나",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uk409tlqmh",
+            "startAt": 110621,
+            "endAt": 111430,
+            "text": "바람나와요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6uusrrg8mg",
+            "startAt": 112827,
+            "endAt": 114018,
+            "text": "가슴이 오르락 내리락",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j4e19r23b4o",
+            "startAt": 114327,
+            "endAt": 116072,
+            "text": "지금 코피가 나와서 지금",
+            "speaker": 1
+        },
+        {
+            "id": "b97236ba",
+            "startAt": 114404,
+            "endAt": 116224,
+            "text": "가슴이 오르락",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ddvnsle6i3",
+            "startAt": 116456,
+            "endAt": 117547,
+            "text": "예 지금",
+            "speaker": 1
+        },
+        {
+            "id": "8b0763cd",
+            "startAt": 117787,
+            "endAt": 122494,
+            "text": "선생님, 그 외상은 전혀 중요한 게 아니에요, 선생님 호흡을 하시나 안 하시나가 중요합니다 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "f24a3895",
+            "startAt": 122577,
+            "endAt": 126074,
+            "text": "호흡을 어 안 하는 거 같습니다, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "f701e8a0",
+            "startAt": 126142,
+            "endAt": 128513,
+            "text": "CPR 하셔야 되고 심폐소생술 혹시 아세요, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "7d1dd74f",
+            "startAt": 128698,
+            "endAt": 130052,
+            "text": "아 네, 알고 있습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4n340j1tnao",
+            "startAt": 130099,
+            "endAt": 130818,
+            "text": "직원들",
+            "speaker": 1
+        },
+        {
+            "id": "7a27ae67",
+            "startAt": 130375,
+            "endAt": 134065,
+            "text": "심폐소생술 하셔야 되고요. 저희 의료지도팀 연결할 테니까 끊지 말고 기다리세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vsea8g9gqog",
+            "startAt": 133747,
+            "endAt": 135165,
+            "text": "네, 알겠습니다",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강동구 강일동",
+    "disasterLarge": "구급",
+    "disasterMedium": "심정지",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "심정지",
+        "호흡정지"
+    ],
+    "triage": "응급증상"
+}

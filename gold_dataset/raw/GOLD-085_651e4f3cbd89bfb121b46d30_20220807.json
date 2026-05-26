@@ -1,0 +1,343 @@
+{
+    "_id": "651e4f3cbd89bfb121b46d30",
+    "audioPath": "20230925/Seoul/2022/20220807/converted_[20220807]-[WV1140540305].wav",
+    "recordId": "47b3e0e07d1acd4397f7",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 118320,
+    "utterances": [
+        {
+            "id": "88b827da",
+            "startAt": 347,
+            "endAt": 1178,
+            "text": "119 입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "5bd69130",
+            "startAt": 3011,
+            "endAt": 3813,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "fb58d4a3",
+            "startAt": 3846,
+            "endAt": 4969,
+            "text": "말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "3a83af40",
+            "startAt": 5176,
+            "endAt": 7918,
+            "text": "예, 저기 애가 약을 먹어가지고요. 어떻게 해야 돼요?",
+            "speaker": 1
+        },
+        {
+            "id": "dff84062",
+            "startAt": 8336,
+            "endAt": 9933,
+            "text": "어, 애가 무슨 약을 먹었어요?",
+            "speaker": 0
+        },
+        {
+            "id": "6d4a980d",
+            "startAt": 10765,
+            "endAt": 14268,
+            "text": "그 저기 막 약을 많이 먹었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "223a5d6b",
+            "startAt": 14337,
+            "endAt": 16856,
+            "text": "무슨 약을 먹었어요? 가라.",
+            "speaker": 0
+        },
+        {
+            "id": "5c5fb0fb",
+            "startAt": 16242,
+            "endAt": 17153,
+            "text": "이게 근데.",
+            "speaker": 1
+        },
+        {
+            "id": "584abdcf",
+            "startAt": 17742,
+            "endAt": 19638,
+            "text": "무슨, 무슨약?",
+            "speaker": 0
+        },
+        {
+            "id": "1ebf41f3",
+            "startAt": 17871,
+            "endAt": 26339,
+            "text": "약은 다 다이어트약. 다이어트하고 뭐 타이레놀 막 열 몇 개하고 막 뭐 또 다른 약하고 막 많이 먹었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "a50f9962",
+            "startAt": 26512,
+            "endAt": 30695,
+            "text": "다량복용했다고요? 그래서 그 응급실 가시게 구급차 요청하시는 거 맞죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_899054aefa8",
+            "startAt": 27756,
+            "endAt": 28483,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "9b2d3768",
+            "startAt": 30821,
+            "endAt": 34471,
+            "text": "네, 근데 여기 경희대 와가지고 병원에 와있거든요, 응급실에.",
+            "speaker": 1
+        },
+        {
+            "id": "794707f9",
+            "startAt": 34561,
+            "endAt": 36268,
+            "text": "아, 지금 경희대 앞에 계시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "0c78f5d7",
+            "startAt": 36301,
+            "endAt": 39738,
+            "text": "예, 근데 여기서 안 된대요. 약 환자는.",
+            "speaker": 1
+        },
+        {
+            "id": "f29c22f6",
+            "startAt": 39686,
+            "endAt": 41393,
+            "text": "아, 그 지 진료가 안된대요?",
+            "speaker": 0
+        },
+        {
+            "id": "6754a75d",
+            "startAt": 41664,
+            "endAt": 42504,
+            "text": "네. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "8a018a8a",
+            "startAt": 42304,
+            "endAt": 49888,
+            "text": "아, 선생님, 그럼 일단 일단 일단은 응급사항이 우선 저희가 병원 간 이송은 안되게 돼있는데, 응급사항이시라서 구급차 먼저 보낼게요. 이송 여부는 구급대원이 판단할거구요.",
+            "speaker": 0
+        },
+        {
+            "id": "7dcca1c1",
+            "startAt": 50149,
+            "endAt": 50709,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "85dc6f9a",
+            "startAt": 50754,
+            "endAt": 54429,
+            "text": "그 환자분 그 구급차 지금 보낼 건데요. 환자분 남자, 여자 누구예요?",
+            "speaker": 0
+        },
+        {
+            "id": "660c808c",
+            "startAt": 54484,
+            "endAt": 55241,
+            "text": "여자요.",
+            "speaker": 1
+        },
+        {
+            "id": "4cc0d22b",
+            "startAt": 55455,
+            "endAt": 56317,
+            "text": "나이대는요?",
+            "speaker": 0
+        },
+        {
+            "id": "336fe849",
+            "startAt": 56898,
+            "endAt": 57893,
+            "text": "스물 둘이요.",
+            "speaker": 1
+        },
+        {
+            "id": "ad96099c",
+            "startAt": 58004,
+            "endAt": 60752,
+            "text": "네, 그리고 지금 의식이나 이런 거 다 괜찮아요, 사람 알아보고요?",
+            "speaker": 0
+        },
+        {
+            "id": "c80518b0",
+            "startAt": 61414,
+            "endAt": 62449,
+            "text": "의식은 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "04e604be",
+            "startAt": 62659,
+            "endAt": 64743,
+            "text": "의식은 있어요? 호흡도 규칙적으로 잘하죠?",
+            "speaker": 0
+        },
+        {
+            "id": "c30e9020",
+            "startAt": 65181,
+            "endAt": 67844,
+            "text": "아니요, 근데 조금 어 의식이 없을라 그래요.",
+            "speaker": 1
+        },
+        {
+            "id": "f4d0a954",
+            "startAt": 68385,
+            "endAt": 75809,
+            "text": "의식 좀 떨어진다고요? 의식이? 호흡은 규칙적으로 잘하고 있죠? 하나만 더 여쭤볼게요. 거기 코로나 환자 없죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0saqt1klrl",
+            "startAt": 69844,
+            "endAt": 71189,
+            "text": "네, 예예, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n7bcbu92iq8",
+            "startAt": 73011,
+            "endAt": 73911,
+            "text": "네, 예예.",
+            "speaker": 1
+        },
+        {
+            "id": "f9c91a74",
+            "startAt": 76039,
+            "endAt": 76796,
+            "text": "없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "2240c981",
+            "startAt": 76814,
+            "endAt": 79319,
+            "text": "네, 알겠습니다. 경희대 병원 응급실 앞에 계시는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "e635fbcb",
+            "startAt": 79574,
+            "endAt": 79960,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "ae2f4707",
+            "startAt": 80444,
+            "endAt": 89014,
+            "text": "네, 그 일단은 구급차 응급실 앞으로 갈 테니까, 모르는 전화 잘 받으시고요. 그 다이어트 약이랑 타이레놀 지금 어떻게 하여튼 약 약 다양하게 다 복용했다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "177590e3",
+            "startAt": 89104,
+            "endAt": 89804,
+            "text": "네. 예예.",
+            "speaker": 1
+        },
+        {
+            "id": "bd69f10e",
+            "startAt": 89834,
+            "endAt": 91138,
+            "text": "약봉지는 챙기셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "094ac785",
+            "startAt": 91472,
+            "endAt": 92032,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "276186de",
+            "startAt": 92262,
+            "endAt": 96899,
+            "text": "예, 알겠습니다. 그 빨리 갈 테니까. 그 이송여부는 구급대원이 판단합니다. 전화 잘 받아요.",
+            "speaker": 0
+        },
+        {
+            "id": "0b450301",
+            "startAt": 97105,
+            "endAt": 99618,
+            "text": "네, 지금 한 어느정도 후에 올수 있어요?",
+            "speaker": 1
+        },
+        {
+            "id": "3d0fee51",
+            "startAt": 99882,
+            "endAt": 106912,
+            "text": "잠깐만 구급차 위치 좀 봐드릴게요. 직선거리로 2.7km에서 출동하니까 한 10분 15분 내로 갈 거 같아요. 전화 잘 받아요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0l5oatohca",
+            "startAt": 101649,
+            "endAt": 102485,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "2b60682b",
+            "startAt": 107032,
+            "endAt": 110942,
+            "text": "네, 네네. 이 전화로 오시는 거죠?",
+            "speaker": 1
+        },
+        {
+            "id": "d00ca0ba",
+            "startAt": 111138,
+            "endAt": 112678,
+            "text": "네, 그 전화로 가요.",
+            "speaker": 0
+        },
+        {
+            "id": "7db4a4c1",
+            "startAt": 112798,
+            "endAt": 114330,
+            "text": "네네네. 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "a3db2945",
+            "startAt": 114543,
+            "endAt": 115203,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "0c945750",
+            "startAt": 116241,
+            "endAt": 118014,
+            "text": "아, 타이레놀이 두통약인가?",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 동대문구 회기동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애"
+    ],
+    "triage": "잠재응급증상"
+}

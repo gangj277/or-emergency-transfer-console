@@ -1,0 +1,1162 @@
+[
+  {
+    "case_id": "GOLD-001",
+    "category": "cardiac_arrest_rosc",
+    "district": "종로구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "tight_transport_window"
+    ],
+    "reviewer_note": "top=강북삼성병원, 9분, 6 beds; max_transport=15분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-002",
+    "category": "stroke_neuro_consciousness",
+    "district": "중구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=학교법인고려중앙학원고려대학교의과대학부속병원(안암병원), 16분, 9 beds; max_transport=10분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=1336"
+  },
+  {
+    "case_id": "GOLD-003",
+    "category": "cardiac_arrest_rosc",
+    "district": "용산구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=한양대학교병원, 23분, 14 beds; max_transport=10분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=2974"
+  },
+  {
+    "case_id": "GOLD-004",
+    "category": "cardiac_arrest_rosc",
+    "district": "성동구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=한양대학교병원, 7분, 14 beds; max_transport=20분; hard_feasible=6; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-005",
+    "category": "major_trauma_head_injury",
+    "district": "중구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "low_time_slack",
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한양대학교병원, 17분, 14 beds; max_transport=20분; hard_feasible=6; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-006",
+    "category": "stroke_neuro_consciousness",
+    "district": "성동구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=한양대학교병원, 7분, 14 beds; max_transport=20분; hard_feasible=6; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-007",
+    "category": "stroke_neuro_consciousness",
+    "district": "동대문구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=한양대학교병원, 10분, 14 beds; max_transport=30분; hard_feasible=24; within_time_feasible=13; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-008",
+    "category": "stroke_neuro_consciousness",
+    "district": "성북구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=학교법인고려중앙학원고려대학교의과대학부속병원(안암병원), 7분, 9 beds; max_transport=30분; hard_feasible=24; within_time_feasible=13; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-009",
+    "category": "cardiac_arrest_rosc",
+    "district": "동대문구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=한양대학교병원, 10분, 14 beds; max_transport=30분; hard_feasible=24; within_time_feasible=13; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-010",
+    "category": "respiratory_failure_airway",
+    "district": "중구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=국립중앙의료원, 7분, 9 beds; max_transport=20분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-011",
+    "category": "cardiac_arrest_rosc",
+    "district": "성북구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "tight_transport_window"
+    ],
+    "reviewer_note": "top=학교법인고려중앙학원고려대학교의과대학부속병원(안암병원), 7분, 9 beds; max_transport=15분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-012",
+    "category": "respiratory_failure_airway",
+    "district": "성동구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "tight_transport_window"
+    ],
+    "reviewer_note": "top=한양대학교병원, 7분, 14 beds; max_transport=15분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-013",
+    "category": "cardiac_arrest_rosc",
+    "district": "강북구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=의료법인한전의료재단한일병원, 6분, 9 beds; max_transport=20분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-014",
+    "category": "seizure_neurologic",
+    "district": "중구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "tight_transport_window"
+    ],
+    "reviewer_note": "top=국립중앙의료원, 7분, 9 beds; max_transport=15분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-015",
+    "category": "respiratory_failure_airway",
+    "district": "광진구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=건국대학교병원, 6분, 13 beds; max_transport=20분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-016",
+    "category": "stroke_neuro_consciousness",
+    "district": "강북구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1",
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=서울특별시서울의료원, 21분, 8 beds; max_transport=20분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=526"
+  },
+  {
+    "case_id": "GOLD-017",
+    "category": "respiratory_failure_airway",
+    "district": "중랑구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "tight_transport_window"
+    ],
+    "reviewer_note": "top=서울특별시서울의료원, 6분, 8 beds; max_transport=15분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-018",
+    "category": "stroke_neuro_consciousness",
+    "district": "노원구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=서울특별시서울의료원, 22분, 8 beds; max_transport=20분; hard_feasible=11; within_time_feasible=0; top1_time_soft_penalty=664"
+  },
+  {
+    "case_id": "GOLD-019",
+    "category": "stroke_neuro_consciousness",
+    "district": "은평구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 27분, 5 beds; max_transport=15분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=2704"
+  },
+  {
+    "case_id": "GOLD-020",
+    "category": "respiratory_failure_airway",
+    "district": "강북구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=의료법인한전의료재단한일병원, 6분, 9 beds; max_transport=30분; hard_feasible=24; within_time_feasible=10; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-021",
+    "category": "respiratory_failure_airway",
+    "district": "도봉구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "tight_transport_window",
+      "low_time_slack",
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=의료법인한전의료재단한일병원, 13분, 9 beds; max_transport=15분; hard_feasible=24; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-022",
+    "category": "major_bleeding_gi",
+    "district": "종로구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=강북삼성병원, 9분, 6 beds; max_transport=30분; hard_feasible=11; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-023",
+    "category": "respiratory_failure_airway",
+    "district": "은평구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=가톨릭대학교은평성모병원, 15분, 8 beds; max_transport=30분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-024",
+    "category": "stroke_neuro_consciousness",
+    "district": "서대문구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 22분, 5 beds; max_transport=15분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=1534"
+  },
+  {
+    "case_id": "GOLD-025",
+    "category": "respiratory_failure_airway",
+    "district": "서대문구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=강북삼성병원, 13분, 6 beds; max_transport=30분; hard_feasible=24; within_time_feasible=11; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-026",
+    "category": "seizure_neurologic",
+    "district": "성동구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=한양대학교병원, 7분, 14 beds; max_transport=20분; hard_feasible=24; within_time_feasible=7; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-027",
+    "category": "stroke_neuro_consciousness",
+    "district": "마포구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 15분, 5 beds; max_transport=20분; hard_feasible=24; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-028",
+    "category": "cardiac_arrest_rosc",
+    "district": "노원구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=서울특별시서울의료원, 22분, 8 beds; max_transport=15분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=1534"
+  },
+  {
+    "case_id": "GOLD-029",
+    "category": "major_bleeding_gi",
+    "district": "용산구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=한양대학교병원, 23분, 14 beds; max_transport=20분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=814"
+  },
+  {
+    "case_id": "GOLD-030",
+    "category": "respiratory_failure_airway",
+    "district": "마포구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 15분, 5 beds; max_transport=30분; hard_feasible=24; within_time_feasible=11; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-031",
+    "category": "respiratory_failure_airway",
+    "district": "양천구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "tight_transport_window",
+      "low_time_slack",
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=고려대학교의과대학부속구로병원, 13분, 4 beds; max_transport=15분; hard_feasible=24; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-032",
+    "category": "cardiac_arrest_rosc",
+    "district": "은평구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 27분, 5 beds; max_transport=15분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=2704"
+  },
+  {
+    "case_id": "GOLD-033",
+    "category": "cardiac_arrest_rosc",
+    "district": "마포구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 15분, 5 beds; max_transport=10분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=1150"
+  },
+  {
+    "case_id": "GOLD-034",
+    "category": "cardiac_arrest_rosc",
+    "district": "마포구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "tight_transport_window",
+      "low_time_slack",
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 15분, 5 beds; max_transport=15분; hard_feasible=24; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-035",
+    "category": "stroke_neuro_consciousness",
+    "district": "양천구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "tight_transport_window",
+      "low_time_slack",
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=고려대학교의과대학부속구로병원, 13분, 4 beds; max_transport=15분; hard_feasible=6; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-036",
+    "category": "stroke_neuro_consciousness",
+    "district": "강서구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 14분, 5 beds; max_transport=20분; hard_feasible=6; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-037",
+    "category": "respiratory_failure_airway",
+    "district": "양천구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=고려대학교의과대학부속구로병원, 13분, 4 beds; max_transport=20분; hard_feasible=6; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-038",
+    "category": "stroke_neuro_consciousness",
+    "district": "강서구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 14분, 5 beds; max_transport=30분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-039",
+    "category": "stroke_neuro_consciousness",
+    "district": "구로구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한림대학교강남성심병원, 10분, 14 beds; max_transport=30분; hard_feasible=24; within_time_feasible=7; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-040",
+    "category": "respiratory_failure_airway",
+    "district": "강서구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 14분, 5 beds; max_transport=20분; hard_feasible=24; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-041",
+    "category": "respiratory_failure_airway",
+    "district": "구로구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "tight_transport_window"
+    ],
+    "reviewer_note": "top=고려대학교의과대학부속구로병원, 5분, 4 beds; max_transport=15분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-042",
+    "category": "seizure_neurologic",
+    "district": "동대문구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=한양대학교병원, 10분, 14 beds; max_transport=20분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-043",
+    "category": "stroke_neuro_consciousness",
+    "district": "금천구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "비외상 고위험 케이스가 외상 중심 incident enum에 강제 매핑됨",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "incident_schema_coverage_gap",
+      "tight_transport_window",
+      "low_time_slack"
+    ],
+    "reviewer_note": "top=고려대학교의과대학부속구로병원, 15분, 4 beds; max_transport=15분; hard_feasible=6; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-044",
+    "category": "major_bleeding_gi",
+    "district": "광진구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "비외상 고위험 케이스가 외상 중심 incident enum에 강제 매핑됨",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "incident_schema_coverage_gap"
+    ],
+    "reviewer_note": "top=건국대학교병원, 6분, 13 beds; max_transport=30분; hard_feasible=24; within_time_feasible=11; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-045",
+    "category": "major_bleeding_gi",
+    "district": "중랑구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=서울특별시서울의료원, 6분, 8 beds; max_transport=20분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-046",
+    "category": "cardiac_arrest_rosc",
+    "district": "양천구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=성애의료재단성애병원, 18분, 6 beds; max_transport=30분; hard_feasible=24; within_time_feasible=7; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-047",
+    "category": "major_trauma_head_injury",
+    "district": "용산구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=한양대학교병원, 23분, 14 beds; max_transport=20분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=814"
+  },
+  {
+    "case_id": "GOLD-048",
+    "category": "major_bleeding_gi",
+    "district": "성북구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=학교법인고려중앙학원고려대학교의과대학부속병원(안암병원), 7분, 9 beds; max_transport=20분; hard_feasible=11; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-049",
+    "category": "respiratory_failure_airway",
+    "district": "금천구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한림대학교강남성심병원, 15분, 14 beds; max_transport=30분; hard_feasible=24; within_time_feasible=7; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-050",
+    "category": "stroke_neuro_consciousness",
+    "district": "영등포구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=성애의료재단성애병원, 12분, 6 beds; max_transport=20분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-051",
+    "category": "respiratory_failure_airway",
+    "district": "금천구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한림대학교강남성심병원, 15분, 14 beds; max_transport=30분; hard_feasible=24; within_time_feasible=7; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-052",
+    "category": "respiratory_failure_airway",
+    "district": "영등포구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=성애의료재단성애병원, 12분, 6 beds; max_transport=20분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-053",
+    "category": "major_bleeding_gi",
+    "district": "도봉구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=인제대학교상계백병원, 12분, 8 beds; max_transport=20분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-054",
+    "category": "respiratory_failure_airway",
+    "district": "동작구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "low_time_slack"
+    ],
+    "reviewer_note": "top=고려대학교의과대학부속구로병원, 19분, 4 beds; max_transport=20분; hard_feasible=6; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-055",
+    "category": "cardiac_arrest_rosc",
+    "district": "강서구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=이화여자대학교의과대학부속목동병원, 14분, 5 beds; max_transport=20분; hard_feasible=6; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-056",
+    "category": "cardiac_arrest_rosc",
+    "district": "구로구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "tight_transport_window"
+    ],
+    "reviewer_note": "top=고려대학교의과대학부속구로병원, 5분, 4 beds; max_transport=15분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-057",
+    "category": "cardiac_arrest_rosc",
+    "district": "구로구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한림대학교강남성심병원, 10분, 14 beds; max_transport=20분; hard_feasible=24; within_time_feasible=7; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-058",
+    "category": "major_trauma_head_injury",
+    "district": "광진구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "low_time_slack"
+    ],
+    "reviewer_note": "top=한양대학교병원, 16분, 14 beds; max_transport=20분; hard_feasible=6; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-059",
+    "category": "stroke_neuro_consciousness",
+    "district": "영등포구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=성애의료재단성애병원, 12분, 6 beds; max_transport=30분; hard_feasible=24; within_time_feasible=8; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-060",
+    "category": "respiratory_failure_airway",
+    "district": "동작구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=가톨릭대학교여의도성모병원, 6분, 11 beds; max_transport=20분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-061",
+    "category": "respiratory_failure_airway",
+    "district": "관악구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=의료법인서울효천의료재단에이치플러스양지병원, 9분, 7 beds; max_transport=20분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-062",
+    "category": "stroke_neuro_consciousness",
+    "district": "동작구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "low_time_slack"
+    ],
+    "reviewer_note": "top=고려대학교의과대학부속구로병원, 19분, 4 beds; max_transport=20분; hard_feasible=6; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-063",
+    "category": "respiratory_failure_airway",
+    "district": "관악구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=의료법인서울효천의료재단에이치플러스양지병원, 9분, 7 beds; max_transport=20분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-064",
+    "category": "stroke_neuro_consciousness",
+    "district": "관악구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=의료법인서울효천의료재단에이치플러스양지병원, 9분, 7 beds; max_transport=20분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-065",
+    "category": "stroke_neuro_consciousness",
+    "district": "관악구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=의료법인서울효천의료재단에이치플러스양지병원, 9분, 7 beds; max_transport=20분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-066",
+    "category": "stroke_neuro_consciousness",
+    "district": "서초구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=순천향대학교부속서울병원, 25분, 14 beds; max_transport=15분; hard_feasible=24; within_time_feasible=0; top1_time_soft_penalty=2200"
+  },
+  {
+    "case_id": "GOLD-067",
+    "category": "respiratory_failure_airway",
+    "district": "서초구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=한양대학교병원, 29분, 14 beds; max_transport=10분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=4846"
+  },
+  {
+    "case_id": "GOLD-068",
+    "category": "cardiac_arrest_rosc",
+    "district": "금천구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "tight_transport_window",
+      "low_time_slack",
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한림대학교강남성심병원, 15분, 14 beds; max_transport=15분; hard_feasible=24; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-069",
+    "category": "stroke_neuro_consciousness",
+    "district": "서초구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=순천향대학교부속서울병원, 25분, 14 beds; max_transport=30분; hard_feasible=24; within_time_feasible=7; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-070",
+    "category": "stroke_neuro_consciousness",
+    "district": "강남구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천의 이송시간 여유가 5분 미만",
+    "gap_tags": [
+      "low_time_slack"
+    ],
+    "reviewer_note": "top=한양대학교병원, 20분, 14 beds; max_transport=20분; hard_feasible=6; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-071",
+    "category": "seizure_neurologic",
+    "district": "중랑구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=서울특별시서울의료원, 6분, 8 beds; max_transport=20분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-072",
+    "category": "cardiac_arrest_rosc",
+    "district": "영등포구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=성애의료재단성애병원, 12분, 6 beds; max_transport=20분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-073",
+    "category": "stroke_neuro_consciousness",
+    "district": "강남구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=순천향대학교부속서울병원, 20분, 14 beds; max_transport=30분; hard_feasible=24; within_time_feasible=10; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-074",
+    "category": "chest_pain_cardiac",
+    "district": "종로구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=강북삼성병원, 9분, 6 beds; max_transport=30분; hard_feasible=24; within_time_feasible=12; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-075",
+    "category": "respiratory_failure_airway",
+    "district": "서초구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=순천향대학교부속서울병원, 25분, 14 beds; max_transport=15분; hard_feasible=24; within_time_feasible=0; top1_time_soft_penalty=2200"
+  },
+  {
+    "case_id": "GOLD-076",
+    "category": "respiratory_failure_airway",
+    "district": "강남구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=건국대학교병원, 17분, 13 beds; max_transport=15분; hard_feasible=24; within_time_feasible=0; top1_time_soft_penalty=664"
+  },
+  {
+    "case_id": "GOLD-077",
+    "category": "cardiac_arrest_rosc",
+    "district": "동작구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=가톨릭대학교여의도성모병원, 6분, 11 beds; max_transport=20분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-078",
+    "category": "respiratory_failure_airway",
+    "district": "강남구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "1순위 추천이 요청 이송시간을 초과해 소프트 페널티로 처리됨",
+    "gap_tags": [
+      "tight_transport_window",
+      "no_within_time_feasible_candidate",
+      "soft_transport_exceeded_top1"
+    ],
+    "reviewer_note": "top=한양대학교병원, 20분, 14 beds; max_transport=15분; hard_feasible=6; within_time_feasible=0; top1_time_soft_penalty=1150"
+  },
+  {
+    "case_id": "GOLD-079",
+    "category": "stroke_neuro_consciousness",
+    "district": "송파구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한국보훈복지의료공단중앙보훈병원, 14분, 17 beds; max_transport=30분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-080",
+    "category": "stroke_neuro_consciousness",
+    "district": "송파구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한국보훈복지의료공단중앙보훈병원, 14분, 17 beds; max_transport=20분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-081",
+    "category": "stroke_neuro_consciousness",
+    "district": "송파구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한국보훈복지의료공단중앙보훈병원, 14분, 17 beds; max_transport=30분; hard_feasible=24; within_time_feasible=5; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-082",
+    "category": "critical_medical_unspecified",
+    "district": "종로구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "tight_transport_window"
+    ],
+    "reviewer_note": "top=강북삼성병원, 9분, 6 beds; max_transport=15분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-083",
+    "category": "seizure_neurologic",
+    "district": "강북구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=의료법인한전의료재단한일병원, 6분, 9 beds; max_transport=20분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-084",
+    "category": "stroke_neuro_consciousness",
+    "district": "송파구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=한국보훈복지의료공단중앙보훈병원, 14분, 17 beds; max_transport=20분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-085",
+    "category": "stroke_neuro_consciousness",
+    "district": "강동구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=성심의료재단강동성심병원, 8분, 9 beds; max_transport=30분; hard_feasible=24; within_time_feasible=8; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-086",
+    "category": "major_bleeding_gi",
+    "district": "노원구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=인제대학교상계백병원, 6분, 8 beds; max_transport=30분; hard_feasible=24; within_time_feasible=8; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-087",
+    "category": "stroke_neuro_consciousness",
+    "district": "강동구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=성심의료재단강동성심병원, 8분, 9 beds; max_transport=20분; hard_feasible=24; within_time_feasible=4; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-088",
+    "category": "stroke_neuro_consciousness",
+    "district": "강동구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=강동경희대학교병원, 15분, 5 beds; max_transport=20분; hard_feasible=6; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-089",
+    "category": "major_trauma_head_injury",
+    "district": "중랑구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=서울특별시서울의료원, 6분, 8 beds; max_transport=20분; hard_feasible=11; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-090",
+    "category": "stroke_neuro_consciousness",
+    "district": "강동구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=한국보훈복지의료공단중앙보훈병원, 13분, 17 beds; max_transport=20분; hard_feasible=11; within_time_feasible=2; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-091",
+    "category": "seizure_neurologic",
+    "district": "도봉구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=의료법인한전의료재단한일병원, 13분, 9 beds; max_transport=30분; hard_feasible=24; within_time_feasible=7; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-092",
+    "category": "seizure_neurologic",
+    "district": "은평구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=가톨릭대학교은평성모병원, 15분, 8 beds; max_transport=30분; hard_feasible=24; within_time_feasible=6; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-093",
+    "category": "seizure_neurologic",
+    "district": "서대문구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=강북삼성병원, 13분, 6 beds; max_transport=30분; hard_feasible=24; within_time_feasible=11; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-094",
+    "category": "chest_pain_cardiac",
+    "district": "용산구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=순천향대학교부속서울병원, 9분, 14 beds; max_transport=20분; hard_feasible=24; within_time_feasible=3; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-095",
+    "category": "chest_pain_cardiac",
+    "district": "광진구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "tight_transport_window"
+    ],
+    "reviewer_note": "top=건국대학교병원, 6분, 13 beds; max_transport=15분; hard_feasible=24; within_time_feasible=1; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-096",
+    "category": "chest_pain_cardiac",
+    "district": "동대문구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=한양대학교병원, 10분, 14 beds; max_transport=30분; hard_feasible=24; within_time_feasible=13; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-097",
+    "category": "chest_pain_cardiac",
+    "district": "성북구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=학교법인고려중앙학원고려대학교의과대학부속병원(안암병원), 7분, 9 beds; max_transport=30분; hard_feasible=24; within_time_feasible=13; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-098",
+    "category": "chest_pain_cardiac",
+    "district": "도봉구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=의료법인한전의료재단한일병원, 13분, 9 beds; max_transport=30분; hard_feasible=24; within_time_feasible=7; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-099",
+    "category": "chest_pain_cardiac",
+    "district": "노원구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [],
+    "reviewer_note": "top=인제대학교상계백병원, 6분, 8 beds; max_transport=30분; hard_feasible=24; within_time_feasible=8; top1_time_soft_penalty=0"
+  },
+  {
+    "case_id": "GOLD-100",
+    "category": "chest_pain_cardiac",
+    "district": "서대문구",
+    "stage1_read": "핵심 증상 보존 후보",
+    "stage2_read": "OR parameter 자동 판정 후보",
+    "ranking_read": "추천 후보는 현재 정식화 기준 납득 가능",
+    "gap_tags": [
+      "differs_from_nearest_feasible"
+    ],
+    "reviewer_note": "top=강북삼성병원, 13분, 6 beds; max_transport=30분; hard_feasible=24; within_time_feasible=11; top1_time_soft_penalty=0"
+  }
+]

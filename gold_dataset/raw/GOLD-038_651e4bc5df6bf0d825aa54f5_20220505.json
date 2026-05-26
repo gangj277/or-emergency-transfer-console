@@ -1,0 +1,239 @@
+{
+    "_id": "651e4bc5df6bf0d825aa54f5",
+    "audioPath": "20230925/Seoul/2022/20220505/converted_[20220505]-[WS1139969441].wav",
+    "recordId": "01200d19d18c6b8e42fb",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 55320,
+    "utterances": [
+        {
+            "id": "1203cee6",
+            "startAt": 699,
+            "endAt": 1558,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "b6103a79",
+            "startAt": 1899,
+            "endAt": 2981,
+            "text": "네, 여기 화곡동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_64t0an46gto",
+            "startAt": 2972,
+            "endAt": 5073,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "50dbbe1c",
+            "startAt": 5064,
+            "endAt": 5435,
+            "text": "잠깐요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1k2cvjgn3k8",
+            "startAt": 5428,
+            "endAt": 6182,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "fbe97aab",
+            "startAt": 6348,
+            "endAt": 8595,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "f3b8c2e5",
+            "startAt": 8569,
+            "endAt": 9953,
+            "text": "예 누가 어떻게 아프신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "e61082a8",
+            "startAt": 10042,
+            "endAt": 14505,
+            "text": "저희 엄마가 지금 팔이 저리다 하시고 말도 잘 못하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2um8f0pq4jo",
+            "startAt": 14973,
+            "endAt": 15619,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "f97c4e9a",
+            "startAt": 15589,
+            "endAt": 16819,
+            "text": "엄마 의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "dcebfddb",
+            "startAt": 16974,
+            "endAt": 19545,
+            "text": "의식은 있으신데, 말을 잘 못 못 하세요.",
+            "speaker": 1
+        },
+        {
+            "id": "3b5a3b4b",
+            "startAt": 18809,
+            "endAt": 21948,
+            "text": "갑자기? 갑자기 말을 못해 말이 어눌해졌다는 얘기예요?",
+            "speaker": 0
+        },
+        {
+            "id": "4cfe11c4",
+            "startAt": 19860,
+            "endAt": 22567,
+            "text": "네네, 네네, 네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "2175a8e9",
+            "startAt": 22524,
+            "endAt": 24141,
+            "text": "아 예, 바로 출동할 거고요.",
+            "speaker": 0
+        },
+        {
+            "id": "42cc5ede",
+            "startAt": 22758,
+            "endAt": 23602,
+            "text": "그럼 물도",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1bb0s87sipo",
+            "startAt": 24119,
+            "endAt": 25619,
+            "text": "근데 저 어떡해야 돼요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aqldh5t0ns8",
+            "startAt": 24155,
+            "endAt": 29037,
+            "text": "에에, 아무것도 아무것도 드시면 안돼요. 우선 그 상태로 그냥 계속 계실 거 예예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a7ep06q2q4",
+            "startAt": 26883,
+            "endAt": 29428,
+            "text": "드시면 안돼요? 앉아 계시는가요?",
+            "speaker": 1
+        },
+        {
+            "id": "d09c3ea5",
+            "startAt": 29395,
+            "endAt": 33180,
+            "text": "예, 그 상태 계 안전하게 계세요. 열 나거나 기침 나거나 코로나 증상은 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eti4do163e",
+            "startAt": 32974,
+            "endAt": 34256,
+            "text": "아, 없어요. 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "b2017a50",
+            "startAt": 34241,
+            "endAt": 34970,
+            "text": "네, 화곡동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fgdodda4go8",
+            "startAt": 34974,
+            "endAt": 36856,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9gv8d3k2gro",
+            "startAt": 36829,
+            "endAt": 37492,
+            "text": "맞나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6tboc3n57hg",
+            "startAt": 37465,
+            "endAt": 39128,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "d490eeda",
+            "startAt": 39457,
+            "endAt": 42120,
+            "text": "예, 바로 출동합니다. 어머니 마비도 와요?",
+            "speaker": 0
+        },
+        {
+            "id": "81d9a8de",
+            "startAt": 42581,
+            "endAt": 45717,
+            "text": "엄마 마비와? 마비와?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0ldptv358u",
+            "startAt": 47947,
+            "endAt": 48647,
+            "text": "저려 막?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ckcj5bhacqo",
+            "startAt": 49520,
+            "endAt": 51747,
+            "text": "모르겠어요. 진짜 말을 안 하셔서",
+            "speaker": 1
+        },
+        {
+            "id": "e5e528c0",
+            "startAt": 51859,
+            "endAt": 53299,
+            "text": "아 예, 그 상태 계세요.",
+            "speaker": 0
+        },
+        {
+            "id": "c925c66f",
+            "startAt": 52340,
+            "endAt": 53842,
+            "text": "네네네. 네네.",
+            "speaker": 1
+        },
+        {
+            "id": "a256482f",
+            "startAt": 53963,
+            "endAt": 54701,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 강서구 화곡동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "두통",
+        "마비"
+    ],
+    "triage": "응급증상"
+}

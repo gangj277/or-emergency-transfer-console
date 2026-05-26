@@ -1,0 +1,248 @@
+{
+    "_id": "651e4f6d06957f3443ecf75a",
+    "audioPath": "20230925/Seoul/2022/20220902/converted_[20220902]-[WW1140737068].wav",
+    "recordId": "9b7a8bb55ffca9424095",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 78000,
+    "utterances": [
+        {
+            "id": "3c2d4697",
+            "startAt": 1512,
+            "endAt": 2952,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "c340a083",
+            "startAt": 2882,
+            "endAt": 9175,
+            "text": "네, 수고하십니다. 네, 여기 지금 강서구 화곡동 먹자골목 있는데 토성사우나거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "4b1ef52a",
+            "startAt": 10539,
+            "endAt": 12060,
+            "text": "주소 아세요? 주소",
+            "speaker": 0
+        },
+        {
+            "id": "e623ee9b",
+            "startAt": 12034,
+            "endAt": 13464,
+            "text": "주소가 혹시 여기.",
+            "speaker": 1
+        },
+        {
+            "id": "082a9e24",
+            "startAt": 13686,
+            "endAt": 15854,
+            "text": "화곡동 지번 없어요, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "6cc883c8",
+            "startAt": 15822,
+            "endAt": 18906,
+            "text": "아니 예, 먹자골목 있는데 그 토성 사우나라고.",
+            "speaker": 1
+        },
+        {
+            "id": "b3e5bd7c",
+            "startAt": 19226,
+            "endAt": 20666,
+            "text": "그니까 거기 직원 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "0086c0fc",
+            "startAt": 20816,
+            "endAt": 22326,
+            "text": "아, 직원 계세요, 잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "51dd48ac",
+            "startAt": 22299,
+            "endAt": 23836,
+            "text": "예, 주소 예.",
+            "speaker": 0
+        },
+        {
+            "id": "925d7243",
+            "startAt": 24059,
+            "endAt": 26769,
+            "text": "주소요 화곡동.",
+            "speaker": 1
+        },
+        {
+            "id": "0a46273f",
+            "startAt": 27109,
+            "endAt": 28083,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "effcd0e1",
+            "startAt": 28339,
+            "endAt": 33162,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "42c92ebc",
+            "startAt": 33399,
+            "endAt": 34832,
+            "text": "토성사우나.",
+            "speaker": 0
+        },
+        {
+            "id": "c0e8fbf5",
+            "startAt": 34789,
+            "endAt": 35199,
+            "text": "네 네.",
+            "speaker": 1
+        },
+        {
+            "id": "3df27764",
+            "startAt": 36020,
+            "endAt": 38392,
+            "text": "뭐 토성사우나 안 이에요? 안에있나",
+            "speaker": 0
+        },
+        {
+            "id": "c6f7185f",
+            "startAt": 37724,
+            "endAt": 38449,
+            "text": "예 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3s2njcjvgvg",
+            "startAt": 38412,
+            "endAt": 40048,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5k277p32cio",
+            "startAt": 40045,
+            "endAt": 41064,
+            "text": "제가 밖에 나가있을게요.",
+            "speaker": 1
+        },
+        {
+            "id": "56de95ea",
+            "startAt": 41316,
+            "endAt": 44056,
+            "text": "잠깐만요 신고자분 토성사우나 안에 무슨 일이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "442b63a0",
+            "startAt": 44681,
+            "endAt": 49257,
+            "text": "아, 지금 그 잘 걷지도 못하시고 의식이 좀 많이 혼미해지가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "93351953",
+            "startAt": 49324,
+            "endAt": 49971,
+            "text": "누가요?",
+            "speaker": 0
+        },
+        {
+            "id": "c67c6163",
+            "startAt": 49924,
+            "endAt": 53404,
+            "text": "저 저희 이모부님인데 지금 저기 사우나에 계시다가.",
+            "speaker": 1
+        },
+        {
+            "id": "0e402294",
+            "startAt": 53964,
+            "endAt": 54404,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "10d8d514",
+            "startAt": 55081,
+            "endAt": 57588,
+            "text": "지금 지금 많이 움직이지 못하고 급해서요.",
+            "speaker": 1
+        },
+        {
+            "id": "487d4d40",
+            "startAt": 58493,
+            "endAt": 59867,
+            "text": "의식 호흡은 괜찮아요?",
+            "speaker": 0
+        },
+        {
+            "id": "1e4b9db2",
+            "startAt": 59993,
+            "endAt": 63091,
+            "text": "네 네 네, 의식호흡은 네, 있으시고요",
+            "speaker": 1
+        },
+        {
+            "id": "8ea02a3b",
+            "startAt": 61880,
+            "endAt": 65035,
+            "text": "예 예 예. 네 구급차 필요한 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_poc7nu1iq5",
+            "startAt": 63285,
+            "endAt": 64248,
+            "text": "예 부탁합니다",
+            "speaker": 1
+        },
+        {
+            "id": "c0f10b1d",
+            "startAt": 65600,
+            "endAt": 68052,
+            "text": "네? 네 네 네 차 네 네",
+            "speaker": 1
+        },
+        {
+            "id": "ef6f9a28",
+            "startAt": 71785,
+            "endAt": 73185,
+            "text": "예, 출동했습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "45453e03",
+            "startAt": 73172,
+            "endAt": 74122,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "c6ba1900",
+            "startAt": 74009,
+            "endAt": 74911,
+            "text": "사우나 ",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강서구 화곡동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "토혈",
+        "어지러움",
+        "가슴불편감",
+        "혈변"
+    ],
+    "triage": "응급증상"
+}

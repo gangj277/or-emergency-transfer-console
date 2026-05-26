@@ -1,0 +1,457 @@
+{
+    "_id": "651e4f2166d8da7dcba9777d",
+    "audioPath": "20230925/Seoul/2022/20220806/converted_[20220806]-[WV1140533739].wav",
+    "recordId": "8167d82d497eea41596e",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 130080.00000000001,
+    "utterances": [
+        {
+            "id": "45f5f461",
+            "startAt": 330,
+            "endAt": 2535,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ffejhfvf52",
+            "startAt": 1936,
+            "endAt": 3473,
+            "text": "네, 119시죠?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6f057fj0ecg",
+            "startAt": 3409,
+            "endAt": 4518,
+            "text": "여기 저.",
+            "speaker": 1
+        },
+        {
+            "id": "b0a7da30",
+            "startAt": 4319,
+            "endAt": 8563,
+            "text": "예, 예, 대림동 은빛 요양원인데요. 어르신 한 분이.",
+            "speaker": 1
+        },
+        {
+            "id": "e3c7edee",
+            "startAt": 8639,
+            "endAt": 9575,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "b42966eb",
+            "startAt": 9199,
+            "endAt": 12954,
+            "text": "예, 숨을 갑자기 몰아쉬고 아주 좀 위독해서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c0lqgk3dpqg",
+            "startAt": 12630,
+            "endAt": 14685,
+            "text": "차를 부를라고 하는데.",
+            "speaker": 1
+        },
+        {
+            "id": "fcf16916",
+            "startAt": 12931,
+            "endAt": 16545,
+            "text": "잠시만요, 대림동 은빛 요양원이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l07uhluv1qg",
+            "startAt": 16319,
+            "endAt": 16874,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_15lvehsnsq",
+            "startAt": 16859,
+            "endAt": 18104,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pa5vicm0apg",
+            "startAt": 18083,
+            "endAt": 18829,
+            "text": "정성빌딩.",
+            "speaker": 1
+        },
+        {
+            "id": "428864ec",
+            "startAt": 18815,
+            "endAt": 19664,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lo1887mdiog",
+            "startAt": 20456,
+            "endAt": 22201,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "a5714b98",
+            "startAt": 27177,
+            "endAt": 29741,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "ae3d1948",
+            "startAt": 29715,
+            "endAt": 32093,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ha93crfh9j8",
+            "startAt": 32065,
+            "endAt": 33292,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ffq4u0pbdsg",
+            "startAt": 33278,
+            "endAt": 34260,
+            "text": "알고 있었는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e3pr7k0j0u8",
+            "startAt": 33501,
+            "endAt": 34275,
+            "text": "디지털로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mte9eu5mrhg",
+            "startAt": 34255,
+            "endAt": 35918,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5bcbbj702u8",
+            "startAt": 34885,
+            "endAt": 36158,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j73k0246b3g",
+            "startAt": 36157,
+            "endAt": 37039,
+            "text": "정성빌딩.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s08bh9gu568",
+            "startAt": 37011,
+            "endAt": 37802,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7k1b92das7g",
+            "startAt": 39128,
+            "endAt": 40392,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "2c442425",
+            "startAt": 40358,
+            "endAt": 42945,
+            "text": "남자 어르신이에요, 여자 어르신이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "ad3e2f8e",
+            "startAt": 41443,
+            "endAt": 43617,
+            "text": "아니요. 여자요, 여자.",
+            "speaker": 1
+        },
+        {
+            "id": "e4e12057",
+            "startAt": 43949,
+            "endAt": 46544,
+            "text": "어르신 어디가 아프세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sp4vktln66o",
+            "startAt": 46505,
+            "endAt": 49250,
+            "text": "어, 원래 그분이 지금 저.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nevupgf9jt",
+            "startAt": 50455,
+            "endAt": 54374,
+            "text": "뚜렷하게 아픈 거는 없고 약은 드시는 건 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9f84kb2csi8",
+            "startAt": 50547,
+            "endAt": 51429,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "cc5650f0",
+            "startAt": 54317,
+            "endAt": 56849,
+            "text": "근데 예, 예, 고령이고.",
+            "speaker": 1
+        },
+        {
+            "id": "37c70972",
+            "startAt": 56838,
+            "endAt": 57466,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "478faaa0",
+            "startAt": 57577,
+            "endAt": 58604,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "48af5399",
+            "startAt": 59509,
+            "endAt": 61291,
+            "text": "저 치료는 한참걸려.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qsv9gjl2hk",
+            "startAt": 59846,
+            "endAt": 62437,
+            "text": "지금은 어떤데요, 지금 상태가.",
+            "speaker": 0
+        },
+        {
+            "id": "8c067e79",
+            "startAt": 61750,
+            "endAt": 65940,
+            "text": "지금 현재 상태가 혈압이 안 잡히고 숨을 가쁘게 몰아쉬었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "4a70f21d",
+            "startAt": 67304,
+            "endAt": 69112,
+            "text": "음 의식 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c6r37ulhbuo",
+            "startAt": 68975,
+            "endAt": 70911,
+            "text": "예, 의식은 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "4021c09b",
+            "startAt": 72680,
+            "endAt": 76608,
+            "text": "제가 지 지금 전화를 받고 있고 지금 그리 못 갈라 그러거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "6f29272f",
+            "startAt": 76697,
+            "endAt": 78691,
+            "text": "아, 선생님이 현장에 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "0444a962",
+            "startAt": 78471,
+            "endAt": 84703,
+            "text": "예, 지금 갈려고요. 현장에 한 분은 계셔서 지금 갈려고 일단 119 신고해서 그 하.",
+            "speaker": 1
+        },
+        {
+            "id": "05316a9c",
+            "startAt": 83033,
+            "endAt": 88881,
+            "text": "아, 저희는 지금 나가고 있고요. 선생님 침착하시고 선생님 그 관계가 어떻게 되시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ae2abigol9",
+            "startAt": 87714,
+            "endAt": 91323,
+            "text": "아, 저는 거기 저 어르신을 모시는 조무사에요, 간호.",
+            "speaker": 1
+        },
+        {
+            "id": "5690164c",
+            "startAt": 91357,
+            "endAt": 92433,
+            "text": "간호조무사.",
+            "speaker": 1
+        },
+        {
+            "id": "4ce43c09",
+            "startAt": 92717,
+            "endAt": 97674,
+            "text": "아, 간호조무사분 외부에서 신고하신 거예요? 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "e186e63c",
+            "startAt": 95877,
+            "endAt": 98888,
+            "text": "예, 예, 예, 예, 예, 예, 제가 지금 바로 갈게요.",
+            "speaker": 1
+        },
+        {
+            "id": "596f5107",
+            "startAt": 98999,
+            "endAt": 104612,
+            "text": "네, 알겠습니다. 예 차 출동했습니다. 현장에 전화번호 있어요. 전화받을 수 있는 거?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5meesfqso8",
+            "startAt": 99769,
+            "endAt": 102860,
+            "text": "네, 네, 고맙습니다, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "e3c86c01",
+            "startAt": 104837,
+            "endAt": 106822,
+            "text": "잠깐만 아이고, 그것도 가르쳐 주.",
+            "speaker": 1
+        },
+        {
+            "id": "1f0e18e1",
+            "startAt": 105767,
+            "endAt": 107261,
+            "text": "현장에 계신 분.",
+            "speaker": 0
+        },
+        {
+            "id": "ae9ea8c0",
+            "startAt": 107595,
+            "endAt": 109213,
+            "text": "잠깐만요, 선생님.",
+            "speaker": 1
+        },
+        {
+            "id": "7bc3706e",
+            "startAt": 109133,
+            "endAt": 110212,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vjs03fusing",
+            "startAt": 109407,
+            "endAt": 111407,
+            "text": "에그 그 공.",
+            "speaker": 1
+        },
+        {
+            "id": "9d626f3d",
+            "startAt": 115771,
+            "endAt": 116990,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "f57c60da",
+            "startAt": 117213,
+            "endAt": 118522,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "f2463054",
+            "startAt": 118555,
+            "endAt": 120313,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "7cc56e0e",
+            "startAt": 120322,
+            "endAt": 121824,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "2ad1324a",
+            "startAt": 121755,
+            "endAt": 122754,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p4qa98jbhd8",
+            "startAt": 122628,
+            "endAt": 123474,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "bdb9c491",
+            "startAt": 123616,
+            "endAt": 125282,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "a8471eb7",
+            "startAt": 125050,
+            "endAt": 126630,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_07olcq3rqd",
+            "startAt": 126610,
+            "endAt": 128792,
+            "text": "예, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "b3272f8c",
+            "startAt": 126615,
+            "endAt": 128836,
+            "text": "예예예 예예예예",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 영등포구 대림동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "호흡곤란",
+        "전신쇠약"
+    ],
+    "triage": "응급증상"
+}

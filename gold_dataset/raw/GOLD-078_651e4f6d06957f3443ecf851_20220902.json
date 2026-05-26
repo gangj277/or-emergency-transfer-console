@@ -1,0 +1,366 @@
+{
+    "_id": "651e4f6d06957f3443ecf851",
+    "audioPath": "20230925/Seoul/2022/20220902/converted_[20220902]-[WW1140737561].wav",
+    "recordId": "8a346abe09910ba37d1b",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 113160,
+    "utterances": [
+        {
+            "id": "c7b3b698",
+            "startAt": 438,
+            "endAt": 1538,
+            "text": "예, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "b2b39527",
+            "startAt": 3141,
+            "endAt": 7911,
+            "text": "예, 어저께 여기 밤에 응급 환자 오셨는데 병원이 없어서.",
+            "speaker": 1
+        },
+        {
+            "id": "23c0df25",
+            "startAt": 7941,
+            "endAt": 8271,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "402de621",
+            "startAt": 8965,
+            "endAt": 12745,
+            "text": "지금 또 가래가 차가지고 숨을 못 쉬시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "67b12690",
+            "startAt": 13225,
+            "endAt": 14645,
+            "text": "누가 가래가 심하세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hh0hcd0ogtg",
+            "startAt": 13680,
+            "endAt": 14726,
+            "text": "예예, 그.",
+            "speaker": 1
+        },
+        {
+            "id": "fcdc660e",
+            "startAt": 15662,
+            "endAt": 18686,
+            "text": "96세 할머니 와상 환자인데 코로나.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p8s59enf78o",
+            "startAt": 17472,
+            "endAt": 18718,
+            "text": "할머니께서 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_g201b3fit08",
+            "startAt": 19064,
+            "endAt": 25607,
+            "text": "네 코로나 어저께 자가 그 자가로 했더니 확진이 나와가지고. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rl2pqbvrub",
+            "startAt": 23468,
+            "endAt": 23914,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u5o8amba8p8",
+            "startAt": 24978,
+            "endAt": 25514,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fndt18utnng",
+            "startAt": 26608,
+            "endAt": 33832,
+            "text": "그 어제 119 에서 밤에 오셨다가 병원 알아보는데 그 격리하는 병원이 없다 그러셔가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "4e0d75bc",
+            "startAt": 34177,
+            "endAt": 36327,
+            "text": "그럼 대원들 또 가서 알아봐야 할 거예요.",
+            "speaker": 0
+        },
+        {
+            "id": "97325e75",
+            "startAt": 37084,
+            "endAt": 39955,
+            "text": "네, 지금 숨을 못 쉬시는데 어떻게 해야돼요?",
+            "speaker": 1
+        },
+        {
+            "id": "891bb71b",
+            "startAt": 39303,
+            "endAt": 40474,
+            "text": "정신은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "9814ea28",
+            "startAt": 41926,
+            "endAt": 43556,
+            "text": "와상 환자시니까.",
+            "speaker": 1
+        },
+        {
+            "id": "d75ad5ed",
+            "startAt": 43616,
+            "endAt": 45856,
+            "text": "그까 뭐 그 부르면 눈은 뜨고 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "6830b661",
+            "startAt": 46216,
+            "endAt": 47196,
+            "text": "아니요, 아니요, 아니요 못.",
+            "speaker": 1
+        },
+        {
+            "id": "d4bb1a4e",
+            "startAt": 47566,
+            "endAt": 50356,
+            "text": "원래 못 떠요, 아니면은 지금 아예 정신이 없어진 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "569ee75d",
+            "startAt": 50986,
+            "endAt": 55029,
+            "text": "아니, 아니요. 원래 못 뜨고 원래부터 못 뜨세요, 네네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "74d604e3",
+            "startAt": 52626,
+            "endAt": 56476,
+            "text": "아, 원래 못 뜨세요, 살아있다는 말씀이신 거잖아요?",
+            "speaker": 0
+        },
+        {
+            "id": "f150016e",
+            "startAt": 56796,
+            "endAt": 60261,
+            "text": "네, 얼굴도 파래지시고, 숨을 잘 못 쉬어요.",
+            "speaker": 1
+        },
+        {
+            "id": "92d97623",
+            "startAt": 59448,
+            "endAt": 60806,
+            "text": "주소를 알려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "ad5f4519",
+            "startAt": 62534,
+            "endAt": 64094,
+            "text": "저기 관악구 은천로.",
+            "speaker": 1
+        },
+        {
+            "id": "858fe1b8",
+            "startAt": 64284,
+            "endAt": 64614,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "93ea2dd3",
+            "startAt": 66664,
+            "endAt": 68334,
+            "text": "아, 잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "c8ad3621",
+            "startAt": 68374,
+            "endAt": 68934,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "687a2c7e",
+            "startAt": 70008,
+            "endAt": 71582,
+            "text": "여 동철동은 또 어디갔어.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_orob013guk",
+            "startAt": 71584,
+            "endAt": 73548,
+            "text": "환자가 기획사다 있는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n49ngqrgquo",
+            "startAt": 74498,
+            "endAt": 75262,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "b65c32d4",
+            "startAt": 75144,
+            "endAt": 75584,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "11f6770b",
+            "startAt": 76164,
+            "endAt": 77216,
+            "text": "관악구 운천로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tof1m8vrr48",
+            "startAt": 77210,
+            "endAt": 77928,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b1gsrr49s8o",
+            "startAt": 77891,
+            "endAt": 79173,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ral3f1f11k",
+            "startAt": 79416,
+            "endAt": 80407,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "76bab023",
+            "startAt": 80924,
+            "endAt": 81444,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "61294613",
+            "startAt": 81594,
+            "endAt": 82964,
+            "text": "예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_te0c9kkmvv8",
+            "startAt": 81607,
+            "endAt": 82653,
+            "text": "벽산 블루밍.",
+            "speaker": 1
+        },
+        {
+            "id": "37890585",
+            "startAt": 82994,
+            "endAt": 84854,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "80fc4990",
+            "startAt": 84884,
+            "endAt": 86674,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "d72b7c98",
+            "startAt": 87077,
+            "endAt": 87699,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "08afe452",
+            "startAt": 87766,
+            "endAt": 92126,
+            "text": "저희 구급차 가면 동안 응급처치 하는데 잠깐 연결할 테니까 전화 끊지 마십쇼.",
+            "speaker": 0
+        },
+        {
+            "id": "ab337816",
+            "startAt": 92539,
+            "endAt": 93076,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "43b5e9c9",
+            "startAt": 93099,
+            "endAt": 94965,
+            "text": "선생님, 지금도 막 열나고 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_56o38c9lnu8",
+            "startAt": 96799,
+            "endAt": 98045,
+            "text": "열 나요, 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b6ssmdoimm",
+            "startAt": 97583,
+            "endAt": 98801,
+            "text": "아, 열도 나요?",
+            "speaker": 0
+        },
+        {
+            "id": "694d3d21",
+            "startAt": 98744,
+            "endAt": 101274,
+            "text": "13, 38.3도 5도 이래요.",
+            "speaker": 1
+        },
+        {
+            "id": "34bcf793",
+            "startAt": 101464,
+            "endAt": 105144,
+            "text": "저희 구급차 아, 잠깐만 전화 끊지 마세요, 연결해드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "4c5c4844",
+            "startAt": 105554,
+            "endAt": 106120,
+            "text": "예 예, 어.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 관악구 봉천동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "호흡곤란",
+        "고열"
+    ],
+    "triage": "응급증상"
+}

@@ -7,7 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "node --test --import tsx test/*.test.ts"
+    "test": "node --test --import tsx test/*.test.ts",
+    "or:evaluate": "tsx scripts/evaluate-or-model.ts",
+    "or:fetch:hira": "tsx scripts/fetch-hira-profiles.ts",
+    "gold:e2e:prepare": "tsx scripts/prepare-gold-e2e-fixtures.ts",
+    "gold:e2e:run": "tsx scripts/run-gold-e2e.ts",
+    "gold:e2e:analyze": "tsx scripts/analyze-gold-e2e.ts"
   },
   "dependencies": {
     "fast-xml-parser": "^5.3.2",

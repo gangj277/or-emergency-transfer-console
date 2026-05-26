@@ -1,0 +1,343 @@
+{
+    "_id": "651e4fb51952d0ca070e691b",
+    "audioPath": "20230925/Seoul/2022/20220906/converted_[20220906]-[WW1140762786].wav",
+    "recordId": "1e6d00b06dfb52dd8457",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 81480,
+    "utterances": [
+        {
+            "id": "259875bc",
+            "startAt": 681,
+            "endAt": 2100,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "99172911",
+            "startAt": 2434,
+            "endAt": 8336,
+            "text": "네, 네, 여기 강동역에 스포 애니 헬스장인데요. 강동역 4번 출구 앞에요?",
+            "speaker": 1
+        },
+        {
+            "id": "d8ca1bf4",
+            "startAt": 8809,
+            "endAt": 10520,
+            "text": "주소가 어떻게 되는데요, 거기가?",
+            "speaker": 0
+        },
+        {
+            "id": "3273c66c",
+            "startAt": 10722,
+            "endAt": 15286,
+            "text": "강동역 4번 출구 앞인데 아 CJ 나인파크",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7k4lka2teho",
+            "startAt": 15832,
+            "endAt": 16796,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "56daa537",
+            "startAt": 17016,
+            "endAt": 18021,
+            "text": "CJ 나인파크",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8hlpoo541oo",
+            "startAt": 18009,
+            "endAt": 18555,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9dqcsp1cd48",
+            "startAt": 18554,
+            "endAt": 19463,
+            "text": "헬스장이라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "74b5695f",
+            "startAt": 19643,
+            "endAt": 20263,
+            "text": "네, 네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "cc297a78",
+            "startAt": 20368,
+            "endAt": 21053,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qb0ljets31",
+            "startAt": 21036,
+            "endAt": 21890,
+            "text": "있어요, 헬스장이?",
+            "speaker": 0
+        },
+        {
+            "id": "100750eb",
+            "startAt": 22078,
+            "endAt": 22774,
+            "text": "네, 네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "9fdd43e0",
+            "startAt": 22887,
+            "endAt": 24188,
+            "text": "네, 그런데 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "0b238eb3",
+            "startAt": 24529,
+            "endAt": 29517,
+            "text": "저기 그 기구 쓰시다 머리 쪽에 맞아서 쓰러지셔 갖고",
+            "speaker": 1
+        },
+        {
+            "id": "24430b76",
+            "startAt": 29763,
+            "endAt": 31259,
+            "text": "남자 분이요, 여자 분이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ugjo9mp4nv8",
+            "startAt": 30959,
+            "endAt": 31877,
+            "text": "남자 분이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8qoedg5ca78",
+            "startAt": 31933,
+            "endAt": 34388,
+            "text": "남자 분 뭐 뭐 기구에 머리를 맞았다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "af7d0a21",
+            "startAt": 34589,
+            "endAt": 36459,
+            "text": "네, 네, 네, 숨은 쉬시는데",
+            "speaker": 1
+        },
+        {
+            "id": "da072cb6",
+            "startAt": 36604,
+            "endAt": 37883,
+            "text": "의식은 어때요, 의식?",
+            "speaker": 0
+        },
+        {
+            "id": "56d82dac",
+            "startAt": 38166,
+            "endAt": 41262,
+            "text": "의식이 약간 불분명해 갖고",
+            "speaker": 1
+        },
+        {
+            "id": "23ff541c",
+            "startAt": 41613,
+            "endAt": 42643,
+            "text": "의식이 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "4eb1dcc8",
+            "startAt": 44047,
+            "endAt": 44565,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "fd09b26f",
+            "startAt": 44832,
+            "endAt": 46734,
+            "text": "의식 없고 호흡만 하고 있어요, 그러면?",
+            "speaker": 0
+        },
+        {
+            "id": "23c9c787",
+            "startAt": 47168,
+            "endAt": 48144,
+            "text": "네, 네, 네. 일단",
+            "speaker": 1
+        },
+        {
+            "id": "40c71824",
+            "startAt": 48367,
+            "endAt": 49801,
+            "text": "머리 쪽에 출혈은 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "dbd31b0d",
+            "startAt": 49985,
+            "endAt": 51650,
+            "text": "출혈은 없으신데",
+            "speaker": 1
+        },
+        {
+            "id": "80082d4a",
+            "startAt": 52197,
+            "endAt": 52845,
+            "text": "뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "f54137cd",
+            "startAt": 53008,
+            "endAt": 53818,
+            "text": "출혈은 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "7bb99279",
+            "startAt": 53903,
+            "endAt": 54917,
+            "text": "출혈 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pcr01sq2etg",
+            "startAt": 55190,
+            "endAt": 55463,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0ehg672b8uo",
+            "startAt": 55382,
+            "endAt": 58055,
+            "text": "일단 의식 의식이 아예 없어요? 의식을 잃었어요, 머리 맞고서?",
+            "speaker": 0
+        },
+        {
+            "id": "f86926aa",
+            "startAt": 58700,
+            "endAt": 61107,
+            "text": "말을 못하세요, 아무 말도. 그냥 편하게",
+            "speaker": 1
+        },
+        {
+            "id": "0c38e826",
+            "startAt": 60361,
+            "endAt": 64850,
+            "text": "말은 못하는데 눈을 뜬다든가, 손가락을 움직인다든가, 그런 의식이 있냐고요.",
+            "speaker": 0
+        },
+        {
+            "id": "ef49eecd",
+            "startAt": 65343,
+            "endAt": 66604,
+            "text": "눈을",
+            "speaker": 1
+        },
+        {
+            "id": "20ffb751",
+            "startAt": 66685,
+            "endAt": 67045,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "0399d277",
+            "startAt": 67303,
+            "endAt": 69105,
+            "text": "게슴츠레하게 좀 뜨고 있거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "f2a227df",
+            "startAt": 69209,
+            "endAt": 70559,
+            "text": "게슴츠레하게 뜨고 있다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "bfdb4acc",
+            "startAt": 70810,
+            "endAt": 71070,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "abba9682",
+            "startAt": 71525,
+            "endAt": 74713,
+            "text": "예, 일단 호흡하는 것만 확인하고 계세요. 그쪽으로 구급차 갈게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mvendvkg4ao",
+            "startAt": 73648,
+            "endAt": 74121,
+            "text": "지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_co7ov97382g",
+            "startAt": 74741,
+            "endAt": 75014,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "012e1bfc",
+            "startAt": 74982,
+            "endAt": 76552,
+            "text": "지금 조금 움직이긴 해요.",
+            "speaker": 1
+        },
+        {
+            "id": "1d5e5615",
+            "startAt": 76518,
+            "endAt": 77776,
+            "text": "움직임이 좀 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5p3nnvpbqig",
+            "startAt": 78142,
+            "endAt": 79578,
+            "text": "예, 일단 알겠어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9ckmg1m3e3g",
+            "startAt": 78169,
+            "endAt": 79551,
+            "text": "예, 금방 아까 잠깐",
+            "speaker": 1
+        },
+        {
+            "id": "c5bbc9e9",
+            "startAt": 79570,
+            "endAt": 80009,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강동구 성내동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "중립",
+    "symptom": [
+        "실신"
+    ],
+    "triage": "준응급증상"
+}

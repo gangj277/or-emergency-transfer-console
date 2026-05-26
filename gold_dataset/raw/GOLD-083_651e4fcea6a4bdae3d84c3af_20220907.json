@@ -1,0 +1,322 @@
+{
+    "_id": "651e4fcea6a4bdae3d84c3af",
+    "audioPath": "20230925/Seoul/2022/20220907/converted_[20220907]-[WW1140771815].wav",
+    "recordId": "e63f92245f8bfd946beb",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 91800,
+    "utterances": [
+        {
+            "id": "3405c30b",
+            "startAt": 898,
+            "endAt": 1438,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7m007rk2sgo",
+            "startAt": 2454,
+            "endAt": 5754,
+            "text": "어 저 여기 중랑구 면목동.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cdp79k44mc",
+            "startAt": 5763,
+            "endAt": 6433,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "2a3efa20",
+            "startAt": 6684,
+            "endAt": 7024,
+            "text": "예?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dohqs2rd62o",
+            "startAt": 7006,
+            "endAt": 8899,
+            "text": "중랑구 겸재로 54길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sabcjnse5dg",
+            "startAt": 8880,
+            "endAt": 11526,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e3499a70",
+            "startAt": 11491,
+            "endAt": 12292,
+            "text": "54길.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bp01jfq9p3o",
+            "startAt": 12301,
+            "endAt": 14486,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "2f364e07",
+            "startAt": 15457,
+            "endAt": 16506,
+            "text": "네. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "45f337c5",
+            "startAt": 17047,
+            "endAt": 18016,
+            "text": "누가 아파요?",
+            "speaker": 0
+        },
+        {
+            "id": "9d7a5755",
+            "startAt": 17788,
+            "endAt": 19409,
+            "text": "저희 아 아빠가.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u60fgh73iso",
+            "startAt": 19478,
+            "endAt": 19942,
+            "text": "에.",
+            "speaker": 0
+        },
+        {
+            "id": "b3baa0dc",
+            "startAt": 20605,
+            "endAt": 24608,
+            "text": "당뇨병이 계시는데 갑자기 쓰러지셔서 지금 발작 일으키고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "54fa712e",
+            "startAt": 24812,
+            "endAt": 26192,
+            "text": "아, 쓰러졌어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9h8rno8edfo",
+            "startAt": 26939,
+            "endAt": 27462,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fn6dpntqtso",
+            "startAt": 27274,
+            "endAt": 28158,
+            "text": "숨은 쉬어요?",
+            "speaker": 0
+        },
+        {
+            "id": "61eb829e",
+            "startAt": 29307,
+            "endAt": 32270,
+            "text": "아니요. 입에 거품 무시고 지금 계속 이상해요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qt1lrjds8h",
+            "startAt": 31737,
+            "endAt": 33060,
+            "text": "뭐 무슨 병이 있다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jmvv4rj09g8",
+            "startAt": 33851,
+            "endAt": 34643,
+            "text": "당뇨병이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b7ucs9g0h6o",
+            "startAt": 34606,
+            "endAt": 35637,
+            "text": "당뇨병?",
+            "speaker": 0
+        },
+        {
+            "id": "c8d20411",
+            "startAt": 36054,
+            "endAt": 42342,
+            "text": "자, 일단은 구급차는 나갔는데, 아버지 뭐 열 나거나 기침 나거나 감기 증세 이런 거 없어요, 그죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t5a4bcv8hbo",
+            "startAt": 36156,
+            "endAt": 36501,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "60facb48",
+            "startAt": 43396,
+            "endAt": 46162,
+            "text": "네, 그 감기 계시지, 모르겠어요.",
+            "speaker": 1
+        },
+        {
+            "id": "42a450b4",
+            "startAt": 46081,
+            "endAt": 46894,
+            "text": "잘 몰라요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gqrjl1f8p7o",
+            "startAt": 46853,
+            "endAt": 48107,
+            "text": "네. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0q2pbcss3kg",
+            "startAt": 49291,
+            "endAt": 53122,
+            "text": "아버님, 그러면 숨 쉬는 거는 좀 파악해 줘봐요. 숨 쉬는지만.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lssfongk4rg",
+            "startAt": 55378,
+            "endAt": 57340,
+            "text": "숨 숨 쉬시긴 하는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_15o3igcq12o",
+            "startAt": 55704,
+            "endAt": 58081,
+            "text": "경련하면 숨은 쉬어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_h504gnghnj",
+            "startAt": 58929,
+            "endAt": 60068,
+            "text": "배 볼록 볼록해요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_apvpj6kngr8",
+            "startAt": 59001,
+            "endAt": 60886,
+            "text": "네, 지금 좀 가쁘게 쉬세요.",
+            "speaker": 1
+        },
+        {
+            "id": "ce064ca3",
+            "startAt": 60542,
+            "endAt": 62338,
+            "text": "알겠어요, 배 볼록 볼록해요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_60pimo066i",
+            "startAt": 63365,
+            "endAt": 63672,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lc3jo9780t8",
+            "startAt": 63609,
+            "endAt": 64409,
+            "text": "배 볼록 볼록?",
+            "speaker": 0
+        },
+        {
+            "id": "4e71fb9e",
+            "startAt": 65952,
+            "endAt": 67299,
+            "text": "네, 코로 쉬세요.",
+            "speaker": 1
+        },
+        {
+            "id": "ec0269f7",
+            "startAt": 67404,
+            "endAt": 67736,
+            "text": "예?",
+            "speaker": 0
+        },
+        {
+            "id": "d2668d4e",
+            "startAt": 68897,
+            "endAt": 70720,
+            "text": "코로 숨을 쉬시긴 하는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fpb2q1ittgg",
+            "startAt": 70875,
+            "endAt": 77139,
+            "text": "그니까 배가 볼록 볼록해요? 안해요? 구급차 나갔어요, 내용 파악해야 돼요. 이게 숨 안 쉬는 거랑.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4uiko7j41lo",
+            "startAt": 75279,
+            "endAt": 76561,
+            "text": "네, 별로 좀 쉬.\n",
+            "speaker": 1
+        },
+        {
+            "id": "00d19ffd",
+            "startAt": 77598,
+            "endAt": 83580,
+            "text": "막 부르르 떠는 거랑 비슷해요, 그래서 헷갈릴 수 있어요. 숨 쉬는 거 정확하게 봐야 돼, 배 볼록 볼록 하나 봐봐요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mcoip9lmi",
+            "startAt": 84176,
+            "endAt": 85223,
+            "text": "네, 숨 쉬세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jej74qi2q4o",
+            "startAt": 85171,
+            "endAt": 89407,
+            "text": "그래요, 알겠어요. 가는 동안 특이사항 있으면 추가로 전화해요.",
+            "speaker": 0
+        },
+        {
+            "id": "9c854e31",
+            "startAt": 89810,
+            "endAt": 90232,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "b56e1601",
+            "startAt": 90221,
+            "endAt": 90926,
+            "text": "그래요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 중랑구 면목동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "경련/발작"
+    ],
+    "triage": "준응급증상"
+}

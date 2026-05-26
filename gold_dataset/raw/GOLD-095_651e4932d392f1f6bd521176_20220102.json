@@ -1,0 +1,232 @@
+{
+    "_id": "651e4932d392f1f6bd521176",
+    "audioPath": "20230925/Seoul/2022/20220102/converted_[20220102]-[WO1139279122].wav",
+    "recordId": "05e076dde51b48971dd7",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 69120,
+    "utterances": [
+        {
+            "id": "c0f6318e",
+            "startAt": 393,
+            "endAt": 1593,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "9d11d381",
+            "startAt": 1743,
+            "endAt": 5707,
+            "text": "네, 주임님 경기도구요. 서울 응암동 구급건입니다. 말씀해보세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kgn934qd68g",
+            "startAt": 5725,
+            "endAt": 6925,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_76odpfud9j8",
+            "startAt": 5795,
+            "endAt": 6912,
+            "text": "네 응암동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kc99ov8p7sg",
+            "startAt": 6907,
+            "endAt": 8212,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "3b49d4c1",
+            "startAt": 9370,
+            "endAt": 12910,
+            "text": "잠시만요. 응암동 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "f84c6386",
+            "startAt": 13450,
+            "endAt": 13930,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "8f9a9fa6",
+            "startAt": 14490,
+            "endAt": 15690,
+            "text": "응암동 몇 번지예요?",
+            "speaker": 0
+        },
+        {
+            "id": "b95d21a9",
+            "startAt": 16410,
+            "endAt": 18010,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "d6558821",
+            "startAt": 18630,
+            "endAt": 20890,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sdrjkkobtoo",
+            "startAt": 21607,
+            "endAt": 21816,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "2cb81d98",
+            "startAt": 21869,
+            "endAt": 22967,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "8199bed7",
+            "startAt": 26993,
+            "endAt": 29080,
+            "text": "어, 아버지가 어떻게 아프시대요?",
+            "speaker": 0
+        },
+        {
+            "id": "01538952",
+            "startAt": 29600,
+            "endAt": 33783,
+            "text": "지금 심장이 계속 쿵쾅거리셔가지고 항암 환자신데.",
+            "speaker": 1
+        },
+        {
+            "id": "427d2710",
+            "startAt": 34137,
+            "endAt": 37070,
+            "text": "네, 네, 어머니 계세요? 집에 다른 분.",
+            "speaker": 0
+        },
+        {
+            "id": "db188093",
+            "startAt": 37592,
+            "endAt": 39595,
+            "text": "예, 제가 혼자 있어요 지금 아버지랑.",
+            "speaker": 1
+        },
+        {
+            "id": "fb5fbcf6",
+            "startAt": 39712,
+            "endAt": 41068,
+            "text": "아, 같이 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "44955eb0",
+            "startAt": 41282,
+            "endAt": 42675,
+            "text": "네, 네, 네, 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3ptoi2dj15g",
+            "startAt": 41810,
+            "endAt": 42993,
+            "text": "아버지랑?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lkqd085r6v",
+            "startAt": 43364,
+            "endAt": 44347,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "5070d481",
+            "startAt": 43385,
+            "endAt": 46525,
+            "text": "아, 열 있거나 그러진 않아요? 아버지.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mul5uh30cb8",
+            "startAt": 48846,
+            "endAt": 50729,
+            "text": "기침 콧물 열",
+            "speaker": 0
+        },
+        {
+            "id": "129bea37",
+            "startAt": 49335,
+            "endAt": 51865,
+            "text": "열은 지금 따로 없으신 거 같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "1c67b74d",
+            "startAt": 52105,
+            "endAt": 55343,
+            "text": "코로나 때문에 격리 중이시거나 확진자 있거나 가족분들 이",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u75ap18bb1",
+            "startAt": 54799,
+            "endAt": 57783,
+            "text": "숨 숨이 숨이 지금 거의 헐떡이시거든요 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r5fsi2q36v8",
+            "startAt": 57613,
+            "endAt": 62430,
+            "text": "아, 일단 차는 보냈고요. 격리 사항 없죠? 코로나 확진자 있거나?",
+            "speaker": 0
+        },
+        {
+            "id": "2c062e3e",
+            "startAt": 62850,
+            "endAt": 63710,
+            "text": "네, 네, 네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "ef3d15cb",
+            "startAt": 64000,
+            "endAt": 65917,
+            "text": "네, 구급차 보냈어요.",
+            "speaker": 0
+        },
+        {
+            "id": "a80d78b5",
+            "startAt": 66253,
+            "endAt": 67467,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "0006b603",
+            "startAt": 67720,
+            "endAt": 68400,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 은평구 응암동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "심계항진"
+    ],
+    "triage": "응급증상"
+}

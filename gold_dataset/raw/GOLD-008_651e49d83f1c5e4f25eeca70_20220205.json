@@ -1,0 +1,161 @@
+{
+    "_id": "651e49d83f1c5e4f25eeca70",
+    "audioPath": "20230925/Seoul/2022/20220205/converted_[20220205]-[WP1139443343].wav",
+    "recordId": "127af5e8254bc4ba6dac",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 66120,
+    "utterances": [
+        {
+            "id": "f9dbce4b",
+            "startAt": 3890,
+            "endAt": 4734,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "4ff2163c",
+            "startAt": 5414,
+            "endAt": 13763,
+            "text": "예, 수고하십니다. 어머니께서 좀 저기 안 좋으셔가지고요. 응급실 좀 가봐야 될 거 같아가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "181234e3",
+            "startAt": 12911,
+            "endAt": 15665,
+            "text": "아 예, 구급차 보내드릴게요, 그 같이 계시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "f0b52a20",
+            "startAt": 16271,
+            "endAt": 16695,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "93be6386",
+            "startAt": 16668,
+            "endAt": 17704,
+            "text": "예, 주소가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qp7l1p8g3o",
+            "startAt": 18937,
+            "endAt": 21510,
+            "text": "가로공원로 76가길",
+            "speaker": 1
+        },
+        {
+            "id": "a6631240",
+            "startAt": 21654,
+            "endAt": 22344,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1bfgd31f3m8",
+            "startAt": 23910,
+            "endAt": 26019,
+            "text": "동, 동도 하이츠 빌라",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_65s53mugqfo",
+            "startAt": 26019,
+            "endAt": 26828,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "201739c3",
+            "startAt": 29195,
+            "endAt": 30409,
+            "text": "동, 동도 하이츠 빌라",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v9k8b0svjo8",
+            "startAt": 30410,
+            "endAt": 31137,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "95c3ecfe",
+            "startAt": 31677,
+            "endAt": 32124,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "2d08407e",
+            "startAt": 34748,
+            "endAt": 36934,
+            "text": "그 어머니 의식은 있으세요? 어디가 아프신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_452na2tkep8",
+            "startAt": 38006,
+            "endAt": 43306,
+            "text": "의식은 좀 있으시는데 저기 말씀을 제대로 못하시고. 한쪽",
+            "speaker": 1
+        },
+        {
+            "id": "5ede73a6",
+            "startAt": 43450,
+            "endAt": 52905,
+            "text": "이 오른쪽 팔하고 오른쪽 다리 쪽을 잘 움직이지 못하시는 상황이거든요. 말씀도 잘 못하시고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pgpno3i7jf",
+            "startAt": 49310,
+            "endAt": 52029,
+            "text": "아 예, 편마비 있었고요. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "e969dd44",
+            "startAt": 52876,
+            "endAt": 55266,
+            "text": "그 코로나 자가격리나 확진 관련된 거 없으시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "e316e7e2",
+            "startAt": 56310,
+            "endAt": 59248,
+            "text": "예, 3차까지 어머니랑 저랑 다 맞았고요.",
+            "speaker": 1
+        },
+        {
+            "id": "895fd596",
+            "startAt": 59358,
+            "endAt": 63066,
+            "text": "아, 예, 알겠습니다. 여기 인근에 신월동에서 금방 출동할 거예요.",
+            "speaker": 0
+        },
+        {
+            "id": "0ec0af55",
+            "startAt": 63521,
+            "endAt": 64903,
+            "text": "예, 알겠습니다.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강서구 화곡동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애"
+    ],
+    "triage": "응급증상"
+}

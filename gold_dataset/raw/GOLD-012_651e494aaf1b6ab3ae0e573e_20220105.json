@@ -1,0 +1,168 @@
+{
+    "_id": "651e494aaf1b6ab3ae0e573e",
+    "audioPath": "20230925/Seoul/2022/20220105/converted_[20220105]-[WO1139291934].wav",
+    "recordId": "9cb2f61fb0cedd2c091f",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 54240,
+    "utterances": [
+        {
+            "id": "3e51728a",
+            "startAt": 1091,
+            "endAt": 1871,
+            "text": "119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "0e2f0ebf",
+            "startAt": 2471,
+            "endAt": 3841,
+            "text": "아, 네, 안녕하세요.여기 관악로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5lkr6nm0j8",
+            "startAt": 3810,
+            "endAt": 5240,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mok00qbuet8",
+            "startAt": 5214,
+            "endAt": 6624,
+            "text": "효사랑 요양원인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "0526dcc7",
+            "startAt": 6941,
+            "endAt": 7381,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "38160417",
+            "startAt": 7901,
+            "endAt": 12821,
+            "text": "네, 네, 그 어르신 한 분 상태가 너무 안 좋아서 지금 병원으로 지금 응급실로 이송하시려고 하는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "9722386b",
+            "startAt": 13091,
+            "endAt": 14611,
+            "text": "네, 할머니예요, 할아버지세요?",
+            "speaker": 0
+        },
+        {
+            "id": "adc04849",
+            "startAt": 14931,
+            "endAt": 15801,
+            "text": "할머니요.",
+            "speaker": 1
+        },
+        {
+            "id": "4df53298",
+            "startAt": 16181,
+            "endAt": 17351,
+            "text": "예, 어떤 증상 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "5d51aa65",
+            "startAt": 17903,
+            "endAt": 23323,
+            "text": "지금 호흡 곤란이 있고요. 어르신 간암 좀 간암이시긴 한데 간암이시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "0c8af1e5",
+            "startAt": 23373,
+            "endAt": 23953,
+            "text": "예예",
+            "speaker": 0
+        },
+        {
+            "id": "08b65751",
+            "startAt": 23573,
+            "endAt": 26903,
+            "text": "근데 지금 산소포화도가 예 82 정도 나오고요.",
+            "speaker": 1
+        },
+        {
+            "id": "2ae7a1f5",
+            "startAt": 27293,
+            "endAt": 28163,
+            "text": "의식은 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "1ea2b121",
+            "startAt": 28813,
+            "endAt": 30583,
+            "text": "의식이 지금 혼미한 상태요.",
+            "speaker": 1
+        },
+        {
+            "id": "7e2f58b6",
+            "startAt": 31277,
+            "endAt": 34459,
+            "text": "어 아, 그래요? 코로나 관련된 건 없으시구요?",
+            "speaker": 0
+        },
+        {
+            "id": "01b13474",
+            "startAt": 34829,
+            "endAt": 39389,
+            "text": "네, 지금 여기 자가격 그 자가키트로 해가지고 했더니 음성 나왔구요.",
+            "speaker": 1
+        },
+        {
+            "id": "4b796767",
+            "startAt": 39959,
+            "endAt": 40829,
+            "text": "예, 관악로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pnjmdbad60g",
+            "startAt": 40824,
+            "endAt": 42174,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "0e5a254f",
+            "startAt": 42499,
+            "endAt": 44059,
+            "text": "네, 효사랑 요양원이요.",
+            "speaker": 1
+        },
+        {
+            "id": "f65fd93a",
+            "startAt": 43055,
+            "endAt": 45479,
+            "text": "예, 예, 알겠습니다 예.",
+            "speaker": 0
+        },
+        {
+            "id": "8e456fe2",
+            "startAt": 45519,
+            "endAt": 46199,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 관악구 봉천동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "호흡곤란"
+    ],
+    "triage": "준응급증상"
+}

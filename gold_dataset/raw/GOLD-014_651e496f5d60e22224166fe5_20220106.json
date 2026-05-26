@@ -1,0 +1,266 @@
+{
+    "_id": "651e496f5d60e22224166fe5",
+    "audioPath": "20230925/Seoul/2022/20220106/converted_[20220106]-[WO1139296624].wav",
+    "recordId": "6deaa95659ff18a1cb10",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 88680,
+    "utterances": [
+        {
+            "id": "0df98cce",
+            "startAt": 1045,
+            "endAt": 2015,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "ae03f319",
+            "startAt": 3219,
+            "endAt": 9703,
+            "text": "네, 안녕하세요. 예예, 저희 저희 어머니께서 평소 간질이 있으신데 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cvsla4v6ru8",
+            "startAt": 10027,
+            "endAt": 19736,
+            "text": "근데 평소랑 달리 간질이 계속 지속되고 정신이 안 돌아오셔가지고 예, 병원으로 이송해야 될 거 같아서요.",
+            "speaker": 1
+        },
+        {
+            "id": "2c6030e0",
+            "startAt": 19710,
+            "endAt": 20715,
+            "text": "구급차 보내드려요?",
+            "speaker": 0
+        },
+        {
+            "id": "d415c468",
+            "startAt": 21801,
+            "endAt": 22361,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "749ad06f",
+            "startAt": 22471,
+            "endAt": 23651,
+            "text": "주소가 어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "5f267020",
+            "startAt": 24371,
+            "endAt": 28052,
+            "text": "어 동작구 남부순환로 265가길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c1guevknomg",
+            "startAt": 28181,
+            "endAt": 29299,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "17016b52",
+            "startAt": 30450,
+            "endAt": 31996,
+            "text": "남부순환로",
+            "speaker": 0
+        },
+        {
+            "id": "bd1d9a99",
+            "startAt": 33587,
+            "endAt": 35167,
+            "text": "265가길.",
+            "speaker": 1
+        },
+        {
+            "id": "8f6c09d9",
+            "startAt": 35837,
+            "endAt": 37767,
+            "text": "265가길이요?",
+            "speaker": 0
+        },
+        {
+            "id": "cf79163e",
+            "startAt": 38512,
+            "endAt": 39322,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "b563079c",
+            "startAt": 41334,
+            "endAt": 41974,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "999145a8",
+            "startAt": 42694,
+            "endAt": 43044,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "9cc31137",
+            "startAt": 43354,
+            "endAt": 44284,
+            "text": "몇 층이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "dad63707",
+            "startAt": 45484,
+            "endAt": 48715,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "42b2cb49",
+            "startAt": 49437,
+            "endAt": 52568,
+            "text": "네, 근데 처음에 계단이 조금 있으세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hitpjmt0oeo",
+            "startAt": 52786,
+            "endAt": 53594,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "86421862",
+            "startAt": 53601,
+            "endAt": 55372,
+            "text": "뭐 관절이 안 좋아요? 무릎관절?",
+            "speaker": 0
+        },
+        {
+            "id": "c563c7a1",
+            "startAt": 56373,
+            "endAt": 58393,
+            "text": "아니요, 간질이요 간, 경련.",
+            "speaker": 1
+        },
+        {
+            "id": "b8d57112",
+            "startAt": 58623,
+            "endAt": 59413,
+            "text": "경련?",
+            "speaker": 0
+        },
+        {
+            "id": "c84030ce",
+            "startAt": 59983,
+            "endAt": 60403,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "1d3ac115",
+            "startAt": 60613,
+            "endAt": 64383,
+            "text": "아, 간질 하신다고? 경련, 지금 경련하고 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "35ada1aa",
+            "startAt": 65083,
+            "endAt": 67003,
+            "text": "네, 계속 지속적으로 하고 계세요.",
+            "speaker": 1
+        },
+        {
+            "id": "4c63dbed",
+            "startAt": 67243,
+            "endAt": 67633,
+            "text": "지금?",
+            "speaker": 0
+        },
+        {
+            "id": "c56b4fd8",
+            "startAt": 68283,
+            "endAt": 68773,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "d8dd22f7",
+            "startAt": 69039,
+            "endAt": 70167,
+            "text": "아, 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7g23gva7r0o",
+            "startAt": 70226,
+            "endAt": 71117,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4ueea4ais7",
+            "startAt": 71463,
+            "endAt": 74762,
+            "text": "아, 그래요? 알겠습니다. 출동하겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_icovkc3gnrg",
+            "startAt": 71471,
+            "endAt": 72171,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bh1ujketb58",
+            "startAt": 75080,
+            "endAt": 75544,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bjb1sjgibrg",
+            "startAt": 75280,
+            "endAt": 79044,
+            "text": "혹시 코로나 증상 같은 건 없으시죠? 고열, 기침, 가래",
+            "speaker": 0
+        },
+        {
+            "id": "3e65f81d",
+            "startAt": 78695,
+            "endAt": 81769,
+            "text": "네네, 3차 접종 다 하셨어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l67sekhkc4g",
+            "startAt": 81380,
+            "endAt": 82962,
+            "text": "알았어요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tige4cvigd8",
+            "startAt": 83007,
+            "endAt": 84153,
+            "text": "네. 예예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 동작구 사당동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "경련/발작"
+    ],
+    "triage": "응급증상"
+}

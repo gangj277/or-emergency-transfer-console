@@ -1,0 +1,282 @@
+{
+    "_id": "651e4a1fb7503416e5f164e5",
+    "audioPath": "20230925/Seoul/2022/20220302/converted_[20220302]-[WQ1139587695].wav",
+    "recordId": "3332408f7e29ff5dda0c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 88680,
+    "utterances": [
+        {
+            "id": "5332c658",
+            "startAt": 2348,
+            "endAt": 3238,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "d674b9e3",
+            "startAt": 3956,
+            "endAt": 8496,
+            "text": "아, 여기 종합운동장역 여기 승강장에 있는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "73297911",
+            "startAt": 8526,
+            "endAt": 10776,
+            "text": "종합운동장역이요? 몇 호선이요?",
+            "speaker": 0
+        },
+        {
+            "id": "875fe3c7",
+            "startAt": 10336,
+            "endAt": 13866,
+            "text": "네네. 9호선이요. 삼전역 가는 방향인데.",
+            "speaker": 1
+        },
+        {
+            "id": "919981c2",
+            "startAt": 14036,
+            "endAt": 15356,
+            "text": "삼전역 방향이요?",
+            "speaker": 0
+        },
+        {
+            "id": "9f5b4b30",
+            "startAt": 15506,
+            "endAt": 16626,
+            "text": "네, 네, 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v43ujgg26sg",
+            "startAt": 17210,
+            "endAt": 18690,
+            "text": "승강장 번호가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "ee9f3e06",
+            "startAt": 17686,
+            "endAt": 19266,
+            "text": "어, 호흡이 잘 안 되고, 네?",
+            "speaker": 1
+        },
+        {
+            "id": "1535ac44",
+            "startAt": 19726,
+            "endAt": 21146,
+            "text": "승강장 번호가 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "a9a1cce4",
+            "startAt": 23074,
+            "endAt": 25824,
+            "text": "여기요? 930, 930.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hfaiuatoks8",
+            "startAt": 23240,
+            "endAt": 27620,
+            "text": "승강장 번호. 승강장 번호, 번호. 바, 바닥에 번호.",
+            "speaker": 0
+        },
+        {
+            "id": "58f6308f",
+            "startAt": 26484,
+            "endAt": 27666,
+            "text": "6-3이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_311jll93hbg",
+            "startAt": 30570,
+            "endAt": 32230,
+            "text": "6-3이요. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5m5m2v1qfa8",
+            "startAt": 30580,
+            "endAt": 31330,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "d7ebc70b",
+            "startAt": 33454,
+            "endAt": 34614,
+            "text": "뭐 쓰러지셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "6fc6314d",
+            "startAt": 34994,
+            "endAt": 37614,
+            "text": "아, 여기 호흡이 잘 안 돼가지고 지금 계속 해.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ao8k9hti1c",
+            "startAt": 36650,
+            "endAt": 39960,
+            "text": "누가? 누, 누가 아파? 여자분? 여자?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_05c11tc424g",
+            "startAt": 38720,
+            "endAt": 39060,
+            "text": "예?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ocp9aa7nqlo",
+            "startAt": 41040,
+            "endAt": 42810,
+            "text": "여자분이에요, 남자분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "3d43d46c",
+            "startAt": 42524,
+            "endAt": 43774,
+            "text": "남자요. 남편이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u5qa4phshlo",
+            "startAt": 43770,
+            "endAt": 44910,
+            "text": "남편이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "61f4f724",
+            "startAt": 45044,
+            "endAt": 45744,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1ih84ve9b18",
+            "startAt": 47720,
+            "endAt": 48990,
+            "text": "의식은 괜찮죠?",
+            "speaker": 0
+        },
+        {
+            "id": "025d4108",
+            "startAt": 49097,
+            "endAt": 53837,
+            "text": "아, 그 심근경색 증상 같다고 하는데 빨리 좀 와주세요, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ijn9hkjhhh",
+            "startAt": 51890,
+            "endAt": 52850,
+            "text": "심근경색?",
+            "speaker": 0
+        },
+        {
+            "id": "a4fa3dec",
+            "startAt": 53987,
+            "endAt": 58277,
+            "text": "가슴 통증 있으세요? 구급차 출발했으니까 진정하시고. 가슴 통증 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q3f09494kho",
+            "startAt": 58720,
+            "endAt": 59470,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "6923e5d1",
+            "startAt": 61237,
+            "endAt": 64538,
+            "text": "지금 막 얼굴도 하얘지고 손도 하얘지고 막 그래요.",
+            "speaker": 1
+        },
+        {
+            "id": "72317b09",
+            "startAt": 64728,
+            "endAt": 67888,
+            "text": "일단 구급차 출발했으니까 잠깐 끊지 마시고요.",
+            "speaker": 0
+        },
+        {
+            "id": "167ccbe5",
+            "startAt": 68008,
+            "endAt": 72828,
+            "text": "제가 다시 한 번만 확인할게요. 9호선 종합운동장역이고 삼전역 가는.",
+            "speaker": 0
+        },
+        {
+            "id": "1f7e2ed0",
+            "startAt": 72158,
+            "endAt": 74568,
+            "text": "삼전역 가는 방향 6-3이요.",
+            "speaker": 1
+        },
+        {
+            "id": "3866cc86",
+            "startAt": 73118,
+            "endAt": 75608,
+            "text": "방향 삼전 6-3이고.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qc472bjhjq",
+            "startAt": 76090,
+            "endAt": 76450,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "86716b2d",
+            "startAt": 76098,
+            "endAt": 78598,
+            "text": "가슴통증 있으시고 숨쉬기 힘드시다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "13a6ebf9",
+            "startAt": 78398,
+            "endAt": 79158,
+            "text": "네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "acb21d85",
+            "startAt": 80678,
+            "endAt": 84818,
+            "text": "저희 응급처치 선생님 연결할 테니까 끊지 말고 잠깐 기다리세요. 구급대 출발했어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hainu4n62rg",
+            "startAt": 85600,
+            "endAt": 86350,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 송파구 잠실동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "호흡곤란",
+        "어지러움"
+    ],
+    "triage": "잠재응급증상"
+}

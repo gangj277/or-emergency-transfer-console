@@ -1,0 +1,217 @@
+{
+    "_id": "651e4baacf5885969118c643",
+    "audioPath": "20230925/Seoul/2022/20220504/converted_[20220504]-[WS1139965206].wav",
+    "recordId": "f7ab39a5046de9b79e0a",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 74400,
+    "utterances": [
+        {
+            "id": "8221302f",
+            "startAt": 5435,
+            "endAt": 6165,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "4af757c5",
+            "startAt": 6195,
+            "endAt": 8857,
+            "text": "예, 119인데 전화가 왔다, 끊어졌네요. 무슨 일 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "2e9c7664",
+            "startAt": 8805,
+            "endAt": 14514,
+            "text": "예, 예, 지금 집사람이 경련이 나가지고 막 그러거든요, 그래서.",
+            "speaker": 1
+        },
+        {
+            "id": "13af9167",
+            "startAt": 14520,
+            "endAt": 16900,
+            "text": "경년이었던 게 뭐 지금 의식을 잃었다는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "6dab10ee",
+            "startAt": 18303,
+            "endAt": 26973,
+            "text": "의식은 있는데 막 떨고 막 저 가슴이 쪼이고 그래가지고 혀밑에 넣는 거 넣었는데 두 번 넣어도 안 되면.",
+            "speaker": 1
+        },
+        {
+            "id": "875c126d",
+            "startAt": 27511,
+            "endAt": 29458,
+            "text": "그 저 응급실로 오라고 했어 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oadk0iepvmg",
+            "startAt": 28715,
+            "endAt": 32387,
+            "text": "신고 신고 잘 하셨고 원래 그 심장 질환이 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "94b51647",
+            "startAt": 33216,
+            "endAt": 33726,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "75bccd99",
+            "startAt": 34676,
+            "endAt": 36416,
+            "text": "그 환자분 계신 주소가 어디에요?",
+            "speaker": 0
+        },
+        {
+            "id": "b54a3e54",
+            "startAt": 37680,
+            "endAt": 40140,
+            "text": "여기 저 동서문로.",
+            "speaker": 1
+        },
+        {
+            "id": "bdf4e87c",
+            "startAt": 40430,
+            "endAt": 41160,
+            "text": "동서문로.",
+            "speaker": 0
+        },
+        {
+            "id": "ff6ab565",
+            "startAt": 41980,
+            "endAt": 42970,
+            "text": "17길.",
+            "speaker": 1
+        },
+        {
+            "id": "4d437637",
+            "startAt": 43520,
+            "endAt": 44530,
+            "text": "17길.",
+            "speaker": 0
+        },
+        {
+            "id": "ed042ccb",
+            "startAt": 45096,
+            "endAt": 46806,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "7626c573",
+            "startAt": 47096,
+            "endAt": 53756,
+            "text": "동서문로 17길 잠깐만요 동서문로 17길 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sjdelgvbh4o",
+            "startAt": 53749,
+            "endAt": 55431,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3qe3ksdr0v",
+            "startAt": 55422,
+            "endAt": 55930,
+            "text": "맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "7d6316ac",
+            "startAt": 55914,
+            "endAt": 56333,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "2d989782",
+            "startAt": 56658,
+            "endAt": 57125,
+            "text": "예예  ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vguog37m9co",
+            "startAt": 57062,
+            "endAt": 58544,
+            "text": "바우 하우스라고 나오네요.",
+            "speaker": 0
+        },
+        {
+            "id": "b0b48267",
+            "startAt": 59118,
+            "endAt": 60499,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "04442cb2",
+            "startAt": 61101,
+            "endAt": 62001,
+            "text": "바우하우스",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gd8p1gv0kug",
+            "startAt": 62015,
+            "endAt": 62887,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "d4f36dc7",
+            "startAt": 63441,
+            "endAt": 63941,
+            "text": "예예",
+            "speaker": 1
+        },
+        {
+            "id": "be6c225d",
+            "startAt": 63971,
+            "endAt": 67991,
+            "text": "어, 그리고 저기 가족 중에 뭐 기침 가래 코로나 관련 없으시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "f6639960",
+            "startAt": 68561,
+            "endAt": 69341,
+            "text": "예, 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "29cc5e86",
+            "startAt": 69551,
+            "endAt": 72491,
+            "text": "알겠습니다. 저희 일단 차량 출동할 테니까 전화받으세요 ",
+            "speaker": 0
+        },
+        {
+            "id": "2eaf550e",
+            "startAt": 72961,
+            "endAt": 73671,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 성북구 동소문동6가",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통"
+    ],
+    "triage": "준응급증상"
+}

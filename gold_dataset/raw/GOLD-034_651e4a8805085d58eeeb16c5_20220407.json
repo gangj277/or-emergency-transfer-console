@@ -1,0 +1,246 @@
+{
+    "_id": "651e4a8805085d58eeeb16c5",
+    "audioPath": "20230925/Seoul/2022/20220407/converted_[20220407]-[WR1139824405].wav",
+    "recordId": "7c023789214e7dc676c5",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 79200,
+    "utterances": [
+        {
+            "id": "wavesurfer_g7grljclr7g",
+            "startAt": 291,
+            "endAt": 1236,
+            "text": "119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nqgvhv7vlgo",
+            "startAt": 2673,
+            "endAt": 6882,
+            "text": "네, 저 여기 화 화곡고등학교 인데요 사람이 쓰러져가지고요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oug3fse0qi8",
+            "startAt": 9145,
+            "endAt": 10055,
+            "text": "여보세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eu1qc784ld",
+            "startAt": 10818,
+            "endAt": 11645,
+            "text": "네, 여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pqe7lvbvcoo",
+            "startAt": 11876,
+            "endAt": 13403,
+            "text": "네, 화곡고 말씀하세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i1bpatthh68",
+            "startAt": 18048,
+            "endAt": 20012,
+            "text": "화곡고 어디에요, 어디?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lhmcncigmno",
+            "startAt": 20821,
+            "endAt": 21512,
+            "text": "여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hopfmp0jesg",
+            "startAt": 21621,
+            "endAt": 22085,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ijqeirali5g",
+            "startAt": 24736,
+            "endAt": 25582,
+            "text": "여보세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_al3q57o3feg",
+            "startAt": 27730,
+            "endAt": 30639,
+            "text": "예 이제 이제 침을 아 저기 피 흘리고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2qjmbbh8jkg",
+            "startAt": 31030,
+            "endAt": 31576,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8krsg3debm8",
+            "startAt": 31348,
+            "endAt": 32039,
+            "text": "쓰러졌어요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ifeo704q1vo",
+            "startAt": 32627,
+            "endAt": 33055,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gd3otaqrbjg",
+            "startAt": 33545,
+            "endAt": 35382,
+            "text": "예 화곡고 어디로 가야 돼요, 어디로가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bmkkp6j6ieo",
+            "startAt": 36661,
+            "endAt": 38006,
+            "text": "예 화곡고등학교 우.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_988beafs6jo",
+            "startAt": 38400,
+            "endAt": 41382,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6l3ikhftmho",
+            "startAt": 41864,
+            "endAt": 43000,
+            "text": "네, 네. 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pof3aokj5t8",
+            "startAt": 43124,
+            "endAt": 44842,
+            "text": "네 학생이 쓰러졌어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_698of4ghp98",
+            "startAt": 45400,
+            "endAt": 46473,
+            "text": "네, 학생이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_quj7glujd48",
+            "startAt": 46664,
+            "endAt": 47709,
+            "text": "왜 왜 그런 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9fv52n0jn2g",
+            "startAt": 48455,
+            "endAt": 50927,
+            "text": "그랬어요, 지금 쓰러져서 정신이 없어요. 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rtl0h1j4rtg",
+            "startAt": 51273,
+            "endAt": 53755,
+            "text": "그 입에서 코하고 입에서 피가 나요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p7mohenj6oo",
+            "startAt": 54545,
+            "endAt": 56600,
+            "text": "아, 그래요. 경련하고 있어요. 혹시 경련?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p631rfg35ng",
+            "startAt": 57406,
+            "endAt": 60724,
+            "text": "경련은 아닌 거 같아요 경련은 아닌데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qlal9i5d60g",
+            "startAt": 60873,
+            "endAt": 61282,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_opthn3113k8",
+            "startAt": 61270,
+            "endAt": 62261,
+            "text": "예 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q040bfva12",
+            "startAt": 63927,
+            "endAt": 66873,
+            "text": "차 가고 있고 저 호흡이랑 환자 의식 있고?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fg5h1l7g1f8",
+            "startAt": 67109,
+            "endAt": 67876,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f26rra8tvmo",
+            "startAt": 68042,
+            "endAt": 69661,
+            "text": "의식있고 호흡은 하나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_opomn1ffh5",
+            "startAt": 70679,
+            "endAt": 73015,
+            "text": "네, 의식이 거의 없고요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tq6sd872ju",
+            "startAt": 74070,
+            "endAt": 76379,
+            "text": "예 아, 영상 영상 통화해드릴까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bu755rn5qs8",
+            "startAt": 76570,
+            "endAt": 78624,
+            "text": "잠깐만 끊지 마세요, 잠깐만요",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강서구 내발산동",
+    "disasterLarge": "구급",
+    "disasterMedium": "심정지",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "어지러움",
+        "경련/발작"
+    ],
+    "triage": "응급증상"
+}

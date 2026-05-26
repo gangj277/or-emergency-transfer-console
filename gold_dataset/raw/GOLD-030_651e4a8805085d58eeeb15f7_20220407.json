@@ -1,0 +1,191 @@
+{
+    "_id": "651e4a8805085d58eeeb15f7",
+    "audioPath": "20230925/Seoul/2022/20220407/converted_[20220407]-[WR1139826696].wav",
+    "recordId": "dbd4693df8e6b2634cdb",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 50400,
+    "utterances": [
+        {
+            "id": "944f7b68",
+            "startAt": 572,
+            "endAt": 1902,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "74ef1b35",
+            "startAt": 2022,
+            "endAt": 6253,
+            "text": "네, 여기 그 서울특별시 중구 왕십리로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ef067qoqd6",
+            "startAt": 6264,
+            "endAt": 6791,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_51drogp6jh",
+            "startAt": 6791,
+            "endAt": 8364,
+            "text": "신당 파인힐 하나유보라.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4e629s1flko",
+            "startAt": 8691,
+            "endAt": 9827,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "1f34aaba",
+            "startAt": 9982,
+            "endAt": 10864,
+            "text": "왕 왕십리로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dtj7nsgvgb",
+            "startAt": 10891,
+            "endAt": 11755,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k8rj1sb9sp",
+            "startAt": 12164,
+            "endAt": 14464,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "2182ce80",
+            "startAt": 14582,
+            "endAt": 16622,
+            "text": "네, 신당 파인힐 하나유보라",
+            "speaker": 1
+        },
+        {
+            "id": "970da749",
+            "startAt": 16902,
+            "endAt": 17795,
+            "text": "네, 유보라.",
+            "speaker": 0
+        },
+        {
+            "id": "26e814c3",
+            "startAt": 17829,
+            "endAt": 20152,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "b674facd",
+            "startAt": 20409,
+            "endAt": 21819,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "1e653cb0",
+            "startAt": 21849,
+            "endAt": 31439,
+            "text": "네, 네, 아바가 지금 협심증이 있으시거든요. 근데 지금 숨을 잘 못 쉬시고 어 당뇨도 있으시고 고혈압도 있으신데 지금 숨을 잘 못 쉬시고.",
+            "speaker": 1
+        },
+        {
+            "id": "3d9680f8",
+            "startAt": 31010,
+            "endAt": 32989,
+            "text": "지 가 가슴 아프시대요, 혹시 가슴?",
+            "speaker": 0
+        },
+        {
+            "id": "25ecd81a",
+            "startAt": 33670,
+            "endAt": 38869,
+            "text": "네, 가슴 통증도 있으시고 지금 네 말도 잘 못하시고 그런 상황이세요. 네 옆구리.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9sohi160d4",
+            "startAt": 38673,
+            "endAt": 39455,
+            "text": "신고자분.",
+            "speaker": 0
+        },
+        {
+            "id": "08974d1b",
+            "startAt": 39570,
+            "endAt": 40210,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mvhu5debfeg",
+            "startAt": 39936,
+            "endAt": 43545,
+            "text": "지 코로나 때문에 아버님 뭐 코로나 확진 받았거나 몸에 열 있거나 이런 해당 사항 있어요. 혹시?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6j10v611238",
+            "startAt": 43773,
+            "endAt": 44809,
+            "text": "아니요, 없으세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vmtv9v9km28",
+            "startAt": 44609,
+            "endAt": 46018,
+            "text": "엄마 없어요. 예, 유보라.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qb27ae4srio",
+            "startAt": 46018,
+            "endAt": 47100,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mcosht4glog",
+            "startAt": 47091,
+            "endAt": 48227,
+            "text": "갈게요. 기다리세요.",
+            "speaker": 0
+        },
+        {
+            "id": "52a472c3",
+            "startAt": 48250,
+            "endAt": 48730,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "1837302e",
+            "startAt": 48860,
+            "endAt": 49150,
+            "text": "에.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 중구 신당동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "두통",
+        "흉통",
+        "호흡곤란"
+    ],
+    "triage": "응급증상"
+}

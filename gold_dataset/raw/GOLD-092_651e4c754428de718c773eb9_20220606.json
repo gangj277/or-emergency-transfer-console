@@ -1,0 +1,401 @@
+{
+    "_id": "651e4c754428de718c773eb9",
+    "audioPath": "20230925/Seoul/2022/20220606/converted_[20220606]-[WT1140146418].wav",
+    "recordId": "b946c73fbf7162c05d72",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 96600,
+    "utterances": [
+        {
+            "id": "wavesurfer_sn60q2b74lo",
+            "startAt": 1527,
+            "endAt": 2582,
+            "text": "네. 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5co9dcefob8",
+            "startAt": 2909,
+            "endAt": 3527,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l8s6tic94g",
+            "startAt": 3891,
+            "endAt": 4845,
+            "text": "네. 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cc537h052og",
+            "startAt": 4962,
+            "endAt": 9098,
+            "text": "예, 여기 저기 식당인데요. 손님이 지금 몸이 많이 안 좋아가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6aakbtqev3o",
+            "startAt": 9725,
+            "endAt": 11998,
+            "text": "저기 응급차 좀 보내줬으면 좋겠어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_p8qjqdqkou",
+            "startAt": 12078,
+            "endAt": 14114,
+            "text": "아, 손 손님 몸 남자분이에요?    ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uovh879u45o",
+            "startAt": 14827,
+            "endAt": 16236,
+            "text": "아, 남자분이요, 갑자기요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2sme4lidla",
+            "startAt": 16358,
+            "endAt": 17740,
+            "text": "몸이 어떻게 안 좋으신데요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mkuata2ua38",
+            "startAt": 17960,
+            "endAt": 23132,
+            "text": "아, 글쎄, 뭐 그 자세한건 모르겠는데 그 부인께서 빨리 좀 저 불러달라 그래가지고요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bao07sa07h8",
+            "startAt": 21127,
+            "endAt": 21445,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hk4oth8al28",
+            "startAt": 23263,
+            "endAt": 24908,
+            "text": "아, 그 식당 주소 좀 얘기해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_282iv2rpia",
+            "startAt": 25675,
+            "endAt": 26511,
+            "text": " 예, 송파동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2toea47o2uo",
+            "startAt": 26536,
+            "endAt": 27372,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jtmdud1i5og",
+            "startAt": 27383,
+            "endAt": 28474,
+            "text": "경진빌딩이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_npp3kr6sh3",
+            "startAt": 29121,
+            "endAt": 29985,
+            "text": "아. 잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o9olvhmvaho",
+            "startAt": 29626,
+            "endAt": 30281,
+            "text": "쌍돈.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0gmvhs2t8r8",
+            "startAt": 32145,
+            "endAt": 33708,
+            "text": "그 가게 이름이 쌍돈이에요?               ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q8ef8a40c1g",
+            "startAt": 34145,
+            "endAt": 35181,
+            "text": "깡돈, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_brppe4c5s7",
+            "startAt": 35551,
+            "endAt": 36233,
+            "text": "쌍돈이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3oc029fe93o",
+            "startAt": 36588,
+            "endAt": 36715,
+            "text": "그",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_velr6tk019g",
+            "startAt": 36731,
+            "endAt": 37194,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k97bl3vquho",
+            "startAt": 37196,
+            "endAt": 37486,
+            "text": "그거죠?    ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9j245pmq2s",
+            "startAt": 38038,
+            "endAt": 38393,
+            "text": "예 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0fa03tf4r58",
+            "startAt": 38417,
+            "endAt": 38990,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_uspias26gf8",
+            "startAt": 40048,
+            "endAt": 42230,
+            "text": "그 그 남자분이요, 의식이랑 호흡은 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3ucublnteoo",
+            "startAt": 42883,
+            "endAt": 44247,
+            "text": "아, 지금은 있어요.  ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6hsoved6eq8",
+            "startAt": 44679,
+            "endAt": 47879,
+            "text": "아, 그. 그냥 쓰러진 거예요, 아님 배가 아픈 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fpealarpl9o",
+            "startAt": 45079,
+            "endAt": 46288,
+            "text": "근데 많이 괴로워하네요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5gsbpj1rf6g",
+            "startAt": 47935,
+            "endAt": 51726,
+            "text": "아니, 아니, 아니, 지금 그 식은 땀 흘리고 쓰러지기 직전이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1qe1defgaf",
+            "startAt": 51997,
+            "endAt": 54651,
+            "text": " 아, 선생님, 지금 구급차 출발했거든요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_osuabipg7n8",
+            "startAt": 53262,
+            "endAt": 53571,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mhgh1us3hr8",
+            "startAt": 54841,
+            "endAt": 55478,
+            "text": "예 예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hcatns4glq",
+            "startAt": 55405,
+            "endAt": 59832,
+            "text": "가는 가는 동안에 상황 파악 좀 하려고 하는데 어디 아픈 건지 좀 파악 좀 할 수 있을까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lemhmadjjto",
+            "startAt": 60715,
+            "endAt": 61333,
+            "text": "환자분한테?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9k781mrck3g",
+            "startAt": 60855,
+            "endAt": 61145,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b5c0mvvnou8",
+            "startAt": 62715,
+            "endAt": 63842,
+            "text": "네, 어디 뭐 병원이요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gdptabial5g",
+            "startAt": 64377,
+            "endAt": 66677,
+            "text": "아니요, 어디 아픈 건지 물어봐 줄 수 있을까요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_26t2f5p357g",
+            "startAt": 66166,
+            "endAt": 67384,
+            "text": "아. 잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3oi4i6ersm",
+            "startAt": 67469,
+            "endAt": 67951,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_th1tfhtrfk",
+            "startAt": 70760,
+            "endAt": 71760,
+            "text": "아. 네. 여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_in9e9jra0oo",
+            "startAt": 71964,
+            "endAt": 73955,
+            "text": "네. 선생님. 어디가 불편한거에요 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lutlfb2km28",
+            "startAt": 74179,
+            "endAt": 76860,
+            "text": "아. 지금 혈압계통 쪽 장애가 있는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ao5k1m65rl",
+            "startAt": 77002,
+            "endAt": 77157,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fashm1gis5o",
+            "startAt": 77382,
+            "endAt": 81136,
+            "text": "지금 갑자기 어지럽다 그러더니, 지금 식은땀이랑",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_epolddc66p8",
+            "startAt": 79739,
+            "endAt": 79975,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1refg119cu8",
+            "startAt": 81364,
+            "endAt": 81536,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c75docmejmg",
+            "startAt": 81506,
+            "endAt": 83115,
+            "text": "지금 정신을 못차리거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_juerk6dgc1",
+            "startAt": 83126,
+            "endAt": 85245,
+            "text": "아 흉통같은 건 없어요? 흉통?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3df1nbqttg",
+            "startAt": 83627,
+            "endAt": 84355,
+            "text": "이 이는 가끔.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ct3vq0l2hr8",
+            "startAt": 85159,
+            "endAt": 89068,
+            "text": "네 네 네. 그냥 뭐 조금 눈이 조금 위로 올라가는것 같아서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vl4d5somc9",
+            "startAt": 85950,
+            "endAt": 86477,
+            "text": "아 알.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sdf11sl2sgo",
+            "startAt": 89035,
+            "endAt": 93226,
+            "text": "아 그래요? 지금 구급차 가고있거든요, 선생님. 전화 좀 잘 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_abt6jbe7hj8",
+            "startAt": 93704,
+            "endAt": 94195,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sihbtagd7pg",
+            "startAt": 94395,
+            "endAt": 95031,
+            "text": "네",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 송파구 송파동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "어지러움",
+        "경련/발작",
+        "오심"
+    ],
+    "triage": "준응급증상"
+}

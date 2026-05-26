@@ -1,0 +1,1291 @@
+{
+  "generatedAt": "2026-05-26T12:05:49.279Z",
+  "seoulHiraRecords": 19818,
+  "candidateCount": 51,
+  "matched": {
+    "high": 49,
+    "medium": 1
+  },
+  "unmatched": [
+    "강동경희대학교병원"
+  ],
+  "rows": [
+    {
+      "hospital_id": "A1100011",
+      "name": "가톨릭대학교여의도성모병원",
+      "hira": "가톨릭대학교 여의도성모병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 228,
+      "specialist_doctors": 137,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 35,
+        "neurology": 3,
+        "general_surgery": 10,
+        "orthopedics": 7,
+        "neurosurgery": 3,
+        "emergency_medicine": 11
+      }
+    },
+    {
+      "hospital_id": "A1121013",
+      "name": "가톨릭대학교은평성모병원",
+      "hira": "가톨릭대학교 은평성모병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 299,
+      "specialist_doctors": 224,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 54,
+        "neurology": 7,
+        "general_surgery": 19,
+        "orthopedics": 10,
+        "neurosurgery": 9,
+        "emergency_medicine": 15
+      }
+    },
+    {
+      "hospital_id": "A1100043",
+      "name": "강동경희대학교병원",
+      "confidence": "none",
+      "distanceKm": 0.11313624500432747,
+      "nameSim": 0
+    },
+    {
+      "hospital_id": "A1100006",
+      "name": "강북삼성병원",
+      "hira": "강북삼성병원",
+      "confidence": "high",
+      "distanceKm": 0.02,
+      "nameSim": 1,
+      "total_doctors": 408,
+      "specialist_doctors": 257,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 62,
+        "neurology": 8,
+        "general_surgery": 18,
+        "orthopedics": 7,
+        "neurosurgery": 8,
+        "emergency_medicine": 8
+      }
+    },
+    {
+      "hospital_id": "A1100002",
+      "name": "건국대학교병원",
+      "hira": "건국대학교병원",
+      "confidence": "high",
+      "distanceKm": 0.06,
+      "nameSim": 1,
+      "total_doctors": 402,
+      "specialist_doctors": 246,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 64,
+        "neurology": 11,
+        "general_surgery": 17,
+        "orthopedics": 11,
+        "neurosurgery": 6,
+        "emergency_medicine": 7
+      }
+    },
+    {
+      "hospital_id": "A1100039",
+      "name": "경찰병원",
+      "hira": "경찰병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 101,
+      "specialist_doctors": 61,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 11,
+        "neurology": 2,
+        "general_surgery": 5,
+        "orthopedics": 8,
+        "neurosurgery": 3,
+        "emergency_medicine": 0
+      }
+    },
+    {
+      "hospital_id": "A1100001",
+      "name": "경희대학교병원",
+      "hira": "경희대학교병원",
+      "confidence": "high",
+      "distanceKm": 0.03,
+      "nameSim": 1,
+      "total_doctors": 426,
+      "specialist_doctors": 238,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 66,
+        "neurology": 11,
+        "general_surgery": 16,
+        "orthopedics": 12,
+        "neurosurgery": 7,
+        "emergency_medicine": 11
+      }
+    },
+    {
+      "hospital_id": "A1100014",
+      "name": "고려대학교의과대학부속구로병원",
+      "hira": "고려대학교의과대학부속구로병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 521,
+      "specialist_doctors": 314,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 75,
+        "neurology": 12,
+        "general_surgery": 30,
+        "orthopedics": 16,
+        "neurosurgery": 12,
+        "emergency_medicine": 10
+      }
+    },
+    {
+      "hospital_id": "A1100026",
+      "name": "구로성심병원",
+      "hira": "구로성심병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 36,
+      "specialist_doctors": 35,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 6,
+        "neurology": 1,
+        "general_surgery": 5,
+        "orthopedics": 3,
+        "neurosurgery": 1,
+        "emergency_medicine": 6
+      }
+    },
+    {
+      "hospital_id": "A1100052",
+      "name": "국립중앙의료원",
+      "hira": "국립중앙의료원",
+      "confidence": "high",
+      "distanceKm": 0.02,
+      "nameSim": 1,
+      "total_doctors": 230,
+      "specialist_doctors": 131,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 27,
+        "neurology": 8,
+        "general_surgery": 12,
+        "orthopedics": 7,
+        "neurosurgery": 4,
+        "emergency_medicine": 17
+      }
+    },
+    {
+      "hospital_id": "A1122033",
+      "name": "기쁨병원",
+      "hira": "기쁨병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 47,
+      "specialist_doctors": 45,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 9,
+        "neurology": 1,
+        "general_surgery": 14,
+        "orthopedics": 0,
+        "emergency_medicine": 0
+      }
+    },
+    {
+      "hospital_id": "A1100048",
+      "name": "노원을지대학교병원",
+      "hira": "노원을지대학교병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 209,
+      "specialist_doctors": 131,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 27,
+        "neurology": 7,
+        "general_surgery": 6,
+        "orthopedics": 6,
+        "neurosurgery": 5,
+        "emergency_medicine": 7
+      }
+    },
+    {
+      "hospital_id": "A1100044",
+      "name": "녹색병원",
+      "hira": "녹색병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 37,
+      "specialist_doctors": 34,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 6,
+        "neurology": 1,
+        "general_surgery": 2,
+        "orthopedics": 2,
+        "neurosurgery": 1,
+        "emergency_medicine": 6
+      }
+    },
+    {
+      "hospital_id": "A1100037",
+      "name": "대림성모병원",
+      "hira": "대림성모병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 53,
+      "specialist_doctors": 52,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 10,
+        "neurology": 2,
+        "general_surgery": 9,
+        "orthopedics": 2,
+        "neurosurgery": 0,
+        "emergency_medicine": 5
+      }
+    },
+    {
+      "hospital_id": "A1100024",
+      "name": "명지성모병원",
+      "hira": "명지성모병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 35,
+      "specialist_doctors": 35,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 6,
+        "neurology": 4,
+        "general_surgery": 1,
+        "orthopedics": 1,
+        "neurosurgery": 6,
+        "emergency_medicine": 5
+      }
+    },
+    {
+      "hospital_id": "A1100036",
+      "name": "부민병원",
+      "hira": "부민병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 54,
+      "specialist_doctors": 49,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 8,
+        "neurology": 1,
+        "general_surgery": 3,
+        "orthopedics": 18,
+        "neurosurgery": 4,
+        "emergency_medicine": 1
+      }
+    },
+    {
+      "hospital_id": "A1100010",
+      "name": "삼성서울병원",
+      "hira": "삼성서울병원",
+      "confidence": "high",
+      "distanceKm": 0.14,
+      "nameSim": 1,
+      "total_doctors": 1350,
+      "specialist_doctors": 832,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 214,
+        "neurology": 31,
+        "general_surgery": 90,
+        "orthopedics": 24,
+        "neurosurgery": 21,
+        "emergency_medicine": 18
+      }
+    },
+    {
+      "hospital_id": "A1100021",
+      "name": "삼육서울병원",
+      "hira": "삼육서울병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 113,
+      "specialist_doctors": 92,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 29,
+        "neurology": 3,
+        "general_surgery": 5,
+        "orthopedics": 5,
+        "neurosurgery": 3,
+        "emergency_medicine": 7
+      }
+    },
+    {
+      "hospital_id": "A1100017",
+      "name": "서울대학교병원",
+      "hira": "서울대학교치과병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 0.9,
+      "total_doctors": 230,
+      "specialist_doctors": 7,
+      "departments": [
+        "internal_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 6
+      }
+    },
+    {
+      "hospital_id": "A1100050",
+      "name": "서울성심병원",
+      "hira": "서울성심병원",
+      "confidence": "high",
+      "distanceKm": 0.02,
+      "nameSim": 1,
+      "total_doctors": 39,
+      "specialist_doctors": 30,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 4,
+        "neurology": 1,
+        "general_surgery": 4,
+        "orthopedics": 9
+      }
+    },
+    {
+      "hospital_id": "A1100029",
+      "name": "서울적십자병원",
+      "hira": "서울적십자병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 43,
+      "specialist_doctors": 36,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 11,
+        "neurology": 1,
+        "general_surgery": 3,
+        "orthopedics": 5,
+        "emergency_medicine": 1
+      }
+    },
+    {
+      "hospital_id": "A1100022",
+      "name": "서울특별시동부병원",
+      "hira": "서울특별시 동부병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 30,
+      "specialist_doctors": 27,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 5,
+        "neurology": 2,
+        "general_surgery": 1,
+        "orthopedics": 2,
+        "emergency_medicine": 2
+      }
+    },
+    {
+      "hospital_id": "A1100040",
+      "name": "서울특별시보라매병원",
+      "hira": "서울특별시보라매병원",
+      "confidence": "high",
+      "distanceKm": 0.03,
+      "nameSim": 1,
+      "total_doctors": 275,
+      "specialist_doctors": 251,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 65,
+        "neurology": 9,
+        "general_surgery": 16,
+        "orthopedics": 19,
+        "neurosurgery": 6,
+        "emergency_medicine": 10
+      }
+    },
+    {
+      "hospital_id": "A1100223",
+      "name": "서울특별시서남병원",
+      "hira": "서울특별시서남병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 51,
+      "specialist_doctors": 50,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 13,
+        "neurology": 2,
+        "general_surgery": 3,
+        "orthopedics": 6,
+        "emergency_medicine": 8
+      }
+    },
+    {
+      "hospital_id": "A1100035",
+      "name": "서울특별시서울의료원",
+      "hira": "서울특별시서울의료원",
+      "confidence": "high",
+      "distanceKm": 0.05,
+      "nameSim": 1,
+      "total_doctors": 222,
+      "specialist_doctors": 147,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 39,
+        "neurology": 7,
+        "general_surgery": 12,
+        "orthopedics": 7,
+        "neurosurgery": 6,
+        "emergency_medicine": 15
+      }
+    },
+    {
+      "hospital_id": "A1100028",
+      "name": "성심의료재단강동성심병원",
+      "hira": "성심의료재단강동성심병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 250,
+      "specialist_doctors": 155,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 51,
+        "neurology": 6,
+        "general_surgery": 9,
+        "orthopedics": 6,
+        "neurosurgery": 6,
+        "emergency_medicine": 10
+      }
+    },
+    {
+      "hospital_id": "A1100054",
+      "name": "성애의료재단성애병원",
+      "hira": "성애의료재단 성애병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 57,
+      "specialist_doctors": 56,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 15,
+        "neurology": 2,
+        "general_surgery": 2,
+        "orthopedics": 5,
+        "neurosurgery": 1,
+        "emergency_medicine": 7
+      }
+    },
+    {
+      "hospital_id": "A1100032",
+      "name": "세란병원",
+      "hira": "세란병원",
+      "confidence": "high",
+      "distanceKm": 0.03,
+      "nameSim": 1,
+      "total_doctors": 52,
+      "specialist_doctors": 51,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 5,
+        "neurology": 5,
+        "general_surgery": 6,
+        "orthopedics": 9,
+        "neurosurgery": 5,
+        "emergency_medicine": 4
+      }
+    },
+    {
+      "hospital_id": "A1100004",
+      "name": "순천향대학교부속서울병원",
+      "hira": "순천향대학교 부속 서울병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 383,
+      "specialist_doctors": 223,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 59,
+        "neurology": 8,
+        "general_surgery": 11,
+        "orthopedics": 14,
+        "neurosurgery": 6,
+        "emergency_medicine": 14
+      }
+    },
+    {
+      "hospital_id": "A1100045",
+      "name": "씨엠병원",
+      "hira": "씨엠병원",
+      "confidence": "high",
+      "distanceKm": 0.04,
+      "nameSim": 1,
+      "total_doctors": 27,
+      "specialist_doctors": 27,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 5,
+        "neurology": 1,
+        "general_surgery": 2,
+        "orthopedics": 11,
+        "neurosurgery": 1
+      }
+    },
+    {
+      "hospital_id": "A1100015",
+      "name": "연세대학교의과대학강남세브란스병원",
+      "hira": "연세대학교의과대학 강남세브란스병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 519,
+      "specialist_doctors": 323,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 66,
+        "neurology": 14,
+        "general_surgery": 28,
+        "orthopedics": 12,
+        "neurosurgery": 16,
+        "emergency_medicine": 11
+      }
+    },
+    {
+      "hospital_id": "A1100007",
+      "name": "연세대학교의과대학세브란스병원",
+      "hira": "연세대학교의과대학세브란스병원",
+      "confidence": "high",
+      "distanceKm": 0.03,
+      "nameSim": 1,
+      "total_doctors": 1356,
+      "specialist_doctors": 861,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 224,
+        "neurology": 22,
+        "general_surgery": 76,
+        "orthopedics": 27,
+        "neurosurgery": 37,
+        "emergency_medicine": 20
+      }
+    },
+    {
+      "hospital_id": "A1100025",
+      "name": "의료법인동신의료재단동신병원",
+      "hira": "의료법인동신의료재단 동신병원",
+      "confidence": "high",
+      "distanceKm": 0.03,
+      "nameSim": 1,
+      "total_doctors": 20,
+      "specialist_doctors": 18,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 4,
+        "neurology": 1,
+        "general_surgery": 2,
+        "orthopedics": 3,
+        "neurosurgery": 1,
+        "emergency_medicine": 1
+      }
+    },
+    {
+      "hospital_id": "A1100041",
+      "name": "의료법인서울효천의료재단에이치플러스양지병원",
+      "hira": "의료법인서울효천의료재단 에이치플러스양지병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 98,
+      "specialist_doctors": 86,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 23,
+        "neurology": 5,
+        "general_surgery": 11,
+        "orthopedics": 4,
+        "neurosurgery": 3,
+        "emergency_medicine": 11
+      }
+    },
+    {
+      "hospital_id": "A1100023",
+      "name": "의료법인청구성심병원",
+      "hira": "의료법인 청구성심병원",
+      "confidence": "high",
+      "distanceKm": 0.02,
+      "nameSim": 1,
+      "total_doctors": 25,
+      "specialist_doctors": 24,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 7,
+        "neurology": 1,
+        "general_surgery": 2,
+        "orthopedics": 3,
+        "emergency_medicine": 4
+      }
+    },
+    {
+      "hospital_id": "A1100075",
+      "name": "의료법인풍산의료재단동부제일병원",
+      "hira": "의료법인풍산의료재단동부제일병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 24,
+      "specialist_doctors": 23,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 6,
+        "neurology": 1,
+        "general_surgery": 3,
+        "orthopedics": 5,
+        "neurosurgery": 1
+      }
+    },
+    {
+      "hospital_id": "A1100020",
+      "name": "의료법인한전의료재단한일병원",
+      "hira": "의료법인한전의료재단 한일병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 112,
+      "specialist_doctors": 94,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 22,
+        "neurology": 5,
+        "general_surgery": 6,
+        "orthopedics": 6,
+        "neurosurgery": 3,
+        "emergency_medicine": 12
+      }
+    },
+    {
+      "hospital_id": "A1100005",
+      "name": "이화여자대학교의과대학부속목동병원",
+      "hira": "이화여자대학교의과대학부속목동병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 427,
+      "specialist_doctors": 229,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 50,
+        "neurology": 11,
+        "general_surgery": 24,
+        "orthopedics": 8,
+        "neurosurgery": 5,
+        "emergency_medicine": 17
+      }
+    },
+    {
+      "hospital_id": "A1120796",
+      "name": "이화여자대학교의과대학부속서울병원",
+      "hira": "이화여자대학교의과대학부속서울병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 289,
+      "specialist_doctors": 270,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 64,
+        "neurology": 13,
+        "general_surgery": 19,
+        "orthopedics": 9,
+        "neurosurgery": 9,
+        "emergency_medicine": 18
+      }
+    },
+    {
+      "hospital_id": "A1100016",
+      "name": "인제대학교상계백병원",
+      "hira": "인제대학교 상계백병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 242,
+      "specialist_doctors": 148,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 30,
+        "neurology": 7,
+        "general_surgery": 13,
+        "orthopedics": 13,
+        "neurosurgery": 5,
+        "emergency_medicine": 10
+      }
+    },
+    {
+      "hospital_id": "A1100009",
+      "name": "재단법인아산사회복지재단서울아산병원",
+      "hira": "재단법인아산사회복지재단 서울아산병원",
+      "confidence": "high",
+      "distanceKm": 0.03,
+      "nameSim": 1,
+      "total_doctors": 1570,
+      "specialist_doctors": 1073,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 280,
+        "neurology": 40,
+        "general_surgery": 136,
+        "orthopedics": 34,
+        "neurosurgery": 32,
+        "emergency_medicine": 19
+      }
+    },
+    {
+      "hospital_id": "A1100003",
+      "name": "중앙대학교병원",
+      "hira": "중앙대학교병원",
+      "confidence": "high",
+      "distanceKm": 0.04,
+      "nameSim": 1,
+      "total_doctors": 409,
+      "specialist_doctors": 240,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 67,
+        "neurology": 8,
+        "general_surgery": 12,
+        "orthopedics": 11,
+        "neurosurgery": 8,
+        "emergency_medicine": 17
+      }
+    },
+    {
+      "hospital_id": "A1100012",
+      "name": "학교법인가톨릭학원가톨릭대학교서울성모병원",
+      "hira": "학교법인가톨릭학원가톨릭대학교서울성모병원",
+      "confidence": "high",
+      "distanceKm": 0.1,
+      "nameSim": 1,
+      "total_doctors": 850,
+      "specialist_doctors": 561,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 144,
+        "neurology": 12,
+        "general_surgery": 46,
+        "orthopedics": 18,
+        "neurosurgery": 15,
+        "emergency_medicine": 11
+      }
+    },
+    {
+      "hospital_id": "A1100008",
+      "name": "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)",
+      "hira": "학교법인 고려중앙학원 고려대학교의과대학부속병원(안암병원)",
+      "confidence": "high",
+      "distanceKm": 0.02,
+      "nameSim": 1,
+      "total_doctors": 563,
+      "specialist_doctors": 352,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 90,
+        "neurology": 13,
+        "general_surgery": 29,
+        "orthopedics": 15,
+        "neurosurgery": 14,
+        "emergency_medicine": 11
+      }
+    },
+    {
+      "hospital_id": "A1100053",
+      "name": "한국보훈복지의료공단중앙보훈병원",
+      "hira": "한국보훈복지의료공단 중앙보훈병원",
+      "confidence": "medium",
+      "distanceKm": 0.26,
+      "nameSim": 1,
+      "total_doctors": 303,
+      "specialist_doctors": 144,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 45,
+        "neurology": 6,
+        "general_surgery": 7,
+        "orthopedics": 8,
+        "neurosurgery": 5,
+        "emergency_medicine": 10
+      }
+    },
+    {
+      "hospital_id": "A1100027",
+      "name": "한국원자력의학원원자력병원",
+      "hira": "한국원자력의학원원자력병원",
+      "confidence": "high",
+      "distanceKm": 0.02,
+      "nameSim": 1,
+      "total_doctors": 148,
+      "specialist_doctors": 111,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 22,
+        "neurology": 4,
+        "general_surgery": 18,
+        "orthopedics": 4,
+        "neurosurgery": 3,
+        "emergency_medicine": 0
+      }
+    },
+    {
+      "hospital_id": "A1100055",
+      "name": "한림대학교강남성심병원",
+      "hira": "한림대학교 강남성심병원",
+      "confidence": "high",
+      "distanceKm": 0.05,
+      "nameSim": 1,
+      "total_doctors": 256,
+      "specialist_doctors": 148,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 39,
+        "neurology": 4,
+        "general_surgery": 9,
+        "orthopedics": 9,
+        "neurosurgery": 4,
+        "emergency_medicine": 6
+      }
+    },
+    {
+      "hospital_id": "A1100013",
+      "name": "한양대학교병원",
+      "hira": "한양대학교병원",
+      "confidence": "high",
+      "distanceKm": 0.07,
+      "nameSim": 1,
+      "total_doctors": 408,
+      "specialist_doctors": 227,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 59,
+        "neurology": 18,
+        "general_surgery": 13,
+        "orthopedics": 10,
+        "neurosurgery": 7,
+        "emergency_medicine": 12
+      }
+    },
+    {
+      "hospital_id": "A1100051",
+      "name": "혜민병원",
+      "hira": "혜민병원",
+      "confidence": "high",
+      "distanceKm": 0.01,
+      "nameSim": 1,
+      "total_doctors": 39,
+      "specialist_doctors": 39,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 15,
+        "neurology": 2,
+        "general_surgery": 2,
+        "orthopedics": 4,
+        "neurosurgery": 2,
+        "emergency_medicine": 5
+      }
+    },
+    {
+      "hospital_id": "A1100019",
+      "name": "홍익병원",
+      "hira": "홍익병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 52,
+      "specialist_doctors": 48,
+      "departments": [
+        "internal_medicine",
+        "neurology",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 12,
+        "neurology": 2,
+        "general_surgery": 3,
+        "orthopedics": 5,
+        "neurosurgery": 3,
+        "emergency_medicine": 7
+      }
+    },
+    {
+      "hospital_id": "A1100049",
+      "name": "희명병원",
+      "hira": "희명병원",
+      "confidence": "high",
+      "distanceKm": 0,
+      "nameSim": 1,
+      "total_doctors": 24,
+      "specialist_doctors": 23,
+      "departments": [
+        "internal_medicine",
+        "general_surgery",
+        "orthopedics",
+        "neurosurgery",
+        "emergency_medicine"
+      ],
+      "specialistCounts": {
+        "internal_medicine": 4,
+        "general_surgery": 3,
+        "orthopedics": 2,
+        "neurosurgery": 2,
+        "emergency_medicine": 5
+      }
+    }
+  ]
+}

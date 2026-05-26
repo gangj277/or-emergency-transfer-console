@@ -1,0 +1,166 @@
+{
+  "caseCount": 100,
+  "generatedAt": "2026-05-26T11:42:46.573Z",
+  "distributions": {
+    "categoryCounts": {
+      "cardiac_arrest_rosc": 17,
+      "stroke_neuro_consciousness": 31,
+      "major_trauma_head_injury": 4,
+      "respiratory_failure_airway": 24,
+      "seizure_neurologic": 8,
+      "major_bleeding_gi": 7,
+      "chest_pain_cardiac": 8,
+      "critical_medical_unspecified": 1
+    },
+    "districtCounts": {
+      "종로구": 4,
+      "중구": 4,
+      "용산구": 4,
+      "성동구": 4,
+      "동대문구": 4,
+      "성북구": 4,
+      "강북구": 4,
+      "광진구": 4,
+      "중랑구": 4,
+      "노원구": 4,
+      "은평구": 4,
+      "도봉구": 4,
+      "서대문구": 4,
+      "마포구": 4,
+      "양천구": 4,
+      "강서구": 4,
+      "구로구": 4,
+      "금천구": 4,
+      "영등포구": 4,
+      "동작구": 4,
+      "관악구": 4,
+      "서초구": 4,
+      "강남구": 4,
+      "송파구": 4,
+      "강동구": 4
+    },
+    "zoneCounts": {
+      "central": 12,
+      "east": 20,
+      "north": 12,
+      "outer": 20,
+      "west": 20,
+      "south": 16
+    }
+  },
+  "pipeline": {
+    "succeeded": 100,
+    "failed": 0,
+    "validationFailureCases": 0,
+    "validationWarningCases": 0,
+    "medianLatencyMs": 4724
+  },
+  "stage1": {
+    "medianClinicalFactCount": 7,
+    "medianMissingInfoCount": 7,
+    "lowFactCountCases": []
+  },
+  "stage2": {
+    "incidentTypeCounts": {
+      "cardiac_arrest": 10,
+      "traffic_trauma": 6,
+      "fall_head_injury": 11,
+      "stroke": 14,
+      "cardiac": 16,
+      "respiratory_failure": 20,
+      "gi_bleeding": 5,
+      "seizure": 11,
+      "other_trauma": 7
+    },
+    "maxTransportTimeCounts": {
+      "10": 4,
+      "15": 23,
+      "20": 43,
+      "30": 30
+    },
+    "severityCounts": {
+      "3": 1,
+      "4": 59,
+      "5": 40
+    }
+  },
+  "ranking": {
+    "succeeded": 100,
+    "skippedOrFailed": 0,
+    "noFeasibleCount": 0,
+    "noHardFeasibleCount": 0,
+    "noFeasibleCaseIds": [],
+    "noWithinTimeFeasibleCount": 16,
+    "noWithinTimeFeasibleCaseIds": [
+      "GOLD-002",
+      "GOLD-003",
+      "GOLD-016",
+      "GOLD-018",
+      "GOLD-019",
+      "GOLD-024",
+      "GOLD-028",
+      "GOLD-029",
+      "GOLD-032",
+      "GOLD-033",
+      "GOLD-047",
+      "GOLD-066",
+      "GOLD-067",
+      "GOLD-075",
+      "GOLD-076",
+      "GOLD-078"
+    ],
+    "changedVsNearestCount": 29,
+    "softTimeExceededTop1Count": 16,
+    "softTimeExceededTop1CaseIds": [
+      "GOLD-002",
+      "GOLD-003",
+      "GOLD-016",
+      "GOLD-018",
+      "GOLD-019",
+      "GOLD-024",
+      "GOLD-028",
+      "GOLD-029",
+      "GOLD-032",
+      "GOLD-033",
+      "GOLD-047",
+      "GOLD-066",
+      "GOLD-067",
+      "GOLD-075",
+      "GOLD-076",
+      "GOLD-078"
+    ],
+    "medianSoftTimeExceededCandidateCount": 17,
+    "medianTop1TimeSoftPenalty": 0,
+    "top1BedTierCounts": {
+      "low_risk_6_10": 43,
+      "stable_buffer_gt_10": 37,
+      "medium_risk_3_5": 20
+    },
+    "lowSlackUnder5MinCount": 11,
+    "softFlagCounts": {
+      "max_transport_time_soft_exceeded": 16
+    },
+    "hardConstraintViolationCounts": {},
+    "top1HospitalCounts": {
+      "강북삼성병원": 7,
+      "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)": 5,
+      "한양대학교병원": 16,
+      "국립중앙의료원": 2,
+      "의료법인한전의료재단한일병원": 6,
+      "건국대학교병원": 4,
+      "서울특별시서울의료원": 7,
+      "이화여자대학교의과대학부속목동병원": 11,
+      "가톨릭대학교은평성모병원": 2,
+      "고려대학교의과대학부속구로병원": 8,
+      "한림대학교강남성심병원": 5,
+      "성애의료재단성애병원": 5,
+      "인제대학교상계백병원": 3,
+      "가톨릭대학교여의도성모병원": 2,
+      "의료법인서울효천의료재단에이치플러스양지병원": 4,
+      "순천향대학교부속서울병원": 5,
+      "한국보훈복지의료공단중앙보훈병원": 5,
+      "성심의료재단강동성심병원": 2,
+      "강동경희대학교병원": 1
+    }
+  }
+}

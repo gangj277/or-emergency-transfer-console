@@ -1,0 +1,386 @@
+{
+    "_id": "651e49d83f1c5e4f25eecb23",
+    "audioPath": "20230925/Seoul/2022/20220205/converted_[20220205]-[WP1139445518].wav",
+    "recordId": "e730486186f1ff8e07fd",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 123360,
+    "utterances": [
+        {
+            "id": "0777228e",
+            "startAt": 534,
+            "endAt": 1945,
+            "text": "119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "a6551037",
+            "startAt": 2111,
+            "endAt": 4562,
+            "text": "네, 여기 저 오금동이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "f7a4b8eb",
+            "startAt": 4560,
+            "endAt": 6296,
+            "text": "네, 오금동 몇 번지예요, 선생님?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2d9qo6o1jqg",
+            "startAt": 5436,
+            "endAt": 5872,
+            "text": "에.",
+            "speaker": 1
+        },
+        {
+            "id": "f927bb0e",
+            "startAt": 6547,
+            "endAt": 7710,
+            "text": "잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "78972a5d",
+            "startAt": 7692,
+            "endAt": 8225,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "11036c8f",
+            "startAt": 10367,
+            "endAt": 12646,
+            "text": "어, 오금로 36길에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2h54e9a3lao",
+            "startAt": 12650,
+            "endAt": 13468,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "59a5960d",
+            "startAt": 13697,
+            "endAt": 14640,
+            "text": "36길에",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rnopfdegvo",
+            "startAt": 14661,
+            "endAt": 15542,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bqr2q5lh818",
+            "startAt": 15754,
+            "endAt": 17536,
+            "text": "오금로 36길에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_rhtdl27fc9g",
+            "startAt": 17007,
+            "endAt": 17516,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4bitvbl2svg",
+            "startAt": 17528,
+            "endAt": 20246,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8oei3p1k7go",
+            "startAt": 20390,
+            "endAt": 21227,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "6987de05",
+            "startAt": 20989,
+            "endAt": 21809,
+            "text": "네, 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "6fddc5f2",
+            "startAt": 22260,
+            "endAt": 27991,
+            "text": "예, 어머니가 연세가 89세신데요. 작년에 5월에 심근경색 수, 시술을 받으셨고요.",
+            "speaker": 1
+        },
+        {
+            "id": "437092b6",
+            "startAt": 28097,
+            "endAt": 28694,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "9136e927",
+            "startAt": 29112,
+            "endAt": 34969,
+            "text": "예, 지금 혈압이 200에 100정도, 그 다음 맥박이 50정도 나오시는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "e2fc020a",
+            "startAt": 35407,
+            "endAt": 36517,
+            "text": "의식은 어때요?",
+            "speaker": 0
+        },
+        {
+            "id": "455ecc3d",
+            "startAt": 36815,
+            "endAt": 43677,
+            "text": "의식은 약간 좀 멍, 멍한 정도는 아니고, 그 전 단계 정도 되는데. 말까지 하고 의식은 있으세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6tp37jorg1g",
+            "startAt": 41186,
+            "endAt": 41529,
+            "text": "의",
+            "speaker": 0
+        },
+        {
+            "id": "ad23702f",
+            "startAt": 43719,
+            "endAt": 46208,
+            "text": "의식은 있어요? 어제하고 비교해서 의식은 비슷해요?",
+            "speaker": 0
+        },
+        {
+            "id": "90e3f89d",
+            "startAt": 46502,
+            "endAt": 53445,
+            "text": "아니, 어제보다는 많이 어눌해지신 거죠. 그니까 본인도 좀 미식미식하고 멀미는, 멀미기가 나는 느낌이라고 하시고.",
+            "speaker": 1
+        },
+        {
+            "id": "f9d82466",
+            "startAt": 52904,
+            "endAt": 57051,
+            "text": "어제 의식이 쳐지고, 호흡은, 호흡은 있고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_no0pv8b58m",
+            "startAt": 54807,
+            "endAt": 55578,
+            "text": "예 예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7k9dd67rv08",
+            "startAt": 57107,
+            "endAt": 58249,
+            "text": "호흡은 있으시고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aegtpcs2f6o",
+            "startAt": 57863,
+            "endAt": 60598,
+            "text": "에, 최근에 기침 가래나 코로나가 특별한 거 없으시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "08d2c069",
+            "startAt": 60542,
+            "endAt": 63065,
+            "text": "예, 그런 건 없으시고. 이, 계속 졸리신대요.",
+            "speaker": 1
+        },
+        {
+            "id": "772a918a",
+            "startAt": 63237,
+            "endAt": 68505,
+            "text": "아, 졸림 증상 있고요? 어머님이 가장 히, 아 힘든데가 뭐예요, 지금? 출동했으니까, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_82hm6mg6llg",
+            "startAt": 64943,
+            "endAt": 65365,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "7b79821b",
+            "startAt": 67448,
+            "endAt": 76587,
+            "text": "힘, 예, 가장 힘들, 힘들어하는 거는 지금 좀 뭐라 그래야 될까. 응. 쳐지는 거죠, 계속 몸이 쳐지면서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dt9ba8v0dko",
+            "startAt": 75968,
+            "endAt": 77768,
+            "text": "기력이, 기력이 없어지는 거?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vmt5394n41o",
+            "startAt": 77886,
+            "endAt": 78814,
+            "text": "예, 예, 아 저.",
+            "speaker": 1
+        },
+        {
+            "id": "eea9fd7b",
+            "startAt": 78441,
+            "endAt": 79185,
+            "text": "아.",
+            "speaker": 0
+        },
+        {
+            "id": "536a9ec1",
+            "startAt": 79172,
+            "endAt": 87432,
+            "text": "예전에 저 심, 저, 심근경색 때문에 병원에 실려 가실 때보다는 심한 정도는 아닌데, 일단 증세가 그렇게 나타나는 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "8f1c92ce",
+            "startAt": 85805,
+            "endAt": 89836,
+            "text": "지금 가슴이 아프거나 식은땀이 흘리거나 그러진 않아요?",
+            "speaker": 0
+        },
+        {
+            "id": "86ca6902",
+            "startAt": 90045,
+            "endAt": 91762,
+            "text": "그런거 아니고 몸이 좀 차요.",
+            "speaker": 1
+        },
+        {
+            "id": "74bc0306",
+            "startAt": 91868,
+            "endAt": 96279,
+            "text": "차요, 몸이 좀 차고. 알겠습니다. 저 거기가 무슨, 무슨 벼, 병원이에요, 센, 요양원이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "7c63e4e8",
+            "startAt": 96450,
+            "endAt": 97362,
+            "text": "요양원",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mir34j5t7s",
+            "startAt": 97372,
+            "endAt": 97943,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_eu41sv88m9o",
+            "startAt": 97949,
+            "endAt": 101284,
+            "text": "그냥 일반, 저기 원룸, 원룸입니다, 원룸.",
+            "speaker": 1
+        },
+        {
+            "id": "887811c2",
+            "startAt": 98956,
+            "endAt": 101919,
+            "text": "아, 요양원에 계신 건 아니고 그냥 집에 계신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "4310e060",
+            "startAt": 102243,
+            "endAt": 102776,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "fef91f73",
+            "startAt": 102823,
+            "endAt": 104468,
+            "text": "예, 알겠습니다. 지금 보낼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "27bec3d0",
+            "startAt": 103868,
+            "endAt": 106485,
+            "text": "지금 1층으로, 1층으로 내려가 있을까요, 어떻게 할까요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pg9m87iqad8",
+            "startAt": 105073,
+            "endAt": 105658,
+            "text": "아니요.",
+            "speaker": 0
+        },
+        {
+            "id": "084fcee6",
+            "startAt": 106451,
+            "endAt": 111761,
+            "text": "아니요, 집에 계시고요. 대원들 전화하면 움직이세요, 일단은. 어머니 혈압도 높고 하셔가지고요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_to5cfjrhuu",
+            "startAt": 108986,
+            "endAt": 110607,
+            "text": "아, 예. 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_omglpv3kur",
+            "startAt": 111904,
+            "endAt": 116796,
+            "text": "일단은 저희 대원들 가고 있으니까, 대원들 가기 전에 의식 쳐지거나 호흡이 좀 이상하면 다시 전화 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oeli3k01bo8",
+            "startAt": 117032,
+            "endAt": 118375,
+            "text": "예, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_otjnvlcd3p8",
+            "startAt": 117879,
+            "endAt": 119214,
+            "text": "예, 조금만 기다려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "171d1d75",
+            "startAt": 118569,
+            "endAt": 119725,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 송파구 가락동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "전신쇠약",
+        "오심"
+    ],
+    "triage": "잠재응급증상"
+}

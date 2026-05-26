@@ -1,0 +1,212 @@
+{
+    "_id": "651e4a3786dc055ca8bf47b9",
+    "audioPath": "20230925/Seoul/2022/20220307/converted_[20220307]-[WQ1139623634].wav",
+    "recordId": "29cf324d3be5bf8e217c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 69480,
+    "utterances": [
+        {
+            "id": "f4413f9f",
+            "startAt": 2372,
+            "endAt": 3092,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "957ba08f",
+            "startAt": 3152,
+            "endAt": 4840,
+            "text": "네, 119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "a0ed359c",
+            "startAt": 5212,
+            "endAt": 8292,
+            "text": "예, 선생님, 여기는 송내동에 있는 한마음 의원이구요.",
+            "speaker": 1
+        },
+        {
+            "id": "dbe0fe73",
+            "startAt": 8602,
+            "endAt": 10312,
+            "text": "한마음 의 의원이요?",
+            "speaker": 0
+        },
+        {
+            "id": "8d518748",
+            "startAt": 10712,
+            "endAt": 11820,
+            "text": "네, 네, 송내동.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_39j9rlr8dg",
+            "startAt": 11792,
+            "endAt": 13428,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "9c82e5e6",
+            "startAt": 13772,
+            "endAt": 15352,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "b4ab9186",
+            "startAt": 15862,
+            "endAt": 16492,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "a07dd705",
+            "startAt": 16522,
+            "endAt": 17052,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "bd860581",
+            "startAt": 17862,
+            "endAt": 25622,
+            "text": "저희 그 혈액암 환자분이신데요. 지금 몸이 약간 뒤틀리시면서 숨이 차다고 하시면서 가슴 통증을 호소하세요, 근데 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "2d70d528",
+            "startAt": 26262,
+            "endAt": 26442,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "5d05d0cb",
+            "startAt": 26772,
+            "endAt": 32866,
+            "text": "혈압이 원래 두 자리 대 나오시던 분인데, 지금 140에 75, 77, 36도 9 체크되시고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ofj64d7keu8",
+            "startAt": 32956,
+            "endAt": 37156,
+            "text": "세추레이션 99% 세요. 근데 지금 가슴 통증 많이 호소하시고 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oftahkqv9j8",
+            "startAt": 37471,
+            "endAt": 39934,
+            "text": "지금 산소 달고 계시거든요. 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n0ciqs0bpt8",
+            "startAt": 41192,
+            "endAt": 42228,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "8b849b92",
+            "startAt": 41266,
+            "endAt": 44295,
+            "text": "호흡곤란하고 흉통 있으시다는 말씀이시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "49ce6289",
+            "startAt": 43371,
+            "endAt": 48185,
+            "text": "네네네 그 몸이 자꾸만 뒤틀리세요, 맥박이 혈압이 올라가시면서.",
+            "speaker": 1
+        },
+        {
+            "id": "50375ef8",
+            "startAt": 48175,
+            "endAt": 49385,
+            "text": "의식은 있으신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "e829927f",
+            "startAt": 49705,
+            "endAt": 53990,
+            "text": "네, 네, 있으세요. 이렇게 이렇게 저 기록 있으셔서.",
+            "speaker": 1
+        },
+        {
+            "id": "701074a6",
+            "startAt": 52944,
+            "endAt": 54736,
+            "text": "몇 층이에요? 병원에 선생님",
+            "speaker": 0
+        },
+        {
+            "id": "350d5faa",
+            "startAt": 54795,
+            "endAt": 55744,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3shg1v2bueg",
+            "startAt": 55735,
+            "endAt": 56662,
+            "text": "엘리베이터 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3eh9lq4kb4g",
+            "startAt": 56935,
+            "endAt": 57980,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "727a0974",
+            "startAt": 58123,
+            "endAt": 64577,
+            "text": "저희 어쨌든 의원을 거기서 입원해 계시는 분이시잖아요? 네, 의료진 동승해주셔야 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fnf2s322n4o",
+            "startAt": 61727,
+            "endAt": 62517,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "8dc2ead1",
+            "startAt": 64981,
+            "endAt": 66464,
+            "text": "네, 네, 네, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "68ddb216",
+            "startAt": 66522,
+            "endAt": 67374,
+            "text": "네,",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 강동구 성내동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "중립",
+    "symptom": [
+        "흉통",
+        "호흡곤란",
+        "전신쇠약"
+    ],
+    "triage": "준응급증상"
+}

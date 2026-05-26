@@ -1,0 +1,336 @@
+{
+    "_id": "651e4e712e98ee7120968fd0",
+    "audioPath": "20230925/Seoul/2022/20220704/converted_[20220704]-[WU1140309647].wav",
+    "recordId": "1a0d80fd19900c31a650",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 97320,
+    "utterances": [
+        {
+            "id": "04049e36",
+            "startAt": 686,
+            "endAt": 1626,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "92e883dc",
+            "startAt": 2006,
+            "endAt": 4486,
+            "text": "아, 여기 그 신테리아 아파트인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "37988efc",
+            "startAt": 5126,
+            "endAt": 5748,
+            "text": "아까.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hvlk4cop7i",
+            "startAt": 5136,
+            "endAt": 5746,
+            "text": "무슨 아파트요?",
+            "speaker": 0
+        },
+        {
+            "id": "f6961c43",
+            "startAt": 6246,
+            "endAt": 7856,
+            "text": "야 뭐 뭐라고 해야 되지.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a4mimqrkrqg",
+            "startAt": 8127,
+            "endAt": 9509,
+            "text": "어머니 당뇨 쇼크가 오셔서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_27opj7jf7tg",
+            "startAt": 9462,
+            "endAt": 11289,
+            "text": "당뇨 쇼크가 오신거 같은데.",
+            "speaker": 1
+        },
+        {
+            "id": "6d4ac547",
+            "startAt": 12068,
+            "endAt": 15178,
+            "text": "선생님 구급차 필요하시면 주소부터 먼저 알려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b5jdt4rjef",
+            "startAt": 12315,
+            "endAt": 13697,
+            "text": "저기 예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "c7869b66",
+            "startAt": 15848,
+            "endAt": 17008,
+            "text": "어 주소부터요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_04nfd0v4p0o",
+            "startAt": 17246,
+            "endAt": 18846,
+            "text": "저 양천구.",
+            "speaker": 1
+        },
+        {
+            "id": "c188054c",
+            "startAt": 19278,
+            "endAt": 19708,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "4aba8664",
+            "startAt": 20058,
+            "endAt": 20778,
+            "text": "신정로.",
+            "speaker": 1
+        },
+        {
+            "id": "c0ba00d0",
+            "startAt": 21324,
+            "endAt": 22134,
+            "text": "신정로.",
+            "speaker": 0
+        },
+        {
+            "id": "aa632929",
+            "startAt": 22298,
+            "endAt": 31089,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "9444bba5",
+            "startAt": 31108,
+            "endAt": 31678,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "69ecfecc",
+            "startAt": 32853,
+            "endAt": 34363,
+            "text": "신트리 2단지요?",
+            "speaker": 0
+        },
+        {
+            "id": "e2bbec41",
+            "startAt": 34513,
+            "endAt": 35073,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "30630d65",
+            "startAt": 35183,
+            "endAt": 35523,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0tvslfjfjko",
+            "startAt": 36376,
+            "endAt": 39222,
+            "text": "뭐 아프신분이 어머님이에요 남편분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "49574708",
+            "startAt": 36739,
+            "endAt": 40037,
+            "text": "어르신이 예, 당뇨 환자 네?",
+            "speaker": 1
+        },
+        {
+            "id": "5f0b1d95",
+            "startAt": 40675,
+            "endAt": 42125,
+            "text": "아프신 분은 누구예요?",
+            "speaker": 0
+        },
+        {
+            "id": "26faa930",
+            "startAt": 42315,
+            "endAt": 44535,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "3955cf33",
+            "startAt": 44755,
+            "endAt": 49105,
+            "text": "아, 그럼 요양보호사가 전화 주신 거예요? 예 할머니시고.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q38bq7cj1ho",
+            "startAt": 46721,
+            "endAt": 47712,
+            "text": "예, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "d9a6b0e5",
+            "startAt": 49355,
+            "endAt": 50325,
+            "text": "예, 지금 저.",
+            "speaker": 1
+        },
+        {
+            "id": "acb11eef",
+            "startAt": 49643,
+            "endAt": 52108,
+            "text": "지금 뭐 때문에 뭐 때문에 응급실 가시는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "1d7abda5",
+            "startAt": 52285,
+            "endAt": 55983,
+            "text": "제가 출근해서 보니까 어르신이 못 일어나세요.",
+            "speaker": 1
+        },
+        {
+            "id": "cdd5a489",
+            "startAt": 54739,
+            "endAt": 61886,
+            "text": "예 지금 상태만 얘기 주시면 돼요, 의식이 없어서 못 일어나는 거예요? 뭐 못 일어나는 것도 이유가 있잖아요 그거를 좀 얘기해 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "159390fd",
+            "startAt": 61262,
+            "endAt": 64703,
+            "text": "아, 아무래도 저혈당이 오신 거 같아요, 이 당뇨 환자시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_foop6kpt3og",
+            "startAt": 64141,
+            "endAt": 65741,
+            "text": "당뇨 체크 해 보셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lud0k0nmsp",
+            "startAt": 65959,
+            "endAt": 67304,
+            "text": "없어요, 기계가요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8j92eanjlk",
+            "startAt": 67670,
+            "endAt": 69988,
+            "text": "요양원에서 나오신지 얼마 안 되셨어요.",
+            "speaker": 1
+        },
+        {
+            "id": "34156146",
+            "startAt": 67694,
+            "endAt": 70786,
+            "text": "아 거 의식은 의식은요?",
+            "speaker": 0
+        },
+        {
+            "id": "f8adabe5",
+            "startAt": 71328,
+            "endAt": 74438,
+            "text": "음식은 지금 어제 저녁을 뭐 드셨는지 몰.",
+            "speaker": 1
+        },
+        {
+            "id": "788a2536",
+            "startAt": 73565,
+            "endAt": 76066,
+            "text": "음식 말고 의식 의식 의식.",
+            "speaker": 0
+        },
+        {
+            "id": "a72798df",
+            "startAt": 75874,
+            "endAt": 76964,
+            "text": "의식이 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "fb5dbdd9",
+            "startAt": 77774,
+            "endAt": 79724,
+            "text": "숨 숨쉬는 거 확인해주세요, 의식 없으면.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d3pc0lcjmho",
+            "startAt": 80338,
+            "endAt": 83065,
+            "text": "숨쉬는 거는 좀 거칠게 쉬 쉬고 거품을 내세요",
+            "speaker": 1
+        },
+        {
+            "id": "92e7c3e3",
+            "startAt": 84896,
+            "endAt": 86268,
+            "text": "침에서 거품을 나듯이 아.",
+            "speaker": 1
+        },
+        {
+            "id": "17dff7fc",
+            "startAt": 85917,
+            "endAt": 91127,
+            "text": "꼬집 꼬집으면 반응 있나 봐주세요, 구급차는 나갔어요. 꼬집으면 반응 있나, 빨리 봐보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kvvht6behg",
+            "startAt": 90074,
+            "endAt": 90620,
+            "text": "어머.",
+            "speaker": 1
+        },
+        {
+            "id": "e791ab41",
+            "startAt": 93039,
+            "endAt": 94681,
+            "text": "예, 반응은 있으세요.",
+            "speaker": 1
+        },
+        {
+            "id": "010724eb",
+            "startAt": 94891,
+            "endAt": 96461,
+            "text": "그래요, 알겠어요, 기달려요.",
+            "speaker": 0
+        },
+        {
+            "id": "6f515888",
+            "startAt": 96591,
+            "endAt": 97046,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 양천구 신정동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애"
+    ],
+    "triage": "응급증상"
+}

@@ -1,0 +1,429 @@
+{
+    "_id": "651e4f2166d8da7dcba97504",
+    "audioPath": "20230925/Seoul/2022/20220806/converted_[20220806]-[WV1140538799].wav",
+    "recordId": "3ead97a82ab9eb82dbc2",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 154200,
+    "utterances": [
+        {
+            "id": "b01a6d81",
+            "startAt": 224,
+            "endAt": 1454,
+            "text": "[확인불가]",
+            "speaker": 0
+        },
+        {
+            "id": "117b8e4a",
+            "startAt": 2117,
+            "endAt": 2919,
+            "text": "여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "2a076897",
+            "startAt": 2904,
+            "endAt": 3684,
+            "text": "네, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "a519490a",
+            "startAt": 4024,
+            "endAt": 10091,
+            "text": "네 저 아버님이 치매 환자로 좀 고령이신데. 열이 나고 지금 의식이 없으시거든요",
+            "speaker": 1
+        },
+        {
+            "id": "9a03f174",
+            "startAt": 9769,
+            "endAt": 11310,
+            "text": "아, 의식이 지금 아예 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_isco07ad3p",
+            "startAt": 11858,
+            "endAt": 15475,
+            "text": "네, 저기 1시간째 불러도 못 일어나고 계세요",
+            "speaker": 1
+        },
+        {
+            "id": "8cda979c",
+            "startAt": 14007,
+            "endAt": 16223,
+            "text": "일단 집 주소가 어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "ae208561",
+            "startAt": 16795,
+            "endAt": 21148,
+            "text": "어 저 여기 독서. 성동구 독서당로 48길에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_13h10sk3k1g",
+            "startAt": 21133,
+            "endAt": 22308,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c655891b",
+            "startAt": 22272,
+            "endAt": 23649,
+            "text": "독서당로 48길?",
+            "speaker": 0
+        },
+        {
+            "id": "be9a1219",
+            "startAt": 24335,
+            "endAt": 24795,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kqt5h9br10o",
+            "startAt": 26058,
+            "endAt": 27342,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qbv19ahv938",
+            "startAt": 27628,
+            "endAt": 28392,
+            "text": "네.네.",
+            "speaker": 1
+        },
+        {
+            "id": "e1e8a8b4",
+            "startAt": 28389,
+            "endAt": 29059,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "d8d58141",
+            "startAt": 29659,
+            "endAt": 30909,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "7a31789c",
+            "startAt": 30989,
+            "endAt": 31839,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "7d8dbad0",
+            "startAt": 32429,
+            "endAt": 32889,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "781d9293",
+            "startAt": 32919,
+            "endAt": 34019,
+            "text": "예 여기 몇 층 몇 호예요?",
+            "speaker": 0
+        },
+        {
+            "id": "66e36c6a",
+            "startAt": 34860,
+            "endAt": 35398,
+            "text": "여기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ffk7far0q2g",
+            "startAt": 35367,
+            "endAt": 36450,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_358g0ufr7a8",
+            "startAt": 36408,
+            "endAt": 36858,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bp2fgmkt9go",
+            "startAt": 36808,
+            "endAt": 38208,
+            "text": "단독주택이에요",
+            "speaker": 1
+        },
+        {
+            "id": "90bc80ce",
+            "startAt": 38273,
+            "endAt": 43140,
+            "text": "단독주택이요 예 주소 한 번만 다시 확인해볼 건데요. 독서당로 48길",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oggam1jas58",
+            "startAt": 43117,
+            "endAt": 44050,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "18fce262",
+            "startAt": 44533,
+            "endAt": 45063,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "4c1e22aa",
+            "startAt": 45173,
+            "endAt": 47093,
+            "text": "지금 불러도 대답은 없는데 숨은 쉬고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "9afd6231",
+            "startAt": 47643,
+            "endAt": 52133,
+            "text": "네, 네, 숨 좀 가래기가 좀 있으시긴 한데 숨은 좀 쉬시구요.",
+            "speaker": 1
+        },
+        {
+            "id": "a40a9d3e",
+            "startAt": 52163,
+            "endAt": 53043,
+            "text": "네 그러면.",
+            "speaker": 0
+        },
+        {
+            "id": "890cc46a",
+            "startAt": 53369,
+            "endAt": 55579,
+            "text": "네, 열이 좀 있으세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l5uo1q0oh8o",
+            "startAt": 53867,
+            "endAt": 54525,
+            "text": "한번",
+            "speaker": 0
+        },
+        {
+            "id": "6036ece6",
+            "startAt": 55297,
+            "endAt": 60312,
+            "text": "어 알겠어요 선생님, 지금 구급차 출동했는데요. 거리가 조금 있어서 환자분 상태 좀 볼 거예요, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "30d33e77",
+            "startAt": 60776,
+            "endAt": 61236,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "5580e356",
+            "startAt": 61576,
+            "endAt": 64577,
+            "text": "환자분 어깨나 옆구리 같은 데 한번 꼬집어서",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b48s4q4pno",
+            "startAt": 64925,
+            "endAt": 70008,
+            "text": "반응 한번 보게 한번 세게 한번 꼬집어 보세요. 불러도 대답 못하면 자극에 반응하는 게 상당히 중요하거든요. 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "927c2dee",
+            "startAt": 69486,
+            "endAt": 73072,
+            "text": "네 아버님이 저기 좀 연로하셔서",
+            "speaker": 1
+        },
+        {
+            "id": "248a0a15",
+            "startAt": 73708,
+            "endAt": 74188,
+            "text": "어",
+            "speaker": 1
+        },
+        {
+            "id": "40264ce7",
+            "startAt": 74488,
+            "endAt": 80623,
+            "text": "이게 왜 그러냐면 연세도 많고 고열도 있고 하다 보니까. 혹시라도 이제 심장이 멈춰가지고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_iejv1hsnij",
+            "startAt": 80717,
+            "endAt": 86233,
+            "text": "호흡이 조 규칙적이지가 않으면 심장을 심폐소생술을 해야 될 경우가 있어서 여쭤보는 거예요. 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "a5e02afc",
+            "startAt": 86418,
+            "endAt": 91668,
+            "text": "아, 숨은 안정적으로 쉬세요. 약간 가래끼가 있긴 한데 꼬집어도 반응은 없으세요",
+            "speaker": 1
+        },
+        {
+            "id": "4f4885f3",
+            "startAt": 91916,
+            "endAt": 94556,
+            "text": "자극에도 반응은 없는데, 호흡은 규칙적으로 하고 있다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "32373574",
+            "startAt": 94956,
+            "endAt": 95596,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "2a9a12ef",
+            "startAt": 95551,
+            "endAt": 98056,
+            "text": "알겠어요, 선생님, 지금 인근에 구급차가 없어가지고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gma0h7i4nq8",
+            "startAt": 98233,
+            "endAt": 103500,
+            "text": "지금 중구 쪽에서 4 어 4키로에서 가고 있어요. 혹시라도 호흡이 규칙적이지 않거나.",
+            "speaker": 0
+        },
+        {
+            "id": "6cf4cb7b",
+            "startAt": 103871,
+            "endAt": 104221,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "2c83d915",
+            "startAt": 104251,
+            "endAt": 110248,
+            "text": "숨을 아예 안 쉬는 거 같잖아요. 그때 구급 응급 구급대가 여러 대가 응급처치 필요하니까 바로 한 번만 전화 주시고요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i9gfu256338",
+            "startAt": 110525,
+            "endAt": 112758,
+            "text": "집에 뭐 코로나 확진자나 이런 건 없으신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_a1du53qu7m",
+            "startAt": 113133,
+            "endAt": 121900,
+            "text": "네, 확진자는 없구요. 그 호흡 자체는 좀 가래끼가 있지만, 일단 좀 가쁜 숨을 안정적으로 쉬고 계시긴 하거든요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_icjf3pt24no",
+            "startAt": 121900,
+            "endAt": 123075,
+            "text": "알겠습니다 예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_62m33p9ejb8",
+            "startAt": 121908,
+            "endAt": 124067,
+            "text": "근데 어 여기 오시면은",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_slpih3fjeb8",
+            "startAt": 124117,
+            "endAt": 126142,
+            "text": "아버님이 굉장히 연로하시고 여기가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e5qfihpoihg",
+            "startAt": 126125,
+            "endAt": 127575,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6udv50ss47o",
+            "startAt": 128933,
+            "endAt": 132533,
+            "text": "계단이 있거든요. 그래서 옮기기가 좀 불편해요",
+            "speaker": 1
+        },
+        {
+            "id": "d448b639",
+            "startAt": 132536,
+            "endAt": 138476,
+            "text": "알겠습니다. 일단 그 저희 대원이 아마 가서 확인해볼 거니깐요. 일단 조금만 기다리고 대원이 가다 연락하면서 전화드릴 수 있습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "d024469a",
+            "startAt": 138686,
+            "endAt": 146926,
+            "text": "네, 네, 그럼 저기 대원이 저기 도착하시면은 상태 보고 응급실을 가야 될지 말아야 될지, 그거 확인도 해주실 수 있나요?",
+            "speaker": 1
+        },
+        {
+            "id": "d6e9e70a",
+            "startAt": 146376,
+            "endAt": 148481,
+            "text": "그렇죠 그렇죠, 그것도 확인하는 거구요.",
+            "speaker": 0
+        },
+        {
+            "id": "45579cac",
+            "startAt": 148755,
+            "endAt": 150605,
+            "text": "네, 그러면 기다릴게요.",
+            "speaker": 1
+        },
+        {
+            "id": "4106b013",
+            "startAt": 150526,
+            "endAt": 152081,
+            "text": "네, 조금만 기다려주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "536b600a",
+            "startAt": 152288,
+            "endAt": 152948,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 성동구 금호동4가",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "호흡곤란",
+        "고열"
+    ],
+    "triage": "응급증상"
+}

@@ -14,10 +14,16 @@ import type {
   MissingActiveCapacity,
 } from "./types";
 
-export function loadHospitalData() {
+type LoadHospitalDataOptions = {
+  capacitySnapshot?: HospitalCapacity[];
+  candidatePolicy?: string;
+  staticProfilePolicy?: string;
+};
+
+export function loadHospitalData(options: LoadHospitalDataOptions = {}) {
   const hospitals = hospitalsJson as HospitalDim[];
   const capabilities = capabilitiesJson as HospitalCapability[];
-  const capacitySnapshot = capacityJson as HospitalCapacity[];
+  const capacitySnapshot = options.capacitySnapshot ?? (capacityJson as HospitalCapacity[]);
   const staticProfiles = staticProfilesJson as HospitalStaticProfile[];
   const missingActiveCapacity = missingCapacityJson as MissingActiveCapacity[];
   const capabilityById = new Map(capabilities.map((item) => [item.hospital_id, item]));
@@ -48,8 +54,8 @@ export function loadHospitalData() {
       liveCapacityHospitalCount: primaryCandidates.length,
       activeWithoutLiveCapacityCount: missingActiveCapacity.length,
       staticProfileCount: staticProfiles.length,
-      candidatePolicy: "primary_live_capacity_51",
-      staticProfilePolicy: "hira_pending_neutral_until_authorized_profile_available",
+      candidatePolicy: options.candidatePolicy ?? "primary_live_capacity_51",
+      staticProfilePolicy: options.staticProfilePolicy ?? "hira_pending_neutral_until_authorized_profile_available",
     },
   };
 }

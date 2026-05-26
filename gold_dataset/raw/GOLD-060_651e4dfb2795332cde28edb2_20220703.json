@@ -1,0 +1,294 @@
+{
+    "_id": "651e4dfb2795332cde28edb2",
+    "audioPath": "20230925/Seoul/2022/20220703/converted_[20220703]-[WU1140303979].wav",
+    "recordId": "c10124948eade75977eb",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 85920,
+    "utterances": [
+        {
+            "id": "1a0614da",
+            "startAt": 426,
+            "endAt": 1560,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "fb0ee453",
+            "startAt": 1494,
+            "endAt": 3594,
+            "text": "예, 수고하십니다. 그 원심길 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_revh829ga7g",
+            "startAt": 3618,
+            "endAt": 4164,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lrp1ke9v4ho",
+            "startAt": 4218,
+            "endAt": 6155,
+            "text": "그 집은 원심 1길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_983i4vkk5m",
+            "startAt": 6181,
+            "endAt": 7209,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c973f9db",
+            "startAt": 7444,
+            "endAt": 8257,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "44a480e1",
+            "startAt": 8114,
+            "endAt": 9884,
+            "text": "예, 그 차는 원심길 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_b59a2uqfqqg",
+            "startAt": 9926,
+            "endAt": 10462,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_natkqkuthv8",
+            "startAt": 11109,
+            "endAt": 12782,
+            "text": "저 엠블런스는 원심길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pr4e8mi2ud8",
+            "startAt": 12828,
+            "endAt": 13491,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tmnf2ctqohg",
+            "startAt": 13535,
+            "endAt": 14371,
+            "text": "대셔야 돼요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nreniermveo",
+            "startAt": 14855,
+            "endAt": 16400,
+            "text": "집은 원심1길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5us7ducnlr",
+            "startAt": 16429,
+            "endAt": 17765,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e32f369d",
+            "startAt": 18270,
+            "endAt": 20629,
+            "text": "잠시만요. 원신 1 길에 ",
+            "speaker": 0
+        },
+        {
+            "id": "74805e77",
+            "startAt": 20670,
+            "endAt": 23708,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "31e1eb81",
+            "startAt": 23750,
+            "endAt": 24760,
+            "text": "예, 골목이라.",
+            "speaker": 1
+        },
+        {
+            "id": "249b80c0",
+            "startAt": 25080,
+            "endAt": 27966,
+            "text": "골목이라 그 엠브라스는 원심길 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d1cnrsjoek8",
+            "startAt": 27995,
+            "endAt": 28377,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6at95qlneg8",
+            "startAt": 28404,
+            "endAt": 29232,
+            "text": "에 대셔야 돼요.",
+            "speaker": 1
+        },
+        {
+            "id": "dd8736c8",
+            "startAt": 29462,
+            "endAt": 30896,
+            "text": "아, 예, 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "efbab256",
+            "startAt": 30840,
+            "endAt": 40082,
+            "text": "아, 어머니가 경련이 좀 심해요. 예, 예, 어머니가 그 기관 삽입하셨고요, 필십이시고 뇌출혈 수술하셨고요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_muegjmntito",
+            "startAt": 33008,
+            "endAt": 33917,
+            "text": "경련이요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pnbql4f0soo",
+            "startAt": 40543,
+            "endAt": 41781,
+            "text": "그 다음에",
+            "speaker": 1
+        },
+        {
+            "id": "4c0cbfe2",
+            "startAt": 40817,
+            "endAt": 43987,
+            "text": "예 선생님, 구급차는 나갔고요. 지금 의식은 있으신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "f3f9a4e9",
+            "startAt": 43836,
+            "endAt": 46852,
+            "text": "예, 의식은 좀 있는 거 같아요. 제가 지금 집에 가고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "32500932",
+            "startAt": 46833,
+            "endAt": 48785,
+            "text": "아, 혹시 집에 누가 계신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "e7248493",
+            "startAt": 48542,
+            "endAt": 50119,
+            "text": "아, 누나가 있어요?",
+            "speaker": 1
+        },
+        {
+            "id": "d78e31d7",
+            "startAt": 50264,
+            "endAt": 52664,
+            "text": "아, 선생님, 누나분 연락처 좀 불러주시겠어요.",
+            "speaker": 0
+        },
+        {
+            "id": "2c27a799",
+            "startAt": 52642,
+            "endAt": 55080,
+            "text": "아, 아, 제가 지금 가고 있어요 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "1e7b55f2",
+            "startAt": 54872,
+            "endAt": 56142,
+            "text": "거의 다 오신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "07cec55a",
+            "startAt": 56125,
+            "endAt": 59277,
+            "text": "예, 거의 다 지금 한 1분 이내에 도착해요.",
+            "speaker": 1
+        },
+        {
+            "id": "07bd472c",
+            "startAt": 59235,
+            "endAt": 61110,
+            "text": "알겠습니다. 안내 전화 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "a2580eac",
+            "startAt": 60194,
+            "endAt": 66401,
+            "text": "그 호흡기 저희 산소 수호 생기 있구요, 그 웬만하면 다 있어요, 저희 집에.",
+            "speaker": 1
+        },
+        {
+            "id": "cc11b964",
+            "startAt": 66532,
+            "endAt": 68597,
+            "text": "아, 잠깐 사건 중이시라는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "7ddb5935",
+            "startAt": 68409,
+            "endAt": 74612,
+            "text": "예, 그 어깨가 저번에도 경련이 심해갖고 엊그저께 엠브스 타고 갔다 왔는데, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_15fo9pha6lo",
+            "startAt": 74954,
+            "endAt": 79318,
+            "text": "그 이제는 어깨에 있는 데서 계속 경련이 심해요.",
+            "speaker": 1
+        },
+        {
+            "id": "673180f7",
+            "startAt": 79490,
+            "endAt": 82335,
+            "text": "그래요, 알겠습니다. 저희 금방 가니까 안내 좀 해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "a9b7d4cb",
+            "startAt": 82029,
+            "endAt": 83295,
+            "text": "예, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "6d098c17",
+            "startAt": 83344,
+            "endAt": 84311,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 관악구 신림동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "경련/발작"
+    ],
+    "triage": "응급증상"
+}

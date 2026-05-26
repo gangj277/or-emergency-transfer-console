@@ -1,3 +1,5 @@
+import { departments, incidentTypes, resources } from "./types";
+
 export const factCategories = [
   "incident_mechanism",
   "consciousness",
@@ -91,14 +93,9 @@ export const orParameterSchema = {
       properties: {
         incident_type: {
           type: "string",
-          enum: [
-            "fall_head_injury",
-            "fall_orthopedic",
-            "traffic_trauma",
-            "blunt_abdominal_trauma",
-            "minor_head_injury_anticoagulant",
-            "other_trauma",
-          ],
+          // Single source of truth: keep in lockstep with lib/or/types.ts enums so the
+          // strict structured-output call and parseOrParameters never disagree.
+          enum: [...incidentTypes],
         },
         severity_level: { type: "integer", minimum: 1, maximum: 5 },
         deterioration_risk: { type: "integer", minimum: 1, maximum: 5 },
@@ -108,7 +105,7 @@ export const orParameterSchema = {
           minItems: 1,
           items: {
             type: "string",
-            enum: ["emergency_medicine", "neurosurgery", "orthopedics", "general_surgery", "trauma_surgery"],
+            enum: [...departments],
           },
         },
         required_resources: {
@@ -116,7 +113,7 @@ export const orParameterSchema = {
           minItems: 1,
           items: {
             type: "string",
-            enum: ["ct", "xray", "orthopedic_trauma", "surgery_capability", "bleeding_control", "trauma_resuscitation"],
+            enum: [...resources],
           },
         },
         max_transport_time_min: { type: "integer", enum: [10, 15, 20, 30, 45, 60] },

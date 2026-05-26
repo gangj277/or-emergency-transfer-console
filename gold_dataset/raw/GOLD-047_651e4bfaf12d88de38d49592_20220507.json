@@ -1,0 +1,274 @@
+{
+    "_id": "651e4bfaf12d88de38d49592",
+    "audioPath": "20230925/Seoul/2022/20220507/converted_[20220507]-[WS1139980318].wav",
+    "recordId": "53e3f62ecca3a5bb9c6c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 82080,
+    "utterances": [
+        {
+            "id": "50bbf221",
+            "startAt": 1068,
+            "endAt": 2064,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "664143e9",
+            "startAt": 2395,
+            "endAt": 4667,
+            "text": "예, 여기 저 신촌 연세병원인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "87ef976d",
+            "startAt": 4824,
+            "endAt": 6722,
+            "text": "네, 신촌 연세병원이요.",
+            "speaker": 0
+        },
+        {
+            "id": "024b590a",
+            "startAt": 6687,
+            "endAt": 7546,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "d929ab06",
+            "startAt": 7497,
+            "endAt": 8241,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "69e06fbb",
+            "startAt": 8133,
+            "endAt": 11616,
+            "text": "예, 계단을 내려오다가 지금 저 머리를 부딪혔는데.",
+            "speaker": 1
+        },
+        {
+            "id": "53215e62",
+            "startAt": 11672,
+            "endAt": 12433,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "06b0549c",
+            "startAt": 12275,
+            "endAt": 18235,
+            "text": "예, 이쪽에서는 지금 저 치료가 안 된다, 그래서 지금 아직 의식을 못 차리고 있어서요.",
+            "speaker": 1
+        },
+        {
+            "id": "d96d7887",
+            "startAt": 18399,
+            "endAt": 20645,
+            "text": "의식이 없는데 치료가 안 돼요, 거기가.",
+            "speaker": 0
+        },
+        {
+            "id": "f368fa4e",
+            "startAt": 20542,
+            "endAt": 21536,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "9af18095",
+            "startAt": 21810,
+            "endAt": 23586,
+            "text": "잠시만요, 신촌.",
+            "speaker": 0
+        },
+        {
+            "id": "195ca028",
+            "startAt": 23909,
+            "endAt": 24998,
+            "text": "연세병원이요?",
+            "speaker": 1
+        },
+        {
+            "id": "3c6a29c9",
+            "startAt": 24878,
+            "endAt": 26101,
+            "text": "연세병원.",
+            "speaker": 0
+        },
+        {
+            "id": "cb6c1af5",
+            "startAt": 26054,
+            "endAt": 26654,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "69a4d0fb",
+            "startAt": 26340,
+            "endAt": 28811,
+            "text": "몇 층에서 그랬어요, 몇 층으로 가야 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "cce3e890",
+            "startAt": 30100,
+            "endAt": 37520,
+            "text": "아니요, 여기 지금 저 집 앞에서 그랬는데 여기로 왔는데 여기 예, 여기서 지금 치료가 안 된다, 그러니까 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bfg3niampt8",
+            "startAt": 37268,
+            "endAt": 38486,
+            "text": "아 아",
+            "speaker": 0
+        },
+        {
+            "id": "90389a8a",
+            "startAt": 37368,
+            "endAt": 39324,
+            "text": "지금 저기 세브란스라도 가야 될 거 같아서요.",
+            "speaker": 1
+        },
+        {
+            "id": "64d066c8",
+            "startAt": 39520,
+            "endAt": 40963,
+            "text": "남자분이 여자분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "32036e67",
+            "startAt": 40907,
+            "endAt": 41841,
+            "text": "여자분이요",
+            "speaker": 1
+        },
+        {
+            "id": "82aa4ea8",
+            "startAt": 41832,
+            "endAt": 43793,
+            "text": "여자분이 계단에서 넘어졌어요?",
+            "speaker": 0
+        },
+        {
+            "id": "0bc9833b",
+            "startAt": 43826,
+            "endAt": 47923,
+            "text": "예 예, 계단 내려오다가 저희 친구들끼리 저 술 한 잔 했는데.",
+            "speaker": 1
+        },
+        {
+            "id": "6417f16c",
+            "startAt": 46398,
+            "endAt": 48587,
+            "text": "의식 있어요 없어요? 예.",
+            "speaker": 0
+        },
+        {
+            "id": "8ce9800c",
+            "startAt": 48786,
+            "endAt": 53297,
+            "text": "지금 뭐 반 의식이 반 정도 뭐 반이라고 해야 되나.",
+            "speaker": 1
+        },
+        {
+            "id": "e6f75376",
+            "startAt": 53511,
+            "endAt": 56421,
+            "text": "아, 그까 숨 쉬고 의식.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f8hfqkgkj2g",
+            "startAt": 56830,
+            "endAt": 59902,
+            "text": "뭐 술 위취해서 의식이 없는 거예요. 아님 넘어져서 의식이 없는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lj87m6h5bbo",
+            "startAt": 59308,
+            "endAt": 62862,
+            "text": "넘아 그거 모르겠어요 지금 그래서 저희가 지금 가봐야 될 거 같아거든요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_61ucbj8sa6g",
+            "startAt": 63090,
+            "endAt": 64599,
+            "text": "아 의식이 없으세죠?",
+            "speaker": 0
+        },
+        {
+            "id": "75d74366",
+            "startAt": 63338,
+            "endAt": 64768,
+            "text": "의식이 없어요. 지금. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v7k4tik9fi",
+            "startAt": 64839,
+            "endAt": 67475,
+            "text": "아, 정신이 없어 의식이 떨어지는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_suqcon208t8",
+            "startAt": 66735,
+            "endAt": 69680,
+            "text": "아, 얼굴로 떨어져서 얼굴하고 머리 쪽으로 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "06b9bc89",
+            "startAt": 69799,
+            "endAt": 70939,
+            "text": "타박상이 심해요.",
+            "speaker": 1
+        },
+        {
+            "id": "2131d1c5",
+            "startAt": 70969,
+            "endAt": 75871,
+            "text": "아 예, 예, 알겠습니다. 그 열나거나 기침 나거나 코로나 증상은 없는 분이시죠.",
+            "speaker": 0
+        },
+        {
+            "id": "95cb0f28",
+            "startAt": 75695,
+            "endAt": 76491,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "da0ada2f",
+            "startAt": 76457,
+            "endAt": 78911,
+            "text": "아 예, 연세병원 앞으로 갈게요.",
+            "speaker": 0
+        },
+        {
+            "id": "b2a96e46",
+            "startAt": 78738,
+            "endAt": 79551,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 마포구 신수동",
+    "disasterLarge": "구급",
+    "disasterMedium": "부상",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "열상",
+        "타박상"
+    ],
+    "triage": "잠재응급증상"
+}

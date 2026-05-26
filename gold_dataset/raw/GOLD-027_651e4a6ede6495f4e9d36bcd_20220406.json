@@ -1,0 +1,345 @@
+{
+    "_id": "651e4a6ede6495f4e9d36bcd",
+    "audioPath": "20230925/Seoul/2022/20220406/converted_[20220406]-[WR1139817689].wav",
+    "recordId": "97723c6366d1d9d4a0c8",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 146760,
+    "utterances": [
+        {
+            "id": "wavesurfer_ngsckmgcj3o",
+            "startAt": 800,
+            "endAt": 1400,
+            "text": "119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_79pn5rsspn",
+            "startAt": 2073,
+            "endAt": 3837,
+            "text": "예, 제가 지금 쓰러졌는데요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ut69hogeoro",
+            "startAt": 4664,
+            "endAt": 6700,
+            "text": "본인이 쓰러지셨다고요? 어디에 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_593f3jnivb",
+            "startAt": 5991,
+            "endAt": 6518,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_edeiun5ea7o",
+            "startAt": 7509,
+            "endAt": 10809,
+            "text": "아, 지금 뭐 뇌졸중 같은 건데 그런거 같은데요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1hn85anas58",
+            "startAt": 11258,
+            "endAt": 14822,
+            "text": "뭐 한쪽 편에 힘이 안 들어가고 말이 어눌해지고 뭐 이런 건가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r8vc2igqkp",
+            "startAt": 14804,
+            "endAt": 17122,
+            "text": "마비되고.걷질 못하겠어요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_msvipgmu11o",
+            "startAt": 17910,
+            "endAt": 19610,
+            "text": "아, 한쪽만 마비됐어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_08ei1nhpuvo",
+            "startAt": 20383,
+            "endAt": 25237,
+            "text": "아, 모르겠어요. 저기 입 입, 저 혀 끝 혀에다가 마비되고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_minms0oqe48",
+            "startAt": 27310,
+            "endAt": 28919,
+            "text": "아, 주소 알려주세요, 선생님",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_32a92n2d17g",
+            "startAt": 29510,
+            "endAt": 31547,
+            "text": "우림 라이언스 빌라",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mbudcfcevro",
+            "startAt": 32128,
+            "endAt": 35547,
+            "text": "우림 라이언스 빌라가 되게 많잖아요. 서울에 주소",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_3m32qrusfog",
+            "startAt": 37101,
+            "endAt": 38074,
+            "text": "2차",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6rdd6cq0vuo",
+            "startAt": 40020,
+            "endAt": 40992,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dbs4t0q99bo",
+            "startAt": 44093,
+            "endAt": 47829,
+            "text": "그러니까 우림라이온스 빌라가 어딨는 우림라이온스 빌라 말씀하시는 거에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8urssdpavc8",
+            "startAt": 46847,
+            "endAt": 47729,
+            "text": "독산역이요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vvfff992od",
+            "startAt": 50602,
+            "endAt": 51584,
+            "text": "독산역",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6bik258o948",
+            "startAt": 53602,
+            "endAt": 54084,
+            "text": "아",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_egvrasg8pag",
+            "startAt": 55572,
+            "endAt": 56317,
+            "text": "여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jd3qbepqsl8",
+            "startAt": 58148,
+            "endAt": 59393,
+            "text": "우림라이어스 빌라요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j2s91rs1tto",
+            "startAt": 62448,
+            "endAt": 64621,
+            "text": "잠깐만 아",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c9h41gpqt28",
+            "startAt": 68051,
+            "endAt": 68851,
+            "text": "여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hn3f1rhondg",
+            "startAt": 72057,
+            "endAt": 75839,
+            "text": "찾았어요 가산 우림라이온스 빌라 맞죠? 델리 2차",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9vooips8g5g",
+            "startAt": 76366,
+            "endAt": 76748,
+            "text": "예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2dbj4mlboog",
+            "startAt": 77682,
+            "endAt": 78627,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9ed0kbjp7q",
+            "startAt": 80203,
+            "endAt": 85976,
+            "text": "차는 나가는데요 선생님 저 선생님 뇌졸증이라고 생각하신 이유가 머리가 많이 아프세요 지금?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_opa2if9if9o",
+            "startAt": 86009,
+            "endAt": 87500,
+            "text": "아프진 않는데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fnd37o18lh",
+            "startAt": 88485,
+            "endAt": 91003,
+            "text": "아이 그냥 그냥 그 얘기 한 거고요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_4bq2mcnkr1g",
+            "startAt": 91867,
+            "endAt": 93031,
+            "text": "그냥 얘기했다고?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tjc9mpvdb18",
+            "startAt": 93358,
+            "endAt": 94003,
+            "text": "여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o9ihk64jjb",
+            "startAt": 94704,
+            "endAt": 95031,
+            "text": "네",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0s9l0kqthi",
+            "startAt": 95140,
+            "endAt": 97695,
+            "text": "그거 같아서 얘기한 거고 지금 걷지를 못해요 제가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_194bb7jt7b8",
+            "startAt": 98934,
+            "endAt": 106462,
+            "text": "아니, 선생님, 저희가 맞춰서 차는 나갔는데 장비를 챙겨서 올라가야 될 거 아니에요 뇌졸증이면은 다른 뇌졸증 치료 장비를 가지고 올라갈 거고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7dorcr2kl88",
+            "startAt": 106368,
+            "endAt": 108549,
+            "text": "그러니까 증상이 지금 어떠신 거예요, 정확하게",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rfng2otspd",
+            "startAt": 109259,
+            "endAt": 111213,
+            "text": "마비가 오고요 입 쪽에",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_icosml1gj3",
+            "startAt": 111759,
+            "endAt": 112668,
+            "text": "입쪽에 마비",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kks63mud3t",
+            "startAt": 112777,
+            "endAt": 115604,
+            "text": "예, 얼굴 안면 쪽에 계속 마비가 오고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_aq1ddg8mpr",
+            "startAt": 116677,
+            "endAt": 118004,
+            "text": "누워있으면",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qtjsgidq1ko",
+            "startAt": 119068,
+            "endAt": 121895,
+            "text": "모르겠는데 일어나서 걸으면은 그",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s1f6k98a3i",
+            "startAt": 122295,
+            "endAt": 125177,
+            "text": "균형감각이 균형감각이 없어요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ho0rp5u6o9g",
+            "startAt": 122514,
+            "endAt": 123623,
+            "text": "어지러워요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2oe1ds47tq8",
+            "startAt": 129565,
+            "endAt": 131947,
+            "text": "알겠습니다. 코로나 관련 증상 같은 건 없으시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f4p6jgiv3t8",
+            "startAt": 131962,
+            "endAt": 132981,
+            "text": "그건 없고요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l3up73t7mpg",
+            "startAt": 133614,
+            "endAt": 135969,
+            "text": "저기 얼마나 걸리나요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_snet8q14hn8",
+            "startAt": 138354,
+            "endAt": 140072,
+            "text": "차는 나 갔고 전화드릴 겁니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j91pbbm7t7",
+            "startAt": 140617,
+            "endAt": 141636,
+            "text": "고맙습니다.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 금천구 가산동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "전신쇠약",
+        "어지러움",
+        "마비"
+    ],
+    "triage": "응급증상"
+}

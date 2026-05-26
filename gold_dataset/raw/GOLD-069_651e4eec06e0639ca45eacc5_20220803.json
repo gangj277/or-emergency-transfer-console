@@ -1,0 +1,196 @@
+{
+    "_id": "651e4eec06e0639ca45eacc5",
+    "audioPath": "20230925/Seoul/2022/20220803/converted_[20220803]-[WV1140517396].wav",
+    "recordId": "53cc696e635b711933f3",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 68280,
+    "utterances": [
+        {
+            "id": "776361bc",
+            "startAt": 255,
+            "endAt": 1735,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "11bf776a",
+            "startAt": 2205,
+            "endAt": 7567,
+            "text": "아, 예, 수고하십니다. 여기 그 현대백화점, 그 위에 하이페리온",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ti4husi5v2o",
+            "startAt": 7566,
+            "endAt": 9583,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "ad5c3e26",
+            "startAt": 9557,
+            "endAt": 10924,
+            "text": "현대백화점 어디요?",
+            "speaker": 0
+        },
+        {
+            "id": "d212567b",
+            "startAt": 11228,
+            "endAt": 14118,
+            "text": "그 위에 보면은 하이페리온 아파트",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qgq4qei1ekg",
+            "startAt": 14083,
+            "endAt": 15366,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t5n8j8t7hs",
+            "startAt": 15699,
+            "endAt": 16716,
+            "text": "하이페리온.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_m4nglk0h3t",
+            "startAt": 15715,
+            "endAt": 16387,
+            "text": "하이페.",
+            "speaker": 0
+        },
+        {
+            "id": "5c6463a0",
+            "startAt": 16828,
+            "endAt": 17828,
+            "text": "하이파리온.",
+            "speaker": 0
+        },
+        {
+            "id": "e607c932",
+            "startAt": 18141,
+            "endAt": 20215,
+            "text": "하이페리온 아파트요.",
+            "speaker": 1
+        },
+        {
+            "id": "e9a1e023",
+            "startAt": 20128,
+            "endAt": 22235,
+            "text": "아, 하이페리온 아파트요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0beqjfmpn4o",
+            "startAt": 22349,
+            "endAt": 33765,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_utvi7dfbcl",
+            "startAt": 34175,
+            "endAt": 35600,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7gqpouhr96o",
+            "startAt": 35592,
+            "endAt": 36419,
+            "text": "예, 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "854c6121",
+            "startAt": 36397,
+            "endAt": 38586,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "5e80d38b",
+            "startAt": 38589,
+            "endAt": 39853,
+            "text": "예, 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "8b1c568c",
+            "startAt": 39833,
+            "endAt": 43813,
+            "text": "아, 엄마가 화장 그 저기 대변을 바닥에 보셨고.",
+            "speaker": 1
+        },
+        {
+            "id": "a69b1ca7",
+            "startAt": 43916,
+            "endAt": 44633,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "6fd94259",
+            "startAt": 44596,
+            "endAt": 48853,
+            "text": "화장실을 갔는데 지금 한쪽 팔을 잘 못 움직이고 말을 못 하고 계세요.",
+            "speaker": 1
+        },
+        {
+            "id": "786fbed8",
+            "startAt": 48783,
+            "endAt": 52399,
+            "text": "아, 화 화장실에서 지금 말도 아, 말도 어눌하고.",
+            "speaker": 0
+        },
+        {
+            "id": "d6b24433",
+            "startAt": 52525,
+            "endAt": 57885,
+            "text": "예, 말을 아예 못 하고 계시고 한쪽 팔 못 쓰고 있고, 다리를 잘 못 걸어서 지금 혹시라도.",
+            "speaker": 1
+        },
+        {
+            "id": "3548f3a2",
+            "startAt": 57872,
+            "endAt": 60705,
+            "text": "스트록 위험인 거 같아서 빨리 구급차 좀 보내주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "5b320b81",
+            "startAt": 60675,
+            "endAt": 62768,
+            "text": "네 그쪽 빨리 갈 테니까.",
+            "speaker": 0
+        },
+        {
+            "id": "095bf8df",
+            "startAt": 64230,
+            "endAt": 65700,
+            "text": "전화 잘 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "39e89e98",
+            "startAt": 65677,
+            "endAt": 67100,
+            "text": "네, 네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 양천구 목동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애"
+    ],
+    "triage": "응급증상"
+}

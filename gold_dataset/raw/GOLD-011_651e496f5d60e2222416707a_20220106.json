@@ -1,0 +1,189 @@
+{
+    "_id": "651e496f5d60e2222416707a",
+    "audioPath": "20230925/Seoul/2022/20220106/converted_[20220106]-[WO1139298456].wav",
+    "recordId": "6e7ab1654a1c4edd25d7",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 64920,
+    "utterances": [
+        {
+            "id": "c2861f42",
+            "startAt": 705,
+            "endAt": 1665,
+            "text": "네 119입니다",
+            "speaker": 0
+        },
+        {
+            "id": "ab327db0",
+            "startAt": 1999,
+            "endAt": 5591,
+            "text": "선생님, 안녕하세요. 시립 송파노인 전문 요양원입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "f4d1c728",
+            "startAt": 5597,
+            "endAt": 5917,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "6b07bac6",
+            "startAt": 6107,
+            "endAt": 7627,
+            "text": "여자 90세.",
+            "speaker": 1
+        },
+        {
+            "id": "39a69b48",
+            "startAt": 7968,
+            "endAt": 8999,
+            "text": "90세 여자.",
+            "speaker": 0
+        },
+        {
+            "id": "b30be6a0",
+            "startAt": 8947,
+            "endAt": 13361,
+            "text": "예, 치매 있구요. 인공 심박동기를 가지고 있는 어르신인데.",
+            "speaker": 1
+        },
+        {
+            "id": "e23806fa",
+            "startAt": 13282,
+            "endAt": 13682,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4k5d7nffgu",
+            "startAt": 13912,
+            "endAt": 19297,
+            "text": "저희가 1시쯤부터 약간 아이볼 데비에이션 있으면서 세츄레이션이 한 ",
+            "speaker": 1
+        },
+        {
+            "id": "4a5265f2",
+            "startAt": 19274,
+            "endAt": 26902,
+            "text": "80에서 90정도 유지됐었는데요. 지금 O2 5L 쓰면서 세츄레이션 40에서 70%. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_gom0inlfqpg",
+            "startAt": 27068,
+            "endAt": 31082,
+            "text": "그리고 지금 현재 호흡할 때 체스트 리트렉션이 좀 심한 편이세요.",
+            "speaker": 1
+        },
+        {
+            "id": "f3764591",
+            "startAt": 31165,
+            "endAt": 32521,
+            "text": "그러면 지금 의식은요?",
+            "speaker": 0
+        },
+        {
+            "id": "204dfa51",
+            "startAt": 32658,
+            "endAt": 35951,
+            "text": "의식은 있는데 약간 스투퍼로 좀 빠지는 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "264b9286",
+            "startAt": 35934,
+            "endAt": 37224,
+            "text": "알겠습니다 출동하구요.",
+            "speaker": 0
+        },
+        {
+            "id": "85b56d3a",
+            "startAt": 37465,
+            "endAt": 42361,
+            "text": "예, 지금 보호자님 지금 아직 안 오셔서 저희 직원분이랑 같이 이송할 겁니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sj6qt3um9do",
+            "startAt": 38252,
+            "endAt": 39081,
+            "text": "지금 아직",
+            "speaker": 0
+        },
+        {
+            "id": "3817605d",
+            "startAt": 42225,
+            "endAt": 43884,
+            "text": "아직 심정지 상황은 아닌 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "2cd5bffd",
+            "startAt": 43755,
+            "endAt": 47918,
+            "text": "네, 아닙니다. 이분은 심박동기를 가지고 계세요 펄스는",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_15sbdv6ca1o",
+            "startAt": 46637,
+            "endAt": 48251,
+            "text": "주소 좀 알려주세요. 주소 주소",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_if9gnoj57bo",
+            "startAt": 48312,
+            "endAt": 49140,
+            "text": "삼전동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a0ec35beceo",
+            "startAt": 49165,
+            "endAt": 50793,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "065538d8",
+            "startAt": 51447,
+            "endAt": 52267,
+            "text": "몇 층으로 가면 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "5b157f9e",
+            "startAt": 52827,
+            "endAt": 55665,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "2d6e7a49",
+            "startAt": 55713,
+            "endAt": 58083,
+            "text": "출동하고요. 저희 의료진 연결할게요, 전화 끊지 말아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "2f554fb0",
+            "startAt": 57937,
+            "endAt": 58731,
+            "text": "네",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 송파구 삼전동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "중립",
+    "symptom": [
+        "호흡곤란"
+    ],
+    "triage": "응급증상"
+}

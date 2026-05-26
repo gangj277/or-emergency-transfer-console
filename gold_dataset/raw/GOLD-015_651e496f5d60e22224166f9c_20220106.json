@@ -1,0 +1,204 @@
+{
+    "_id": "651e496f5d60e22224166f9c",
+    "audioPath": "20230925/Seoul/2022/20220106/converted_[20220106]-[WO1139298386].wav",
+    "recordId": "3a5aba6a177570a344b2",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 74760,
+    "utterances": [
+        {
+            "id": "wavesurfer_h7o6dmmgrn",
+            "startAt": 264,
+            "endAt": 1136,
+            "text": "소방서입니다",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4pga8lgcafg",
+            "startAt": 2537,
+            "endAt": 3882,
+            "text": "여기",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5cq0dk2jlk",
+            "startAt": 6027,
+            "endAt": 7836,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8shrg4mlj3o",
+            "startAt": 8348,
+            "endAt": 9957,
+            "text": "그 보문파크빌이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f4bqsjbro2",
+            "startAt": 8861,
+            "endAt": 10492,
+            "text": "보문파크 사이",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tqip61b46uo",
+            "startAt": 12757,
+            "endAt": 20393,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kh1tg920cf",
+            "startAt": 21535,
+            "endAt": 24099,
+            "text": "네 네 저 숨이 안 쉬어진다.그래가지고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vrabg152ft8",
+            "startAt": 23420,
+            "endAt": 24684,
+            "text": "누가 누가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p1v829ejj3g",
+            "startAt": 25229,
+            "endAt": 28347,
+            "text": "산소 언니가요 산소호흡기 좀 필요한데요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fncu68slh1",
+            "startAt": 25999,
+            "endAt": 27199,
+            "text": "언니를",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4hmt09cfsj",
+            "startAt": 28144,
+            "endAt": 30153,
+            "text": "산소호흡기 원래 환자예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oodeafqtuno",
+            "startAt": 31541,
+            "endAt": 35004,
+            "text": "아니, 환자는 아닌데 지금 숨이 안 쉬고 아 못 쉬고 있어요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7312pe781o8",
+            "startAt": 34662,
+            "endAt": 35880,
+            "text": "출발 아",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_omld1mdsrb",
+            "startAt": 34977,
+            "endAt": 38495,
+            "text": "이식 환자에요 이식 환자 신장콩팥 이식 환자",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_20foqove8j",
+            "startAt": 36207,
+            "endAt": 37380,
+            "text": "예 차 출",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j4ld6hapo88",
+            "startAt": 38510,
+            "endAt": 42165,
+            "text": "신장 이식환자 네 차 가고 있어요 전화 끊지마세요 선생님",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vmecl35v4a",
+            "startAt": 42407,
+            "endAt": 44143,
+            "text": "네네 네네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l5a4q0oju5g",
+            "startAt": 47937,
+            "endAt": 50528,
+            "text": "차가 좀 멀리서 잡혔어요. 전화 끊지 마세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_j5lv8g20q58",
+            "startAt": 50573,
+            "endAt": 52500,
+            "text": "예, 인근에 구급차가 없어서가지고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ji652mb7s1",
+            "startAt": 54434,
+            "endAt": 57052,
+            "text": "호흡이 곤란한 상태. 아예 안 쉬는 건 아니죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_18n0c7sj8eg",
+            "startAt": 57515,
+            "endAt": 59743,
+            "text": "예 예 예 곤란해요, 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pnvf4uhf4q8",
+            "startAt": 58334,
+            "endAt": 60761,
+            "text": "예. 보문 파 예 보문 파크빌 저희 ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lctogupj538",
+            "startAt": 60748,
+            "endAt": 63924,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1bc2mlsrtcg",
+            "startAt": 64148,
+            "endAt": 64885,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_v4gi1cc5kr8",
+            "startAt": 65957,
+            "endAt": 66839,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1743jt32iug",
+            "startAt": 70321,
+            "endAt": 71294,
+            "text": "[개인정보]",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 성북구 보문동6가",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "호흡곤란",
+        "전신쇠약"
+    ],
+    "triage": "응급증상"
+}

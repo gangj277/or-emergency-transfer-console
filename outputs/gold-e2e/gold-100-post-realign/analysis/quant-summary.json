@@ -1,0 +1,122 @@
+{
+  "caseCount": 100,
+  "generatedAt": "2026-05-26T11:36:15.857Z",
+  "distributions": {
+    "categoryCounts": {
+      "cardiac_arrest_rosc": 17,
+      "stroke_neuro_consciousness": 31,
+      "major_trauma_head_injury": 4,
+      "respiratory_failure_airway": 24,
+      "seizure_neurologic": 8,
+      "major_bleeding_gi": 7,
+      "chest_pain_cardiac": 8,
+      "critical_medical_unspecified": 1
+    },
+    "districtCounts": {
+      "종로구": 4,
+      "중구": 4,
+      "용산구": 4,
+      "성동구": 4,
+      "동대문구": 4,
+      "성북구": 4,
+      "강북구": 4,
+      "광진구": 4,
+      "중랑구": 4,
+      "노원구": 4,
+      "은평구": 4,
+      "도봉구": 4,
+      "서대문구": 4,
+      "마포구": 4,
+      "양천구": 4,
+      "강서구": 4,
+      "구로구": 4,
+      "금천구": 4,
+      "영등포구": 4,
+      "동작구": 4,
+      "관악구": 4,
+      "서초구": 4,
+      "강남구": 4,
+      "송파구": 4,
+      "강동구": 4
+    },
+    "zoneCounts": {
+      "central": 12,
+      "east": 20,
+      "north": 12,
+      "outer": 20,
+      "west": 20,
+      "south": 16
+    }
+  },
+  "pipeline": {
+    "succeeded": 100,
+    "failed": 0,
+    "validationFailureCases": 0,
+    "validationWarningCases": 0,
+    "medianLatencyMs": 4498
+  },
+  "stage1": {
+    "medianClinicalFactCount": 8,
+    "medianMissingInfoCount": 7,
+    "lowFactCountCases": []
+  },
+  "stage2": {
+    "incidentTypeCounts": {
+      "cardiac_arrest": 10,
+      "traffic_trauma": 8,
+      "fall_head_injury": 8,
+      "stroke": 15,
+      "cardiac": 17,
+      "respiratory_failure": 20,
+      "gi_bleeding": 6,
+      "seizure": 10,
+      "other_trauma": 5,
+      "fall_orthopedic": 1
+    },
+    "maxTransportTimeCounts": {
+      "10": 4,
+      "15": 19,
+      "20": 41,
+      "30": 36
+    },
+    "severityCounts": {
+      "3": 2,
+      "4": 65,
+      "5": 33
+    }
+  },
+  "ranking": {
+    "succeeded": 100,
+    "skippedOrFailed": 0,
+    "noFeasibleCount": 0,
+    "noFeasibleCaseIds": [],
+    "changedVsNearestCount": 27,
+    "top1BedTierCounts": {
+      "low_risk_6_10": 46,
+      "stable_buffer_gt_10": 37,
+      "medium_risk_3_5": 17
+    },
+    "lowSlackUnder5MinCount": 29,
+    "top1HospitalCounts": {
+      "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)": 6,
+      "한양대학교병원": 14,
+      "국립중앙의료원": 2,
+      "의료법인한전의료재단한일병원": 6,
+      "건국대학교병원": 5,
+      "서울특별시서울의료원": 6,
+      "이화여자대학교의과대학부속목동병원": 9,
+      "강북삼성병원": 7,
+      "가톨릭대학교은평성모병원": 3,
+      "인제대학교상계백병원": 4,
+      "성애의료재단성애병원": 6,
+      "한림대학교강남성심병원": 6,
+      "고려대학교의과대학부속구로병원": 7,
+      "가톨릭대학교여의도성모병원": 2,
+      "의료법인서울효천의료재단에이치플러스양지병원": 4,
+      "순천향대학교부속서울병원": 5,
+      "한국보훈복지의료공단중앙보훈병원": 5,
+      "성심의료재단강동성심병원": 2,
+      "강동경희대학교병원": 1
+    }
+  }
+}

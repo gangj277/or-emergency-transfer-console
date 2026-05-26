@@ -1,0 +1,393 @@
+{
+    "_id": "651e4bfaf12d88de38d49a10",
+    "audioPath": "20230925/Seoul/2022/20220507/converted_[20220507]-[WS1139983097].wav",
+    "recordId": "be0a914890d5c8683fca",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 124320,
+    "utterances": [
+        {
+            "id": "9958127a",
+            "startAt": 229,
+            "endAt": 1104,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "e8e8940f",
+            "startAt": 1926,
+            "endAt": 6086,
+            "text": "여기 저기 즈 gps 좀 떠 주세요, 제가 사람을 쳤어요.",
+            "speaker": 1
+        },
+        {
+            "id": "ff67b4b0",
+            "startAt": 6783,
+            "endAt": 8793,
+            "text": "예 선생님 뭐",
+            "speaker": 0
+        },
+        {
+            "id": "718f6641",
+            "startAt": 8823,
+            "endAt": 10723,
+            "text": "아이 저 둘이서 네?",
+            "speaker": 1
+        },
+        {
+            "id": "0c811bd4",
+            "startAt": 11083,
+            "endAt": 14721,
+            "text": "잘 안 들려요. 주변이 너무 시끄러워서 무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ncrj015121o",
+            "startAt": 14291,
+            "endAt": 14718,
+            "text": "아.",
+            "speaker": 1
+        },
+        {
+            "id": "f91d9a3d",
+            "startAt": 15503,
+            "endAt": 18996,
+            "text": "제가 그 차를 타다가 사람을 쳤어요. 괜찮으세요?",
+            "speaker": 1
+        },
+        {
+            "id": "63f5323d",
+            "startAt": 18103,
+            "endAt": 19683,
+            "text": "차로 사람을 쳤다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "7c1e8dd3",
+            "startAt": 20158,
+            "endAt": 20678,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "230e18be",
+            "startAt": 21058,
+            "endAt": 22818,
+            "text": "몇 명을 몇 명을 쳤어. 1명?",
+            "speaker": 0
+        },
+        {
+            "id": "20a93f3f",
+            "startAt": 23198,
+            "endAt": 24198,
+            "text": "1명이요, 1명.",
+            "speaker": 1
+        },
+        {
+            "id": "2bf467dc",
+            "startAt": 24348,
+            "endAt": 25178,
+            "text": "남자 1명?",
+            "speaker": 0
+        },
+        {
+            "id": "93db5e52",
+            "startAt": 25658,
+            "endAt": 28628,
+            "text": "네, 좀 빨리 와주셔야 될 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_26c4r9rs7so",
+            "startAt": 26916,
+            "endAt": 28307,
+            "text": "그분 상태 어떠세요?",
+            "speaker": 0
+        },
+        {
+            "id": "c635a97f",
+            "startAt": 28684,
+            "endAt": 30158,
+            "text": "예 파악은 해야돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_risklr1cogo",
+            "startAt": 29037,
+            "endAt": 30010,
+            "text": "지금 경 경",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pn5os0elrv8",
+            "startAt": 30637,
+            "endAt": 32046,
+            "text": "의식이 있어요 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oum2jbdtpe8",
+            "startAt": 30694,
+            "endAt": 31994,
+            "text": "경직을 경직이.",
+            "speaker": 1
+        },
+        {
+            "id": "507cc17d",
+            "startAt": 32350,
+            "endAt": 34339,
+            "text": "의식은 있는데 경직 경직이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3psoca1s94",
+            "startAt": 34921,
+            "endAt": 36285,
+            "text": "주소는 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "d31bc823",
+            "startAt": 35341,
+            "endAt": 36258,
+            "text": "괜찮으세요?",
+            "speaker": 1
+        },
+        {
+            "id": "8c033867",
+            "startAt": 37269,
+            "endAt": 40204,
+            "text": "지금 경직 중이에요. 괜찮으세요, 머리 머리에서",
+            "speaker": 1
+        },
+        {
+            "id": "581678a6",
+            "startAt": 39019,
+            "endAt": 41643,
+            "text": "경직중이라는 게 몸이 굳어간다는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "e3870754",
+            "startAt": 41979,
+            "endAt": 42369,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "b129a139",
+            "startAt": 44138,
+            "endAt": 49568,
+            "text": "선생님 주소가 어떻게 되세요, 아니 그 괜찮 선생님 주소를 불러보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r0l0toaud3o",
+            "startAt": 44646,
+            "endAt": 45482,
+            "text": "괜찮으세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_mruehniiatg",
+            "startAt": 48010,
+            "endAt": 48483,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "d41ffa77",
+            "startAt": 50533,
+            "endAt": 53951,
+            "text": "그 아이 여기 주 위치 추적 안 되나요?",
+            "speaker": 1
+        },
+        {
+            "id": "8e1c7b27",
+            "startAt": 54078,
+            "endAt": 57938,
+            "text": "안돼요. 근처에 보이는 간판이라도 얘기를 해봐요.",
+            "speaker": 0
+        },
+        {
+            "id": "ab225da7",
+            "startAt": 59344,
+            "endAt": 60867,
+            "text": "여기 수락산 입구 사거리요.",
+            "speaker": 1
+        },
+        {
+            "id": "5c2a2923",
+            "startAt": 61675,
+            "endAt": 64125,
+            "text": "수락산 입구 사거리 교차로에요, 거기가?",
+            "speaker": 0
+        },
+        {
+            "id": "f1e9bdaa",
+            "startAt": 64495,
+            "endAt": 65275,
+            "text": "네, 네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "b38d75c5",
+            "startAt": 65805,
+            "endAt": 67535,
+            "text": "입구 교차로로 가면 되는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "8d22131f",
+            "startAt": 68035,
+            "endAt": 68742,
+            "text": "네, 네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "0558702b",
+            "startAt": 69738,
+            "endAt": 70187,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "ba189d5e",
+            "startAt": 70081,
+            "endAt": 71953,
+            "text": "머리에 출혈이 심해요, 빨리 와주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "0bd1a354",
+            "startAt": 72387,
+            "endAt": 74937,
+            "text": "아, 뭐, 근데 왜 그 얘기를 안 했어요? 머리 출혈 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "74eae68a",
+            "startAt": 75247,
+            "endAt": 75877,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "90f76b45",
+            "startAt": 77476,
+            "endAt": 81918,
+            "text": "의식은 떨어지고 있어요. 어딨어요? 이미 가고 있어요. 말씀 하시죠.",
+            "speaker": 0
+        },
+        {
+            "id": "b12ca7b7",
+            "startAt": 81324,
+            "endAt": 84599,
+            "text": "네 저 네 숨은 숨은 쉬고 있어요. 괜찮으세요?",
+            "speaker": 1
+        },
+        {
+            "id": "19875778",
+            "startAt": 85884,
+            "endAt": 92014,
+            "text": "선생님 그분에 계속 괜찮냐고 물어보실 필요는 없고 그건 저희 대원이 가서 판단할 거니까.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jdl9fqrohk8",
+            "startAt": 85929,
+            "endAt": 87138,
+            "text": "말씀 못하겠어요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_isirna6a0p",
+            "startAt": 92315,
+            "endAt": 95783,
+            "text": "상황을 잘 설명해주셔야 돼요. 차 아래 깔려있거나 그런 건 아니죠?",
+            "speaker": 0
+        },
+        {
+            "id": "cd120957",
+            "startAt": 96067,
+            "endAt": 97837,
+            "text": "아, 차에 밀쳤어, 밀쳐졌어요.",
+            "speaker": 1
+        },
+        {
+            "id": "4f5788b5",
+            "startAt": 98137,
+            "endAt": 101287,
+            "text": "밀쳐져서 뭐 밟고 지나가거나 그런 건 아니죠?",
+            "speaker": 0
+        },
+        {
+            "id": "d443fc70",
+            "startAt": 101327,
+            "endAt": 102257,
+            "text": "아니에요, 아니에요.",
+            "speaker": 1
+        },
+        {
+            "id": "0cbda770",
+            "startAt": 102437,
+            "endAt": 106898,
+            "text": "그냥 그분은 바깥에 그냥 옆에 있는 거죠. 아래 차 아래 깔려있는 상태는 아니고?",
+            "speaker": 0
+        },
+        {
+            "id": "7dd887d6",
+            "startAt": 107373,
+            "endAt": 107835,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "8d7397bd",
+            "startAt": 108088,
+            "endAt": 111768,
+            "text": "한 차는 가고 있으니까 제 말에만 말씀해 주시면 돼요. 의식은 어때요?",
+            "speaker": 0
+        },
+        {
+            "id": "8da70448",
+            "startAt": 112775,
+            "endAt": 114125,
+            "text": "의식은 지금 아직 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "b6500525",
+            "startAt": 114465,
+            "endAt": 116555,
+            "text": "의식은 있고 숨도 잘 쉬고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "6e305ff0",
+            "startAt": 117363,
+            "endAt": 118003,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "896c02a5",
+            "startAt": 118945,
+            "endAt": 121860,
+            "text": "알겠어요, 지금 가고 있어요, 네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 노원구 상계동",
+    "disasterLarge": "구급",
+    "disasterMedium": "부상",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "기타",
+        "구토"
+    ],
+    "triage": "응급증상"
+}

@@ -1,0 +1,184 @@
+{
+    "_id": "651e4a6ede6495f4e9d36ac0",
+    "audioPath": "20230925/Seoul/2022/20220406/converted_[20220406]-[WR1139818269].wav",
+    "recordId": "6d20d6785b28fa474d55",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 41880,
+    "utterances": [
+        {
+            "id": "wavesurfer_6ruul0upi48",
+            "startAt": 245,
+            "endAt": 763,
+            "text": "다.",
+            "speaker": 0
+        },
+        {
+            "id": "1d11d682",
+            "startAt": 1327,
+            "endAt": 2379,
+            "text": "예, 저기 그 자양동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_q8qrkregeio",
+            "startAt": 2436,
+            "endAt": 4008,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kg60h0c8aho",
+            "startAt": 4226,
+            "endAt": 4708,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "eb7fa62f",
+            "startAt": 4475,
+            "endAt": 5881,
+            "text": "서울 광진구 자양동.",
+            "speaker": 1
+        },
+        {
+            "id": "01139ce8",
+            "startAt": 6241,
+            "endAt": 6749,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "bdd5897c",
+            "startAt": 7161,
+            "endAt": 11805,
+            "text": "예, 근데 여기 어떤 아저씨가 길에서 지금 쓰러져서 머리에 피 흘리고 계신데 경기하고 계시거든요. ",
+            "speaker": 1
+        },
+        {
+            "id": "7ee39257",
+            "startAt": 11885,
+            "endAt": 14420,
+            "text": "아, 그 남자분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "0a9a2675",
+            "startAt": 14944,
+            "endAt": 15619,
+            "text": "예, 예. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "a7948004",
+            "startAt": 15514,
+            "endAt": 16755,
+            "text": "전혀 모르신 분이고요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_2a2mtibppog",
+            "startAt": 16977,
+            "endAt": 17632,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a16dvjcbom",
+            "startAt": 17083,
+            "endAt": 18310,
+            "text": "할아버지예요? 할아버지?",
+            "speaker": 0
+        },
+        {
+            "id": "336045ee",
+            "startAt": 18783,
+            "endAt": 20521,
+            "text": "예, 한 한 50대 후반 정도.",
+            "speaker": 1
+        },
+        {
+            "id": "beb7bc8c",
+            "startAt": 20754,
+            "endAt": 22819,
+            "text": "아, 남자분이고 쓰러져 있고.",
+            "speaker": 0
+        },
+        {
+            "id": "b174dd89",
+            "startAt": 23129,
+            "endAt": 25943,
+            "text": "예, 지금 숨 숨 쉬는 건 보여요, 근데 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tfq96kjq0p",
+            "startAt": 23661,
+            "endAt": 24751,
+            "text": "경련",
+            "speaker": 0
+        },
+        {
+            "id": "34f6e49a",
+            "startAt": 26403,
+            "endAt": 28956,
+            "text": "음, 전혀 모르신 분이고요?",
+            "speaker": 0
+        },
+        {
+            "id": "5bd04112",
+            "startAt": 29235,
+            "endAt": 31585,
+            "text": "예, 현장 관리자는 아닌 거 같고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_scerpcabbe8",
+            "startAt": 31652,
+            "endAt": 32152,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "600f53a7",
+            "startAt": 32375,
+            "endAt": 36238,
+            "text": "일단은 차 나갔는데요. 그 한 그 환자분 옆에 가실 수 있겠어요?",
+            "speaker": 0
+        },
+        {
+            "id": "84808a62",
+            "startAt": 36451,
+            "endAt": 37451,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "6aa09e0f",
+            "startAt": 37420,
+            "endAt": 40145,
+            "text": "아, 그러면 잠시만 간호사분 연결해드릴 테니까 전화 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "d9c2aef6",
+            "startAt": 40565,
+            "endAt": 40895,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 광진구 자양동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "그 밖의출혈",
+        "경련/발작"
+    ],
+    "triage": "응급증상"
+}

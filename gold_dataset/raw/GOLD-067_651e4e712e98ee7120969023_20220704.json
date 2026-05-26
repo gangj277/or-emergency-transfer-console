@@ -1,0 +1,225 @@
+{
+    "_id": "651e4e712e98ee7120969023",
+    "audioPath": "20230925/Seoul/2022/20220704/converted_[20220704]-[WU1140310569].wav",
+    "recordId": "2e0075145923d3164417",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 60960,
+    "utterances": [
+        {
+            "id": "77b06267",
+            "startAt": 159,
+            "endAt": 935,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "7e7629c0",
+            "startAt": 2915,
+            "endAt": 8273,
+            "text": "네, 여기 요양원인데요. 오컬드 센터라고 여기, 오컬드 아파트 건너편에 있는.",
+            "speaker": 1
+        },
+        {
+            "id": "7459827e",
+            "startAt": 7835,
+            "endAt": 9346,
+            "text": "주소 좀 알려주시겠습니까?",
+            "speaker": 0
+        },
+        {
+            "id": "e57e68b8",
+            "startAt": 9305,
+            "endAt": 12495,
+            "text": "네, 아, 광진구 아차산로.",
+            "speaker": 1
+        },
+        {
+            "id": "a6ad9711",
+            "startAt": 12401,
+            "endAt": 12996,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "8c4c5a2c",
+            "startAt": 13408,
+            "endAt": 16358,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "266c04d7",
+            "startAt": 16581,
+            "endAt": 17840,
+            "text": "예, 대오빌딩",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cpglkpqt2m8",
+            "startAt": 17839,
+            "endAt": 19284,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "2333514e",
+            "startAt": 19347,
+            "endAt": 20181,
+            "text": "요양원.",
+            "speaker": 0
+        },
+        {
+            "id": "e9b5e5e3",
+            "startAt": 20541,
+            "endAt": 21481,
+            "text": "네, 네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "fd429824",
+            "startAt": 21239,
+            "endAt": 22681,
+            "text": "네, 어, 근데요?",
+            "speaker": 0
+        },
+        {
+            "id": "0be689cf",
+            "startAt": 23741,
+            "endAt": 25683,
+            "text": "아, 어르신이 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "9417fd0b",
+            "startAt": 26741,
+            "endAt": 27588,
+            "text": "할아버지?",
+            "speaker": 0
+        },
+        {
+            "id": "d64ce97c",
+            "startAt": 27086,
+            "endAt": 30175,
+            "text": "예, 잠깐만요, 예, 가정사 선생님 바꿔드릴게요.",
+            "speaker": 1
+        },
+        {
+            "id": "05df15e2",
+            "startAt": 29916,
+            "endAt": 30467,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "926d5c0f",
+            "startAt": 30442,
+            "endAt": 31223,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "c33b5787",
+            "startAt": 31259,
+            "endAt": 32079,
+            "text": "할아버지?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m9um1o8qfq8",
+            "startAt": 31680,
+            "endAt": 32525,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qo4e0119c5",
+            "startAt": 32485,
+            "endAt": 33612,
+            "text": "예, 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_l3k1n69rabg",
+            "startAt": 33620,
+            "endAt": 35211,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_khcqvdbiqrg",
+            "startAt": 35167,
+            "endAt": 36676,
+            "text": "91세시구요.",
+            "speaker": 1
+        },
+        {
+            "id": "ed14099f",
+            "startAt": 36866,
+            "endAt": 43647,
+            "text": "산소포화도가 59, 60 나오구요. 심장이 120대로 뛰면서 심실 세동이 와요.",
+            "speaker": 1
+        },
+        {
+            "id": "b3ee2115",
+            "startAt": 43631,
+            "endAt": 44223,
+            "text": "예, 예?",
+            "speaker": 0
+        },
+        {
+            "id": "b5bada87",
+            "startAt": 44830,
+            "endAt": 46347,
+            "text": "심실 세동도 온다고요.",
+            "speaker": 1
+        },
+        {
+            "id": "1f1fa9d6",
+            "startAt": 46689,
+            "endAt": 47393,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d5415ivj84g",
+            "startAt": 47366,
+            "endAt": 48039,
+            "text": "대기.",
+            "speaker": 1
+        },
+        {
+            "id": "e37887fd",
+            "startAt": 48443,
+            "endAt": 54702,
+            "text": "맥박이 120, 130 뛰면서 심실 세동도 온다고요. 빨리 와주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "33192f69",
+            "startAt": 54605,
+            "endAt": 59935,
+            "text": "차 나갔어요, 나갔고, 우리 저기 가는 동안 의료지도 연결할게요. 전화 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "a2169d02",
+            "startAt": 60138,
+            "endAt": 60891,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 광진구 광장동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "의식장애",
+        "호흡곤란"
+    ],
+    "triage": "응급증상"
+}

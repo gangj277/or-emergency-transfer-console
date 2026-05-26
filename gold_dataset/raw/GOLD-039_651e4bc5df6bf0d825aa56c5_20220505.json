@@ -1,0 +1,190 @@
+{
+    "_id": "651e4bc5df6bf0d825aa56c5",
+    "audioPath": "20230925/Seoul/2022/20220505/converted_[20220505]-[WS1139970198].wav",
+    "recordId": "de168487180026de77c6",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 63600,
+    "utterances": [
+        {
+            "id": "bd15155c",
+            "startAt": 2158,
+            "endAt": 3588,
+            "text": "네, 119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "0abc936c",
+            "startAt": 3733,
+            "endAt": 4753,
+            "text": "네, 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "a840ad41",
+            "startAt": 4918,
+            "endAt": 6378,
+            "text": "네, 119입니다. 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "c230ef6e",
+            "startAt": 6335,
+            "endAt": 7457,
+            "text": "네, 여기 마양로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s1mkijl3e5o",
+            "startAt": 7483,
+            "endAt": 8974,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_efuhb51pvno",
+            "startAt": 9251,
+            "endAt": 9696,
+            "text": "마",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kbrv4omfpr8",
+            "startAt": 9624,
+            "endAt": 10933,
+            "text": "건영아파트고요.",
+            "speaker": 1
+        },
+        {
+            "id": "57639c92",
+            "startAt": 11078,
+            "endAt": 12048,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u4knsg27s8o",
+            "startAt": 13003,
+            "endAt": 14657,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6c5voqb173o",
+            "startAt": 14674,
+            "endAt": 15175,
+            "text": "건영아파트",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lcjuri2ijg",
+            "startAt": 15182,
+            "endAt": 18310,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1s5labie25g",
+            "startAt": 18320,
+            "endAt": 22107,
+            "text": "예, 어머니께서 장애2급 뇌병변이신데",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kaf3k3b5k7o",
+            "startAt": 22131,
+            "endAt": 22559,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "53a3ceda",
+            "startAt": 22458,
+            "endAt": 30770,
+            "text": "며칠 전에 뇌 어 몇 아 한 달 전에 뇌출혈도 있으셨고요. 지금 약간 상태가 이상하셔서 조금만 빨리 좀 와주세요.",
+            "speaker": 1
+        },
+        {
+            "id": "b5085d1b",
+            "startAt": 30740,
+            "endAt": 35054,
+            "text": "구급차 보내드렸고요. 어머님, 지금 뭐 마 마비 증상이 온 거예요, 아니면",
+            "speaker": 0
+        },
+        {
+            "id": "ffdc6bcc",
+            "startAt": 34840,
+            "endAt": 38063,
+            "text": "어 예, 마비 증상이 오셔서요. 지금 의식는 있는데 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t5tdd2evrq8",
+            "startAt": 36841,
+            "endAt": 37504,
+            "text": "의식은",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_poq7u2t1di",
+            "startAt": 38247,
+            "endAt": 38902,
+            "text": "예",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hq02ikst4q",
+            "startAt": 38465,
+            "endAt": 42966,
+            "text": "예 예, 지금 예 뭐 어떻게 몸을 못 가누셔서 예 좀 부탁 좀 드릴게요.",
+            "speaker": 1
+        },
+        {
+            "id": "a1590cf1",
+            "startAt": 41200,
+            "endAt": 48246,
+            "text": "예, 구급차 어 이제 구급차 보내드렸고요. 어머니 열이 있거나 확진 되거나 격리하신 분 아니시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "2bc3ffe3",
+            "startAt": 48379,
+            "endAt": 50783,
+            "text": "예 예, 그 아니에요. 코로나는 지나가셨어요.",
+            "speaker": 1
+        },
+        {
+            "id": "67b7c6f1",
+            "startAt": 51260,
+            "endAt": 54924,
+            "text": "구급차 추, 출동했으니깐요, 조금만 기다리고 전화 잘 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "bb22f911",
+            "startAt": 55045,
+            "endAt": 56548,
+            "text": "네네, 알겠습니다, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_e2ulso0ia2",
+            "startAt": 60289,
+            "endAt": 60789,
+            "text": "응.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 동작구 노량진동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "마비"
+    ],
+    "triage": "응급증상"
+}

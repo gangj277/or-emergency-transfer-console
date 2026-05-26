@@ -1,0 +1,247 @@
+{
+    "_id": "651e4a3786dc055ca8bf4823",
+    "audioPath": "20230925/Seoul/2022/20220307/converted_[20220307]-[WQ1139621024].wav",
+    "recordId": "49fddebb0bbcccb9c3b8",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 78960,
+    "utterances": [
+        {
+            "id": "2144a9b6",
+            "startAt": 247,
+            "endAt": 1771,
+            "text": "119입니다. 말씀하세요.",
+            "speaker": 0
+        },
+        {
+            "id": "3f2f1c96",
+            "startAt": 1758,
+            "endAt": 4510,
+            "text": "아 예, 여기 할아버지 한 분이 쓰러지셔 가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "2f2da05f",
+            "startAt": 4771,
+            "endAt": 6986,
+            "text": "잠시만요. 쓰러져 계신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "28cf9c55",
+            "startAt": 7141,
+            "endAt": 7942,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "c322825a",
+            "startAt": 8543,
+            "endAt": 10519,
+            "text": "혹시 뭐 의식이나 호흡은 있어 보이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "9d5c281a",
+            "startAt": 12366,
+            "endAt": 14382,
+            "text": "의식은 없으신 거 같은데요.",
+            "speaker": 1
+        },
+        {
+            "id": "cfdad26a",
+            "startAt": 14312,
+            "endAt": 15084,
+            "text": "숨은요?",
+            "speaker": 0
+        },
+        {
+            "id": "e3b9663b",
+            "startAt": 15997,
+            "endAt": 18084,
+            "text": "숨은 쉬시는 거죠. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "c4f7a644",
+            "startAt": 18911,
+            "endAt": 21217,
+            "text": "뭐 피가 나거나 그런 흔적도 없어 보이시구요?",
+            "speaker": 0
+        },
+        {
+            "id": "90f630b6",
+            "startAt": 21233,
+            "endAt": 24960,
+            "text": "네, 네. 계단에서 내려오시다가 쓰러지신 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "d62dd87f",
+            "startAt": 26304,
+            "endAt": 28217,
+            "text": "자, 저희가 어디로 가면 될까요?",
+            "speaker": 0
+        },
+        {
+            "id": "e99ac369",
+            "startAt": 28457,
+            "endAt": 31645,
+            "text": "저기 역촌 서울 역촌초등학교.",
+            "speaker": 1
+        },
+        {
+            "id": "484078d5",
+            "startAt": 31873,
+            "endAt": 32426,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "f9d793bc",
+            "startAt": 32944,
+            "endAt": 35646,
+            "text": "그 정 정문 근처에.",
+            "speaker": 1
+        },
+        {
+            "id": "a6f78dc2",
+            "startAt": 36109,
+            "endAt": 40024,
+            "text": "자, 선생님, 그 혹시 뭐 빌라 이름이나 앞에 주소 같은 거 하나 불러주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "674356d0",
+            "startAt": 40658,
+            "endAt": 43516,
+            "text": "여기 미래창조 학원이라는 건물이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "11a7935f",
+            "startAt": 43328,
+            "endAt": 45820,
+            "text": "잠시만 미 미래.",
+            "speaker": 0
+        },
+        {
+            "id": "8f32d776",
+            "startAt": 44994,
+            "endAt": 46970,
+            "text": "미래 창조 학원.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ssgtq56un8o",
+            "startAt": 45834,
+            "endAt": 47061,
+            "text": "창조학원?",
+            "speaker": 0
+        },
+        {
+            "id": "cfd5532d",
+            "startAt": 47863,
+            "endAt": 49365,
+            "text": "아, 미래 창조 학원.",
+            "speaker": 0
+        },
+        {
+            "id": "ae17882d",
+            "startAt": 49485,
+            "endAt": 50650,
+            "text": "은평로 3길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_919v8pek9hg",
+            "startAt": 50643,
+            "endAt": 51479,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_am60rtfssp8",
+            "startAt": 51497,
+            "endAt": 54088,
+            "text": "예. 미래 창조학원 앞으로 가면 되나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lob7ipsj3g8",
+            "startAt": 54279,
+            "endAt": 55633,
+            "text": "네네 은평로 3길.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rcoecgalrpg",
+            "startAt": 55625,
+            "endAt": 56806,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "144da34b",
+            "startAt": 56804,
+            "endAt": 57839,
+            "text": "창조학원.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4vabh9f479",
+            "startAt": 57780,
+            "endAt": 59543,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "1f4e2ab5",
+            "startAt": 59549,
+            "endAt": 61624,
+            "text": "바로 입구 계단이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "9614b55b",
+            "startAt": 63060,
+            "endAt": 65400,
+            "text": "신고자분 그냥 지나가시다 보고 신고하신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "a1cba5a5",
+            "startAt": 65184,
+            "endAt": 66450,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "6a844c04",
+            "startAt": 67557,
+            "endAt": 76600,
+            "text": "예, 알겠습니다. 저희 대원들 한번 나가볼게요. 근데 그 인근에 구급차가 없어서 양천구 쪽에서 나갑니다. 시간이 좀 많이 걸립니다. 경찰도 같이 내보낼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "9a4849a7",
+            "startAt": 76472,
+            "endAt": 77330,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 은평구 역촌동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "기타",
+        "구토"
+    ],
+    "triage": "응급증상"
+}

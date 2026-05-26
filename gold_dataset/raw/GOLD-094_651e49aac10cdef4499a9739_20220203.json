@@ -1,0 +1,163 @@
+{
+    "_id": "651e49aac10cdef4499a9739",
+    "audioPath": "20230925/Seoul/2022/20220203/converted_[20220203]-[WP1139435762].wav",
+    "recordId": "bfa7a88368d933452d5b",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 50880,
+    "utterances": [
+        {
+            "id": "30745201",
+            "startAt": 2025,
+            "endAt": 2924,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5f31h1i1q9o",
+            "startAt": 3319,
+            "endAt": 5755,
+            "text": "네, 안녕하세요. 저기 그 주소가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_et3au4qht78",
+            "startAt": 6019,
+            "endAt": 8574,
+            "text": "천호대로 134길",
+            "speaker": 1
+        },
+        {
+            "id": "8293103f",
+            "startAt": 8593,
+            "endAt": 9713,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "71dcad94",
+            "startAt": 10146,
+            "endAt": 11638,
+            "text": "예. 몇 호 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mft67nnlugg",
+            "startAt": 10681,
+            "endAt": 11626,
+            "text": "저희 엄",
+            "speaker": 1
+        },
+        {
+            "id": "3675d5c5",
+            "startAt": 12077,
+            "endAt": 13468,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "0e5addfa",
+            "startAt": 14938,
+            "endAt": 15521,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "37d79615",
+            "startAt": 15908,
+            "endAt": 18273,
+            "text": "저희 어머니가 항암 치료 중이신데.",
+            "speaker": 1
+        },
+        {
+            "id": "e5df0b53",
+            "startAt": 18725,
+            "endAt": 19823,
+            "text": "무슨 암 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "fa21528c",
+            "startAt": 20291,
+            "endAt": 20977,
+            "text": "어떤 거요?",
+            "speaker": 1
+        },
+        {
+            "id": "74c44233",
+            "startAt": 21339,
+            "endAt": 22543,
+            "text": "무슨 암 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "89089d82",
+            "startAt": 22640,
+            "endAt": 26806,
+            "text": "항암치료 어, 유방, 융암, 유방암 1기 거 1기시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "dc49e52f",
+            "startAt": 26861,
+            "endAt": 27465,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7bm87v50ba",
+            "startAt": 27882,
+            "endAt": 32446,
+            "text": "근데 지금 갑자기 그 심장 쪽이 조금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n1pskomarm",
+            "startAt": 33575,
+            "endAt": 41067,
+            "text": "맥 맥박이 뛰면서 등에 있는 척추 쪽이 아프시다 그러고 지금 약간 숨쉬기 힘들어하시는 상황이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cpj0rifi19g",
+            "startAt": 42070,
+            "endAt": 42633,
+            "text": "응",
+            "speaker": 0
+        },
+        {
+            "id": "1e65fae4",
+            "startAt": 44050,
+            "endAt": 48370,
+            "text": "제가 지금 구급차 보낼 거고요. 구급대원이 가면서 전화할 겁니다. 전화 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "c9a1fce9",
+            "startAt": 48423,
+            "endAt": 49024,
+            "text": "네, 알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "91b76878",
+            "startAt": 49379,
+            "endAt": 50040,
+            "text": "예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 광진구 구의동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "기타통증",
+        "기타"
+    ],
+    "triage": "잠재응급증상"
+}

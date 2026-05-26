@@ -1,0 +1,364 @@
+{
+    "_id": "651e4f9dddc447a009945578",
+    "audioPath": "20230925/Seoul/2022/20220904/converted_[20220904]-[WW1140749821].wav",
+    "recordId": "078b798e201a8147fb84",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 119160,
+    "utterances": [
+        {
+            "id": "473d3871",
+            "startAt": 519,
+            "endAt": 2237,
+            "text": "네, 119입니다, ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_69qjkd4qcmg",
+            "startAt": 3791,
+            "endAt": 5555,
+            "text": "여보세요 119입니다. 말씀하세요,",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ffp3ffbj75g",
+            "startAt": 5700,
+            "endAt": 6964,
+            "text": "119라 그러는데?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7ecl9p1svdg",
+            "startAt": 6964,
+            "endAt": 7800,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "8e008914",
+            "startAt": 8521,
+            "endAt": 9341,
+            "text": "아 예, 예. 저",
+            "speaker": 1
+        },
+        {
+            "id": "eff6f2d5",
+            "startAt": 9391,
+            "endAt": 10888,
+            "text": "예, 119예요. 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ftph0vhgkoo",
+            "startAt": 9749,
+            "endAt": 10813,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "9862f677",
+            "startAt": 11401,
+            "endAt": 15140,
+            "text": "아 예, 그까 애 호흡이 전혀 안되는데 애가",
+            "speaker": 1
+        },
+        {
+            "id": "84608068",
+            "startAt": 15056,
+            "endAt": 17686,
+            "text": "아버님 여보세요, 잘 안 들려요, 여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "34c3d016",
+            "startAt": 17681,
+            "endAt": 18540,
+            "text": "잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "f790d56f",
+            "startAt": 18491,
+            "endAt": 19051,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "72e55be3",
+            "startAt": 20092,
+            "endAt": 21102,
+            "text": "예, 들리십니까?",
+            "speaker": 1
+        },
+        {
+            "id": "63ceaf2f",
+            "startAt": 21192,
+            "endAt": 22322,
+            "text": "예, 잘 들립니다.",
+            "speaker": 0
+        },
+        {
+            "id": "bf6a95e4",
+            "startAt": 22712,
+            "endAt": 30186,
+            "text": "아 예, 저 방금 저희 호흡기 장애인 애가 있는데 산소포화도가 갑자기 40대까지 떨어져갖고 바로 전화했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "1064d23e",
+            "startAt": 30125,
+            "endAt": 31663,
+            "text": "예, 잠시만요. 의식은 어때요?",
+            "speaker": 0
+        },
+        {
+            "id": "07ab1913",
+            "startAt": 32012,
+            "endAt": 35952,
+            "text": "아, 지금 근데 의식이 없어 갖고 연락했던지 방금 애가 괜찮아졌어요.",
+            "speaker": 1
+        },
+        {
+            "id": "04f87e8a",
+            "startAt": 36671,
+            "endAt": 38901,
+            "text": "아, 이미 신고를 한 번 했었단 얘긴가요, 그러면은?",
+            "speaker": 0
+        },
+        {
+            "id": "92998a10",
+            "startAt": 39181,
+            "endAt": 43261,
+            "text": "아 예, 그니까 신고 지금 전화하는 도중에 애가 갑자기 의식이 돌아와갖고.",
+            "speaker": 1
+        },
+        {
+            "id": "36de0b52",
+            "startAt": 43249,
+            "endAt": 47246,
+            "text": "아, 그래도 저기 한번 확인해봐야 될 거 같애요. 산소 포도가 40% 까지 떨어졌으면은",
+            "speaker": 0
+        },
+        {
+            "id": "15a55808",
+            "startAt": 47012,
+            "endAt": 50986,
+            "text": "어 예, 그래서 죄송한데 한번만 한번 와주시면은 감사할 거 같습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "aa8dc083",
+            "startAt": 49534,
+            "endAt": 52322,
+            "text": "예 예, 애기 몇 살이에요, 애기?",
+            "speaker": 0
+        },
+        {
+            "id": "40dc71b8",
+            "startAt": 52801,
+            "endAt": 54871,
+            "text": "애기 지금 31개월이요, 3살입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "a5769529",
+            "startAt": 55111,
+            "endAt": 58717,
+            "text": "3살. 평상시에 산소 호흡기 하고 있다는거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_amqa9do39d",
+            "startAt": 56134,
+            "endAt": 56852,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "219f71a6",
+            "startAt": 59217,
+            "endAt": 66530,
+            "text": "아 예, 잘 때 얘가 그 그 목에 이제 그 케닐라라 그래갖고 보조장치 하고 있는 앤데.",
+            "speaker": 1
+        },
+        {
+            "id": "3320d96c",
+            "startAt": 66487,
+            "endAt": 67157,
+            "text": "아.",
+            "speaker": 0
+        },
+        {
+            "id": "4cf5adc5",
+            "startAt": 67427,
+            "endAt": 72145,
+            "text": "예, 그 잘 때 보통 이렇게 저희가 벤트 할라고 이렇게 호흡 보조기 끼고 자거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "5af2f40e",
+            "startAt": 71757,
+            "endAt": 74694,
+            "text": "네, 알겠습니다. 아버님 주소 주소 좀 말씀해주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "1b859296",
+            "startAt": 75118,
+            "endAt": 77363,
+            "text": "예, 여기 길음 그",
+            "speaker": 1
+        },
+        {
+            "id": "8e046aa7",
+            "startAt": 77589,
+            "endAt": 78097,
+            "text": "예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "82d6be72",
+            "startAt": 78073,
+            "endAt": 78738,
+            "text": "잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kjl0q01hbdg",
+            "startAt": 81070,
+            "endAt": 81980,
+            "text": "아, 잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "af275b63",
+            "startAt": 82108,
+            "endAt": 83668,
+            "text": "아, 천 천천히 하세요, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "fe5d8ee0",
+            "startAt": 84278,
+            "endAt": 90828,
+            "text": "예, 여기 지금 그 길음 레미안 1차인데 길음로 9길 불러드릴게요. 기름로 9 길.",
+            "speaker": 1
+        },
+        {
+            "id": "0eb1d598",
+            "startAt": 90858,
+            "endAt": 91268,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "df474b9c",
+            "startAt": 91498,
+            "endAt": 92108,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "cd2c0dfb",
+            "startAt": 92234,
+            "endAt": 92819,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "1f74516b",
+            "startAt": 93243,
+            "endAt": 98382,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "67363fa2",
+            "startAt": 98658,
+            "endAt": 99576,
+            "text": "예 예.",
+            "speaker": 1
+        },
+        {
+            "id": "8daa7eb5",
+            "startAt": 98906,
+            "endAt": 102772,
+            "text": "알겠습니다. 예, 아버님, 일단 애기 의식은 좀 지금 돌아왔다는 거죠? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jud59nc91f8",
+            "startAt": 102902,
+            "endAt": 104838,
+            "text": "예 예 돌아왔습니다. 예. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6panc6iacio",
+            "startAt": 103605,
+            "endAt": 105614,
+            "text": "지금도 산소 포화도 40% 대에요?",
+            "speaker": 0
+        },
+        {
+            "id": "ba4c49a6",
+            "startAt": 106279,
+            "endAt": 112156,
+            "text": "아뇨, 지금은 그 저희가 산소를 지금 주고 있어 또 기계해서 그랬더니 사실 100으로 유지중이긴 하는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n5b2889ikg8",
+            "startAt": 110989,
+            "endAt": 112671,
+            "text": "아, 100 으로 올라왔어요?",
+            "speaker": 0
+        },
+        {
+            "id": "f4874e65",
+            "startAt": 112777,
+            "endAt": 115994,
+            "text": "아, 알겠습니다. 저희 가서 한번 출동해서 한번 확인해볼게요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_n73h8rc80fo",
+            "startAt": 112853,
+            "endAt": 113598,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "601c4646",
+            "startAt": 115969,
+            "endAt": 117230,
+            "text": "예 예, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sfrcnhmfuv8",
+            "startAt": 117080,
+            "endAt": 117817,
+            "text": "예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o52n6dn90do",
+            "startAt": 117826,
+            "endAt": 118480,
+            "text": "예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 성북구 길음동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "호흡곤란"
+    ],
+    "triage": "준응급증상"
+}

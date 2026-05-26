@@ -1,0 +1,434 @@
+{
+    "_id": "651e4dfb2795332cde28f182",
+    "audioPath": "20230925/Seoul/2022/20220703/converted_[20220703]-[WU1140304337].wav",
+    "recordId": "bcdc752ceadfdfe1dffd",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 139080,
+    "utterances": [
+        {
+            "id": "8b9df0fd",
+            "startAt": 863,
+            "endAt": 1413,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "216a902d",
+            "startAt": 1813,
+            "endAt": 4319,
+            "text": "예, 여기 저기. 대방동 종오 아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5793dek6cko",
+            "startAt": 4291,
+            "endAt": 5664,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "5d7ed6ff",
+            "startAt": 5670,
+            "endAt": 7315,
+            "text": "천천히 주공 아파트요? 주공?",
+            "speaker": 0
+        },
+        {
+            "id": "ba8583c8",
+            "startAt": 7393,
+            "endAt": 9224,
+            "text": "대방동, 주공아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "6037e990",
+            "startAt": 8263,
+            "endAt": 9890,
+            "text": "주공아파트, 에.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bfvde6emgho",
+            "startAt": 9909,
+            "endAt": 11763,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "db0cfb4a",
+            "startAt": 11758,
+            "endAt": 12709,
+            "text": "무슨 일이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f6n1k5o5glg",
+            "startAt": 12336,
+            "endAt": 14945,
+            "text": "지금 어른이 쓰러지셔서, 지금 의식이 없으신거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o4913hk5jfo",
+            "startAt": 14078,
+            "endAt": 16169,
+            "text": "아, 아시, 아시는 분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4e0vadjr8k8",
+            "startAt": 16736,
+            "endAt": 17373,
+            "text": "에, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "06e75683",
+            "startAt": 17377,
+            "endAt": 18877,
+            "text": "남서, 남자분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "f3911cc0",
+            "startAt": 19422,
+            "endAt": 20802,
+            "text": "에? 아니, 아니 여자분이요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_t1peg5e2vd",
+            "startAt": 21018,
+            "endAt": 22391,
+            "text": "의식 있어요, 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lt605ibuuh8",
+            "startAt": 21456,
+            "endAt": 23547,
+            "text": "숨은, 숨은 네, 숨만 쉬시는데.",
+            "speaker": 1
+        },
+        {
+            "id": "2a5f5551",
+            "startAt": 23767,
+            "endAt": 24922,
+            "text": "아, 숨은 쉬고 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "d9b2aea9",
+            "startAt": 25107,
+            "endAt": 26511,
+            "text": "예 예, 의식이 없으세요.",
+            "speaker": 1
+        },
+        {
+            "id": "eedcc240",
+            "startAt": 25933,
+            "endAt": 30523,
+            "text": "음음, 끊지 말아보세요, 아신, 그 그 신고하신 분은 어떻게 아시는 분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "96e49bc1",
+            "startAt": 30717,
+            "endAt": 31317,
+            "text": "에, 예?",
+            "speaker": 1
+        },
+        {
+            "id": "85e84d68",
+            "startAt": 31537,
+            "endAt": 32967,
+            "text": "어떻게 아시는 분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "73a8965f",
+            "startAt": 33221,
+            "endAt": 33931,
+            "text": "아, 며느리에요.",
+            "speaker": 1
+        },
+        {
+            "id": "8b79210c",
+            "startAt": 34301,
+            "endAt": 35151,
+            "text": "아, 며느리에요.",
+            "speaker": 0
+        },
+        {
+            "id": "22819fba",
+            "startAt": 35453,
+            "endAt": 36802,
+            "text": "예, 맥은 뛰거든요, 지금?",
+            "speaker": 1
+        },
+        {
+            "id": "4c34b4da",
+            "startAt": 36848,
+            "endAt": 39481,
+            "text": "예, 끊지 말아보세요. 코로나 환자 집에 있어요, 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "fbebb310",
+            "startAt": 39881,
+            "endAt": 40118,
+            "text": "에?",
+            "speaker": 1
+        },
+        {
+            "id": "0242ea95",
+            "startAt": 40641,
+            "endAt": 42432,
+            "text": "코로나 환자 집에 있어요, 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_31hh9flrneg",
+            "startAt": 41903,
+            "endAt": 42885,
+            "text": "아니, 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7tur2455v7g",
+            "startAt": 43369,
+            "endAt": 44796,
+            "text": "주공아파트 맞죠?",
+            "speaker": 0
+        },
+        {
+            "id": "16dc2e5b",
+            "startAt": 44941,
+            "endAt": 46016,
+            "text": "예에, 1단지.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c8kql2je75",
+            "startAt": 45527,
+            "endAt": 46018,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8emukffjnog",
+            "startAt": 46121,
+            "endAt": 47548,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_oe1rfh0fpt",
+            "startAt": 47818,
+            "endAt": 48345,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "cd31e391",
+            "startAt": 48149,
+            "endAt": 51777,
+            "text": "에, 차는 가고 있고요, 한번 흔들어보세요. 눈 뜨나 안 뜨나.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hdam85nmue8",
+            "startAt": 53957,
+            "endAt": 56048,
+            "text": "엄마, 엄마.",
+            "speaker": 1
+        },
+        {
+            "id": "2f51dce8",
+            "startAt": 57076,
+            "endAt": 58321,
+            "text": "아니요, 눈을 안 뜨시는데.",
+            "speaker": 1
+        },
+        {
+            "id": "50bf6d8d",
+            "startAt": 58317,
+            "endAt": 60367,
+            "text": "눈은 안뜨고, 저 숨 쉬고 있는 거 맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "3cf73b75",
+            "startAt": 59859,
+            "endAt": 64206,
+            "text": "네네, 예, 근데 피를 토하신 거, 입에 이렇게 피 마른 작국 같은 게 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "897d0187",
+            "startAt": 64900,
+            "endAt": 67969,
+            "text": "그니 피가 피가 입에, 뭐 막 피 토한 자국이 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "9542dabc",
+            "startAt": 66472,
+            "endAt": 70550,
+            "text": "네네네, 앞에, 이렇게 약간 말라 가지고, 가루처럼 이렇게 입에.",
+            "speaker": 1
+        },
+        {
+            "id": "33767bdc",
+            "startAt": 71150,
+            "endAt": 72391,
+            "text": "아, 토혈한 거 같다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "ad4e5c37",
+            "startAt": 72600,
+            "endAt": 75920,
+            "text": "어, 입에 지금 보이는 게, 저 이게, 겉으로 흐르지는 않았고.",
+            "speaker": 1
+        },
+        {
+            "id": "4e196fda",
+            "startAt": 73676,
+            "endAt": 74198,
+            "text": "에에.",
+            "speaker": 0
+        },
+        {
+            "id": "5588d994",
+            "startAt": 76083,
+            "endAt": 78859,
+            "text": "네, 그니까 그면 나갔다 들어왔는데 지금 그렇게 발견된 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "194e8c5f",
+            "startAt": 79306,
+            "endAt": 83664,
+            "text": "아, 지금 저기 연락이 안 돼 가지고. 와봤는, 네, 딱 혼자, 네에.",
+            "speaker": 1
+        },
+        {
+            "id": "f079f10a",
+            "startAt": 81470,
+            "endAt": 82960,
+            "text": "왔는데 그렇게 된다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "520765cf",
+            "startAt": 83650,
+            "endAt": 86080,
+            "text": "에, 제가 의료지도 연결할 거예요. 끊지 말아 보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "7720b6b6",
+            "startAt": 86460,
+            "endAt": 86770,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "7de83bb4",
+            "startAt": 87068,
+            "endAt": 88564,
+            "text": "예, 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "326d6381",
+            "startAt": 102432,
+            "endAt": 103112,
+            "text": "어머니.",
+            "speaker": 1
+        },
+        {
+            "id": "359f90cb",
+            "startAt": 104223,
+            "endAt": 104716,
+            "text": "엄마.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j8uq79eml1o",
+            "startAt": 107935,
+            "endAt": 108417,
+            "text": "엄마.",
+            "speaker": 1
+        },
+        {
+            "id": "a959fa03",
+            "startAt": 110756,
+            "endAt": 114611,
+            "text": "이를, 어 안되나, 지혈 같은, 지혈.",
+            "speaker": 1
+        },
+        {
+            "id": "f3b41f97",
+            "startAt": 125301,
+            "endAt": 126408,
+            "text": "예, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "581367da",
+            "startAt": 126630,
+            "endAt": 127299,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "ae25cdb8",
+            "startAt": 127497,
+            "endAt": 133032,
+            "text": "지금 의료지도 부서가 다 통화 중이어서 제가 전화드리라고 할 건데 전화 바로 받으셔야 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "d4079977",
+            "startAt": 133241,
+            "endAt": 133884,
+            "text": "에, 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "504c9186",
+            "startAt": 133837,
+            "endAt": 135980,
+            "text": "예, 구급차 가고 있고, 문 열어두세요, 문.",
+            "speaker": 0
+        },
+        {
+            "id": "1a80e0f6",
+            "startAt": 135883,
+            "endAt": 137009,
+            "text": "예, 열어있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "0f93a77d",
+            "startAt": 137050,
+            "endAt": 137863,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 동작구 대방동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "의식장애"
+    ],
+    "triage": "응급증상"
+}

@@ -1,0 +1,59 @@
+{
+  "caseCount": 3,
+  "generatedAt": "2026-05-26T11:28:00.741Z",
+  "distributions": {
+    "categoryCounts": {
+      "cardiac_arrest_rosc": 2,
+      "stroke_neuro_consciousness": 1
+    },
+    "districtCounts": {
+      "종로구": 1,
+      "중구": 1,
+      "용산구": 1
+    },
+    "zoneCounts": {
+      "central": 3
+    }
+  },
+  "pipeline": {
+    "succeeded": 3,
+    "failed": 0,
+    "validationFailureCases": 0,
+    "validationWarningCases": 0,
+    "medianLatencyMs": 4391
+  },
+  "stage1": {
+    "medianClinicalFactCount": 6,
+    "medianMissingInfoCount": 6,
+    "lowFactCountCases": []
+  },
+  "stage2": {
+    "incidentTypeCounts": {
+      "cardiac_arrest": 3
+    },
+    "maxTransportTimeCounts": {
+      "10": 2,
+      "15": 1
+    },
+    "severityCounts": {
+      "5": 3
+    }
+  },
+  "ranking": {
+    "succeeded": 3,
+    "skippedOrFailed": 0,
+    "noFeasibleCount": 0,
+    "noFeasibleCaseIds": [],
+    "changedVsNearestCount": 0,
+    "top1BedTierCounts": {
+      "low_risk_6_10": 2,
+      "stable_buffer_gt_10": 1
+    },
+    "lowSlackUnder5MinCount": 2,
+    "top1HospitalCounts": {
+      "강북삼성병원": 1,
+      "학교법인고려중앙학원고려대학교의과대학부속병원(안암병원)": 1,
+      "한양대학교병원": 1
+    }
+  }
+}

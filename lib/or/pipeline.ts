@@ -2,7 +2,7 @@ import { callStructured } from "./openrouter";
 import { buildStage1UserPrompt, buildStage2UserPrompt, stage1SystemPrompt, stage2SystemPrompt } from "./prompts";
 import { observationSchema, orParameterSchema } from "./schemas";
 import type { OrParameters, TranscriptCase } from "./types";
-import { parseOrParameters, validateObservationOutput, validateOrParameterOutput } from "./validate";
+import { checkIncidentConsistency, parseOrParameters, validateObservationOutput, validateOrParameterOutput } from "./validate";
 
 export async function runTwoStagePipeline(testCase: TranscriptCase): Promise<{
   stage1: unknown;
@@ -39,11 +39,15 @@ export async function runTwoStagePipeline(testCase: TranscriptCase): Promise<{
     throw new Error(`Stage 2 parameter parse failed: ${parsed.failures.join("; ")}`);
   }
 
+  // Deterministically inject any clinical minimums the LLM omitted for this
+  // incident type, so ranking scores a clinically coherent param set.
+  const { params: correctedParams } = checkIncidentConsistency(parsed.params);
+
   return {
     stage1,
     stage2: {
       case_id: testCase.case_id,
-      or_parameters: parsed.params,
+      or_parameters: correctedParams,
     },
     validation: {
       stage1: stage1Validation,

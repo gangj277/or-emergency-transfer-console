@@ -1,0 +1,319 @@
+{
+    "_id": "651e496f5d60e2222416703e",
+    "audioPath": "20230925/Seoul/2022/20220106/converted_[20220106]-[WO1139297219].wav",
+    "recordId": "f5d1fb72b248245f408d",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 103080,
+    "utterances": [
+        {
+            "id": "31b27ac0",
+            "startAt": 1097,
+            "endAt": 2177,
+            "text": "네 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "5a7f83cf",
+            "startAt": 2837,
+            "endAt": 5948,
+            "text": "아, 저기 할머니가 아파트에 떨어지셔서요.",
+            "speaker": 1
+        },
+        {
+            "id": "a8fb3fbe",
+            "startAt": 6531,
+            "endAt": 7636,
+            "text": "할머니가 어디서요?",
+            "speaker": 0
+        },
+        {
+            "id": "fb0411f2",
+            "startAt": 8703,
+            "endAt": 11173,
+            "text": "근데 누구신진 모르겠는데.",
+            "speaker": 1
+        },
+        {
+            "id": "cbe2d6b6",
+            "startAt": 11253,
+            "endAt": 12734,
+            "text": "아파트에서 떨어졌다고요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c2ig05nc6r",
+            "startAt": 13198,
+            "endAt": 14798,
+            "text": "네, 그러신 거 같아요. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5jepctai2j",
+            "startAt": 14467,
+            "endAt": 15985,
+            "text": "예, 주소 알려주세요. 어디예요?",
+            "speaker": 0
+        },
+        {
+            "id": "0c70f17e",
+            "startAt": 16491,
+            "endAt": 21379,
+            "text": "여기 그 현대아파트 구로 현대아파트 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3bdodba6dno",
+            "startAt": 21351,
+            "endAt": 24069,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "4275cb41",
+            "startAt": 24484,
+            "endAt": 25745,
+            "text": "화단에 떨어지셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "1c556392",
+            "startAt": 26733,
+            "endAt": 30357,
+            "text": "그 옆쪽 아파트 옆에 계단에서 떨어지신 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_905b1v0pep",
+            "startAt": 32678,
+            "endAt": 34996,
+            "text": "지 할머니 지금 숨 안 쉬는 거 같아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bqkks67gk9g",
+            "startAt": 35834,
+            "endAt": 37625,
+            "text": " 어, 네, 좀 그러신 거 같아요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f0adtnbearo",
+            "startAt": 37117,
+            "endAt": 37952,
+            "text": "잠시만요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gju86h4206",
+            "startAt": 37934,
+            "endAt": 40198,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_d6aemanpi7",
+            "startAt": 40203,
+            "endAt": 41048,
+            "text": "떨어진 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "200b4825",
+            "startAt": 41534,
+            "endAt": 42662,
+            "text": "네네네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5o3rn1mv9a",
+            "startAt": 41776,
+            "endAt": 44248,
+            "text": "영석초등학교 옆에 있는 아파트 현대아파트",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_bddn4ecg0ag",
+            "startAt": 44181,
+            "endAt": 44936,
+            "text": "네네네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n2oub17r4jo",
+            "startAt": 44936,
+            "endAt": 45854,
+            "text": "네 맞아요",
+            "speaker": 1
+        },
+        {
+            "id": "dae0f57f",
+            "startAt": 55138,
+            "endAt": 58431,
+            "text": "예, 신고자분 저희 지금 나가고 있고요, 거기 지나가시다 보고 신고한 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "82b93cd3",
+            "startAt": 58998,
+            "endAt": 59604,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "996a0b98",
+            "startAt": 60048,
+            "endAt": 62012,
+            "text": "예, 신고자분 저희 지금 나가고 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "7223c097",
+            "startAt": 62588,
+            "endAt": 63129,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "2f1d6b23",
+            "startAt": 65204,
+            "endAt": 65784,
+            "text": "여보세요",
+            "speaker": 0
+        },
+        {
+            "id": "5faf950e",
+            "startAt": 66414,
+            "endAt": 66773,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "e93cff37",
+            "startAt": 67786,
+            "endAt": 69141,
+            "text": "예, 저희 지금 나가고 있어요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_s83t1ti2gb",
+            "startAt": 69802,
+            "endAt": 70675,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_umrnang2ra8",
+            "startAt": 70066,
+            "endAt": 72230,
+            "text": "그 지금 거기 경비원 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "c6bf2ac0",
+            "startAt": 72802,
+            "endAt": 74004,
+            "text": "있어요, 계셔요.",
+            "speaker": 1
+        },
+        {
+            "id": "a11c990d",
+            "startAt": 74119,
+            "endAt": 75719,
+            "text": "예, 경비원 좀 바꿔주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "9ee18d35",
+            "startAt": 76019,
+            "endAt": 76677,
+            "text": "네, 네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a87bpsbsoqg",
+            "startAt": 79213,
+            "endAt": 79513,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "924cee32",
+            "startAt": 81889,
+            "endAt": 83294,
+            "text": "여보세요 예 거기",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vai5prqq68o",
+            "startAt": 81939,
+            "endAt": 82611,
+            "text": "여보세요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_62kcfinphjg",
+            "startAt": 83282,
+            "endAt": 85269,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cfrbb8r77tg",
+            "startAt": 85533,
+            "endAt": 89318,
+            "text": "거기 게 그 할머니 그 지금 떨어져 계세요? 추락한 거 같애요?",
+            "speaker": 0
+        },
+        {
+            "id": "553dc642",
+            "startAt": 89980,
+            "endAt": 90784,
+            "text": "예예예",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_o5ihhksvb5",
+            "startAt": 90978,
+            "endAt": 92615,
+            "text": "예, 할머니 의식이랑 호흡은요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_39l38gqmrd8",
+            "startAt": 94886,
+            "endAt": 95122,
+            "text": "지금",
+            "speaker": 1
+        },
+        {
+            "id": "6f8a5f4b",
+            "startAt": 96446,
+            "endAt": 102936,
+            "text": "그 신고자분 의 응급처치 피 그 강제사항 아니니까 저 의사 선생님 전화 한번 받아보세요, 저희 지금 나가고 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lkik5r2k0vo",
+            "startAt": 96715,
+            "endAt": 98360,
+            "text": "의식없는데 지금",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 구로구 구로동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "심정지",
+        "호흡정지",
+        "그 밖의출혈",
+        "골절",
+        "열상"
+    ],
+    "triage": "응급증상"
+}

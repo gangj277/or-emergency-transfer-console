@@ -1,0 +1,305 @@
+{
+    "_id": "651e4c3e8c3bda5f9fa38b43",
+    "audioPath": "20230925/Seoul/2022/20220601/converted_[20220601]-[WT1140115297].wav",
+    "recordId": "a344da862c9e1e5193e4",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 83160,
+    "utterances": [
+        {
+            "id": "b37da06b",
+            "startAt": 1105,
+            "endAt": 2660,
+            "text": "네, 119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "09ff8a13",
+            "startAt": 2899,
+            "endAt": 4378,
+            "text": "네, 수고하십니다.",
+            "speaker": 1
+        },
+        {
+            "id": "05faa5d2",
+            "startAt": 4409,
+            "endAt": 4955,
+            "text": "네, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "43e96879",
+            "startAt": 5191,
+            "endAt": 8471,
+            "text": "여기 할머니가 좀 몸이 너무 안 좋으신가봐요.",
+            "speaker": 1
+        },
+        {
+            "id": "85667ecf",
+            "startAt": 8791,
+            "endAt": 10602,
+            "text": "할머니가 어디가 아프시다 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "f649677f",
+            "startAt": 11240,
+            "endAt": 12099,
+            "text": "할머니가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_g7g2nro4ol",
+            "startAt": 12836,
+            "endAt": 19417,
+            "text": "좀 기저질환이 좀 있긴 있는데 막 못 움직이고 토하고 그러고 있어가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "fe84a610",
+            "startAt": 19836,
+            "endAt": 21308,
+            "text": "의식은 괜찮으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "fbbfb18f",
+            "startAt": 21948,
+            "endAt": 23446,
+            "text": "정신도 없어요 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "36ad5876",
+            "startAt": 24142,
+            "endAt": 25518,
+            "text": "부르면 대답도 못 해요?",
+            "speaker": 0
+        },
+        {
+            "id": "156cc209",
+            "startAt": 26507,
+            "endAt": 29671,
+            "text": "말은 아무 말도 못하는데 뭐 그냥.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_smavjk4hesg",
+            "startAt": 27590,
+            "endAt": 28190,
+            "text": "말은?",
+            "speaker": 0
+        },
+        {
+            "id": "5a6993de",
+            "startAt": 29036,
+            "endAt": 31406,
+            "text": "눈은 뜨고 있어요? 움직임은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "1aa45233",
+            "startAt": 32335,
+            "endAt": 33820,
+            "text": "그냥 일단은 숨은 쉬어요.",
+            "speaker": 1
+        },
+        {
+            "id": "ad634447",
+            "startAt": 34023,
+            "endAt": 35107,
+            "text": "호흡만 있고?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vissiccoa88",
+            "startAt": 35971,
+            "endAt": 37707,
+            "text": "그럼 의식이 아예 없다는 거네요?",
+            "speaker": 0
+        },
+        {
+            "id": "7dcd9611",
+            "startAt": 37801,
+            "endAt": 40643,
+            "text": "아니, 의식은 있으, 이, 숨은 쉰다고요.",
+            "speaker": 1
+        },
+        {
+            "id": "100f8dac",
+            "startAt": 42001,
+            "endAt": 43206,
+            "text": "주소는 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "5d408832",
+            "startAt": 43639,
+            "endAt": 44603,
+            "text": "서대문구.",
+            "speaker": 1
+        },
+        {
+            "id": "6ec74ba3",
+            "startAt": 44674,
+            "endAt": 45199,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "7a532bb1",
+            "startAt": 45452,
+            "endAt": 46308,
+            "text": "북가좌.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ssfgbv36edg",
+            "startAt": 46807,
+            "endAt": 47889,
+            "text": "사, 삼호아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "0a4977e4",
+            "startAt": 46812,
+            "endAt": 47889,
+            "text": "북가좌가 예.",
+            "speaker": 0
+        },
+        {
+            "id": "39b497be",
+            "startAt": 48015,
+            "endAt": 48837,
+            "text": "거북골로.",
+            "speaker": 1
+        },
+        {
+            "id": "67d1c151",
+            "startAt": 49091,
+            "endAt": 50539,
+            "text": "거북골로 몇 번지예요?",
+            "speaker": 0
+        },
+        {
+            "id": "a061078d",
+            "startAt": 50807,
+            "endAt": 52346,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "0ee99a84",
+            "startAt": 52623,
+            "endAt": 53569,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "8a79f643",
+            "startAt": 54139,
+            "endAt": 55109,
+            "text": "삼호아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "153f54a4",
+            "startAt": 55241,
+            "endAt": 55825,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "faac139a",
+            "startAt": 56449,
+            "endAt": 57386,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "6b0b5164",
+            "startAt": 57666,
+            "endAt": 58785,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "988b4d89",
+            "startAt": 58884,
+            "endAt": 59859,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c3d738b6",
+            "startAt": 59914,
+            "endAt": 61126,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "ad8cff8a",
+            "startAt": 61241,
+            "endAt": 61741,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "0b98b494",
+            "startAt": 61835,
+            "endAt": 64425,
+            "text": "숨은 잘 쉬는데 의식은 없는 거예요, 그러면?",
+            "speaker": 0
+        },
+        {
+            "id": "a79550b8",
+            "startAt": 65632,
+            "endAt": 68207,
+            "text": "하여튼 뭐 뭐라고 말 못 하겠어요, 저는.",
+            "speaker": 1
+        },
+        {
+            "id": "d43661c9",
+            "startAt": 68758,
+            "endAt": 75250,
+            "text": "차는 보냈고요. 의식 없는 거에 따라서 달라져서 여쭤보, 여쭤보는 거예요. 그 뭐 정신도, 하나도 없고",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_vq8qtsouk38",
+            "startAt": 75385,
+            "endAt": 81487,
+            "text": "막 아프게 해도 뭐 찡그리는 것도 없다는 거예요? 아예 반응이 없다는 거? 그런 건 아니에요? 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_djp9jp65g4g",
+            "startAt": 77742,
+            "endAt": 80360,
+            "text": "아니 그런 건 있어요. 그런 건 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "7446c88b",
+            "startAt": 81461,
+            "endAt": 82058,
+            "text": "네",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 서대문구 북가좌동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "두통",
+        "복통",
+        "의식장애",
+        "구토",
+        "마비"
+    ],
+    "triage": "준응급증상"
+}

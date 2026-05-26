@@ -1,0 +1,267 @@
+{
+    "_id": "651e4a8805085d58eeeb19db",
+    "audioPath": "20230925/Seoul/2022/20220407/converted_[20220407]-[WR1139824098].wav",
+    "recordId": "586724ecb8cb06c54a70",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 89040,
+    "utterances": [
+        {
+            "id": "26ec78c8",
+            "startAt": 786,
+            "endAt": 2559,
+            "text": "예, 119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "166511dc",
+            "startAt": 2390,
+            "endAt": 6933,
+            "text": "네, 여기 어떤 할머님이 쓰러지셔서 숨을 잘 못 쉬시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "d0f7dc96",
+            "startAt": 6668,
+            "endAt": 7817,
+            "text": "의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "f660de4f",
+            "startAt": 8111,
+            "endAt": 14323,
+            "text": "네? 여기 전봇대 강북구 02-26-27이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "6c35cbba",
+            "startAt": 14916,
+            "endAt": 15915,
+            "text": "예, 뭐라고요?",
+            "speaker": 0
+        },
+        {
+            "id": "bc30b6c0",
+            "startAt": 16553,
+            "endAt": 20266,
+            "text": "전봇대 번호가 02-26-27이요.",
+            "speaker": 1
+        },
+        {
+            "id": "bca9195d",
+            "startAt": 20554,
+            "endAt": 21714,
+            "text": "2, 26?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nnf1ud8rldg",
+            "startAt": 21983,
+            "endAt": 24283,
+            "text": "2, 02-269?",
+            "speaker": 0
+        },
+        {
+            "id": "1cba7103",
+            "startAt": 25303,
+            "endAt": 30195,
+            "text": "02-26-27이고요. 여기 주소는 도봉로 65길이에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_59pmtjgk5j8",
+            "startAt": 31647,
+            "endAt": 34892,
+            "text": "숨을 못 쉬셔서, 빨리 와주세요. 할머니.",
+            "speaker": 1
+        },
+        {
+            "id": "e8ca98b3",
+            "startAt": 34819,
+            "endAt": 36401,
+            "text": "의식은 있는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "3bfcb406",
+            "startAt": 36775,
+            "endAt": 39241,
+            "text": "아니요, 없어요, 숨을 못 쉬어요.",
+            "speaker": 1
+        },
+        {
+            "id": "8a102734",
+            "startAt": 39354,
+            "endAt": 40779,
+            "text": "잠깐 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "e71beb95",
+            "startAt": 40757,
+            "endAt": 41808,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cmr5rp1mpu",
+            "startAt": 42947,
+            "endAt": 44184,
+            "text": "도봉로 50.",
+            "speaker": 0
+        },
+        {
+            "id": "8b5675a2",
+            "startAt": 44462,
+            "endAt": 50935,
+            "text": "3길 그 앞에 또 뭐라고 돼 있어요. 그 건물에 있는 거 한번 보실래요? 차는 보내놨어요. 침착하게 봐보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hc287t1rv18",
+            "startAt": 46829,
+            "endAt": 47566,
+            "text": "지금.",
+            "speaker": 1
+        },
+        {
+            "id": "cc5d5f44",
+            "startAt": 51373,
+            "endAt": 53110,
+            "text": "도봉로 65길.",
+            "speaker": 1
+        },
+        {
+            "id": "82877a02",
+            "startAt": 53141,
+            "endAt": 53681,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "c4957aea",
+            "startAt": 53752,
+            "endAt": 54699,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cqbljsjp3q",
+            "startAt": 54725,
+            "endAt": 54990,
+            "text": "정확 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ekh4hs4k5l",
+            "startAt": 55011,
+            "endAt": 55684,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "59e48ca8",
+            "startAt": 55709,
+            "endAt": 57578,
+            "text": "아, 예, 차 갔고요.",
+            "speaker": 0
+        },
+        {
+            "id": "650e25dd",
+            "startAt": 57713,
+            "endAt": 58423,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "eda971d7",
+            "startAt": 58477,
+            "endAt": 60751,
+            "text": "저 뭐 차가 멀리 있어가지고.",
+            "speaker": 0
+        },
+        {
+            "id": "f961373c",
+            "startAt": 60723,
+            "endAt": 61553,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "2697401b",
+            "startAt": 61859,
+            "endAt": 66619,
+            "text": "좀 잠깐만 봐주세요, 좀 저 잠깐만요, 저 의료진 좀 연결할게요.",
+            "speaker": 0
+        },
+        {
+            "id": "95f5e743",
+            "startAt": 66692,
+            "endAt": 68831,
+            "text": "네, 저 빨리빨리 해주세요, 어",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jvale0gg4c8",
+            "startAt": 71430,
+            "endAt": 72358,
+            "text": "아, 어떡해.",
+            "speaker": 1
+        },
+        {
+            "id": "fc1fd0b8",
+            "startAt": 72561,
+            "endAt": 74251,
+            "text": "호흡이 아예 없는 것 같아요?",
+            "speaker": 0
+        },
+        {
+            "id": "0c538045",
+            "startAt": 74382,
+            "endAt": 75187,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_geeepkmn1jo",
+            "startAt": 75830,
+            "endAt": 79040,
+            "text": "저 핸드폰 좀 빌려주세요. 저희 남자친구가 좀.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bia8l0dqfqg",
+            "startAt": 82903,
+            "endAt": 84340,
+            "text": "어, 어떡해.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_18513ag4638",
+            "startAt": 84567,
+            "endAt": 86240,
+            "text": "숨을 못 쉬세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5gbopt8if4g",
+            "startAt": 87749,
+            "endAt": 88849,
+            "text": "핸드폰 좀 주세요.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 강북구 미아동",
+    "disasterLarge": "구급",
+    "disasterMedium": "심정지",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "심정지",
+        "호흡정지"
+    ],
+    "triage": "응급증상"
+}

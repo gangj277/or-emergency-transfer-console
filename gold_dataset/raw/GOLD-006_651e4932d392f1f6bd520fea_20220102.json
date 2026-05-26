@@ -1,0 +1,189 @@
+{
+    "_id": "651e4932d392f1f6bd520fea",
+    "audioPath": "20230925/Seoul/2022/20220102/converted_[20220102]-[WO1139281561].wav",
+    "recordId": "9c370e998cc10913a1aa",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 51480,
+    "utterances": [
+        {
+            "id": "55b83833",
+            "startAt": 861,
+            "endAt": 1878,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "f582d167",
+            "startAt": 2524,
+            "endAt": 9087,
+            "text": "네, 여기 그 그 롯데백화점 관악점 건너편에 패션 문화의 거리 쪽으로.",
+            "speaker": 1
+        },
+        {
+            "id": "b687a13b",
+            "startAt": 9079,
+            "endAt": 9439,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "a74a1e8e",
+            "startAt": 9878,
+            "endAt": 12379,
+            "text": "네, 그 앞 놀이터 바로 앞이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "493e2aaf",
+            "startAt": 12724,
+            "endAt": 13292,
+            "text": "놀이터요?",
+            "speaker": 0
+        },
+        {
+            "id": "f99c0b70",
+            "startAt": 13331,
+            "endAt": 15101,
+            "text": "봉 네, 봉천로 6길.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ud99nak6n5o",
+            "startAt": 15081,
+            "endAt": 15863,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_9r1urmokg3o",
+            "startAt": 16018,
+            "endAt": 19236,
+            "text": "여기 할아버지 한 분이 넘어지셔가지고",
+            "speaker": 1
+        },
+        {
+            "id": "4c44ae02",
+            "startAt": 18249,
+            "endAt": 19199,
+            "text": "예 네.",
+            "speaker": 0
+        },
+        {
+            "id": "695e7f29",
+            "startAt": 19211,
+            "endAt": 21221,
+            "text": "머리에서 피가 나고 있어가지고요.",
+            "speaker": 1
+        },
+        {
+            "id": "193a0ca9",
+            "startAt": 20769,
+            "endAt": 22511,
+            "text": "아 잠깐만요 봉천로 6길에.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0a7m6vhsiug",
+            "startAt": 22490,
+            "endAt": 23054,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "dbf5d234",
+            "startAt": 23519,
+            "endAt": 23918,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "a7bbbc83",
+            "startAt": 24353,
+            "endAt": 26309,
+            "text": "그 혹시 의식은 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "4ac0c3b2",
+            "startAt": 27263,
+            "endAt": 30029,
+            "text": "의식 있나요? 의식 없으세요.",
+            "speaker": 1
+        },
+        {
+            "id": "ab18ed7c",
+            "startAt": 30116,
+            "endAt": 32298,
+            "text": "의식 없어요? 호흡은 정상이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "0cc1174a",
+            "startAt": 33215,
+            "endAt": 35824,
+            "text": "네, 호흡은 지금 하고 계신 거 같고요.",
+            "speaker": 1
+        },
+        {
+            "id": "78c3a262",
+            "startAt": 35809,
+            "endAt": 38085,
+            "text": "정상적으로? 잠깐만요. 일단 출동시키고요.",
+            "speaker": 0
+        },
+        {
+            "id": "ca9eee68",
+            "startAt": 38414,
+            "endAt": 42321,
+            "text": "네네, 동공반응이 없구요.",
+            "speaker": 1
+        },
+        {
+            "id": "6bd3878f",
+            "startAt": 42633,
+            "endAt": 43819,
+            "text": "아, 동공반응이 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "1eb46f64",
+            "startAt": 44037,
+            "endAt": 46998,
+            "text": "네, 동공반응 없고 머리 뒤에서 피 나고 있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "5b3fdee3",
+            "startAt": 46967,
+            "endAt": 49788,
+            "text": "아, 예, 가는 도중에 의료지도 연결 한 번 해드릴게요, 끊지 마세요.",
+            "speaker": 0
+        },
+        {
+            "id": "5cc94776",
+            "startAt": 50047,
+            "endAt": 50582,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "e76241de",
+            "startAt": 50762,
+            "endAt": 51040,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 관악구 신림동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증 외)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "그 밖의출혈"
+    ],
+    "triage": "잠재응급증상"
+}

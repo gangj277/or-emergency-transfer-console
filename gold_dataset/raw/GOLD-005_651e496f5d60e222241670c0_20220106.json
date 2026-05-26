@@ -1,0 +1,169 @@
+{
+    "_id": "651e496f5d60e222241670c0",
+    "audioPath": "20230925/Seoul/2022/20220106/converted_[20220106]-[WO1139298880].wav",
+    "recordId": "2bd4eb27b24da0ed90cf",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 43800,
+    "utterances": [
+        {
+            "id": "2d3ebb7a",
+            "startAt": 293,
+            "endAt": 1259,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "51d87306",
+            "startAt": 1523,
+            "endAt": 5074,
+            "text": "네, 여기 지금 사고 나가지고요. 사람 차에 치이셨거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "47b7363e",
+            "startAt": 5293,
+            "endAt": 7883,
+            "text": "지금 교통사고 난 거예요, 차랑 사람이요?",
+            "speaker": 0
+        },
+        {
+            "id": "2fab4ec4",
+            "startAt": 8438,
+            "endAt": 12068,
+            "text": "골목인데 차량이 밟고 지나갔어요. 찍고 지나갔어요.",
+            "speaker": 1
+        },
+        {
+            "id": "ddbefd99",
+            "startAt": 10733,
+            "endAt": 12294,
+            "text": "사람을 밟고 지나갔다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "34de9519",
+            "startAt": 12902,
+            "endAt": 15261,
+            "text": "아, 지금 깔려 있어요. 얼른 오셔야 될 거 같애",
+            "speaker": 1
+        },
+        {
+            "id": "957c9e91",
+            "startAt": 14493,
+            "endAt": 16093,
+            "text": "차량 밑에 사람이 깔려 있다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "1c1b4a77",
+            "startAt": 16345,
+            "endAt": 17266,
+            "text": "에.",
+            "speaker": 1
+        },
+        {
+            "id": "e89b7892",
+            "startAt": 17511,
+            "endAt": 19236,
+            "text": "아 예, 지금 위치가 어디예요, 거기가?",
+            "speaker": 0
+        },
+        {
+            "id": "f7cd7786",
+            "startAt": 19857,
+            "endAt": 20969,
+            "text": "씨제스 엔터테인먼트요.",
+            "speaker": 1
+        },
+        {
+            "id": "1069c944",
+            "startAt": 20947,
+            "endAt": 21395,
+            "text": "예?",
+            "speaker": 0
+        },
+        {
+            "id": "7cf96508",
+            "startAt": 22038,
+            "endAt": 23398,
+            "text": "씨제스 엔터테이먼트.",
+            "speaker": 1
+        },
+        {
+            "id": "6b49696a",
+            "startAt": 23458,
+            "endAt": 25151,
+            "text": "씨제스 엔터테이먼트요?",
+            "speaker": 0
+        },
+        {
+            "id": "bf215781",
+            "startAt": 25442,
+            "endAt": 26250,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "f4da2185",
+            "startAt": 26118,
+            "endAt": 32413,
+            "text": "예, 알겠습니다, 그쪽으로 갈게요. 지금 여자분이에요. 그럼 의제 더 의식은 어때요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_0fpo1bje69o",
+            "startAt": 29236,
+            "endAt": 30755,
+            "text": "예 여자분 깔렸어요.",
+            "speaker": 1
+        },
+        {
+            "id": "cede8934",
+            "startAt": 33133,
+            "endAt": 35495,
+            "text": "지금 아직은 그 의식 있는 거 같습니다",
+            "speaker": 1
+        },
+        {
+            "id": "e6617645",
+            "startAt": 35543,
+            "endAt": 39003,
+            "text": "아 예, 알겠습니다. 바로 갈게요, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7ceqkvk4mco",
+            "startAt": 39321,
+            "endAt": 40200,
+            "text": "하나 둘 셋",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_oetr5dgftmg",
+            "startAt": 41271,
+            "endAt": 41886,
+            "text": "한둘셋",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_kegq4jgm0go",
+            "startAt": 42657,
+            "endAt": 43500,
+            "text": "나오고 차 문",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강남구 역삼동",
+    "disasterLarge": "구급",
+    "disasterMedium": "사고",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "기타통증",
+        "찰과상"
+    ],
+    "triage": "잠재응급증상"
+}

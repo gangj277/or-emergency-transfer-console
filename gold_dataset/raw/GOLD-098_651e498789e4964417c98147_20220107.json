@@ -1,0 +1,182 @@
+{
+    "_id": "651e498789e4964417c98147",
+    "audioPath": "20230925/Seoul/2022/20220107/converted_[20220107]-[WO1139303887].wav",
+    "recordId": "7a874210eafdb9cda61c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 51480,
+    "utterances": [
+        {
+            "id": "dad30d07",
+            "startAt": 295,
+            "endAt": 915,
+            "text": "다.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_mu4eicetjmo",
+            "startAt": 1500,
+            "endAt": 2427,
+            "text": "아 예, 녹번역",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sdl4dnk009",
+            "startAt": 2391,
+            "endAt": 3318,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "b75fecba",
+            "startAt": 3578,
+            "endAt": 4569,
+            "text": "녹번역인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "9946554d",
+            "startAt": 4675,
+            "endAt": 5025,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "53702d25",
+            "startAt": 5075,
+            "endAt": 11085,
+            "text": "예 예, 지금 저희 승객 중에 저기 한 분이 심장이 아프대요 심장이.",
+            "speaker": 1
+        },
+        {
+            "id": "a1db226d",
+            "startAt": 11215,
+            "endAt": 15245,
+            "text": "통증 있으셔 가지고 구급차 타고 응급실가실려고 하시는 거고. 녹번역 어디로 갈까요?",
+            "speaker": 0
+        },
+        {
+            "id": "625816a0",
+            "startAt": 15978,
+            "endAt": 20338,
+            "text": "그기 고객 어 고객 앉아있고 역무실 그쪽으로 오시면 돼요. 역무",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0tr74s06sao",
+            "startAt": 19192,
+            "endAt": 20292,
+            "text": "알았어요.",
+            "speaker": 0
+        },
+        {
+            "id": "2e69cd7e",
+            "startAt": 20248,
+            "endAt": 22771,
+            "text": "네 계시고 아, 남자분이에요, 여자분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "a36ab684",
+            "startAt": 22861,
+            "endAt": 23671,
+            "text": "여 여자분이요.",
+            "speaker": 1
+        },
+        {
+            "id": "8c462ced",
+            "startAt": 23711,
+            "endAt": 25764,
+            "text": "여자분 가슴 통증 있으시고. ",
+            "speaker": 0
+        },
+        {
+            "id": "2a014154",
+            "startAt": 25804,
+            "endAt": 26909,
+            "text": "의식 의식 있어요 의식?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_rccjf02afoo",
+            "startAt": 25805,
+            "endAt": 26372,
+            "text": "예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_bvdfu1rbl7g",
+            "startAt": 27455,
+            "endAt": 28571,
+            "text": "의식있어요, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r9vs5fboi28",
+            "startAt": 27995,
+            "endAt": 31045,
+            "text": "역 직원분 지금 신고 주신 거죠. 역 직원분이?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l796amtut8o",
+            "startAt": 31055,
+            "endAt": 32305,
+            "text": "예예예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_70kvcv9od18",
+            "startAt": 31761,
+            "endAt": 39144,
+            "text": "아, 저희 가고 있는데 가 여쭤볼 게 있어요. 여자분이 열이나 기침 있거나 확진자 만나신 적 있는지 한번 여쭤봐 주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "22facc3a",
+            "startAt": 39332,
+            "endAt": 43745,
+            "text": "혹시 열이나 기침 있거나 뭐 확진자 만난 적 없죠? 예예 없대요.",
+            "speaker": 1
+        },
+        {
+            "id": "71d3b1a4",
+            "startAt": 42908,
+            "endAt": 43855,
+            "text": "없으시대요?",
+            "speaker": 0
+        },
+        {
+            "id": "dccb77c7",
+            "startAt": 44108,
+            "endAt": 44598,
+            "text": "에예.",
+            "speaker": 1
+        },
+        {
+            "id": "d1941a8f",
+            "startAt": 44495,
+            "endAt": 49798,
+            "text": "지금 가고 있고 녹번역 고객 안전실로 갈 거예요. 전화하면 전화 바로 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "d763e4ad",
+            "startAt": 50098,
+            "endAt": 51108,
+            "text": "예, 알겠습니다 예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 은평구 녹번동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통"
+    ],
+    "triage": "잠재응급증상"
+}

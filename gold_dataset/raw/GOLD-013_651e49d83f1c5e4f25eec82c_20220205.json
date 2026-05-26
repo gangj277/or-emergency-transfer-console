@@ -1,0 +1,220 @@
+{
+    "_id": "651e49d83f1c5e4f25eec82c",
+    "audioPath": "20230925/Seoul/2022/20220205/converted_[20220205]-[WP1139446209].wav",
+    "recordId": "4aa49a585161fb57a8c0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 72000,
+    "utterances": [
+        {
+            "id": "f4953975",
+            "startAt": 541,
+            "endAt": 1558,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "24ca0bfe",
+            "startAt": 2241,
+            "endAt": 8867,
+            "text": "네, 수고 많으십니다. 다른 게 아니고요. 예, 어머니가 지금 갑자기 입으로 좀 피를 토하고.",
+            "speaker": 1
+        },
+        {
+            "id": "b026e666",
+            "startAt": 8897,
+            "endAt": 9668,
+            "text": "피를 토해요?",
+            "speaker": 0
+        },
+        {
+            "id": "922675f4",
+            "startAt": 9667,
+            "endAt": 13227,
+            "text": "저 예, 입으로 피를 토하셔 닦아내긴 했는데.",
+            "speaker": 1
+        },
+        {
+            "id": "587dea70",
+            "startAt": 13317,
+            "endAt": 14731,
+            "text": "지금 쓰여지셔가지고, 지금",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_491f32b50cg",
+            "startAt": 14127,
+            "endAt": 15455,
+            "text": "의식은 있어요? 의식?",
+            "speaker": 0
+        },
+        {
+            "id": "95e44205",
+            "startAt": 15922,
+            "endAt": 23064,
+            "text": "의식은 있는데요. 예, 몸을, 대답은 해요. 근데 여 몸은 못 움직이셔가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "22d6b177",
+            "startAt": 22245,
+            "endAt": 24469,
+            "text": "아 그래요. 집 주소 어떻게 되시나요?",
+            "speaker": 0
+        },
+        {
+            "id": "8f64365c",
+            "startAt": 25102,
+            "endAt": 26605,
+            "text": "예, 홍재 1동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dv5br2a24b",
+            "startAt": 26587,
+            "endAt": 28587,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e048e65f",
+            "startAt": 28580,
+            "endAt": 29442,
+            "text": "홍재동이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "cd950de8",
+            "startAt": 30042,
+            "endAt": 31177,
+            "text": "예, 홍재동이요.",
+            "speaker": 1
+        },
+        {
+            "id": "f9274afb",
+            "startAt": 30416,
+            "endAt": 31446,
+            "text": "홍재동, 다시요.",
+            "speaker": 0
+        },
+        {
+            "id": "1839365d",
+            "startAt": 31462,
+            "endAt": 39842,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "0ac9f341",
+            "startAt": 41082,
+            "endAt": 42392,
+            "text": "몇 층 몇 호로 가야 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "8590ba8b",
+            "startAt": 43112,
+            "endAt": 45327,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fratkplrc5o",
+            "startAt": 45331,
+            "endAt": 46149,
+            "text": "저 나와있어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_36hik4bohb8",
+            "startAt": 46125,
+            "endAt": 47680,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "2e63de5d",
+            "startAt": 48131,
+            "endAt": 50023,
+            "text": "아, 어머님 같이 나와 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "298969e8",
+            "startAt": 51036,
+            "endAt": 53335,
+            "text": "아니, 아니요, 어머님 뭐 움직이지 못하시니까,",
+            "speaker": 1
+        },
+        {
+            "id": "ddfbcc41",
+            "startAt": 52834,
+            "endAt": 53838,
+            "text": "아 예 홍제동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i6oe3rcc8h",
+            "startAt": 53807,
+            "endAt": 57462,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u5is1sncjp",
+            "startAt": 57916,
+            "endAt": 60225,
+            "text": "그 어머니께서 지금 의식은 있으신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "d1d456a9",
+            "startAt": 60826,
+            "endAt": 66749,
+            "text": "예, 의식은 있어요. 근데 뭐에 저희가 뭐 어떻게 못하겠네, 예예예. 예.",
+            "speaker": 1
+        },
+        {
+            "id": "3bb08a16",
+            "startAt": 65316,
+            "endAt": 67427,
+            "text": "아 네 알겠습니다. 홍제동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_fts1cfqq1rg",
+            "startAt": 67407,
+            "endAt": 68925,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_nkdiopgdfdo",
+            "startAt": 68898,
+            "endAt": 69862,
+            "text": "출발하겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "1443fcee",
+            "startAt": 69612,
+            "endAt": 70852,
+            "text": "예예, 예.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 서대문구 홍제동",
+    "disasterLarge": "구급",
+    "disasterMedium": "심정지",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "심정지",
+        "호흡정지",
+        "토혈",
+        "혈변"
+    ],
+    "triage": "응급증상"
+}

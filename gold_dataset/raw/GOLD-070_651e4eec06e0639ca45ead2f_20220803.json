@@ -1,0 +1,224 @@
+{
+    "_id": "651e4eec06e0639ca45ead2f",
+    "audioPath": "20230925/Seoul/2022/20220803/converted_[20220803]-[WV1140513275].wav",
+    "recordId": "9003035e9f51f7f6d36c",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 65880,
+    "utterances": [
+        {
+            "id": "8b3a412c",
+            "startAt": 523,
+            "endAt": 1573,
+            "text": "예 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "ff17f25d",
+            "startAt": 2222,
+            "endAt": 9091,
+            "text": "네, 사장님, 나이 우리 애가 목욕탕에서 쓰러져서 지금 피가 너무 흘려가지고 지금 급합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d3ae2ioujko",
+            "startAt": 6783,
+            "endAt": 7446,
+            "text": "의식은",
+            "speaker": 0
+        },
+        {
+            "id": "597cdc76",
+            "startAt": 9131,
+            "endAt": 10011,
+            "text": "의식은 있나요?",
+            "speaker": 0
+        },
+        {
+            "id": "604c1dd0",
+            "startAt": 10701,
+            "endAt": 12111,
+            "text": "의식은 예 아직 있습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "022449c1",
+            "startAt": 12511,
+            "endAt": 14542,
+            "text": "남자에요 여자에요 남자, 여자?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_on25pkjkjng",
+            "startAt": 12820,
+            "endAt": 15002,
+            "text": "여기 저 쓰 남자입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "1357bc13",
+            "startAt": 15241,
+            "endAt": 15681,
+            "text": "남자.",
+            "speaker": 1
+        },
+        {
+            "id": "e51b80ec",
+            "startAt": 16046,
+            "endAt": 16850,
+            "text": "넘어진 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "18469e40",
+            "startAt": 17541,
+            "endAt": 20241,
+            "text": "예, 화장실에서 지금 피가 너무너무 흘려가지고 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "29a99b6a",
+            "startAt": 20271,
+            "endAt": 21861,
+            "text": "알겠어요? 주소는 어떻게 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "4e1b6b2e",
+            "startAt": 22631,
+            "endAt": 26398,
+            "text": "저 강동구 건동 길동",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_99g7p4p2lb",
+            "startAt": 26412,
+            "endAt": 29594,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "e29f2c16",
+            "startAt": 29613,
+            "endAt": 34732,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "bcd28973",
+            "startAt": 35057,
+            "endAt": 38821,
+            "text": "예 예, 예, 피를 너무 많이 흘렸는데 어떻게 어떻게 조치해야 됩니까? 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_paq6hjq90v8",
+            "startAt": 36477,
+            "endAt": 37941,
+            "text": "구급차는 나가고 있고요",
+            "speaker": 0
+        },
+        {
+            "id": "2809ed87",
+            "startAt": 38952,
+            "endAt": 41990,
+            "text": "저희가 차는 나가고 있고 머리에서 피가",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6vl1cs9k9f",
+            "startAt": 40941,
+            "endAt": 41977,
+            "text": "예 어떻게",
+            "speaker": 1
+        },
+        {
+            "id": "37c0906f",
+            "startAt": 42849,
+            "endAt": 45809,
+            "text": "아니, 지금 여기 옆 앞에 있어요, 여 여기 지금",
+            "speaker": 1
+        },
+        {
+            "id": "3253b291",
+            "startAt": 45204,
+            "endAt": 47370,
+            "text": "일단 피가 어디서 나, 피가 어디서 나요?",
+            "speaker": 0
+        },
+        {
+            "id": "36109749",
+            "startAt": 47859,
+            "endAt": 49189,
+            "text": "머리에서 났어, 머리 머리.",
+            "speaker": 1
+        },
+        {
+            "id": "181c6d33",
+            "startAt": 48557,
+            "endAt": 54404,
+            "text": "머리쪽이요? 저희가 의료지도 할게요, 의료지도 알려드릴게요, 끊지 말아보세요",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_00ti7uma8v",
+            "startAt": 54442,
+            "endAt": 56352,
+            "text": "지금 반듯이 누워 누워있어요",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_al499h9jel",
+            "startAt": 55915,
+            "endAt": 58270,
+            "text": "예 코로나 환자는 없으시죠, 집에?",
+            "speaker": 0
+        },
+        {
+            "id": "22b4d217",
+            "startAt": 58836,
+            "endAt": 59236,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "77c90b3d",
+            "startAt": 59257,
+            "endAt": 61123,
+            "text": "예, 집 주소 한번 확인할게요 길동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_15omohatesg",
+            "startAt": 61161,
+            "endAt": 62879,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pf42tdaf92",
+            "startAt": 63298,
+            "endAt": 64889,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_buh2hl8t8e8",
+            "startAt": 64907,
+            "endAt": 65480,
+            "text": "마세요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강동구 길동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "기타부정",
+    "symptom": [
+        "의식장애"
+    ],
+    "triage": "응급증상"
+}

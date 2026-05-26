@@ -1,0 +1,346 @@
+{
+    "_id": "651e4a8805085d58eeeb19bf",
+    "audioPath": "20230925/Seoul/2022/20220407/converted_[20220407]-[WR1139823001].wav",
+    "recordId": "ff6d47ccda6219b869e0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 134760,
+    "utterances": [
+        {
+            "id": "6aebd9de",
+            "startAt": 401,
+            "endAt": 1301,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "3554ca8d",
+            "startAt": 1901,
+            "endAt": 8804,
+            "text": "네, 저기 어, 여기. 대림동 현대 3차 아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "f6690270",
+            "startAt": 9456,
+            "endAt": 9776,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "c2df0992",
+            "startAt": 10502,
+            "endAt": 12952,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "8ba89096",
+            "startAt": 13028,
+            "endAt": 13544,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "f56eec29",
+            "startAt": 14259,
+            "endAt": 23133,
+            "text": "저희 어머니가 그 심장 개통 수술을 여러 번 받으셨는데 한 4일 전에 그 스탠스인가 뭐를 하셨거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "6c51aae1",
+            "startAt": 23371,
+            "endAt": 23991,
+            "text": "스텐트요?",
+            "speaker": 0
+        },
+        {
+            "id": "b3e7ff3d",
+            "startAt": 24433,
+            "endAt": 32806,
+            "text": "네, 근데 그걸 할 때 나올 때 선생님이 급하면은 처 밑에 이렇게 약을 넣으라고 주셨어요.",
+            "speaker": 1
+        },
+        {
+            "id": "a4f0f0d7",
+            "startAt": 32890,
+            "endAt": 33680,
+            "text": "네, 예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "1489aef1",
+            "startAt": 33890,
+            "endAt": 42550,
+            "text": "근데 한 3일 전 시술하고 나오고 나서 상태가 굉장히 안 좋으셨는데 어저께는 그 약을 넣었고요.",
+            "speaker": 1
+        },
+        {
+            "id": "3091a569",
+            "startAt": 42713,
+            "endAt": 43233,
+            "text": "예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "6a407483",
+            "startAt": 43365,
+            "endAt": 47422,
+            "text": "약을 두 번 넣고 119를 바로 부르라 그랬거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "319c0fcc",
+            "startAt": 47410,
+            "endAt": 47870,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "f22f687f",
+            "startAt": 48280,
+            "endAt": 56728,
+            "text": "근데 그 약 넣고 조금 그냥 버틸만했는데 아침에 지금 토할, 실라그러고 도저히 안 되겠나 봐요. 그리고.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f94uhkel07",
+            "startAt": 56760,
+            "endAt": 57251,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_diodg6mm2j8",
+            "startAt": 57054,
+            "endAt": 63513,
+            "text": "연세가 35년생이니까, 87세시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "d7995c04",
+            "startAt": 63582,
+            "endAt": 64122,
+            "text": "예, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "517212c4",
+            "startAt": 64532,
+            "endAt": 70067,
+            "text": "예 그래서 어, 의사선생님이 119 불러서 빨리 병원으로 오라그래서 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "1589ffca",
+            "startAt": 69897,
+            "endAt": 72615,
+            "text": "아, 그러세요? 코로나 관련해 별 별도로 있으신가요?",
+            "speaker": 0
+        },
+        {
+            "id": "63829c7e",
+            "startAt": 73137,
+            "endAt": 78607,
+            "text": "그거는 요건 병원에서도 며칠 전에 검사 몇 번 했는데 그건 전혀 없습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "e66dcf26",
+            "startAt": 78917,
+            "endAt": 79697,
+            "text": "아, 그러세요?",
+            "speaker": 0
+        },
+        {
+            "id": "715f3b61",
+            "startAt": 80157,
+            "endAt": 83380,
+            "text": "네, 최근에 한 거는 한 3일 전 병원에서에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_idd822q7el",
+            "startAt": 83318,
+            "endAt": 88355,
+            "text": "아, 예, 알겠습니다. 저희가 그러면 영등포구 그 대림동에 있는.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sa1bcemh47o",
+            "startAt": 88329,
+            "endAt": 88974,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tb1p2v6ume",
+            "startAt": 88919,
+            "endAt": 89510,
+            "text": "현대3차.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6t9h8v3d2j",
+            "startAt": 89471,
+            "endAt": 90408,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_7pa9ibb9m5",
+            "startAt": 90361,
+            "endAt": 91388,
+            "text": "로 가면 되는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "72614bee",
+            "startAt": 91869,
+            "endAt": 92359,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "cad0081b",
+            "startAt": 92362,
+            "endAt": 93684,
+            "text": "예, 알겠습니다, 대림동.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1412na95g38",
+            "startAt": 93134,
+            "endAt": 95798,
+            "text": "저 걸어 내려가시기도 힘들 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_1tcp0oghc4o",
+            "startAt": 95313,
+            "endAt": 97966,
+            "text": "아 예 알겠습니다. 출동대는 지금 바로 보낼, 예.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_lni06lrvetg",
+            "startAt": 96737,
+            "endAt": 97400,
+            "text": "그리고 카.",
+            "speaker": 1
+        },
+        {
+            "id": "41392483",
+            "startAt": 97873,
+            "endAt": 101785,
+            "text": "가는 데는 저기 그 서울 성모병원 있죠?",
+            "speaker": 1
+        },
+        {
+            "id": "2b5b6201",
+            "startAt": 101738,
+            "endAt": 107106,
+            "text": "아, 병원은 출동대가 가서 현장에서 판단을 해볼 거예요, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "44d246bd",
+            "startAt": 107131,
+            "endAt": 108511,
+            "text": "네, 네, 네. 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7q9pie2smro",
+            "startAt": 108580,
+            "endAt": 111544,
+            "text": "우선은 지금 현대아파트 3차 대림동에 있는 현대 3",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_snkrdr9sp9g",
+            "startAt": 111513,
+            "endAt": 113313,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_jknlt35a76o",
+            "startAt": 113627,
+            "endAt": 115332,
+            "text": "지금 어머니 의식은 괜찮으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o788ushcmqg",
+            "startAt": 116682,
+            "endAt": 118473,
+            "text": "뭐 뭐.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ivo4b5gveh",
+            "startAt": 120045,
+            "endAt": 120454,
+            "text": "뭐이.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d0ujov1rnd8",
+            "startAt": 121989,
+            "endAt": 124244,
+            "text": "허 있다 없다 잘 모르겠어요.",
+            "speaker": 1
+        },
+        {
+            "id": "12ca790d",
+            "startAt": 123452,
+            "endAt": 129462,
+            "text": "아 알겠습니다. 그럼 의료 상담을 제가 병행 예 병행을 할 테니까요. 끊지 마세요. 출동은 이미 보냈어요.",
+            "speaker": 0
+        },
+        {
+            "id": "41f9485c",
+            "startAt": 129780,
+            "endAt": 131385,
+            "text": "네, 네, 네, 이거 끊지 마라고요?",
+            "speaker": 1
+        },
+        {
+            "id": "1c88127e",
+            "startAt": 131390,
+            "endAt": 133063,
+            "text": "예, 예, 의료 상담해드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "543a11b3",
+            "startAt": 133390,
+            "endAt": 133685,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "79a7a879",
+            "startAt": 133720,
+            "endAt": 134130,
+            "text": "예.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 영등포구 대림동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "흉통",
+        "호흡곤란",
+        "어지러움",
+        "구토"
+    ],
+    "triage": "잠재응급증상"
+}

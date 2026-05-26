@@ -1,0 +1,324 @@
+{
+    "_id": "651e4a1fb7503416e5f165b0",
+    "audioPath": "20230925/Seoul/2022/20220302/converted_[20220302]-[WQ1139585937].wav",
+    "recordId": "27bf9d8fffe5eb109279",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 109320,
+    "utterances": [
+        {
+            "id": "53817286",
+            "startAt": 723,
+            "endAt": 1943,
+            "text": "119 상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "c775ca17",
+            "startAt": 2180,
+            "endAt": 2955,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "dc91c6d1",
+            "startAt": 3344,
+            "endAt": 4003,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "ee5cc31a",
+            "startAt": 4316,
+            "endAt": 7505,
+            "text": "여그 저기 녹번 현대 2차",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vsrad8r6uj",
+            "startAt": 7520,
+            "endAt": 9766,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "bb6aa695",
+            "startAt": 11724,
+            "endAt": 12632,
+            "text": "무슨 일이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "1164d5f8",
+            "startAt": 12871,
+            "endAt": 15181,
+            "text": "우리 아저씨가 너무 아파가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "e3c54bb7",
+            "startAt": 15286,
+            "endAt": 16338,
+            "text": "어디가 아프셔?",
+            "speaker": 0
+        },
+        {
+            "id": "0c550c30",
+            "startAt": 16658,
+            "endAt": 18475,
+            "text": "아니, 지금 의식이 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "59e56bff",
+            "startAt": 18979,
+            "endAt": 20460,
+            "text": "숨은 쉬고 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "a7d962ff",
+            "startAt": 20145,
+            "endAt": 23917,
+            "text": "예, 숨은 쉬는데 힘들어도 모르고 그래요.",
+            "speaker": 1
+        },
+        {
+            "id": "13470565",
+            "startAt": 24421,
+            "endAt": 25501,
+            "text": "언제부터 그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r7lomfh3j68",
+            "startAt": 25892,
+            "endAt": 26874,
+            "text": "지금 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8frsdsrvbjg",
+            "startAt": 28241,
+            "endAt": 32186,
+            "text": "아까 아침에 아침에도",
+            "speaker": 1
+        },
+        {
+            "id": "d63bdc59",
+            "startAt": 32529,
+            "endAt": 37648,
+            "text": "그냥 많이 아픈데 아침에도 내가 사과를 이렇게",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dk5a3vfncc",
+            "startAt": 38520,
+            "endAt": 41674,
+            "text": "내줬더니 전부 다 먹었거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "6790ddcf",
+            "startAt": 42316,
+            "endAt": 44878,
+            "text": "근데 지금 점심도 안 먹고 그래서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_872uj2gncag",
+            "startAt": 45239,
+            "endAt": 45839,
+            "text": "하유",
+            "speaker": 1
+        },
+        {
+            "id": "d08e1f05",
+            "startAt": 45511,
+            "endAt": 47174,
+            "text": "어, 당뇨 있어요. 할아버지?",
+            "speaker": 0
+        },
+        {
+            "id": "d5c16b3a",
+            "startAt": 47223,
+            "endAt": 47823,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "0d110aa2",
+            "startAt": 48761,
+            "endAt": 52487,
+            "text": "그럼 지금 의식은 없는데 호흡은 규칙적으로 하고 계시다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "5fc094be",
+            "startAt": 52420,
+            "endAt": 53040,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "22f52ac2",
+            "startAt": 53267,
+            "endAt": 54575,
+            "text": "아, 할머니. 현대 2차",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_hh43cpbm9h",
+            "startAt": 54592,
+            "endAt": 56746,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_i2s22v4ak8g",
+            "startAt": 57129,
+            "endAt": 59411,
+            "text": "아, 할머니 전화번호 하나 더 주세요 핸드폰.",
+            "speaker": 0
+        },
+        {
+            "id": "6ace0ee9",
+            "startAt": 60289,
+            "endAt": 62609,
+            "text": "01 응, 제, 제 거 드려야되죠?",
+            "speaker": 1
+        },
+        {
+            "id": "6cd0d4b6",
+            "startAt": 62852,
+            "endAt": 63362,
+            "text": "예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "85e04e62",
+            "startAt": 63394,
+            "endAt": 69850,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "0fad395b",
+            "startAt": 69886,
+            "endAt": 70475,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "81e4e594",
+            "startAt": 70554,
+            "endAt": 72747,
+            "text": "할아버지 당뇨 있으시다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "992ae4e3",
+            "startAt": 72666,
+            "endAt": 78043,
+            "text": "당뇨도 있고 안, 지금 너무 너무 안 좋아요.",
+            "speaker": 1
+        },
+        {
+            "id": "947e1582",
+            "startAt": 78068,
+            "endAt": 81022,
+            "text": "아, 저기 최근에 코로나 관련해서.",
+            "speaker": 0
+        },
+        {
+            "id": "fff00035",
+            "startAt": 81435,
+            "endAt": 83882,
+            "text": "열 나시거나 호흡기 증상 있으셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "26f5a850",
+            "startAt": 83866,
+            "endAt": 84598,
+            "text": "아니요.",
+            "speaker": 1
+        },
+        {
+            "id": "0a7bb03d",
+            "startAt": 84928,
+            "endAt": 87581,
+            "text": "뭐 코로나 확진자거나 그런 거는 없으시다는 거죠? ",
+            "speaker": 0
+        },
+        {
+            "id": "58736661",
+            "startAt": 87407,
+            "endAt": 90581,
+            "text": "아이고 저렇게 아파서 그 그 방에만 있는데",
+            "speaker": 1
+        },
+        {
+            "id": "f0774eab",
+            "startAt": 90066,
+            "endAt": 93661,
+            "text": "저희 구급차가 멀리 떨어진 데서 가요.",
+            "speaker": 0
+        },
+        {
+            "id": "dfa87d1d",
+            "startAt": 93895,
+            "endAt": 95950,
+            "text": "그래서 조금 기다리셔야지 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "fea936fd",
+            "startAt": 95899,
+            "endAt": 97121,
+            "text": "어디서 가요?",
+            "speaker": 1
+        },
+        {
+            "id": "7df63a69",
+            "startAt": 97675,
+            "endAt": 102782,
+            "text": "차가 종로에 있는 차가 가요. 지금 코로나 환자들 때문에 차가 없어서.",
+            "speaker": 0
+        },
+        {
+            "id": "94ce7209",
+            "startAt": 102745,
+            "endAt": 106103,
+            "text": "종로에서 차가 가니까 시간이 좀 걸려요. 할머니.",
+            "speaker": 0
+        },
+        {
+            "id": "7b65f032",
+            "startAt": 105996,
+            "endAt": 106636,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "f0e84868",
+            "startAt": 106890,
+            "endAt": 107540,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 은평구 녹번동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "호흡곤란",
+        "고열"
+    ],
+    "triage": "잠재응급증상"
+}

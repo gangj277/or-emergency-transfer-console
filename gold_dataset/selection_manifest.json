@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-05-26T04:40:17.836Z",
+  "source_directory": "/Users/gangjimin/Downloads/TL_서울_구급",
+  "app_directory": "/Users/gangjimin/Documents/main_dev/school/OR확정/demo-app",
+  "selection_goal": "100 high-acuity Seoul emergency-call cases where hospital capability, travel time, congestion, ICU/OR/CT/cath availability, or bypass tradeoffs make the OR ranking meaningful.",
+  "selection_criteria": [
+    "Prefer cardiac arrest, respiratory compromise, altered consciousness/stroke, seizure, severe bleeding, chest pain/cardiac risk, major trauma/head injury, acute abdomen, obstetric/special-population, and high-acuity medical cases.",
+    "Prefer urgency 상/중, triage 응급증상/잠재응급증상, and disasterMedium 심정지/질병(중증).",
+    "Deprioritize routine transport, mild fever/cold, administrative calls, and calls dominated by location collection without meaningful clinical detail."
+  ],
+  "selection_method": {
+    "agent_wave_01_06_cases": 90,
+    "heuristic_topup_cases": 10,
+    "topup_scope": "Only files in the first six agent index ranges were used for the 10-case top-up; no additional agent wave was spawned.",
+    "missing_seed_files": []
+  },
+  "counts": {
+    "total_cases": 100,
+    "raw_json_files": 100,
+    "category_counts": {
+      "cardiac_arrest_rosc": 17,
+      "stroke_neuro_consciousness": 31,
+      "major_trauma_head_injury": 4,
+      "respiratory_failure_airway": 24,
+      "seizure_neurologic": 8,
+      "major_bleeding_gi": 7,
+      "chest_pain_cardiac": 8,
+      "critical_medical_unspecified": 1
+    },
+    "disaster_medium_counts": {
+      "심정지": 9,
+      "질병(중증)": 78,
+      "사고": 2,
+      "질병(중증 외)": 5,
+      "약물중독": 1,
+      "부상": 5
+    },
+    "urgency_counts": {
+      "상": 99,
+      "중": 1
+    }
+  },
+  "files": {
+    "normalized_json": "gold_cases.json",
+    "normalized_jsonl": "gold_cases.jsonl",
+    "raw_directory": "raw/",
+    "selected_source_list": "selected_source_files.txt"
+  },
+  "privacy_note": "raw/ contains original selected JSON files from the local source dataset. gold_cases.json and gold_cases.jsonl omit address, gender, audioPath, and raw recordId fields and redact common phone/id-number patterns in utterance text."
+}

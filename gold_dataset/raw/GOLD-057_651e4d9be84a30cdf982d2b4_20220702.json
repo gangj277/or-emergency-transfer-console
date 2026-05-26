@@ -1,0 +1,184 @@
+{
+    "_id": "651e4d9be84a30cdf982d2b4",
+    "audioPath": "20230925/Seoul/2022/20220702/converted_[20220702]-[WU1140296733].wav",
+    "recordId": "97919c1ff8156a7c9f37",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 63720,
+    "utterances": [
+        {
+            "id": "13281027",
+            "startAt": 4273,
+            "endAt": 6800,
+            "text": "여보세요, 네, 119예요, 이제 들려요.",
+            "speaker": 0
+        },
+        {
+            "id": "f2c9769d",
+            "startAt": 4285,
+            "endAt": 5160,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "b5994f53",
+            "startAt": 7209,
+            "endAt": 13600,
+            "text": "네, 잠시만요, 어떻게 여보세요, 여기 롯데백화점 영등포점",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_d5dggl2bio8",
+            "startAt": 13609,
+            "endAt": 15037,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "bbe79a05",
+            "startAt": 15032,
+            "endAt": 15388,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_gm1p73lv498",
+            "startAt": 15373,
+            "endAt": 17019,
+            "text": "도레, 도레도레?",
+            "speaker": 0
+        },
+        {
+            "id": "a300e15c",
+            "startAt": 16121,
+            "endAt": 17767,
+            "text": "네네, 브랜드요 네.",
+            "speaker": 1
+        },
+        {
+            "id": "cb523901",
+            "startAt": 17922,
+            "endAt": 19771,
+            "text": "네, 무 여자 분이에요, 남자 분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1uvmtkv9u28",
+            "startAt": 20073,
+            "endAt": 23010,
+            "text": "여자 분이요, 지금 쓰러지셔서요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u4nv24sm6v",
+            "startAt": 20819,
+            "endAt": 23937,
+            "text": "여자 분이 쓰러졌는데 의식, 의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_t6fp0bgus4o",
+            "startAt": 24628,
+            "endAt": 24964,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ue7a7ljtjk8",
+            "startAt": 25083,
+            "endAt": 27655,
+            "text": "의식, 의식, 말씀 하시냐구요.",
+            "speaker": 0
+        },
+        {
+            "id": "eeac0b41",
+            "startAt": 28484,
+            "endAt": 32433,
+            "text": "아니, 아예, 아예 네?",
+            "speaker": 1
+        },
+        {
+            "id": "0426a900",
+            "startAt": 32517,
+            "endAt": 35294,
+            "text": "심정지 상황이에요? 호흡은 안 하다는 거예요? 의식 없고?",
+            "speaker": 0
+        },
+        {
+            "id": "fa2490d4",
+            "startAt": 36178,
+            "endAt": 41747,
+            "text": "지금 토하고 숨은 쉬셔요 땀이 많이 나고.",
+            "speaker": 1
+        },
+        {
+            "id": "d166aba4",
+            "startAt": 39723,
+            "endAt": 42885,
+            "text": "숨은 쉬고 있는데 식은땀 나고.",
+            "speaker": 0
+        },
+        {
+            "id": "0a33bd7a",
+            "startAt": 43246,
+            "endAt": 47635,
+            "text": "네, 우선 저희가 백화점 팀 보안팀 빨리 부를 텐데 빨리 와주셔야 될 거 같아요.",
+            "speaker": 1
+        },
+        {
+            "id": "eb9405e8",
+            "startAt": 47287,
+            "endAt": 52172,
+            "text": "구토 증상 고개 옆으로 제쳐 놓으세요 구토 쓰게 안 되게.",
+            "speaker": 0
+        },
+        {
+            "id": "57dc069d",
+            "startAt": 50395,
+            "endAt": 54057,
+            "text": "네, 지금 지금 옆으로 누워 계시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "248cf345",
+            "startAt": 54074,
+            "endAt": 57425,
+            "text": "아, 옆으로 예, 고개 돌려 돌려만 주세요, 저희 가고 있어요.",
+            "speaker": 0
+        },
+        {
+            "id": "30a6e0e3",
+            "startAt": 57404,
+            "endAt": 58943,
+            "text": "아 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pdo2f8m26b8",
+            "startAt": 59784,
+            "endAt": 61329,
+            "text": "지금 오고 계신대요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_h07caof0nao",
+            "startAt": 60874,
+            "endAt": 61984,
+            "text": "아 저 온대.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 영등포구 영등포동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "구토",
+        "마비"
+    ],
+    "triage": "응급증상"
+}

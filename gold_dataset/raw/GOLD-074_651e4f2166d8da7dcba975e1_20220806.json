@@ -1,0 +1,323 @@
+{
+    "_id": "651e4f2166d8da7dcba975e1",
+    "audioPath": "20230925/Seoul/2022/20220806/converted_[20220806]-[WV1140537658].wav",
+    "recordId": "ccfd378be2fbd0473fc5",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 76080,
+    "utterances": [
+        {
+            "id": "c00624a4",
+            "startAt": 943,
+            "endAt": 1949,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "7409a0be",
+            "startAt": 2615,
+            "endAt": 7100,
+            "text": "네, 안녕하세요. 어, 저희 일단 서울시 도봉구.",
+            "speaker": 1
+        },
+        {
+            "id": "c0a8ee9e",
+            "startAt": 7455,
+            "endAt": 7855,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "8ab4706c",
+            "startAt": 8176,
+            "endAt": 8697,
+            "text": "노회로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_a6dvj52pq5o",
+            "startAt": 8727,
+            "endAt": 9854,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "102098ff",
+            "startAt": 10796,
+            "endAt": 11559,
+            "text": "노회로.",
+            "speaker": 0
+        },
+        {
+            "id": "7354a805",
+            "startAt": 11897,
+            "endAt": 13149,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "dba5975a",
+            "startAt": 13186,
+            "endAt": 15129,
+            "text": "강북이에요, 도봉이에요, 노원이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "6a1a2008",
+            "startAt": 15501,
+            "endAt": 16722,
+            "text": "서울시 도봉구입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "35dbc5d2",
+            "startAt": 16798,
+            "endAt": 17808,
+            "text": "도봉구 노회로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_evdt513hgro",
+            "startAt": 16802,
+            "endAt": 17829,
+            "text": "도봉구.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_87r65jrcmn",
+            "startAt": 18007,
+            "endAt": 20107,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "ea3b712f",
+            "startAt": 20245,
+            "endAt": 21543,
+            "text": "실버빌 요양원",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_orkuroc8hl8",
+            "startAt": 21575,
+            "endAt": 22557,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c720635c",
+            "startAt": 23191,
+            "endAt": 24436,
+            "text": "실버빌 요양원",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_449sij0o1eo",
+            "startAt": 24481,
+            "endAt": 25099,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_f3ovmfgnb3",
+            "startAt": 25150,
+            "endAt": 26005,
+            "text": "그게 몇층",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6l8aidh5ge8",
+            "startAt": 25993,
+            "endAt": 26766,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_roqmu3tescg",
+            "startAt": 28139,
+            "endAt": 29511,
+            "text": "그, 우진 빌딩이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_6bruhibmfn8",
+            "startAt": 29671,
+            "endAt": 30418,
+            "text": "네, 맞습니",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ij1esp0ca8",
+            "startAt": 30437,
+            "endAt": 32301,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "10dcac6f",
+            "startAt": 32868,
+            "endAt": 36391,
+            "text": "남자 어르신 43년생, 80세 남자 어르신 한 분.",
+            "speaker": 1
+        },
+        {
+            "id": "f1b85c2d",
+            "startAt": 36425,
+            "endAt": 36915,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "81ac7bd9",
+            "startAt": 36836,
+            "endAt": 41492,
+            "text": "지금 가슴 통증 많이 어, 느끼시고. 혈압도 평소보다 많이 높으신 상태세요.",
+            "speaker": 1
+        },
+        {
+            "id": "3202b697",
+            "startAt": 42006,
+            "endAt": 43200,
+            "text": "아, 의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_03k0g3kuih8",
+            "startAt": 42371,
+            "endAt": 43189,
+            "text": "네, 그래서",
+            "speaker": 1
+        },
+        {
+            "id": "0297c905",
+            "startAt": 43546,
+            "endAt": 49910,
+            "text": "네, 의식은 있으세요. 근데 본인도 병원 보호자도 그렇고 지금 다 어, 병원 이송을 원하시고. 본인도.",
+            "speaker": 1
+        },
+        {
+            "id": "48551bf2",
+            "startAt": 49302,
+            "endAt": 50622,
+            "text": "코로나 증상은 없어요?",
+            "speaker": 0
+        },
+        {
+            "id": "afbb9f9f",
+            "startAt": 50722,
+            "endAt": 51462,
+            "text": "없으십니다.",
+            "speaker": 1
+        },
+        {
+            "id": "d3529469",
+            "startAt": 51512,
+            "endAt": 53142,
+            "text": "아, 응급실로 가셔야 되는 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "aa2a272b",
+            "startAt": 53402,
+            "endAt": 54212,
+            "text": "네, 맞습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_69sns06d1u8",
+            "startAt": 54314,
+            "endAt": 54942,
+            "text": "어.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_tsod0bbo398",
+            "startAt": 57337,
+            "endAt": 58437,
+            "text": "네, 우진빌딩",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_pfqtvsm9c5o",
+            "startAt": 58468,
+            "endAt": 58887,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "bd3f9bb0",
+            "startAt": 58954,
+            "endAt": 60492,
+            "text": "실버빌 요양원이요.",
+            "speaker": 0
+        },
+        {
+            "id": "9bb6d2cc",
+            "startAt": 60590,
+            "endAt": 61048,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "42215021",
+            "startAt": 61128,
+            "endAt": 64439,
+            "text": "예, 그 바이탈은 다 정상인가요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_uaq9nb731h8",
+            "startAt": 64706,
+            "endAt": 67625,
+            "text": "아니요, 혈압은 높으시고 체온은 정상이신데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fan45jik1tg",
+            "startAt": 67697,
+            "endAt": 68097,
+            "text": "에.",
+            "speaker": 0
+        },
+        {
+            "id": "93ef3de2",
+            "startAt": 68068,
+            "endAt": 72082,
+            "text": "네, 혈압 180에 한 120정도 가까이 나옵니다. ",
+            "speaker": 1
+        },
+        {
+            "id": "81d9e282",
+            "startAt": 71478,
+            "endAt": 73497,
+            "text": "아, 예, 알겠습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "6712a5c9",
+            "startAt": 73817,
+            "endAt": 75417,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "6632af76",
+            "startAt": 75605,
+            "endAt": 75931,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 도봉구 창동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "오심"
+    ],
+    "triage": "응급증상"
+}

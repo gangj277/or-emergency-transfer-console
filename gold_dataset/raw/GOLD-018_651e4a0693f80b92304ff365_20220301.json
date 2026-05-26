@@ -1,0 +1,253 @@
+{
+    "_id": "651e4a0693f80b92304ff365",
+    "audioPath": "20230925/Seoul/2022/20220301/converted_[20220301]-[WQ1139577564].wav",
+    "recordId": "5879163ba5d623093549",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 91800,
+    "utterances": [
+        {
+            "id": "018bcabc",
+            "startAt": 1204,
+            "endAt": 2144,
+            "text": "119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "31844bd6",
+            "startAt": 2667,
+            "endAt": 3962,
+            "text": "아, 네, 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "db2cb6c3",
+            "startAt": 4114,
+            "endAt": 4691,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "f88948f3",
+            "startAt": 4924,
+            "endAt": 7795,
+            "text": "아, 네네, 저희 저 동거 가족 중에.",
+            "speaker": 1
+        },
+        {
+            "id": "a0555594",
+            "startAt": 7826,
+            "endAt": 8333,
+            "text": "예예.",
+            "speaker": 0
+        },
+        {
+            "id": "2b805d2e",
+            "startAt": 8524,
+            "endAt": 14267,
+            "text": "아, 저희 할머니가 그 지난주 금요일날 넘어지셨다가",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5qql6j9ogvo",
+            "startAt": 15500,
+            "endAt": 23982,
+            "text": "그 으 의식은 있었 있으셨는데, 어 그 어 생활하시다가 어제 저녁부터 지금 의식이 없으세요. 아, 그래가지고",
+            "speaker": 1
+        },
+        {
+            "id": "e4b16947",
+            "startAt": 23007,
+            "endAt": 25181,
+            "text": "의식이 없으세요? 숨은 쉬시고요?",
+            "speaker": 0
+        },
+        {
+            "id": "9cbc3a5f",
+            "startAt": 25308,
+            "endAt": 27989,
+            "text": "네네, 숨은 쉬시고요. 호흡은 하시고.",
+            "speaker": 1
+        },
+        {
+            "id": "face5699",
+            "startAt": 28146,
+            "endAt": 29616,
+            "text": "주소는 어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "47a39637",
+            "startAt": 30522,
+            "endAt": 31766,
+            "text": "어 서울시.",
+            "speaker": 1
+        },
+        {
+            "id": "58004699",
+            "startAt": 32030,
+            "endAt": 32409,
+            "text": "예.",
+            "speaker": 0
+        },
+        {
+            "id": "602149c8",
+            "startAt": 32400,
+            "endAt": 35891,
+            "text": "서 서대문구 어, 잠깐 엄마, 여기 주소가 어떻게 돼요?",
+            "speaker": 1
+        },
+        {
+            "id": "f0f8dceb",
+            "startAt": 36488,
+            "endAt": 38538,
+            "text": "아파트면 아파트 이름만 말해보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "72acd99c",
+            "startAt": 38373,
+            "endAt": 42705,
+            "text": "아, 내 냉 아 여 냉천동 동부센트레빌 아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "96b13597",
+            "startAt": 42855,
+            "endAt": 44558,
+            "text": "냉천동 동부센트레빌.",
+            "speaker": 0
+        },
+        {
+            "id": "350511e0",
+            "startAt": 44811,
+            "endAt": 45745,
+            "text": "아, 아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "6dcd36dc",
+            "startAt": 45839,
+            "endAt": 46259,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "557e79d0",
+            "startAt": 46915,
+            "endAt": 47843,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "66da3f76",
+            "startAt": 48125,
+            "endAt": 48942,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "38b20ab0",
+            "startAt": 49145,
+            "endAt": 50230,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "a7f1ea80",
+            "startAt": 50315,
+            "endAt": 51799,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "c2c78ff8",
+            "startAt": 51912,
+            "endAt": 53719,
+            "text": "네네. 그 아 그",
+            "speaker": 1
+        },
+        {
+            "id": "035c92c8",
+            "startAt": 53720,
+            "endAt": 55605,
+            "text": "격리나 의심되는 건 따로 없으시죠?",
+            "speaker": 0
+        },
+        {
+            "id": "c68bed15",
+            "startAt": 55687,
+            "endAt": 59976,
+            "text": "아, 저희 아, 저희 부모님이 다 코로나 다 걸리셔가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "78c05e5d",
+            "startAt": 60007,
+            "endAt": 60495,
+            "text": "걸리셨고?",
+            "speaker": 0
+        },
+        {
+            "id": "1ffdc6b1",
+            "startAt": 60525,
+            "endAt": 64577,
+            "text": "어 어 확진 엄마. 저희 어머니는 확진 경 격리 해제됐고,",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0c00lca5eeg",
+            "startAt": 65055,
+            "endAt": 73018,
+            "text": "저희 아버지가 지난주 금요일날 확진을 받으셨어요. 근데 이제 할머니는 워낙 고령자이셔가지고.",
+            "speaker": 1
+        },
+        {
+            "id": "ad46abc1",
+            "startAt": 73380,
+            "endAt": 75054,
+            "text": "따로 검사를 안 했다는 말씀",
+            "speaker": 0
+        },
+        {
+            "id": "77d16065",
+            "startAt": 74528,
+            "endAt": 77842,
+            "text": "예, 검사도 못하고 백신도 안 맞으신 상태거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "847e80d4",
+            "startAt": 77978,
+            "endAt": 82023,
+            "text": "아, 알겠습니다. 전화 오면 잘 받아주세요, 선생님.",
+            "speaker": 0
+        },
+        {
+            "id": "cf2ce4fd",
+            "startAt": 82054,
+            "endAt": 83911,
+            "text": "네, 알겠습니다. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_n7kcj7vude",
+            "startAt": 82918,
+            "endAt": 83791,
+            "text": "네네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 서대문구 냉천동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "중",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "의식장애",
+        "마비"
+    ],
+    "triage": "응급증상"
+}

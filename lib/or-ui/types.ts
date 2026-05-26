@@ -97,9 +97,10 @@ export type RecommendationResponse = {
   };
   recommendations: {
     formulation: {
-      version: "capacity_buffer_v2";
+      version: "normalized_utility_v3";
       objective: string;
       hardConstraints: string[];
+      softPreferences?: string[];
       candidateSetPolicy: string;
     };
     candidateSet?: string;

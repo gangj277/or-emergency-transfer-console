@@ -1,0 +1,331 @@
+{
+    "_id": "651e4932d392f1f6bd520eb3",
+    "audioPath": "20230925/Seoul/2022/20220102/converted_[20220102]-[WO1139280199].wav",
+    "recordId": "c2c11a7aee92516684d7",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 105600,
+    "utterances": [
+        {
+            "id": "64e8a678",
+            "startAt": 5068,
+            "endAt": 5896,
+            "text": "어 여보세요, ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r2och4dcnj",
+            "startAt": 7401,
+            "endAt": 10519,
+            "text": "어 갑자기 심장이 아프다고 해가지고요. 병",
+            "speaker": 1
+        },
+        {
+            "id": "c55afd37",
+            "startAt": 11191,
+            "endAt": 12627,
+            "text": "누가 그러신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "bd1ae7b8",
+            "startAt": 13138,
+            "endAt": 14826,
+            "text": "아, 아빠가 아프신 거예요",
+            "speaker": 1
+        },
+        {
+            "id": "f6096a2b",
+            "startAt": 14683,
+            "endAt": 17044,
+            "text": "아빠요, 의식이나 호흡은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "16f4792b",
+            "startAt": 17407,
+            "endAt": 18213,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "53077c20",
+            "startAt": 18137,
+            "endAt": 20545,
+            "text": "예 의식이나 호흡은 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "2770d53b",
+            "startAt": 20915,
+            "endAt": 24802,
+            "text": "네, 호흡은 하실 수 있는데 심장이 너무 아파가지고 못 움직이세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ps54f77acb",
+            "startAt": 24867,
+            "endAt": 27476,
+            "text": "아, 호흡은 있으시고 아버님 ",
+            "speaker": 0
+        },
+        {
+            "id": "c661ebac",
+            "startAt": 27712,
+            "endAt": 32233,
+            "text": "그 심장질환 진단받으신 거 있으세요? 뭐 협심증이라던지 심근경색이라던지",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ski9np9s7o",
+            "startAt": 31773,
+            "endAt": 33128,
+            "text": "아니요 없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_u0ie3d0ka7",
+            "startAt": 33014,
+            "endAt": 34387,
+            "text": "그런 거 없으시고 아.",
+            "speaker": 0
+        },
+        {
+            "id": "95dc76fa",
+            "startAt": 34254,
+            "endAt": 34654,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "5954c318",
+            "startAt": 34812,
+            "endAt": 38882,
+            "text": "갑자기 가슴이 아프시다고 그러셨고 주소 불러주세요. 구급차 보내드릴게요.",
+            "speaker": 0
+        },
+        {
+            "id": "7903a218",
+            "startAt": 39169,
+            "endAt": 39819,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "f5ef5d57",
+            "startAt": 43206,
+            "endAt": 43786,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "ec4ab2a0",
+            "startAt": 44099,
+            "endAt": 44409,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "a96b3c88",
+            "startAt": 44564,
+            "endAt": 45574,
+            "text": "네, 주소 불러주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "7736e2d3",
+            "startAt": 45916,
+            "endAt": 49750,
+            "text": "아, 중랑구 중앙연로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_55hm0u6644g",
+            "startAt": 49831,
+            "endAt": 51586,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_77q5alclddg",
+            "startAt": 51684,
+            "endAt": 52530,
+            "text": "영로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_v3na0gqij9",
+            "startAt": 52776,
+            "endAt": 55313,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0a9p39hseb",
+            "startAt": 57252,
+            "endAt": 59034,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "586f8910",
+            "startAt": 59100,
+            "endAt": 60101,
+            "text": "층이나 몇 호예요?",
+            "speaker": 0
+        },
+        {
+            "id": "5234a174",
+            "startAt": 60416,
+            "endAt": 62125,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "8ca6b60e",
+            "startAt": 62381,
+            "endAt": 62824,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "c571d084",
+            "startAt": 63342,
+            "endAt": 68852,
+            "text": "아버님, 코로나 관련해서 확진 받으신 적 있거나 자가격리 중이시거나 열이나 기침, 가래 등 해당사항 있으세요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_o687otuqc58",
+            "startAt": 69106,
+            "endAt": 70070,
+            "text": "아니요, 없으세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r0hh4di17ig",
+            "startAt": 69990,
+            "endAt": 71517,
+            "text": "백신 맞으셨어요? 아버님이요?",
+            "speaker": 0
+        },
+        {
+            "id": "378d7538",
+            "startAt": 71920,
+            "endAt": 74430,
+            "text": "백신 2차 맞았는데 언제 맞았지? ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qj34b6na9pg",
+            "startAt": 75399,
+            "endAt": 76818,
+            "text": "11월달에 맞았어요.",
+            "speaker": 1
+        },
+        {
+            "id": "9d21233b",
+            "startAt": 76572,
+            "endAt": 79070,
+            "text": "11월, 일단 구급차부터 보낼게요. 중화동",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_evrdlth72oo",
+            "startAt": 79167,
+            "endAt": 81613,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u540fmadrtg",
+            "startAt": 81662,
+            "endAt": 82353,
+            "text": "옛날 주소로",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8ric7it839",
+            "startAt": 82621,
+            "endAt": 83722,
+            "text": "네네 맞아요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_msi1ld3ek6",
+            "startAt": 82915,
+            "endAt": 84652,
+            "text": "맞아요? 옛날 주소로 맞고 어",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_4gdb7hifigo",
+            "startAt": 84727,
+            "endAt": 90171,
+            "text": "알겠습니다. 구급차 근처에 가까운 구급차가 출동을 했어요. 병원 가실 준비하시고 조금만 기다리시고 계세요.",
+            "speaker": 0
+        },
+        {
+            "id": "3d4916b3",
+            "startAt": 90332,
+            "endAt": 91023,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "38754283",
+            "startAt": 91044,
+            "endAt": 92012,
+            "text": "아버님이.",
+            "speaker": 0
+        },
+        {
+            "id": "e3e1c8d1",
+            "startAt": 92456,
+            "endAt": 92885,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "52475e5b",
+            "startAt": 92770,
+            "endAt": 100350,
+            "text": "구급차 도착하기 전에 갑자기 의식이 없거나 호흡이 없어 없게 되면은 다시 전화 주세요. 그러면은 심폐소생술 안내해드릴 테니까는.",
+            "speaker": 0
+        },
+        {
+            "id": "6f3ab018",
+            "startAt": 100440,
+            "endAt": 101044,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "167d22a3",
+            "startAt": 101140,
+            "endAt": 101708,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "3338bd32",
+            "startAt": 101795,
+            "endAt": 102937,
+            "text": "네, 감사합니다.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 중랑구 중화동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증 외)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "흉통",
+        "심정지",
+        "호흡정지"
+    ],
+    "triage": "응급증상"
+}

@@ -1,0 +1,406 @@
+{
+    "_id": "651e4e712e98ee7120968ef2",
+    "audioPath": "20230925/Seoul/2022/20220704/converted_[20220704]-[WU1140309950].wav",
+    "recordId": "b8e6f006c680a58900f0",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 124920,
+    "utterances": [
+        {
+            "id": "5382b6c0",
+            "startAt": 438,
+            "endAt": 1828,
+            "text": "네, 119입니다. \n",
+            "speaker": 0
+        },
+        {
+            "id": "b9a39be5",
+            "startAt": 2053,
+            "endAt": 4558,
+            "text": "예, 저기 죄송한데요.",
+            "speaker": 1
+        },
+        {
+            "id": "759c1e1a",
+            "startAt": 4612,
+            "endAt": 8683,
+            "text": "어, 우리 애가 지금 다시 호흡 곤란이 왔거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "0f1bac42",
+            "startAt": 8719,
+            "endAt": 10162,
+            "text": "남자분이에요? 여자분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "ba27b397",
+            "startAt": 10430,
+            "endAt": 12223,
+            "text": "남자예요. 여.",
+            "speaker": 1
+        },
+        {
+            "id": "87bb7d7b",
+            "startAt": 11313,
+            "endAt": 13913,
+            "text": "남자분이요. 옆에 같이 계세요?",
+            "speaker": 0
+        },
+        {
+            "id": "5dd174ad",
+            "startAt": 13223,
+            "endAt": 20625,
+            "text": "32세 30, 3 잠깐만 지금 발작이 일어났거든요. 잠깐만요.",
+            "speaker": 1
+        },
+        {
+            "id": "b7109a88",
+            "startAt": 20600,
+            "endAt": 22118,
+            "text": "원래 발작하시는 분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ldt5q6jiido",
+            "startAt": 22928,
+            "endAt": 23846,
+            "text": "예, 예, 예. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_5qmjh0584eg",
+            "startAt": 23973,
+            "endAt": 26009,
+            "text": "네, 주소 말씀해보세요. 계신 데. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_r300dehe8e",
+            "startAt": 28210,
+            "endAt": 29082,
+            "text": "여보세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_99gfmu0rfi",
+            "startAt": 29355,
+            "endAt": 30137,
+            "text": "네네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_nb9l8k77o6g",
+            "startAt": 30310,
+            "endAt": 31682,
+            "text": "네, 주소가 어떻게 돼요? ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ksdj9bqhovg",
+            "startAt": 32091,
+            "endAt": 33637,
+            "text": "주소, 주소하고 주소가 어떻게 되냐?",
+            "speaker": 1
+        },
+        {
+            "id": "d4f21c77",
+            "startAt": 36188,
+            "endAt": 38210,
+            "text": "어 강북구.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_iqaoe5lrq9",
+            "startAt": 39582,
+            "endAt": 42019,
+            "text": "뭐 아이고 나 미치겠네, 진짜.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sgq4farlr7g",
+            "startAt": 42110,
+            "endAt": 43419,
+            "text": "집에 계신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_huvc3uhue18",
+            "startAt": 43937,
+            "endAt": 44401,
+            "text": "집에요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7tc95ad488o",
+            "startAt": 44464,
+            "endAt": 45864,
+            "text": "네 집 주소 부르세요.",
+            "speaker": 0
+        },
+        {
+            "id": "72305576",
+            "startAt": 45927,
+            "endAt": 50024,
+            "text": "어, 왜왜왜. 왜왜.",
+            "speaker": 1
+        },
+        {
+            "id": "a479b8f5",
+            "startAt": 50141,
+            "endAt": 50834,
+            "text": "아빠 불러.",
+            "speaker": 1
+        },
+        {
+            "id": "ff71103f",
+            "startAt": 50982,
+            "endAt": 51863,
+            "text": "여보세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_b383l4kb4l8",
+            "startAt": 51001,
+            "endAt": 51773,
+            "text": "왜왜왜. ",
+            "speaker": 1
+        },
+        {
+            "id": "edf9212a",
+            "startAt": 52803,
+            "endAt": 54449,
+            "text": "저, 여, 내 전화만 좀 받아 전화. ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_56c4a3shfa",
+            "startAt": 54492,
+            "endAt": 54874,
+            "text": "어",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_706ubt8nn6",
+            "startAt": 55083,
+            "endAt": 55728,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "68a920aa",
+            "startAt": 57061,
+            "endAt": 58065,
+            "text": "신고자분.",
+            "speaker": 0
+        },
+        {
+            "id": "d9aa5f53",
+            "startAt": 59030,
+            "endAt": 60067,
+            "text": "여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_fj28n62505g",
+            "startAt": 59737,
+            "endAt": 61137,
+            "text": "네 주소 불러보세요. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8tbf02cli78",
+            "startAt": 61592,
+            "endAt": 64492,
+            "text": "네 저기요 강북구 월계로",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jurtlke7o2o",
+            "startAt": 64938,
+            "endAt": 66975,
+            "text": "21나길",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hvj4q5m797o",
+            "startAt": 67047,
+            "endAt": 68420,
+            "text": "나길? 가나 할 때",
+            "speaker": 0
+        },
+        {
+            "id": "286750ee",
+            "startAt": 68415,
+            "endAt": 71492,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_jcp32nfshdg",
+            "startAt": 71579,
+            "endAt": 73357,
+            "text": "월계로 21나길에",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_u4d23gknfg8",
+            "startAt": 73363,
+            "endAt": 74327,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "e9a55623",
+            "startAt": 74777,
+            "endAt": 79982,
+            "text": "네, 저기 얼마 전에도 얼마 전에도 왔었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_j80i3tdpjn8",
+            "startAt": 75574,
+            "endAt": 76519,
+            "text": "몇 층, 몇 호에. ",
+            "speaker": 0
+        },
+        {
+            "id": "245f770e",
+            "startAt": 79949,
+            "endAt": 81064,
+            "text": "네, 몇 층이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "a3887267",
+            "startAt": 81752,
+            "endAt": 83654,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "7b5c1c65",
+            "startAt": 83639,
+            "endAt": 86603,
+            "text": "지금 발, 발작하고 있고 의식은 있어요. 의식?",
+            "speaker": 0
+        },
+        {
+            "id": "ecddc3a1",
+            "startAt": 87364,
+            "endAt": 88364,
+            "text": "없어요.",
+            "speaker": 1
+        },
+        {
+            "id": "746d24ce",
+            "startAt": 87405,
+            "endAt": 89867,
+            "text": "의, 의식 없어요? 숨 쉬나 확인해봐요.",
+            "speaker": 0
+        },
+        {
+            "id": "5000ead0",
+            "startAt": 90663,
+            "endAt": 94020,
+            "text": "예 잠깐만요. 의식. 여보세요.",
+            "speaker": 1
+        },
+        {
+            "id": "dfb1f61c",
+            "startAt": 93986,
+            "endAt": 96231,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_pfnog4jtsho",
+            "startAt": 96429,
+            "endAt": 98201,
+            "text": "의식이 없어졌어요. 선. ",
+            "speaker": 1
+        },
+        {
+            "id": "b7513964",
+            "startAt": 96437,
+            "endAt": 100897,
+            "text": "신고자분. 아, 그러니까 의식은 없는데. 숨은 쉬냐, 쉬고 있냐고요. 호흡은?",
+            "speaker": 0
+        },
+        {
+            "id": "7d9aee39",
+            "startAt": 101771,
+            "endAt": 106541,
+            "text": "예, 호흡은 지금 호흡, 호흡을 못하고 있거든요?",
+            "speaker": 1
+        },
+        {
+            "id": "675dd8ae",
+            "startAt": 106180,
+            "endAt": 107031,
+            "text": "못하고 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "fa50f4ce",
+            "startAt": 107449,
+            "endAt": 108364,
+            "text": "예. ",
+            "speaker": 1
+        },
+        {
+            "id": "b5a011aa",
+            "startAt": 107544,
+            "endAt": 110202,
+            "text": "차는, 차는, 차는 일단 나갔고요. 월계로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_cres8rj6ha8",
+            "startAt": 110183,
+            "endAt": 113456,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "f9eaadf8",
+            "startAt": 113859,
+            "endAt": 116139,
+            "text": "네, 지난번에도 왔었어요.",
+            "speaker": 1
+        },
+        {
+            "id": "cf9e125f",
+            "startAt": 117610,
+            "endAt": 118741,
+            "text": "어 네",
+            "speaker": 0
+        },
+        {
+            "id": "288e12df",
+            "startAt": 118351,
+            "endAt": 119109,
+            "text": "여보세요?",
+            "speaker": 1
+        },
+        {
+            "id": "19204cd9",
+            "startAt": 119085,
+            "endAt": 124820,
+            "text": "대원들 가면서 전화 할 거고요, 끊지 말아보세요. 응급처치 안내 좀 해줄게요. 끊지 말아보세요.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 강북구 미아동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "경련/발작"
+    ],
+    "triage": "응급증상"
+}

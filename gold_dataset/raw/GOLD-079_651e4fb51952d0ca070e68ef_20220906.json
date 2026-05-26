@@ -1,0 +1,385 @@
+{
+    "_id": "651e4fb51952d0ca070e68ef",
+    "audioPath": "20230925/Seoul/2022/20220906/converted_[20220906]-[WW1140762451].wav",
+    "recordId": "0ea25543bb56a9ad93c8",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 109200,
+    "utterances": [
+        {
+            "id": "80874d82",
+            "startAt": 869,
+            "endAt": 1979,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "59a537fa",
+            "startAt": 2069,
+            "endAt": 6949,
+            "text": "네, 안녕하세요. 저희 할아버지가 지금 상태가 안 좋아가지고 지금 몸이 약간 마비된 느낌이다 하시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "5e74dbfd",
+            "startAt": 7219,
+            "endAt": 8079,
+            "text": "몸 전체가?",
+            "speaker": 0
+        },
+        {
+            "id": "6554b21c",
+            "startAt": 8689,
+            "endAt": 14051,
+            "text": "이게 아까부터 제가 그 계속 봐드렸는데 처음에는 몸만 아프시다가 이제",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_r3dcqm93d7g",
+            "startAt": 14225,
+            "endAt": 19088,
+            "text": "화장실 갈 때도 제가 다 계속 봐드리고 하다가 지금 너무 안되겠어가지고 지금 가겠다 하시거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "f971af69",
+            "startAt": 18690,
+            "endAt": 21088,
+            "text": "말 말씀이랑은 하세요. 의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "d279e010",
+            "startAt": 21471,
+            "endAt": 25105,
+            "text": "의식은 있는데. 말이 좀 안 잘 안 나오세요. 많이 좀.",
+            "speaker": 1
+        },
+        {
+            "id": "dbeb03cc",
+            "startAt": 24462,
+            "endAt": 26202,
+            "text": "아 말 말도 어눌하고?",
+            "speaker": 0
+        },
+        {
+            "id": "4ba7c930",
+            "startAt": 26406,
+            "endAt": 27558,
+            "text": "네, 말도 좀 어눌하고.",
+            "speaker": 1
+        },
+        {
+            "id": "4cbacdce",
+            "startAt": 27443,
+            "endAt": 29033,
+            "text": "어 주소 알려줘 보실래요?",
+            "speaker": 0
+        },
+        {
+            "id": "f431b7df",
+            "startAt": 29377,
+            "endAt": 33055,
+            "text": "네, 여기가 서울시 영등포구.",
+            "speaker": 1
+        },
+        {
+            "id": "765656bd",
+            "startAt": 33312,
+            "endAt": 33922,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "60b2d545",
+            "startAt": 34092,
+            "endAt": 37640,
+            "text": "도신로 31길 현대3 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k8sqpcfm9v8",
+            "startAt": 36236,
+            "endAt": 36900,
+            "text": "도신로",
+            "speaker": 0
+        },
+        {
+            "id": "202f68b1",
+            "startAt": 37300,
+            "endAt": 40002,
+            "text": "도신길 31길에 몇 번지?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_c8uppfanhp8",
+            "startAt": 40414,
+            "endAt": 41551,
+            "text": "어, 31 없",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_aatnch6p03",
+            "startAt": 40418,
+            "endAt": 41555,
+            "text": "31길.",
+            "speaker": 1
+        },
+        {
+            "id": "996b1c0e",
+            "startAt": 41720,
+            "endAt": 43498,
+            "text": "네 바로 그냥 현대3차 나올 거예요.",
+            "speaker": 1
+        },
+        {
+            "id": "69954dc0",
+            "startAt": 44439,
+            "endAt": 47235,
+            "text": "도신로 31길은 없는 주소예요, 도신로.",
+            "speaker": 0
+        },
+        {
+            "id": "2c5fcdf6",
+            "startAt": 46710,
+            "endAt": 47219,
+            "text": "도신로 ",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_6mk2u7ku8sg",
+            "startAt": 47216,
+            "endAt": 48643,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "3d795d08",
+            "startAt": 48897,
+            "endAt": 50152,
+            "text": "그냥 31길이 아니라",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8ici09gpe2",
+            "startAt": 50151,
+            "endAt": 51169,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "a89734dc",
+            "startAt": 51159,
+            "endAt": 51413,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cl9q8a654so",
+            "startAt": 51413,
+            "endAt": 52104,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_lutve772ov8",
+            "startAt": 52109,
+            "endAt": 53227,
+            "text": "그러면 현대3차",
+            "speaker": 1
+        },
+        {
+            "id": "88987775",
+            "startAt": 52958,
+            "endAt": 56524,
+            "text": "3차, 현대3차로 나와요. 거기가 몇 동 몇 호에요?",
+            "speaker": 0
+        },
+        {
+            "id": "67000213",
+            "startAt": 55544,
+            "endAt": 55945,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ptiu42orl3",
+            "startAt": 56735,
+            "endAt": 58944,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "a67099c7",
+            "startAt": 59444,
+            "endAt": 60174,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "321a545f",
+            "startAt": 60424,
+            "endAt": 62843,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "17e06289",
+            "startAt": 62846,
+            "endAt": 63490,
+            "text": "맞아요?",
+            "speaker": 0
+        },
+        {
+            "id": "49026d93",
+            "startAt": 63420,
+            "endAt": 63669,
+            "text": "네",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8ja7oi0km8",
+            "startAt": 63642,
+            "endAt": 64351,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_c5abnleao2o",
+            "startAt": 64341,
+            "endAt": 68105,
+            "text": "맞는데 저희 할아버지가 강남 성심병원인가로 가고 싶다 하시긴 했거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_3dg07lu58bg",
+            "startAt": 65609,
+            "endAt": 66255,
+            "text": "코로",
+            "speaker": 0
+        },
+        {
+            "id": "0a232226",
+            "startAt": 68376,
+            "endAt": 72996,
+            "text": "병원은 출동한 대원들이 결정하는 거라 대원분들 오시면 따로 말씀하셔야 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_507ek6osfqo",
+            "startAt": 70372,
+            "endAt": 71172,
+            "text": "아 네",
+            "speaker": 1
+        },
+        {
+            "id": "db662e68",
+            "startAt": 73352,
+            "endAt": 74712,
+            "text": "네? 잠시만요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s4d2qk40m1o",
+            "startAt": 73617,
+            "endAt": 74981,
+            "text": "기침, 열, 가래 있어",
+            "speaker": 0
+        },
+        {
+            "id": "0fd89d76",
+            "startAt": 77756,
+            "endAt": 78266,
+            "text": "네?",
+            "speaker": 0
+        },
+        {
+            "id": "c92ee306",
+            "startAt": 79326,
+            "endAt": 80976,
+            "text": "아, 그분들한테 말하면 돼요?",
+            "speaker": 1
+        },
+        {
+            "id": "5a2ef187",
+            "startAt": 81302,
+            "endAt": 83266,
+            "text": "예, 출동한 대원들이.",
+            "speaker": 0
+        },
+        {
+            "id": "04f21433",
+            "startAt": 83322,
+            "endAt": 83736,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_sv5thibd2r8",
+            "startAt": 83704,
+            "endAt": 89204,
+            "text": "병원은 결정하게 법적으로 돼 있어요. 뭐 환자 보호자가 무조건 가고자 한다고 가는 게 아니라 대원들이",
+            "speaker": 0
+        },
+        {
+            "id": "5c9e6dd5",
+            "startAt": 89430,
+            "endAt": 97664,
+            "text": "가장 가까운 병원으로 선정하게 돼있어서 대원들 오시면 얘기하시면 되고. 기침, 열, 가래 코로나 관련 사항 있나요? 가족분들 모두. 환자분 포함",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9qsq6h87am",
+            "startAt": 93183,
+            "endAt": 94137,
+            "text": "아 네네",
+            "speaker": 1
+        },
+        {
+            "id": "8f071e5e",
+            "startAt": 96994,
+            "endAt": 104208,
+            "text": "열은 열은 없으시고요. 근데 식은 식은땀은 엄청 많이 나시고 저 저랑 포함해서 목이 많이 아프셔요, 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_at45b9e9s6g",
+            "startAt": 99442,
+            "endAt": 100624,
+            "text": "예 기침, 열, 가래",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ndp2k5v3vp8",
+            "startAt": 102596,
+            "endAt": 103078,
+            "text": "그래요?",
+            "speaker": 0
+        },
+        {
+            "id": "44e31cee",
+            "startAt": 105541,
+            "endAt": 108063,
+            "text": "예, 알겠어요. 저희 출동 대원 일단 가고 있습니다.",
+            "speaker": 0
+        },
+        {
+            "id": "5f1e95d8",
+            "startAt": 107921,
+            "endAt": 108501,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 영등포구 대림동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "마비"
+    ],
+    "triage": "응급증상"
+}

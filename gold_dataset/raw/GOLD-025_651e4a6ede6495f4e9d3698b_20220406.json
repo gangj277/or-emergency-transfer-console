@@ -1,0 +1,336 @@
+{
+    "_id": "651e4a6ede6495f4e9d3698b",
+    "audioPath": "20230925/Seoul/2022/20220406/converted_[20220406]-[WR1139817262].wav",
+    "recordId": "4833c8a6681044570e68",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 138480,
+    "utterances": [
+        {
+            "id": "1b0bacab",
+            "startAt": 649,
+            "endAt": 1989,
+            "text": "네, 119상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "2dc31c1a",
+            "startAt": 2549,
+            "endAt": 10719,
+            "text": "네, 그 늦은 시간에 미안합니다. 저 좀 집에 응급환자분이 계셔서 좀 도움을 요청드릴려고 하는데요.",
+            "speaker": 1
+        },
+        {
+            "id": "20b84db5",
+            "startAt": 10535,
+            "endAt": 11939,
+            "text": "구급차 필요하신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "57d9e63d",
+            "startAt": 12493,
+            "endAt": 12893,
+            "text": "네?",
+            "speaker": 1
+        },
+        {
+            "id": "aafb6e4c",
+            "startAt": 13003,
+            "endAt": 14653,
+            "text": "구급차가 필요하신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ir95ufl1hfg",
+            "startAt": 13591,
+            "endAt": 14063,
+            "text": "예.",
+            "speaker": 1
+        },
+        {
+            "id": "fa22fbc5",
+            "startAt": 14713,
+            "endAt": 15363,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "f0e49233",
+            "startAt": 15393,
+            "endAt": 16113,
+            "text": "어떻게 되세요?",
+            "speaker": 0
+        },
+        {
+            "id": "08e29fd5",
+            "startAt": 16613,
+            "endAt": 19065,
+            "text": "예, 서울시 용산구 세창로.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_k7bu3ov8jjo",
+            "startAt": 19098,
+            "endAt": 19943,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "2ef4f8bf",
+            "startAt": 20263,
+            "endAt": 20879,
+            "text": "세창로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_l90kuek9qi8",
+            "startAt": 20907,
+            "endAt": 21607,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "2ecc8e80",
+            "startAt": 22123,
+            "endAt": 23493,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "c13f5ac1",
+            "startAt": 23533,
+            "endAt": 23843,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "ac33c3e9",
+            "startAt": 24393,
+            "endAt": 27193,
+            "text": "예, 도원 삼성 레미안 아파트.",
+            "speaker": 1
+        },
+        {
+            "id": "ac58f9c9",
+            "startAt": 27733,
+            "endAt": 28033,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "c54d5922",
+            "startAt": 28634,
+            "endAt": 34208,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "623c109d",
+            "startAt": 34376,
+            "endAt": 36004,
+            "text": "누가 어떻게 불편하신 거예요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_dajihgj30vo",
+            "startAt": 36372,
+            "endAt": 41999,
+            "text": "예, 저희 아버님이신데요. 그 신촌 세브란스 병원을 20년 넘게.",
+            "speaker": 1
+        },
+        {
+            "id": "bdea5319",
+            "startAt": 42017,
+            "endAt": 49649,
+            "text": "또 최근까지 지금 다니고 계시거든요. 그래서 응급 상황에는 그 오라고 하셔서 좀 그쪽을.",
+            "speaker": 1
+        },
+        {
+            "id": "7d2d6880",
+            "startAt": 48574,
+            "endAt": 51683,
+            "text": "지금 어떤 증상이 있으신 거예요? 어떤 증상?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_eul6urkoq7o",
+            "startAt": 52141,
+            "endAt": 55690,
+            "text": "아, 저 저 90세 고령이신데요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0g5i4cgcqo",
+            "startAt": 55805,
+            "endAt": 56196,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_9qr70uhe17g",
+            "startAt": 56250,
+            "endAt": 63541,
+            "text": "그 저 암 환자 기저질환이 있으세요, 그래서 지금 그 폐하고 심장하고 뭐 직.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_i101fdfqo5g",
+            "startAt": 63590,
+            "endAt": 72257,
+            "text": "장 이런 데가 많이 안 좋으신데 지금 산소포화도가 막 80, 79 까지 떨어지고.",
+            "speaker": 1
+        },
+        {
+            "id": "933df18a",
+            "startAt": 72247,
+            "endAt": 73867,
+            "text": "네, 의식은 있으세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qovgk4ci0k",
+            "startAt": 74321,
+            "endAt": 83177,
+            "text": "예, 의식은 있는데 문제는 거동을 전혀 못하셔서 그 안전들것 이런 걸 좀 같이 가져와주셔야 될 거 같아서.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cuf5cgu2q78",
+            "startAt": 82615,
+            "endAt": 84515,
+            "text": "집에서 혹시 산소도 하고 계시나요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_p3905sn61j8",
+            "startAt": 84813,
+            "endAt": 87804,
+            "text": "예, 예, 산소치료 계속하고 계셨는데.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_ubjq9eqn9so",
+            "startAt": 87922,
+            "endAt": 88250,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_os1jbujd3kg",
+            "startAt": 88353,
+            "endAt": 95708,
+            "text": "그 어제부터 조금 수치가 들쭉날쭉 하더니 오늘은 수치가 좀 더 많이 떨어져서",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_f44m96erroo",
+            "startAt": 95999,
+            "endAt": 99497,
+            "text": "이런 응급상황에는 오라고 하셨거든요. 무조건, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "0c26e194",
+            "startAt": 97568,
+            "endAt": 101476,
+            "text": "긍게 제가 여쭤보는게 저희 대원들이 산소통도 가지고 가야 돼요?",
+            "speaker": 0
+        },
+        {
+            "id": "83cc2ae5",
+            "startAt": 102276,
+            "endAt": 107442,
+            "text": "그 일단 가지고 와주시면 아, 그게 좀 안심이 될 거 같은데요. 예, 그 가면서 계속.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_2bqdqmftkp",
+            "startAt": 108986,
+            "endAt": 110284,
+            "text": "그 가면서 계속 산소도 예.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_un9uaf2sq8",
+            "startAt": 109586,
+            "endAt": 110268,
+            "text": "네, 일단.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_5j87v5ved2o",
+            "startAt": 110297,
+            "endAt": 112479,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_07i62fgtv9",
+            "startAt": 112566,
+            "endAt": 116520,
+            "text": "최근에 혹시 코로나 관련해서 열나시거나 다른 증상은 없으셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_m8tapljimng",
+            "startAt": 112588,
+            "endAt": 113342,
+            "text": "네네.",
+            "speaker": 1
+        },
+        {
+            "id": "ce323d90",
+            "startAt": 117155,
+            "endAt": 124425,
+            "text": "약간 미열, 약간 미열이 있으시고 원래 그 태양이시기 때문에 호흡기 증상이 원래도 있으십니다.",
+            "speaker": 1
+        },
+        {
+            "id": "e2941282",
+            "startAt": 124455,
+            "endAt": 126575,
+            "text": "가족분 중에 확진자는 안 계신 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "0d6011a6",
+            "startAt": 127344,
+            "endAt": 128764,
+            "text": "예, 현재는 없습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "8718514a",
+            "startAt": 128954,
+            "endAt": 132384,
+            "text": "네, 저희 나가서 확인하겠습니다. 전화 잘 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_k2ubs9m4ah",
+            "startAt": 131186,
+            "endAt": 131931,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "9866f4c9",
+            "startAt": 132664,
+            "endAt": 133234,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 용산구 도원동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "불안/걱정",
+    "symptom": [
+        "호흡곤란"
+    ],
+    "triage": "응급증상"
+}

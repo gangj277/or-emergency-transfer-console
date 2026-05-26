@@ -1,0 +1,336 @@
+{
+    "_id": "651e4a3786dc055ca8bf46cb",
+    "audioPath": "20230925/Seoul/2022/20220307/converted_[20220307]-[WQ1139621794].wav",
+    "recordId": "17939dac67ddd0b46dd6",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 135120,
+    "utterances": [
+        {
+            "id": "74d6289a",
+            "startAt": 152,
+            "endAt": 1665,
+            "text": "119상황실입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "32d2e178",
+            "startAt": 1705,
+            "endAt": 7013,
+            "text": "예, 아까 전화 몇 번 드렸었는데 지금 그 중환자실이 없어서.",
+            "speaker": 1
+        },
+        {
+            "id": "77525d6a",
+            "startAt": 7046,
+            "endAt": 7616,
+            "text": "네, 그.",
+            "speaker": 0
+        },
+        {
+            "id": "c8322076",
+            "startAt": 7261,
+            "endAt": 12791,
+            "text": "그  삼성서울병원으로 좀 갈려고 하는데 여기 강동에 성심병원이거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dj23kc70ej",
+            "startAt": 13064,
+            "endAt": 15582,
+            "text": "혹시 119를 이용할 수 있습니까?",
+            "speaker": 1
+        },
+        {
+            "id": "fe9b6484",
+            "startAt": 16457,
+            "endAt": 21419,
+            "text": "지금 성심병원 앞에서 뭐 진, 성심병원 진료가 안된대요?",
+            "speaker": 0
+        },
+        {
+            "id": "342d3570",
+            "startAt": 21451,
+            "endAt": 30227,
+            "text": "아, 그 지금 그 뇌진탕 때문에 뇌출혈이 조금 있으신데 자세히 찍어보니까 여기 중환자실에서 지금 룸이 없어서.",
+            "speaker": 1
+        },
+        {
+            "id": "0dcb249d",
+            "startAt": 30319,
+            "endAt": 34487,
+            "text": "어쨌든 저기 병원에서 진료받으신 거잖아요. 성신병원에서. ",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_sebh3b7mgj8",
+            "startAt": 30373,
+            "endAt": 31600,
+            "text": "안된다합니까?",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_7k1nap506b8",
+            "startAt": 33882,
+            "endAt": 38591,
+            "text": "진료는 받은 건 아닙니다. 받은 건 아니고 그 사진하고만 그 CT하고",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_dgv1qpak5n8",
+            "startAt": 38737,
+            "endAt": 45646,
+            "text": "드리고 그 사진만 그 다른 데 좀 중환자실에 알아보시라고 말씀하셔서 전화드리는 거거든요.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_hrnurft5b9o",
+            "startAt": 45919,
+            "endAt": 49973,
+            "text": "안에 들어가서 막 그 진료한 건 아니고 사진하고 뭐만 드렸어요, 응급실 쪽에 와서.",
+            "speaker": 1
+        },
+        {
+            "id": "b9f2a0aa",
+            "startAt": 52031,
+            "endAt": 54551,
+            "text": "근데 그쪽에서는 진료가 안된다는 말씀이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ug5b99pvqa8",
+            "startAt": 53828,
+            "endAt": 55492,
+            "text": "네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_55te75qmog",
+            "startAt": 56255,
+            "endAt": 58028,
+            "text": "응급실 앞에 계시는 거고요?",
+            "speaker": 0
+        },
+        {
+            "id": "96322fed",
+            "startAt": 57957,
+            "endAt": 59770,
+            "text": "예, 응급실 앞에 있습니다, 지금.",
+            "speaker": 1
+        },
+        {
+            "id": "d19bbfef",
+            "startAt": 63369,
+            "endAt": 64873,
+            "text": "잠시만요.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_8ui0idd8c4",
+            "startAt": 64555,
+            "endAt": 65783,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_di8ejfjs3f8",
+            "startAt": 65337,
+            "endAt": 70365,
+            "text": "저희 대원들 출동은 하는데요, 저희 대원들도 그 환자분 상태 ",
+            "speaker": 0
+        },
+        {
+            "id": "10ebd8fc",
+            "startAt": 70605,
+            "endAt": 71217,
+            "text": "네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "b5d69399",
+            "startAt": 71531,
+            "endAt": 79112,
+            "text": "확인하고 그 수용 가능한 병원을 찾아봐야지 돼서 병원은 출동한 대원들하고 말씀을 하셔야지 돼요.",
+            "speaker": 0
+        },
+        {
+            "id": "35a9ab48",
+            "startAt": 79387,
+            "endAt": 82932,
+            "text": "아, 예, 예, 알겠습니다. 그러면은 이 앞에서 기다리고 있겠습니다, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "0ec5505d",
+            "startAt": 81746,
+            "endAt": 84071,
+            "text": "예, 맞는, 그러니까 환자분이 누구세요?",
+            "speaker": 0
+        },
+        {
+            "id": "e7ad1117",
+            "startAt": 84742,
+            "endAt": 86860,
+            "text": "환자, 저 저기 뭐 아는 형님입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "22dd4630",
+            "startAt": 87285,
+            "endAt": 88504,
+            "text": "남자분이세요?",
+            "speaker": 0
+        },
+        {
+            "id": "1596a922",
+            "startAt": 88528,
+            "endAt": 89789,
+            "text": "네, 네, 남자분입니다.",
+            "speaker": 1
+        },
+        {
+            "id": "4ecba26f",
+            "startAt": 88848,
+            "endAt": 91652,
+            "text": "지금 어떤, 그러니까 어떤 증상 있으시다고요?",
+            "speaker": 0
+        },
+        {
+            "id": "96db957b",
+            "startAt": 92106,
+            "endAt": 98548,
+            "text": "아, 지금 아까보다는 좀 그 으 겉으로 보기는 뭐 괜찮으신 거 같은데 목이 좀 뻐근하고.",
+            "speaker": 1
+        },
+        {
+            "id": "16d3a936",
+            "startAt": 98413,
+            "endAt": 99112,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_q6chftarono",
+            "startAt": 98938,
+            "endAt": 100810,
+            "text": "어, 그런.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_8tsd7t72so8",
+            "startAt": 99656,
+            "endAt": 102056,
+            "text": "어, 뇌출혈 의심 된다고 했다는 거죠?",
+            "speaker": 0
+        },
+        {
+            "id": "134ce56d",
+            "startAt": 101865,
+            "endAt": 106501,
+            "text": "아니요. 뇌출혈은 사진은 찍었습니다. CT는 다른 병원에서. 근데 뇌출혈.",
+            "speaker": 1
+        },
+        {
+            "id": "59ad42f6",
+            "startAt": 105140,
+            "endAt": 105654,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "f5f2cb39",
+            "startAt": 106616,
+            "endAt": 112230,
+            "text": "지금 뇌출혈이 왔고, 그, 어, 보이고 진행될지 모르니까 빨리 중환자실에 가라고 하셔서.",
+            "speaker": 1
+        },
+        {
+            "id": "f1def339",
+            "startAt": 112433,
+            "endAt": 115694,
+            "text": "예, 그러니까 뇌, 뇌출혈이 의심된다고 하셨다는 거잖아요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_umt1phln4t",
+            "startAt": 112447,
+            "endAt": 113938,
+            "text": "그런 분이 있으셔서.",
+            "speaker": 1
+        },
+        {
+            "id": "b3fb79fc",
+            "startAt": 115859,
+            "endAt": 119276,
+            "text": "아니요, 뇌출혈이라고 합니다, 뇌출혈이라고 합니다.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_qcmqtguue58",
+            "startAt": 115911,
+            "endAt": 116747,
+            "text": "최근에 코로.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_ngfu2d8gg28",
+            "startAt": 120656,
+            "endAt": 122183,
+            "text": "뇌출혈 의심된 게 아니고.",
+            "speaker": 1
+        },
+        {
+            "id": "6e23d52a",
+            "startAt": 123236,
+            "endAt": 126877,
+            "text": "최근에 코로나 관련해서 열 나시거나 호흡기 증상 있으셨어요?",
+            "speaker": 0
+        },
+        {
+            "id": "ffdac91f",
+            "startAt": 125895,
+            "endAt": 128194,
+            "text": "아니요, 없습니다. 그런 거 없습니다. 네.",
+            "speaker": 1
+        },
+        {
+            "id": "3f96743a",
+            "startAt": 127740,
+            "endAt": 130657,
+            "text": "저희 대원들 전화드릴 수 있으니까 전화 잘 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "a75c1962",
+            "startAt": 130815,
+            "endAt": 131862,
+            "text": "알겠습니다.",
+            "speaker": 1
+        },
+        {
+            "id": "2d465db1",
+            "startAt": 131776,
+            "endAt": 132342,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "0d6b1687",
+            "startAt": 132514,
+            "endAt": 132915,
+            "text": "네.",
+            "speaker": 1
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "M",
+    "address": "서울특별시 강동구 길동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증 외)",
+    "urgencyLevel": "상",
+    "sentiment": "당황/난처",
+    "symptom": [
+        "기타"
+    ],
+    "triage": "잠재응급증상"
+}

@@ -1,0 +1,219 @@
+{
+    "_id": "651e4be244870884abc4789a",
+    "audioPath": "20230925/Seoul/2022/20220506/converted_[20220506]-[WS1139976515].wav",
+    "recordId": "d7970549b405e9a59cdc",
+    "status": 12,
+    "startAt": 0,
+    "endAt": 55320,
+    "utterances": [
+        {
+            "id": "c27321f1",
+            "startAt": 754,
+            "endAt": 1836,
+            "text": "네, 119입니다.",
+            "speaker": 0
+        },
+        {
+            "id": "520159d9",
+            "startAt": 2212,
+            "endAt": 6415,
+            "text": "네, 안녕하세요. 여기 시립 중개 노인 전문요양원인데요.",
+            "speaker": 1
+        },
+        {
+            "id": "4a7e4ce0",
+            "startAt": 6653,
+            "endAt": 7293,
+            "text": "네.",
+            "speaker": 0
+        },
+        {
+            "id": "e0cf5f26",
+            "startAt": 7412,
+            "endAt": 8953,
+            "text": "저희 어르신이.",
+            "speaker": 1
+        },
+        {
+            "id": "d7312cf2",
+            "startAt": 9033,
+            "endAt": 9810,
+            "text": "네, 네.",
+            "speaker": 0
+        },
+        {
+            "id": "c289926c",
+            "startAt": 9894,
+            "endAt": 14155,
+            "text": "음 호흡이 가쁘시고 산소 포화도가 80까지 떨어졌어요.",
+            "speaker": 1
+        },
+        {
+            "id": "2548bc8b",
+            "startAt": 14253,
+            "endAt": 15581,
+            "text": "여자분이요, 남자분이에요?",
+            "speaker": 0
+        },
+        {
+            "id": "a7d6ca45",
+            "startAt": 15644,
+            "endAt": 17344,
+            "text": "남자, 남자.",
+            "speaker": 1
+        },
+        {
+            "id": "ab940d73",
+            "startAt": 16435,
+            "endAt": 18830,
+            "text": "남자 어르신? 의식은 있어요?",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_kcg3j4nvl2o",
+            "startAt": 17925,
+            "endAt": 18498,
+            "text": "예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "6b34ce5e",
+            "startAt": 19246,
+            "endAt": 24297,
+            "text": "의식은 평상시보다 좀 떨어졌어요. 약간 들오지. 예, 예.",
+            "speaker": 1
+        },
+        {
+            "id": "8f023177",
+            "startAt": 25118,
+            "endAt": 27506,
+            "text": "그니까 지금 심정지 상황은 아닌 거죠? 선생님 예.",
+            "speaker": 0
+        },
+        {
+            "id": "d7ecc380",
+            "startAt": 27610,
+            "endAt": 31099,
+            "text": "예 심장질환은 아니 예, 예. 자리가 남아.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_cvqbb6ddot8",
+            "startAt": 28247,
+            "endAt": 28902,
+            "text": "아.",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_os166kf9moo",
+            "startAt": 30127,
+            "endAt": 31418,
+            "text": "시립중개",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_qko95qsc538",
+            "startAt": 32369,
+            "endAt": 32559,
+            "text": "노",
+            "speaker": 0
+        },
+        {
+            "id": "wavesurfer_1baunhhcbq8",
+            "startAt": 32525,
+            "endAt": 33307,
+            "text": "[개인정보]",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_tg4v0uf6im",
+            "startAt": 33645,
+            "endAt": 35726,
+            "text": "같은 요양원, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_0n540bvhe5o",
+            "startAt": 34141,
+            "endAt": 34932,
+            "text": "[개인정보]",
+            "speaker": 0
+        },
+        {
+            "id": "2a2a0f0d",
+            "startAt": 36694,
+            "endAt": 38801,
+            "text": "알겠어요. 환자분, 최근에 코로나 관련 예 예.",
+            "speaker": 0
+        },
+        {
+            "id": "46597462",
+            "startAt": 39113,
+            "endAt": 41905,
+            "text": "코로나 관련. 음.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vkdj5k1i5q",
+            "startAt": 41367,
+            "endAt": 43213,
+            "text": "증상은 없으셨던 거구요?",
+            "speaker": 0
+        },
+        {
+            "id": "63d67436",
+            "startAt": 42541,
+            "endAt": 44254,
+            "text": "네, 네, 네, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_vid04j1e6ao",
+            "startAt": 44185,
+            "endAt": 47085,
+            "text": "음, 옆에가.",
+            "speaker": 0
+        },
+        {
+            "id": "b5ee9704",
+            "startAt": 47319,
+            "endAt": 51886,
+            "text": "구급차 출동했고요. 대원들 전화드릴 수 있으니까 전화 좀 받아주세요.",
+            "speaker": 0
+        },
+        {
+            "id": "af0f5d23",
+            "startAt": 48947,
+            "endAt": 49492,
+            "text": "네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_s4gqst2r188",
+            "startAt": 51448,
+            "endAt": 52957,
+            "text": "예, 예, 예, 네.",
+            "speaker": 1
+        },
+        {
+            "id": "wavesurfer_02bboeiq7n",
+            "startAt": 52366,
+            "endAt": 53020,
+            "text": "네.",
+            "speaker": 0
+        }
+    ],
+    "mediaType": "Mobile",
+    "gender": "F",
+    "address": "서울특별시 노원구 중계동",
+    "disasterLarge": "구급",
+    "disasterMedium": "질병(중증)",
+    "urgencyLevel": "상",
+    "sentiment": "중립",
+    "symptom": [
+        "호흡곤란",
+        "전신쇠약",
+        "기침"
+    ],
+    "triage": "응급증상"
+}
