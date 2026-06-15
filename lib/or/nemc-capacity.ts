@@ -1,5 +1,10 @@
 import { XMLParser } from "fast-xml-parser";
 import type { HospitalCapacity } from "./types";
+import { mapWithConcurrency } from "./concurrency";
+
+// Bounded parallelism for per-district NEMC calls. Kept modest so we never
+// hammer the data.go.kr endpoint hard enough to trip its rate limiting.
+export const NEMC_DISTRICT_CONCURRENCY = 6;
 
 export const NEMC_CAPACITY_ENDPOINT =
   "https://apis.data.go.kr/B552657/ErmctInfoInqireService/getEmrrmRltmUsefulSckbdInfoInqire";
@@ -211,17 +216,27 @@ export async function refreshSeoulCapacity({
   serviceKey,
   districts,
   activeHospitalIds,
+  concurrency = NEMC_DISTRICT_CONCURRENCY,
 }: {
   serviceKey: string;
   districts: string[];
   activeHospitalIds: Set<string>;
+  concurrency?: number;
 }) {
   const fetchedAt = new Date().toISOString();
+
+  // Fetch districts in a bounded-parallel pool instead of one-at-a-time. The
+  // pool preserves input order, so the fetch log and dedup stay deterministic
+  // and identical to the previous serial behaviour.
+  const fetched = await mapWithConcurrency(districts, concurrency, async (district) => {
+    const { parsed } = await fetchCapacityDistrict({ serviceKey, district });
+    return { district, parsed };
+  });
+
   const rows: HospitalCapacity[] = [];
   const fetchLog = [];
 
-  for (const district of districts) {
-    const { parsed } = await fetchCapacityDistrict({ serviceKey, district });
+  for (const { district, parsed } of fetched) {
     fetchLog.push({
       requested_stage1: "서울특별시",
       requested_district: district,

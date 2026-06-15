@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-06-01T11:40:47.202Z",
+  "finishedAt": "2026-06-01T11:46:51.312Z",
+  "nodes": 124,
+  "hospitals": 51,
+  "pairs": 6324,
+  "failures": 99,
+  "ambulanceFactor": 0.8,
+  "gridKm": 2.5,
+  "minutes": {
+    "min": 1.21,
+    "p50": 23.97,
+    "p90": 34.32,
+    "max": 50.71
+  }
+}

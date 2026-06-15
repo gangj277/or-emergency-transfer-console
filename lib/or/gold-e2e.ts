@@ -1,5 +1,6 @@
 import type { OrParameters } from "./types";
 import { TIME_SOFT_FLAG, type RankedHospital } from "./recommendation";
+import { clampWorkerCount, mapWithConcurrency } from "./concurrency";
 
 export const GOLD_LOCATION_SET_VERSION = "seoul_balanced_v1" as const;
 
@@ -286,34 +287,18 @@ export function buildGoldE2eSummary(rows: GoldE2eCaseMetric[]) {
 export const GOLD_E2E_MAX_WORKERS = 20;
 
 export function clampGoldE2eWorkerCount(value: number | null | undefined, maxWorkers = GOLD_E2E_MAX_WORKERS) {
-  if (!Number.isFinite(value)) return 1;
-  return Math.min(maxWorkers, Math.max(1, Math.floor(Number(value))));
+  return clampWorkerCount(value, maxWorkers);
 }
 
-export async function runWithConcurrency<T, R>(
+// Thin wrapper over the shared bounded-concurrency pool (lib/or/concurrency.ts),
+// keeping the gold-E2E worker clamp (<= GOLD_E2E_MAX_WORKERS) and call signature.
+export function runWithConcurrency<T, R>(
   items: T[],
   workerCount: number,
   runItem: (item: T, index: number, workerId: number) => Promise<R>,
   onSettled?: (result: R, index: number) => void | Promise<void>,
-) {
-  const boundedWorkerCount = Math.min(items.length, clampGoldE2eWorkerCount(workerCount));
-  const results = new Array<R>(items.length);
-  let cursor = 0;
-
-  async function runWorker(workerId: number) {
-    while (true) {
-      const index = cursor;
-      cursor += 1;
-      if (index >= items.length) return;
-
-      const result = await runItem(items[index], index, workerId);
-      results[index] = result;
-      await onSettled?.(result, index);
-    }
-  }
-
-  await Promise.all(Array.from({ length: boundedWorkerCount }, (_, index) => runWorker(index + 1)));
-  return results;
+): Promise<R[]> {
+  return mapWithConcurrency(items, clampGoldE2eWorkerCount(workerCount), runItem, onSettled);
 }
 
 function roundRobinByCategory(cases: GoldCase[]) {

@@ -4,6 +4,7 @@ import path from "node:path";
 import { OR_UTILITY_V3_CONFIG } from "../lib/or/cost-config";
 import { loadHospitalData } from "../lib/or/data";
 import { rankHospitals, rankHospitalsV2, type RankedHospital } from "../lib/or/recommendation";
+import { buildTravelTimes } from "../lib/or/travel-matrix";
 import type { LocationPoint, OrParameters } from "../lib/or/types";
 
 // Deterministic OR evaluation for normalized_utility_v3.
@@ -183,16 +184,18 @@ function main() {
 
 function runScenario(caseDef: ScenarioCase, location: ScenarioLocation): ScenarioResult {
   const data = loadHospitalData();
+  const travelTimes = buildTravelTimes(location, data.primaryCandidates);
   const ranking = rankHospitals({
     candidates: data.primaryCandidates,
     incidentLocation: location,
     orParameters: caseDef.params,
     limit: data.primaryCandidates.length,
+    travelTimes,
   }).rankings;
   const feasible = ranking.filter((item) => item.feasible);
   const top3 = ranking.slice(0, 3);
 
-  const v2 = rankHospitalsV2({ candidates: data.primaryCandidates, incidentLocation: location, orParameters: caseDef.params });
+  const v2 = rankHospitalsV2({ candidates: data.primaryCandidates, incidentLocation: location, orParameters: caseDef.params, travelTimes });
   const v2TopFeasible = v2.find((item) => item.feasible) ?? null;
 
   return {
@@ -327,7 +330,8 @@ function allTop1Ids(): (string | null)[] {
   const data = loadHospitalData();
   return cases.flatMap((caseDef) =>
     locations.map((location) => {
-      const ranking = rankHospitals({ candidates: data.primaryCandidates, incidentLocation: location, orParameters: caseDef.params, limit: 1 }).rankings;
+      const travelTimes = buildTravelTimes(location, data.primaryCandidates);
+      const ranking = rankHospitals({ candidates: data.primaryCandidates, incidentLocation: location, orParameters: caseDef.params, limit: 1, travelTimes }).rankings;
       const top = ranking[0];
       return top && top.feasible ? top.hospital.hospital.hospital_id : null;
     }),
@@ -350,11 +354,13 @@ function runTransportSensitivity() {
     const data = loadHospitalData();
     const results = cases.flatMap((caseDef) =>
       locations.map((location) => {
+        const travelTimes = buildTravelTimes(location, data.primaryCandidates);
         const ranking = rankHospitals({
           candidates: data.primaryCandidates,
           incidentLocation: location,
           orParameters: { ...caseDef.params, max_transport_time_min: maxTransport },
           limit: data.primaryCandidates.length,
+          travelTimes,
         }).rankings;
         const feasible = ranking.filter((item) => item.feasible);
         return { feasibleCount: feasible.length, top: feasible[0] ?? null };
@@ -386,7 +392,8 @@ function runCapacityOutageSimulation(baseResults: ScenarioResult[]) {
         if (candidate.hospital.hospital_id !== topHospitalId || !candidate.capacity) return candidate;
         return { ...candidate, capacity: { ...candidate.capacity, available_er_beds: 0 } };
       });
-      const reranked = rankHospitals({ candidates, incidentLocation: location, orParameters: caseDef.params, limit: candidates.length }).rankings;
+      const travelTimes = buildTravelTimes(location, candidates);
+      const reranked = rankHospitals({ candidates, incidentLocation: location, orParameters: caseDef.params, limit: candidates.length, travelTimes }).rankings;
       const nextTop = reranked.find((ranked) => ranked.feasible);
       return {
         scenarioId: item.scenarioId,

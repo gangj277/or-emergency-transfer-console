@@ -1,4 +1,5 @@
 import { OR_COST_CONFIG, OR_UTILITY_V3_CONFIG } from "./cost-config";
+import type { TravelEstimate } from "./travel-matrix";
 import type {
   Department,
   HospitalCandidate,
@@ -8,6 +9,10 @@ import type {
   OrParameters,
   Resource,
 } from "./types";
+
+// Precomputed travel times keyed by hospital_id (from the Kakao road-time matrix).
+// When absent for a hospital, scoring falls back to estimateSeoulAmbulanceTravel.
+export type TravelTimes = Map<string, TravelEstimate>;
 
 const levelRank: Record<HospitalLevel, number> = {
   emergency_institution_ok: 1,
@@ -92,14 +97,16 @@ export function rankHospitals({
   incidentLocation,
   orParameters,
   limit = 10,
+  travelTimes,
 }: {
   candidates: HospitalCandidate[];
   incidentLocation: LocationPoint;
   orParameters: OrParameters;
   limit?: number;
+  travelTimes?: TravelTimes;
 }) {
   const scored = candidates
-    .map((candidate) => scoreCandidate(candidate, incidentLocation, orParameters))
+    .map((candidate) => scoreCandidate(candidate, incidentLocation, orParameters, travelTimes))
     .sort(compareRanked);
   const strictFeasibleCount = scored.filter((item) => item.feasible).length;
   const constraintDiagnostics = buildConstraintDiagnostics(scored);
@@ -191,12 +198,14 @@ function scoreCandidate(
   candidate: HospitalCandidate,
   incidentLocation: LocationPoint,
   params: OrParameters,
+  travelTimes?: TravelTimes,
 ): Omit<RankedHospital, "rank"> {
-  const distanceKm = haversineKm(incidentLocation, { lat: candidate.hospital.lat, lon: candidate.hospital.lon });
-  const travelEstimate = estimateSeoulAmbulanceTravel(incidentLocation, {
-    lat: candidate.hospital.lat,
-    lon: candidate.hospital.lon,
-  });
+  const dest = { lat: candidate.hospital.lat, lon: candidate.hospital.lon };
+  const distanceKm = haversineKm(incidentLocation, dest);
+  // Real Kakao road-time from the precomputed matrix when available; otherwise the
+  // haversine heuristic (synthetic test coords / pre-build / off-matrix hospitals).
+  const travelEstimate =
+    travelTimes?.get(candidate.hospital.hospital_id) ?? estimateSeoulAmbulanceTravel(incidentLocation, dest);
   const estimatedTravelTimeMin = travelEstimate.minutes;
   const timeSlackMin = params.max_transport_time_min - estimatedTravelTimeMin;
 
@@ -602,8 +611,10 @@ function isSeoulCore(point: LocationPoint) {
 // Legacy v2 cost scorer — RETAINED ONLY as an evaluation baseline so
 // scripts/evaluate-or-model.ts can report the v2→v3 ranking diff. Not used by the
 // app. Returns just the scalar total cost (lower = better) + feasibility.
-export function scoreCandidateV2(candidate: HospitalCandidate, incidentLocation: LocationPoint, params: OrParameters) {
-  const travel = estimateSeoulAmbulanceTravel(incidentLocation, { lat: candidate.hospital.lat, lon: candidate.hospital.lon });
+export function scoreCandidateV2(candidate: HospitalCandidate, incidentLocation: LocationPoint, params: OrParameters, travelTimes?: TravelTimes) {
+  const travel =
+    travelTimes?.get(candidate.hospital.hospital_id) ??
+    estimateSeoulAmbulanceTravel(incidentLocation, { lat: candidate.hospital.lat, lon: candidate.hospital.lon });
   const estimatedTravelTimeMin = travel.minutes;
   const u = OR_COST_CONFIG.urgency;
   const urgencyWeight =
@@ -635,13 +646,15 @@ export function rankHospitalsV2({
   candidates,
   incidentLocation,
   orParameters,
+  travelTimes,
 }: {
   candidates: HospitalCandidate[];
   incidentLocation: LocationPoint;
   orParameters: OrParameters;
+  travelTimes?: TravelTimes;
 }) {
   return candidates
-    .map((candidate) => scoreCandidateV2(candidate, incidentLocation, orParameters))
+    .map((candidate) => scoreCandidateV2(candidate, incidentLocation, orParameters, travelTimes))
     .sort((a, b) => a.totalCost - b.totalCost);
 }
 

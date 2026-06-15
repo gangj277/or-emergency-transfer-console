@@ -116,3 +116,10 @@ export const OR_UTILITY_V3_CONFIG = {
     levelPerTier: 0.2,
   },
 } as const;
+
+// Ambulance correction applied to Kakao *car* travel time when building the
+// precomputed road-time matrix (scripts/build-travel-matrix.ts). Ambulances move
+// faster than general traffic (priority + sirens), so car time is scaled down.
+// Hand-set prior — no ambulance-trajectory data to calibrate it — kept as one
+// labeled constant, tunable once real EMS transit data exists.
+export const AMBULANCE_SPEED_FACTOR = 0.8;

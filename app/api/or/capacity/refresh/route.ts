@@ -1,6 +1,6 @@
 import { apiError, ok } from "@/lib/or/api";
+import { getSeoulCapacity } from "@/lib/or/capacity-cache";
 import { loadHospitalData } from "@/lib/or/data";
-import { refreshSeoulCapacity } from "@/lib/or/nemc-capacity";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -21,10 +21,14 @@ export async function POST(request: Request) {
     const requestedDistricts = new Set(districts);
     const scopedHospitals = data.hospitals.filter((hospital) => requestedDistricts.has(hospital.district));
 
-    const refreshed = await refreshSeoulCapacity({
+    // Explicit "refresh now": bypass the TTL cache and fetch every requested
+    // district live. This also warms the shared cache, so the next ranking is
+    // instant rather than paying a fresh fetch.
+    const refreshed = await getSeoulCapacity({
       serviceKey,
       districts,
       activeHospitalIds,
+      forceRefresh: true,
     });
     const liveIds = new Set(refreshed.rows.map((row) => row.hospital_id));
     const activeRows = refreshed.rows.filter((row) => row.active_in_hospital_master);

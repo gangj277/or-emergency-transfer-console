@@ -16,6 +16,7 @@ import {
 } from "../lib/or/gold-e2e";
 import { runTwoStagePipeline } from "../lib/or/pipeline";
 import { rankHospitals, TIME_SOFT_FLAG } from "../lib/or/recommendation";
+import { buildTravelTimes } from "../lib/or/travel-matrix";
 import type { HospitalCandidate, OrParameters, TranscriptCase } from "../lib/or/types";
 
 type CaseRunResult = GoldE2eCaseMetric & {
@@ -130,6 +131,7 @@ async function runCase(goldCase: GoldCaseWithSyntheticLocation, candidates: Hosp
       incidentLocation: goldCase.synthetic_location,
       orParameters: params,
       limit: candidates.length,
+      travelTimes: buildTravelTimes(goldCase.synthetic_location, candidates),
     });
     const top1 = ranking.rankings.find((item) => item.feasible) ?? null;
     const nearest = chooseNearestFeasible(ranking.rankings);

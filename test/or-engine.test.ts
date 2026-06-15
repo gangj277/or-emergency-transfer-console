@@ -7,7 +7,9 @@ import {
   buildCapacityUrl,
   parseCapacityXml,
 } from "../lib/or/nemc-capacity";
+import { fetchDirections, parseDirections } from "../lib/or/kakao";
 import { rankHospitals } from "../lib/or/recommendation";
+import { buildTravelTimes, travelMatrixLoaded } from "../lib/or/travel-matrix";
 import type { Department, HospitalCandidate, HospitalLevel, OrParameters } from "../lib/or/types";
 
 test("loadHospitalData exposes static active candidates and live-capacity primary candidates", () => {
@@ -322,6 +324,76 @@ test("buildCapacityUrl returns a URL object to avoid NEMC 403 behavior on encode
   assert.ok(url instanceof URL);
   assert.equal(url.searchParams.get("STAGE1"), "서울특별시");
   assert.equal(url.searchParams.get("STAGE2"), "강동구");
+});
+
+test("rankHospitals honors a provided travelTimes map over the haversine estimate", () => {
+  // Two candidates whose haversine times would order them NEAR-then-FAR; the injected
+  // matrix flips the travel times so the geographically-far hospital is now faster.
+  const near = makeCandidate({ id: "NEAR", beds: 8, lon: 126.978 });
+  const far = makeCandidate({ id: "FAR", beds: 8, lon: 127.12 });
+  const travelTimes = new Map([
+    ["NEAR", { minutes: 25, routeDistanceKm: 14 }],
+    ["FAR", { minutes: 6, routeDistanceKm: 4 }],
+  ]);
+
+  const result = rankHospitals({
+    candidates: [near, far],
+    incidentLocation: { lat: 37.5665, lon: 126.978 },
+    orParameters: baseParams(),
+    travelTimes,
+    limit: 2,
+  });
+
+  const byId = Object.fromEntries(result.rankings.map((r) => [r.hospital.hospital.hospital_id, r]));
+  // travel time comes from the map, not the coordinates
+  assert.equal(byId.NEAR.estimatedTravelTimeMin, 25);
+  assert.equal(byId.FAR.estimatedTravelTimeMin, 6);
+  // u_time is higher for the (matrix-)faster FAR hospital, so it wins
+  assert.ok(byId.FAR.utilities.time > byId.NEAR.utilities.time);
+  assert.equal(result.rankings[0].hospital.hospital.hospital_id, "FAR");
+});
+
+test("parseDirections extracts ambulance-relevant fields and rejects failures", () => {
+  const ok = parseDirections({ routes: [{ result_code: 0, summary: { distance: 10352, duration: 1817 } }] });
+  assert.equal(ok.routeDistanceKm, 10.352);
+  assert.ok(Math.abs(ok.durationMin - 1817 / 60) < 1e-6);
+  assert.throws(() => parseDirections({ routes: [{ result_code: 104, result_msg: "too close" }] }));
+  assert.throws(() => parseDirections({ routes: [] }));
+});
+
+test("fetchDirections calls Kakao with a KakaoAK header and parses the response (injected fetch)", async () => {
+  let seenAuth = "";
+  let seenUrl = "";
+  const fakeFetch = (async (url: URL | string, init?: RequestInit) => {
+    seenUrl = String(url);
+    seenAuth = String((init?.headers as Record<string, string>)?.Authorization ?? "");
+    return new Response(JSON.stringify({ routes: [{ result_code: 0, summary: { distance: 5000, duration: 600 } }] }), { status: 200 });
+  }) as typeof fetch;
+
+  const dir = await fetchDirections({ lat: 37.5665, lon: 126.978 }, { lat: 37.4979, lon: 127.0276 }, {
+    serviceKey: "test-key",
+    fetchImpl: fakeFetch,
+  });
+
+  assert.equal(seenAuth, "KakaoAK test-key");
+  assert.ok(seenUrl.includes("origin=126.978%2C37.5665") || seenUrl.includes("origin=126.978,37.5665"));
+  assert.equal(dir.routeDistanceKm, 5);
+  assert.equal(dir.durationMin, 10);
+});
+
+test("buildTravelTimes returns real per-hospital road-times when the matrix is built", () => {
+  const data = loadHospitalData();
+  const tt = buildTravelTimes({ lat: 37.5665, lon: 126.978 }, data.primaryCandidates); // 서울시청 (a seed node)
+  if (!travelMatrixLoaded()) {
+    // pre-build: graceful empty map (haversine fallback path)
+    assert.equal(tt.size, 0);
+    return;
+  }
+  assert.ok(tt.size > 0);
+  for (const est of tt.values()) {
+    assert.ok(Number.isFinite(est.minutes) && est.minutes > 0);
+    assert.ok(Number.isFinite(est.routeDistanceKm) && est.routeDistanceKm >= 0);
+  }
 });
 
 function unit(value: number) {

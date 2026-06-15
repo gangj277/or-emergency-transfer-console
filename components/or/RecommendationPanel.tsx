@@ -208,7 +208,7 @@ function RankOneCard({ item }: { item: RankedHospital }) {
       </header>
 
       <div className="grid grid-cols-2 gap-3 md:grid-cols-4">
-        <KPI label="Est. travel" value={fmtMin(item.estimatedTravelTimeMin)} hint="haversine estimate" />
+        <KPI label="Est. travel" value={fmtMin(item.estimatedTravelTimeMin)} hint="Kakao 경로 기반 (road-time)" />
         <KPI label="Distance" value={fmtKm(item.distanceKm)} hint="straight line" />
         <KPI
           label="Time slack"
