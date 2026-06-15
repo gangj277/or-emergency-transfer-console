@@ -42,3 +42,11 @@ next-env.d.ts
 
 # ralph-loop internal state
 /.ralph
+
+# archives / submission bundles (keep local, never upload)
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
